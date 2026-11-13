@@ -1,0 +1,65 @@
+{
+  "_comment": "Maps other spellings of a venue to one venueKey and name, so sources merge. Keys are slugs from Get-VenueKey. See docs/schema.md.",
+  "aliases": {
+    "boulder-museum-of-contemporary-art": {
+      "key": "bmoca",
+      "name": "BMoCA"
+    },
+    "boulder-public-library-main-library": {
+      "key": "boulder-public-library",
+      "name": "Boulder Public Library"
+    },
+    "boulder-theatre": {
+      "key": "boulder-theater",
+      "name": "Boulder Theater"
+    },
+    "colorado-chautauqua-auditorium": {
+      "key": "chautauqua-auditorium",
+      "name": "Chautauqua Auditorium"
+    },
+    "coors-events-center": {
+      "key": "cu-events-center",
+      "name": "CU Events Center"
+    },
+    "cu-event-center": {
+      "key": "cu-events-center",
+      "name": "CU Events Center"
+    },
+    "e-town-hall": {
+      "key": "etown-hall",
+      "name": "eTown Hall"
+    },
+    "fox-theater": {
+      "key": "fox-theatre",
+      "name": "Fox Theatre"
+    },
+    "fox-theatre-boulder": {
+      "key": "fox-theatre",
+      "name": "Fox Theatre"
+    },
+    "macky-auditorium-concert-hall": {
+      "key": "macky-auditorium",
+      "name": "Macky Auditorium"
+    },
+    "the-boulder-theater": {
+      "key": "boulder-theater",
+      "name": "Boulder Theater"
+    },
+    "the-dairy-arts-center": {
+      "key": "dairy-arts-center",
+      "name": "Dairy Arts Center"
+    },
+    "the-dairy-center-for-the-arts": {
+      "key": "dairy-arts-center",
+      "name": "Dairy Arts Center"
+    },
+    "the-fox-theatre": {
+      "key": "fox-theatre",
+      "name": "Fox Theatre"
+    },
+    "umc": {
+      "key": "university-memorial-center",
+      "name": "University Memorial Center"
+    }
+  }
+}

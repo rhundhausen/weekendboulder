@@ -1,0 +1,9 @@
+{
+  "_comment": "Display-only shortening for the event grid, so rows fit on one line. Stored data keeps the full names, and search matches both. Each pair is [long, short], matched as whole words ignoring case, applied in order to titles and venues.",
+  "phrases": [
+    ["University of Colorado Boulder", "CU Boulder"],
+    ["University of Colorado", "CU"],
+    ["Colorado Chautauqua Auditorium", "Chautauqua Auditorium"],
+    ["Various Boulder County locations", "Various locations"]
+  ]
+}

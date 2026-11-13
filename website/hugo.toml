@@ -1,0 +1,33 @@
+baseURL = '/'
+locale = 'en-us'
+title = 'WeekendBoulder'
+disableKinds = ['taxonomy', 'term', 'rss', 'sitemap']
+
+# Events come from the repo-level data/ folder, so ingestion never writes into this tree.
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'data'
+    target = 'data'
+  # Favicons and the web manifest, served as-is from the site root.
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+  [[module.mounts]]
+    source = '../data'
+    target = 'data'
+    # The raw file is ingest's input for refine, and city-lookup.json is refine's memory of the
+    # pages it read; the site reads neither.
+    files = ['! raw-events.json', '! city-lookup.json']
+  # The source list, for the sources page and the header count.
+  [[module.mounts]]
+    source = '../ingestion/sources.json'
+    target = 'data/sources.json'

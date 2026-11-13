@@ -1,0 +1,21 @@
+{
+  "_comment": "Source entries the EventbriteSearch.Tests.ps1 tests read by name. Test data only: these are not running sources.",
+  "sources": [
+    {
+      "name": "eventbrite-lyons",
+      "displayName": "Eventbrite (Lyons area)",
+      "status": "running",
+      "local": true,
+      "adapter": "eventbrite-search",
+      "url": "https://www.eventbrite.com/d/co--lyons/events/",
+      "robotsChecked": "2026-11-05",
+      "category": "community-civic",
+      "inferCategory": true,
+      "city": "Other",
+      "venue": "Various Boulder County locations",
+      "venueKey": "various-boulder-county",
+      "priority": 70,
+      "notes": "Eventbrite's browse page for Lyons. robots.txt does not disallow /d/ or /e/ pages (checked 2026-11-05). The page's window.__SERVER_DATA__ has buckets[].events[] with start and end in America/Denver, and each event's own page has schema.org offers with the price. On 2026-11-05 it listed 16 events: 8 online with no address, and 8 around the county (Longmont, Niwot, Lafayette, Louisville, Broomfield, Boulder), none in Lyons itself. No second page. Each kept event's page is read once a run for its price. Configured 2026-11-05. Terms not read 2026-11-10: HTTP 405 from GitHub's servers every night (never fetched there); loads from a home connection (200), so it is local."
+    }
+  ]
+}

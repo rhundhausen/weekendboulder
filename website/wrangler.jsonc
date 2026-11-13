@@ -1,0 +1,25 @@
+{
+  "name": "weekendboulder",
+  "compatibility_date": "2026-11-05",
+  "build": {
+    "command": "chmod +x build.sh && ./build.sh"
+  },
+  // The Worker handles only /api/* (the visitor log); every other request is a static file.
+  "main": "worker/index.js",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*"]
+  },
+  // Deletes visitor log rows older than 90 days, once a day at 10:00 UTC.
+  "triggers": {
+    "crons": ["0 10 * * *"]
+  },
+  // The visitor log's database (see website/README.md, "Visitor log"). Create it with
+  // `npx wrangler d1 create weekendboulder-log` and put its id here; until then deploys fail
+  // rather than writing to another site's database.
+  "d1_databases": [
+    { "binding": "LOG_DB", "database_name": "weekendboulder-log", "database_id": "REPLACE-WITH-WEEKENDBOULDER-LOG-DATABASE-ID" }
+  ]
+}

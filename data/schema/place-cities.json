@@ -1,0 +1,31 @@
+{
+  "_comment": "Landmarks and businesses that pin an event to one city when its source gives no city. Matched as whole phrases, ignoring case, in the venue, title, and description of events stored as Other. ignore lists names that contain a city but are not places in it. See Get-WbCityClue in ingestion/scripts/lib/Cities.ps1.",
+  "places": {
+    "Bohn Park": "Lyons",
+    "Carousel of Happiness": "Nederland",
+    "Chautauqua Park": "Boulder",
+    "Colorado Chautauqua": "Boulder",
+    "CU Events Center": "Boulder",
+    "Dairy Arts Center": "Boulder",
+    "Dickens Opera House": "Longmont",
+    "eTown Hall": "Boulder",
+    "Folsom Field": "Boulder",
+    "Macky Auditorium": "Boulder",
+    "Mamie Doud Eisenhower Public Library": "Broomfield",
+    "Pearl Street Mall": "Boulder",
+    "Planet Bluegrass": "Lyons",
+    "Rayback Collective": "Boulder",
+    "Sandstone Ranch": "Longmont",
+    "Steinbaugh Pavilion": "Louisville",
+    "Twenty Ninth Street": "Boulder",
+    "Union Reservoir": "Longmont",
+    "Valmont Bike Park": "Boulder",
+    "Waneka Lake": "Lafayette"
+  },
+  "ignore": [
+    "Boulder Canyon",
+    "Boulder County",
+    "Boulder Valley",
+    "Boulder Weekly"
+  ]
+}

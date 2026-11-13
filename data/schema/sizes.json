@@ -1,0 +1,97 @@
+{
+  "_comment": "Estimated crowd size. These are guesses: venue values are the usual crowd from approximate capacities, not counts. See docs/schema.md.",
+  "levels": [
+    {
+      "id": "S",
+      "label": "Small",
+      "description": "Under 100 people"
+    },
+    {
+      "id": "M",
+      "label": "Medium",
+      "description": "100 to 999 people"
+    },
+    {
+      "id": "L",
+      "label": "Large",
+      "description": "1,000 to 4,999 people"
+    },
+    {
+      "id": "XL",
+      "label": "Extra Large",
+      "description": "5,000 or more people"
+    }
+  ],
+  "smallTags": [
+    "board-games",
+    "cooking-class",
+    "library-program",
+    "meetup",
+    "tour",
+    "workshop"
+  ],
+  "venues": {
+    "balch-fieldhouse": "L",
+    "bmoca": "S",
+    "boulder-bookstore": "S",
+    "boulder-county-fairgrounds": "L",
+    "boulder-public-library": "S",
+    "boulder-reservoir": "L",
+    "boulder-theater": "M",
+    "broomfield-auditorium": "M",
+    "carousel-of-happiness": "S",
+    "chautauqua-auditorium": "L",
+    "cu-events-center": "XL",
+    "dairy-arts-center": "M",
+    "dickens-opera-house": "M",
+    "erie-community-library": "S",
+    "etown-hall": "M",
+    "folsom-field": "XL",
+    "fox-theatre": "M",
+    "lafayette-public-library": "S",
+    "longmont-museum": "S",
+    "longmont-public-library": "S",
+    "louisville-public-library": "S",
+    "macky-auditorium": "L",
+    "mamie-doud-eisenhower-public-library": "S",
+    "museum-of-boulder": "S",
+    "pearl-street-mall": "M",
+    "planet-bluegrass": "L",
+    "rayback-collective": "M",
+    "university-memorial-center": "M",
+    "valmont-bike-park": "M"
+  },
+  "tags": {
+    "air-show": "XL",
+    "car-show": "L",
+    "college-sports": "M",
+    "concert": "M",
+    "fair": "XL",
+    "festival": "L",
+    "fireworks": "L",
+    "hockey": "L",
+    "holiday-market": "M",
+    "makers-market": "M",
+    "motorsports": "L",
+    "new-years": "L",
+    "parade": "L",
+    "race": "L",
+    "rodeo": "L",
+    "tree-lighting": "L"
+  },
+  "categories": {
+    "arts-culture": "S",
+    "auctions-estate-sales": "M",
+    "community-civic": "S",
+    "festivals": "L",
+    "food-drink": "S",
+    "holiday-seasonal": "M",
+    "learning-business": "S",
+    "markets-shopping": "M",
+    "music": "M",
+    "nightlife-social": "S",
+    "outdoors-recreation": "S",
+    "performing-arts": "M",
+    "sports": "M"
+  }
+}

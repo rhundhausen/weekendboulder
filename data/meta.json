@@ -1,0 +1,6 @@
+{
+  "costTierBreakpoints": {
+    "low": 15,
+    "high": 40
+  }
+}

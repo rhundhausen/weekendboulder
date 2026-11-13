@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChamberMaster//Event Calendar 2.0//EN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:P3D
+REFRESH-INTERVAL:P3D
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Cupcake Wars @ Lyons Regional Library
+DESCRIPTION:Lyons Regional Library Fall Fundraiser\n\nJunior Bake Off November 7\, Adult Bake Off November 14
+X-ALT-DESC;FMTTYPE=text/html:Lyons Regional Library Fall Fundraiser<br />\nJunior Bake Off November 7\, Adult Bake Off November 14<post-formatter-paywall-host></post-formatter-paywall-host>
+LOCATION:Lyons Regional Library 451 4th Ave Lyons\, CO 80540
+UID:e.1196.17178
+SEQUENCE:3
+DTSTAMP:20261106T033044Z
+URL:https://business.lyonschamber.org/events/details/cupcake-wars-lyons-regional-library-17178
+END:VEVENT
+
+END:VCALENDAR
