@@ -1,0 +1,3427 @@
+[
+  {
+    "id": "21a3a2bb047d",
+    "title": "Friends Book Sale",
+    "start": "2026-10-13T10:00:00-06:00",
+    "end": "2026-10-13T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "markets-shopping",
+    "tags": [
+      "plant-sale"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+    "description": "Support literacy and the Library at The Friends of the Lafayette Public Library Foundation book sale, held during Library hours. The sale will include books of all genres, DVDs, gently used puzzles, children's games and small gift items such as candles, notecards, and soaps. If you would like to...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "01ffb7658f09",
+    "title": "Baby Storytime",
+    "start": "2026-10-13T10:30:00-06:00",
+    "end": "2026-10-13T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b68396c6374f",
+    "title": "Wild Bear Storytime",
+    "start": "2026-10-13T10:30:00-06:00",
+    "end": "2026-10-13T12:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15917164",
+    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15917164",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d63e0f2c04a7",
+    "title": "Bookmobile: Erie",
+    "start": "2026-10-13T13:30:00-06:00",
+    "end": "2026-10-13T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17497584",
+    "description": "Bookmobile stop: open to the public for checkout, returns, computer use, printing service, and other library services.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17497584",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5374b105a461",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-13T15:30:00-06:00",
+    "end": "2026-10-13T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "41579f938102",
+    "title": "Science Explorers! K-2",
+    "start": "2026-10-13T16:15:00-06:00",
+    "end": "2026-10-13T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/sciexplk2",
+    "description": "Come explore science with fun activities and hands-on experiments! Each program will teach a different concept. This is geared towards children in kindergarten through second grade. Parents are welcome to stay, or drop off their child but remain in the building. Please register for each date indi...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/sciexplk2",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2168327daf23",
+    "title": "Fall Spanish Buddies - Register",
+    "start": "2026-10-13T16:45:00-06:00",
+    "end": "2026-10-13T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games in Spanish with our teen volunteers! Your parent or guardian must be present at the Library during each session. No Spanish experience necessary! Registration required. This registration commits your child to all sessions (Tuesdays: Sept. 29...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3e8ee5b4ae92",
+    "title": "Friends of the Library Meeting",
+    "start": "2026-10-13T17:00:00-06:00",
+    "end": "2026-10-13T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/2026FOLF",
+    "description": "Monthly meetings of the Friends of the Lafayette Library Foundation are open to the public. For more information on the Friends, or how to become a member, visit the Friends home page.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/2026FOLF",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6856515b3f87",
+    "title": "PEN Parenting Book Group: \"The Anxious Generation\" - Register",
+    "start": "2026-10-13T18:00:00-06:00",
+    "end": "2026-10-13T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PENbookgroupFall2026",
+    "description": "Adults and older teens - join us for a four-session book discussion with the Parent Engagement Network (PEN), focused on \"The Anxious Generation\" by Jonathan Haidt. Explore how childhood has shifted from play-based to phone-based and discuss the effects of this change on children’s mental health...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PENbookgroupFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cea54d027d13",
+    "title": "High School Equivalency Test Prep for Adults - Register",
+    "start": "2026-10-13T18:00:00-06:00",
+    "end": "2026-10-13T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+    "description": "Adults - need help preparing for the GED or High School Equivalency (HiSET) test? The Coal Creek Adult Education Center (CCAEC) and The Lafayette Public Library have partnered to bring High School Equivalency preparation classes to Lafayette. Earning your High School Equivalency Diploma will impr...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e3c27bb7e506",
+    "title": "Buck And Bloom Cheese",
+    "start": "2026-10-13T18:00:00-06:00",
+    "end": "2026-10-13T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/16695339",
+    "description": "Join us with Ripley Casdorph from Buck and bloom cheese for an evening all about a few Colorado made cheeses. He will talk about the cheese making process and maybe even have some samples to taste!",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/16695339",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "45c0760a6ec6",
+    "title": "Sci Fi Book Club",
+    "start": "2026-10-13T19:00:00-06:00",
+    "end": "2026-10-13T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15894253",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15894253",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "aa29b78bda6d",
+    "title": "Faculty Tuesdays: A Trio of Trios",
+    "start": "2026-10-13T19:30:00-06:00",
+    "end": "2026-10-13T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/faculty-tuesdays-a-trio-of-trios",
+    "description": "Join violinist Andrea Segar, cellist Meta Weiss and pianist David Korevaar for an evening of piano trios by Lera Auerbach, Cécile Chaminade and Johannes Brahms. Come celebrate one of our favorite forms of chamber music with us! For complete information visit cupresents.org.",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/faculty-tuesdays-a-trio-of-trios",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8b467849184d",
+    "title": "Spooky Storytime Jam",
+    "start": "2026-10-14T10:00:00-06:00",
+    "end": "2026-10-14T10:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/16724698",
+    "description": "Join Miss Ashley and Miss Tessa (AKA Marmalade & Jam) for a special spooky edition of the Storytime Jam! Enjoy live music with ukulele and guitar and sing along to your favorite songs. Costumes encouraged. Ages birth through pre-K. Starts promptly at 10:00am and seating is on first come first ser...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/16724698",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d1c2ab86bae9",
+    "title": "Friends Book Sale",
+    "start": "2026-10-14T10:00:00-06:00",
+    "end": "2026-10-14T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "markets-shopping",
+    "tags": [
+      "plant-sale"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+    "description": "Support literacy and the Library at The Friends of the Lafayette Public Library Foundation book sale, held during Library hours. The sale will include books of all genres, DVDs, gently used puzzles, children's games and small gift items such as candles, notecards, and soaps. If you would like to...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "da7625e72d3d",
+    "title": "Family Storytime",
+    "start": "2026-10-14T10:30:00-06:00",
+    "end": "2026-10-14T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+    "description": "Stories, songs, rhymes, and fun designed for toddlers and active walkers through preschool age. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ad0fb5dbe51c",
+    "title": "AcuDetox with Doris Vargas",
+    "start": "2026-10-14T12:00:00-06:00",
+    "end": "2026-10-14T13:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17105180",
+    "description": "Offering Free AcuDetox, which is a 5 point Ear Acupuncture on the outer ears. Each point corresponds to organs or systems to support and ease emotions and the nervous system. Aids in calming the mind, reducing depression, lowering stress, detoxifying the body, and assists with improved sleep. Tea...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17105180",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ccbafbbf1629",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-14T13:00:00-06:00",
+    "end": "2026-10-14T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ff80b1d16dd4",
+    "title": "Wellness Crafts: DIY Stress Balls",
+    "start": "2026-10-14T15:30:00-06:00",
+    "end": "2026-10-14T16:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WellnessAugDec2026",
+    "description": "Kids and teens - drop in any time during the hour at the table on the upper level for a quick mindfulness craft and activity with Clinica Family Health & Wellness. This month, create and decorate your own stress ball while learning about healthy ways to manage stress and overwhelming emotions. Pa...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WellnessAugDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5395e655ed69",
+    "title": "Book Dragons - 3rd-5th Book Club",
+    "start": "2026-10-14T16:15:00-06:00",
+    "end": "2026-10-14T17:15:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/BookDragons",
+    "description": "If you treasure books like gold and love to get lost in a good story, you might be a book dragon! This is a book club geared toward school age children, grades 3-5. Come join us for lively discussion and fun activities every 2nd Wednesday of the month and together we'll choose the books for futur...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/BookDragons",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "478906bcd87f",
+    "title": "Fall Writing Buddies - Register",
+    "start": "2026-10-14T16:45:00-06:00",
+    "end": "2026-10-14T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WBFall2026",
+    "description": "Kids in grades 3-5 - Have fun brainstorming, writing, and editing in this mentoring program led by teen volunteers (ages 14 and older). We will meet in the Library's Upper-Level Learning Lab to do group writing games, share stories, and have fun! Your parent or guardian must be present at the Lib...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3c7df6f59d24",
+    "title": "Conversations in Spanish - Drop In",
+    "start": "2026-10-14T18:00:00-06:00",
+    "end": "2026-10-14T19:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+    "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "526e35652d46",
+    "title": "Parenting Series: PEN Parenting Book Group: Brainstorm",
+    "start": "2026-10-14T18:00:00-06:00",
+    "end": "2026-10-14T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/PENBooks",
+    "description": "Parent Engagement Network and the Erie Community Library are excited to announce Parenting Book Groups! What is a PEN Parenting Book Group? Parenting doesn’t come with a how-to manual, but you don’t have to figure it out alone. PEN’s Parenting Book Groups are a welcoming space where parents and c...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/PENBooks",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6f4a15b84eef",
+    "title": "Friends Book Sale",
+    "start": "2026-10-15T10:00:00-06:00",
+    "end": "2026-10-15T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "markets-shopping",
+    "tags": [
+      "plant-sale"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+    "description": "Support literacy and the Library at The Friends of the Lafayette Public Library Foundation book sale, held during Library hours. The sale will include books of all genres, DVDs, gently used puzzles, children's games and small gift items such as candles, notecards, and soaps. If you would like to...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4fecfa72ef0a",
+    "title": "Bilingual Storytime",
+    "start": "2026-10-15T10:30:00-06:00",
+    "end": "2026-10-15T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+    "description": "Kids and caregivers - join us for bilingual stories and activities! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "745b858cb186",
+    "title": "Older Adult Learning Club: Embroidered Felt Creations - Register",
+    "start": "2026-10-15T13:00:00-06:00",
+    "end": "2026-10-15T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SLC2026",
+    "description": "Adults ages 50 and older - Join us for a new workshop in the Library Makerspace each month! This month we will do simple embroidery and hand-sewing to create custom felt ornaments or magnets. Learn more and sign up online through the Senior Center. For more information about any Senior Center act...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SLC2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0688dc13a466",
+    "title": "After-school Makers Club",
+    "start": "2026-10-15T15:30:00-06:00",
+    "end": "2026-10-15T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17481849",
+    "description": "Due to staffing limitations, we can only offer one weekly afterschool program this Fall, and are allowing 1st Grade thru 5th Grade to participate. I’m sorry we don’t have capacity to take Kindergarteners for this round. But we’re so happy that the Afterschool Makers Club is returning, as we alway...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17481849",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0c21aa62675e",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-15T15:30:00-06:00",
+    "end": "2026-10-15T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "258dd7c894a7",
+    "title": "Firefighter Storytime",
+    "start": "2026-10-15T15:30:00-06:00",
+    "end": "2026-10-15T16:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17512443",
+    "description": "Join the Mountain View Fire Protection District for a special Firefighter Storytime! Hear a book about fire safety and do some fun, hands-on activities with the Firefighters. It'll be the hottest event in town!",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17512443",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3763d144aeb1",
+    "title": "Fall Reading Buddies - Register",
+    "start": "2026-10-15T16:45:00-06:00",
+    "end": "2026-10-15T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games with our teen volunteers! Your parent or guardian must be present at the Library during each session. Registration required. This registration commits your child to all sessions (Thursdays: Sept. 24, 30; Oct. 1,8, 15, 22, and 29). If you are...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e3b78c1c7e2d",
+    "title": "Layered Wood Decor",
+    "start": "2026-10-15T17:00:00-06:00",
+    "end": "2026-10-15T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17478746",
+    "description": "Design and create a layered wood decorative piece for display while learning intermediate laser cutting and engraving techniques. You will learn how to prepare a design for the laser cutter, work with multiple layers of wood, and use cutting and engraving techniques to create a finished piece. Pa...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17478746",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "67492351e81f",
+    "title": "Lafayette Learns: Hornos, Chuckwagons, and Hardtack - The 1876 Table",
+    "start": "2026-10-15T18:30:00-06:00",
+    "end": "2026-10-15T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLFall26",
+    "description": "Adults and older teens - join us for Lafayette Learns, where we will observe Colorado's 150th year as a state, with a look back at how and what people ate in 1876. Join Dr. Rachael Storm from History Colorado as she explores the foods, preparation methods, servingware, and customs around campfire...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLFall26",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0bf7c55dcbc0",
+    "title": "Concert Jazz Ensemble: Fall 2026 Concert",
+    "start": "2026-10-15T19:30:00-06:00",
+    "end": "2026-10-15T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/concert-jazz-ensemble-fall-2026-concert",
+    "description": "The Concert Jazz Ensemble, the Thompson Jazz Studies Program’s premier ensemble, performs music from the rich legacy of big band music—from its early swing days to music by contemporary innovators. This event will be livestreamed by CU Boulder: https://cupresents.org/cu-boulder-college-of-music-L...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/concert-jazz-ensemble-fall-2026-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "368ab740ebfb",
+    "title": "Library closed for Emergency Maintenance",
+    "start": "2026-10-16",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17838706",
+    "description": "The Library is closed for the day for emergency maintenance. Find updates on our website.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17838706",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0d90e2b177f1",
+    "title": "100 Years of Winnie the Pooh STORYTIME!",
+    "start": "2026-10-16T10:15:00-06:00",
+    "end": "2026-10-16T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820247",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820247",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cee03b931592",
+    "title": "Boulder County Parks and Open Space",
+    "start": "2026-10-16T12:00:00-06:00",
+    "end": "2026-10-16T13:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17716546",
+    "description": "Community Input on BCPOS Tucker Property",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17716546",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "50b9522ea5d7",
+    "title": "Zombie Couture: The Walking Thread",
+    "start": "2026-10-16T14:00:00-06:00",
+    "end": "2026-10-16T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/15491069",
+    "description": "Bring your own items to the library and turn them into a zombie costume. Rip, shred, distress, and paint to make a fabulous creepy wardrobe. Distressing tools and paint provided. You bring your own clothing. This program is for ages 12 years old to 18 years old.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/15491069",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "126eef9a2c10",
+    "title": "Winnie the Pooh Birthday Party",
+    "start": "2026-10-16T15:30:00-06:00",
+    "end": "2026-10-16T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17671910",
+    "description": "100 Acres Wood is coming to Nederland Library! Bring a stuffy and drop-by to enjoy self-serve party stations, write and send a special birthday note to Winnie-the-Pooh. At 4pm there will be a short story-time, followed by honey treats, games, crafts and scavenger hunt. Library closes at 5pm.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17671910",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4acffecba674",
+    "title": "Boulder County Parks and Open Space",
+    "start": "2026-10-17T10:00:00-06:00",
+    "end": "2026-10-17T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17716549",
+    "description": "Community Input on BCPOS Tucker Property",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17716549",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b6ef9feed09b",
+    "title": "Coffee and Conversation",
+    "start": "2026-10-17T10:00:00-06:00",
+    "end": "2026-10-17T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsSept-Dec",
+    "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsSept-Dec",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d78e440aa409",
+    "title": "Friends Book Sale",
+    "start": "2026-10-17T10:00:00-06:00",
+    "end": "2026-10-17T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "markets-shopping",
+    "tags": [
+      "plant-sale"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+    "description": "Support literacy and the Library at The Friends of the Lafayette Public Library Foundation book sale, held during Library hours. The sale will include books of all genres, DVDs, gently used puzzles, children's games and small gift items such as candles, notecards, and soaps. If you would like to...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7c060423588f",
+    "title": "Conversations in English - Drop In",
+    "start": "2026-10-17T11:00:00-06:00",
+    "end": "2026-10-17T12:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c4ef39dffcf4",
+    "title": "Friends Book Sale - $5 per bag!",
+    "start": "2026-10-18T13:00:00-06:00",
+    "end": "2026-10-18T15:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "markets-shopping",
+    "tags": [
+      "plant-sale"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+    "description": "Support literacy and the Library at the Friends Holiday Sale, held during Library hours. If you would like to donate any holiday-themed fiction or nonfiction books in good condition, DVDs, gift items, and puzzles with all parts, your donations are appreciated. All proceeds are used to support lit...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/OctSale2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fa29f454bd84",
+    "title": "Family LEGO Club",
+    "start": "2026-10-18T14:00:00-06:00",
+    "end": "2026-10-18T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/ecllc",
+    "description": "Join us to dream it, build it, and make friends. Families are invited to hang out and build with provided LEGO bricks. Bring your fun and creativity! An adult must stay in the room during lego club and supervise attending children. Please note: LEGO bricks may present a choking hazard to children...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/ecllc",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a7b341565037",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-10-19T09:30:00-06:00",
+    "end": "2026-10-19T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605785",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605785",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0471fafff95b",
+    "title": "Erie Family Storytime",
+    "start": "2026-10-19T10:30:00-06:00",
+    "end": "2026-10-19T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605819",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605819",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "835f7affaec9",
+    "title": "Monday Nederland Writers",
+    "start": "2026-10-19T13:15:00-06:00",
+    "end": "2026-10-19T15:15:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820325",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820325",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cfcc42ffdb9d",
+    "title": "Chess Club 3rd-5th",
+    "start": "2026-10-19T16:15:00-06:00",
+    "end": "2026-10-19T17:15:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/chessclubaterie",
+    "description": "Love to play Chess or interested in learning how to play Chess? Are you in 3rd-5th grade? If so, please join us! No experience needed! This 7 week session will run each Monday during September and October. Library closed on Labor Day. Register with a friend or come meet new people!",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/chessclubaterie",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "03a943ab6993",
+    "title": "Dandelion Arts Collective: Puppet Making Workshop",
+    "start": "2026-10-19T16:30:00-06:00",
+    "end": "2026-10-19T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/DandelionPuppets",
+    "description": "Teens - join Dandelion Arts Collective's co-founder Mimi for a figurine and puppet making workshop during Monday Teen Maker Hangout hours. Create a character and give it a soul. We'll design, build, and create compelling backstories and unique personalities for our puppets. About Dandelion Arts D...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/DandelionPuppets",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "597b5cca4730",
+    "title": "Teen Maker Hangout - Drop In",
+    "start": "2026-10-19T16:30:00-06:00",
+    "end": "2026-10-19T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutSepDec2026",
+    "description": "Teens in grades 6-12 - Drop in to use and explore the Library's Makerspace! Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or special programs. We encourage you to check the calendar or call 303-661-1...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "822269d26c15",
+    "title": "Reel Talk Movie viewing and discussion group",
+    "start": "2026-10-19T18:00:00-06:00",
+    "end": "2026-10-19T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/15984757",
+    "description": "Join us each session to view some great short films and hopefully have some interesting discussions of the film's themes and whatever thoughts the films bring up. This session we will start by watching the short film Extremist by Alexander Molochnikov (2025) and if time permits, we will follow up...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/15984757",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c2f86a8f81ba",
+    "title": "Writers Group - Drop In",
+    "start": "2026-10-19T18:00:00-06:00",
+    "end": "2026-10-19T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+    "description": "Adults - drop by the Library to chat with fellow writers of all levels about your projects, share experiences with writing and getting published, get ideas for development of a piece, and learn from each other in a casual atmosphere. Questions? Contact the Programs Staff. Location: upstairs at th...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d9b1db31a71d",
+    "title": "Staff Meeting",
+    "start": "2026-10-19T18:00:00-06:00",
+    "end": "2026-10-19T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17734056",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17734056",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ba1a43bffd32",
+    "title": "Guest Artist Recital: Rico Allen, Saxophone",
+    "start": "2026-10-19T19:30:00-06:00",
+    "end": "2026-10-19T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/guest-artist-recital-rico-allen-saxophone",
+    "description": "Join Rico Allen for \"Songs from the Diaspora,\" a lecture recital exploring contemporary works by Black composers that reflect identity, storytelling and the evolving voice of the classical saxophone. Blending performance with engaging commentary, the program features music by Ephraim Champion, Ke...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/guest-artist-recital-rico-allen-saxophone",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6648f5e1ec6f",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-20T09:30:00-06:00",
+    "end": "2026-10-20T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605858",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605858",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a99ea3a50dbf",
+    "title": "Baby Storytime",
+    "start": "2026-10-20T10:30:00-06:00",
+    "end": "2026-10-20T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c3ea41db65f0",
+    "title": "Wild Bear Storytime",
+    "start": "2026-10-20T10:30:00-06:00",
+    "end": "2026-10-20T12:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15917165",
+    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15917165",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c853816dd8ed",
+    "title": "Erie Music & Movement",
+    "start": "2026-10-20T10:30:00-06:00",
+    "end": "2026-10-20T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605869",
+    "description": "Music and Movement is designed for children and caregivers to get up and move together while enhancing motor skills and reinforcing early literacy skills. Instruments and activities are geared toward children ages 3 - 5. This event is drop in and has limited capacity, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605869",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "360136aefd77",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-20T15:30:00-06:00",
+    "end": "2026-10-20T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "70344716959d",
+    "title": "Tales 2 Tails",
+    "start": "2026-10-20T16:00:00-06:00",
+    "end": "2026-10-20T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/erietales2tales1",
+    "description": "Independent readers can come practice reading aloud with a furry pal. A friendly, well-trained therapy dog from Caring Canines will give elementary aged readers an opportunity to improve their literacy skills by sharing stories aloud. The dog's non-judgmental presence and silent appreciation for...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/erietales2tales1",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "49670828105b",
+    "title": "Fall Spanish Buddies - Register",
+    "start": "2026-10-20T16:45:00-06:00",
+    "end": "2026-10-20T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games in Spanish with our teen volunteers! Your parent or guardian must be present at the Library during each session. No Spanish experience necessary! Registration required. This registration commits your child to all sessions (Tuesdays: Sept. 29...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "edbf37b959e0",
+    "title": "Philosophy Club",
+    "start": "2026-10-20T17:00:00-06:00",
+    "end": "2026-10-20T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15879337",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15879337",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "258ac0854448",
+    "title": "Friends And Family Art Club",
+    "start": "2026-10-20T18:00:00-06:00",
+    "end": "2026-10-20T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/16672964",
+    "description": "Friends and families can drop-in for an evening of creative fun every 3rd Tuesday! Come and make a different art project every month. Elementary children or younger are encouraged to attend with an adult. Please be aware space and supplies may be limited.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/16672964",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b2b5ce6a0dd9",
+    "title": "Faculty Tuesdays: A Wondering Guitar",
+    "start": "2026-10-20T19:30:00-06:00",
+    "end": "2026-10-20T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/faculty-tuesdays-a-wondering-guitar",
+    "description": "Join us for a program featuring 6-string and 10-string guitars that explores old and new musical languages from the old and the new continents. For complete information visit cupresents.org.",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/faculty-tuesdays-a-wondering-guitar",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "40d4f6b6ffe7",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-10-21T09:30:00-06:00",
+    "end": "2026-10-21T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605927",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605927",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "13c8606d8d7b",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-21T10:30:00-06:00",
+    "end": "2026-10-21T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605962",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605962",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b15f1fbe12c7",
+    "title": "Family Storytime",
+    "start": "2026-10-21T10:30:00-06:00",
+    "end": "2026-10-21T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+    "description": "Stories, songs, rhymes, and fun designed for toddlers and active walkers through preschool age. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5c47f561910c",
+    "title": "AcuDetox with Doris Vargas",
+    "start": "2026-10-21T12:00:00-06:00",
+    "end": "2026-10-21T13:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17105181",
+    "description": "Offering Free AcuDetox, which is a 5 point Ear Acupuncture on the outer ears. Each point corresponds to organs or systems to support and ease emotions and the nervous system. Aids in calming the mind, reducing depression, lowering stress, detoxifying the body, and assists with improved sleep. Tea...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17105181",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "650e14b92d92",
+    "title": "Opera + Musical Theatre Sneak Peek: Sweeney Todd",
+    "start": "2026-10-21T12:00:00-06:00",
+    "end": "2026-10-21T13:00:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "musical",
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/opera-musical-theatre-sneak-peek-sweeney-todd",
+    "description": "Bring your lunch and join us for a sneak peek into the next production of the CU Boulder Eklund Opera and Musical Theatre programs! Faculty and students will present excerpts, answer questions and share insights on \"Sweeney Todd,\" hosted by Stage Director Bob Westenberg and Guest Conductor Ben Wh...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/opera-musical-theatre-sneak-peek-sweeney-todd",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "abd664ef4a39",
+    "title": "Mini Succulent Pot",
+    "start": "2026-10-21T12:00:00-06:00",
+    "end": "2026-10-21T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17527471",
+    "description": "Select a 3D pot design to print for a miniature fake succulent plant. Learn how to design your own custom pot and create a small decorative plant display to place in your room or office to brighten the fall and winter months. You will explore simple ways to modify an existing 3D design, prepare y...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17527471",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4b1f47353794",
+    "title": "Mahjong Meetup",
+    "start": "2026-10-21T13:00:00-06:00",
+    "end": "2026-10-21T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "nightlife-social",
+    "tags": [
+      "meetup"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/mmu",
+    "description": "Love to play Mahjong? Come play at the library! Bring a friend or come meet new people. This self-guided open play event is not lead by an instructor. If you have a Mahjong set and/or National Mahjong card, please bring it along. This event will take place on the third Wednesday of each month. Re...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/mmu",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7567834cf0fb",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-21T13:00:00-06:00",
+    "end": "2026-10-21T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "605e78de3d56",
+    "title": "Threads",
+    "start": "2026-10-21T16:00:00-06:00",
+    "end": "2026-10-21T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/erie_threads",
+    "description": "Gather to knit, crochet, cross-stitch embroider, latch hook, and hand sew in our cozy living room. Work on existing projects or learn something new. Share patterns, tips, and ideas with like-minded needle crafters. Please bring your own supplies. All experience levels and ages are welcome. No reg...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/erie_threads",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a15ac0171514",
+    "title": "Fall Writing Buddies - Register",
+    "start": "2026-10-21T16:45:00-06:00",
+    "end": "2026-10-21T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WBFall2026",
+    "description": "Kids in grades 3-5 - Have fun brainstorming, writing, and editing in this mentoring program led by teen volunteers (ages 14 and older). We will meet in the Library's Upper-Level Learning Lab to do group writing games, share stories, and have fun! Your parent or guardian must be present at the Lib...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8d50aab052e7",
+    "title": "Bingo de los Muertos",
+    "start": "2026-10-21T17:30:00-06:00",
+    "end": "2026-10-21T18:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "food-drink",
+    "tags": [
+      "bingo"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17672250",
+    "description": "Enjoy Mexican Hot chocolate, read stories from Latin America, make Day of the Dead Masks and play some bingo with us!",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17672250",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7aa51a049bb6",
+    "title": "Conversations in Spanish - Drop In",
+    "start": "2026-10-21T18:00:00-06:00",
+    "end": "2026-10-21T19:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+    "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d7d352e2713e",
+    "title": "Parenting Series: PEN Parenting Book Group: Brainstorm",
+    "start": "2026-10-21T18:00:00-06:00",
+    "end": "2026-10-21T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/PENBooks",
+    "description": "Parent Engagement Network and the Erie Community Library are excited to announce Parenting Book Groups! What is a PEN Parenting Book Group? Parenting doesn’t come with a how-to manual, but you don’t have to figure it out alone. PEN’s Parenting Book Groups are a welcoming space where parents and c...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/PENBooks",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "dbd74870ef0f",
+    "title": "Eerie Reads Horror Book Club",
+    "start": "2026-10-21T18:00:00-06:00",
+    "end": "2026-10-21T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17077350",
+    "description": "Calling all horror enthusiasts! Want to discover your next favorite read, meet fellow horror fans, and share your opinions about what you’ve read? Join the Eerie Reads book club to discuss horror fiction books. This book club is for adults and meets in-person. Registration required. Pick up your...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17077350",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "509db9facf78",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-22T09:30:00-06:00",
+    "end": "2026-10-22T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606024",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606024",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1c34fb3870be",
+    "title": "Bilingual Storytime",
+    "start": "2026-10-22T10:30:00-06:00",
+    "end": "2026-10-22T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+    "description": "Kids and caregivers - join us for bilingual stories and activities! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5aae3203efa4",
+    "title": "Baby Open Play (BOP)",
+    "start": "2026-10-22T13:15:00-06:00",
+    "end": "2026-10-22T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/eclbabyplay",
+    "description": "Infants and babies, along with their caretakers, are welcome to drop in to play and explore with all their senses. Activities will stimulate their senses and allow babies to learn while they play. Babies will have the freedom to feel new textures, hear interesting sounds and see new sights. Careg...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/eclbabyplay",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6b5528a08a0f",
+    "title": "After-school Makers Club",
+    "start": "2026-10-22T15:30:00-06:00",
+    "end": "2026-10-22T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17481850",
+    "description": "Due to staffing limitations, we can only offer one weekly afterschool program this Fall, and are allowing 1st Grade thru 5th Grade to participate. I’m sorry we don’t have capacity to take Kindergarteners for this round. But we’re so happy that the Afterschool Makers Club is returning, as we alway...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17481850",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7a287d1f7698",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-22T15:30:00-06:00",
+    "end": "2026-10-22T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "22c031f060d1",
+    "title": "Star-Crossed Covers Erie Romance Book Club",
+    "start": "2026-10-22T16:00:00-06:00",
+    "end": "2026-10-22T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/15947126",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/15947126",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "910b7f2af0ad",
+    "title": "Erie Family Storytime",
+    "start": "2026-10-22T16:15:00-06:00",
+    "end": "2026-10-22T16:45:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606065",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606065",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f97f9987dc1d",
+    "title": "Fall Reading Buddies - Register",
+    "start": "2026-10-22T16:45:00-06:00",
+    "end": "2026-10-22T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games with our teen volunteers! Your parent or guardian must be present at the Library during each session. Registration required. This registration commits your child to all sessions (Thursdays: Sept. 24, 30; Oct. 1,8, 15, 22, and 29). If you are...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6570f2f95c35",
+    "title": "FI Book Club",
+    "start": "2026-10-22T18:00:00-06:00",
+    "end": "2026-10-22T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
+    "description": "The FI Book Club is an independent book group, open to the public, that meets to discuss books about finance and business on the fourth Thursday of each month (except for holidays or other closures). Interested in joining or have questions about the book selection? Contact Evan or visit lafayette...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "93cb5a634dee",
+    "title": "Lafayette Learns: The Enthusiasts",
+    "start": "2026-10-22T18:30:00-06:00",
+    "end": "2026-10-22T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLOct2026",
+    "description": "The Enthusiasts features three people doing quirky, fun presentations on topics they are enthusiastic about, followed by a brief question-and-answer period. This special collaboration with Buntport Theater, hosted at the Lafayette Public Library, will include topics like vampire lore, earthworms,...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLOct2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ef1b1cb7918a",
+    "title": "Parenting Series: Adolescent RISE, with Nicholas Thompson",
+    "start": "2026-10-22T18:30:00-06:00",
+    "end": "2026-10-22T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/AdolescentRISE",
+    "description": "Adolescent RISE is a presentation for parents/caregivers that takes a fun and informative look at the developmental period of adolescence (ages 10 – 25). It includes debunking myths about adolescence, understanding the four qualities of adolescence (risk taking, identity formation, social reorien...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/AdolescentRISE",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8d9fcc6eb707",
+    "title": "CU Boulder Chamber Orchestra: Made in America",
+    "start": "2026-10-22T19:30:00-06:00",
+    "end": "2026-10-22T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/cu-boulder-chamber-orchestra-made-in-america",
+    "description": "This program—\"Made in America\"—features works by American and Mexican women composers Joan Tower and Gabriela Ortíz. \"La Calaca,\" composed by Ortíz, is an evocative work for string orchestra and \"Made in America\" is, in Tower's own words, \"... my unconscious reacting to the challenge of how do we...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/cu-boulder-chamber-orchestra-made-in-america",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fb50d37b1184",
+    "title": "STORYTIME!",
+    "start": "2026-10-23T10:15:00-06:00",
+    "end": "2026-10-23T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820248",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820248",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "382c84b81c39",
+    "title": "A.R.T. Through the Wake: Episode 1 of 4",
+    "start": "2026-10-23T19:30:00-06:00",
+    "end": "2026-10-23T20:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+    "description": "Choreography by Angel Anderson, Rhianna Cranston and Tanniqua-Kay Buchanan Experience a mesmerizing and thought-provoking evening of dance as we present A.R.T. Through the Wake, featuring works choreographed by MFA in Dance candidates Angel Anderson, Rhianna Cranston, and Tanniqua-Kay Buchanan. A...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b0b5a0fc1088",
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "start": "2026-10-23T19:30:00-06:00",
+    "end": "2026-10-23T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+    "description": "An iconic musical thriller set in 19th-century London, Sweeney Todd follows a barber who returns from wrongful exile seeking revenge on the corrupt judge who destroyed his life. With the help of the resourceful Mrs. Lovett and her struggling pie shop, he resumes his trade upstairs, and his quest...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3e5bdd4a9292",
+    "title": "Day of the Dead - Día de los muertos",
+    "start": "2026-10-24T10:00:00-06:00",
+    "end": "2026-10-24T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/DiaDeLosMuertos2027",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/DiaDeLosMuertos2027",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8ae653c3b15d",
+    "title": "Saturday Storytime",
+    "start": "2026-10-24T10:30:00-06:00",
+    "end": "2026-10-24T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+    "description": "Kids and caregivers - join us for stories, songs, and interactive fun perfect for all ages! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b7697323c09b",
+    "title": "Conversations in English - Drop In",
+    "start": "2026-10-24T11:00:00-06:00",
+    "end": "2026-10-24T12:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1e595402171b",
+    "title": "Lotería Mexicana - Family Bingo",
+    "start": "2026-10-24T11:30:00-06:00",
+    "end": "2026-10-24T12:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "food-drink",
+    "tags": [
+      "bingo"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Loteria2026",
+    "description": "All ages - please drop in to the Kid Zone for bilingual family bingo fun in the traditional Mexican style!",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Loteria2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "85e3128bfde3",
+    "title": "Gamelan Ensemble: Fall 2026 Concert",
+    "start": "2026-10-24T14:00:00-06:00",
+    "end": "2026-10-24T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/gamelan-ensemble-fall-2026-concert",
+    "description": "CU Boulder’s Gamelan Ensemble, featuring the sacred Gamelan Genta Kencana (Holy Golden Sound), performs this unique type of music and dance that originated in the Indonesian islands of Java and Bali. For complete information visit cupresents.org",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/gamelan-ensemble-fall-2026-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "03b3499c6f86",
+    "title": "West African Highlife Ensemble: Fall 2026 Concert",
+    "start": "2026-10-24T19:30:00-06:00",
+    "end": "2026-10-24T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/west-african-highlife-ensemble-fall-2026-concert",
+    "description": "Performing high energy, tightly knit traditional, neo-traditional and highlife dance music from Ghana, CU Boulder’s West African Highlife Ensemble is the first university ensemble in the U.S. to perform highlife music. This event will be livestreamed by CU Boulder: https://cupresents.org/cu-bould...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/west-african-highlife-ensemble-fall-2026-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2398f9913ee2",
+    "title": "A.R.T. Through the Wake: Episode 1 of 4",
+    "start": "2026-10-24T19:30:00-06:00",
+    "end": "2026-10-24T20:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+    "description": "Choreography by Angel Anderson, Rhianna Cranston and Tanniqua-Kay Buchanan Experience a mesmerizing and thought-provoking evening of dance as we present A.R.T. Through the Wake, featuring works choreographed by MFA in Dance candidates Angel Anderson, Rhianna Cranston, and Tanniqua-Kay Buchanan. A...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e9c3c49290e1",
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "start": "2026-10-24T19:30:00-06:00",
+    "end": "2026-10-24T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+    "description": "An iconic musical thriller set in 19th-century London, Sweeney Todd follows a barber who returns from wrongful exile seeking revenge on the corrupt judge who destroyed his life. With the help of the resourceful Mrs. Lovett and her struggling pie shop, he resumes his trade upstairs, and his quest...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ed354dac70f2",
+    "title": "Paws to Read - Drop In",
+    "start": "2026-10-25T13:30:00-06:00",
+    "end": "2026-10-25T14:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/15600042",
+    "description": "Kids ages 5-10 - Spend 15 minutes reading to a special therapy dog! They are cuddly, good listeners who would love to hear your stories. Learn more about The Alliance of Therapy Dogs at www.therapydogs.com.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/15600042",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2adb76515d23",
+    "title": "A.R.T. Through the Wake: Episode 1 of 4",
+    "start": "2026-10-25T14:00:00-06:00",
+    "end": "2026-10-25T15:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+    "description": "Choreography by Angel Anderson, Rhianna Cranston and Tanniqua-Kay Buchanan Experience a mesmerizing and thought-provoking evening of dance as we present A.R.T. Through the Wake, featuring works choreographed by MFA in Dance candidates Angel Anderson, Rhianna Cranston, and Tanniqua-Kay Buchanan. A...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bf0c571f77e4",
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "start": "2026-10-25T14:00:00-06:00",
+    "end": "2026-10-25T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+    "description": "An iconic musical thriller set in 19th-century London, Sweeney Todd follows a barber who returns from wrongful exile seeking revenge on the corrupt judge who destroyed his life. With the help of the resourceful Mrs. Lovett and her struggling pie shop, he resumes his trade upstairs, and his quest...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2b7b8e50d6cc",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-10-26T09:30:00-06:00",
+    "end": "2026-10-26T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605786",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605786",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2e7069b7d1aa",
+    "title": "Erie Family Storytime",
+    "start": "2026-10-26T10:30:00-06:00",
+    "end": "2026-10-26T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605820",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605820",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d69c6ff0e090",
+    "title": "Monday Nederland Writers",
+    "start": "2026-10-26T13:00:00-06:00",
+    "end": "2026-10-26T15:15:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820326",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820326",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e915b80f1d57",
+    "title": "Chess Club 3rd-5th",
+    "start": "2026-10-26T16:15:00-06:00",
+    "end": "2026-10-26T17:15:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/chessclubaterie",
+    "description": "Love to play Chess or interested in learning how to play Chess? Are you in 3rd-5th grade? If so, please join us! No experience needed! This 7 week session will run each Monday during September and October. Library closed on Labor Day. Register with a friend or come meet new people!",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/chessclubaterie",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "de4a7d73b010",
+    "title": "Teen Maker Hangout - Drop In",
+    "start": "2026-10-26T16:30:00-06:00",
+    "end": "2026-10-26T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutSepDec2026",
+    "description": "Teens in grades 6-12 - Drop in to use and explore the Library's Makerspace! Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or special programs. We encourage you to check the calendar or call 303-661-1...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "af97fdf9863f",
+    "title": "Mountain People's Co-op",
+    "start": "2026-10-26T17:30:00-06:00",
+    "end": "2026-10-26T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/16484028",
+    "description": "Co-op Board Meeting",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/16484028",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9db488910aa8",
+    "title": "Thriller Dance Workshop",
+    "start": "2026-10-26T18:00:00-06:00",
+    "end": "2026-10-26T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/15492019",
+    "description": "Christine Rohde of Revel Dance will lead a one hour workshop on basic dance steps you can use for the song \"Thriller.\" At the end of the program you will walk (lurch?) your way over to the Erie Rec Center and perform \"Thriller.\" Please wear sneakers for the program. Costumes are welcome but not r...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/15492019",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9f8aebe09011",
+    "title": "Writers Group - Drop In",
+    "start": "2026-10-26T18:00:00-06:00",
+    "end": "2026-10-26T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+    "description": "Adults - drop by the Library to chat with fellow writers of all levels about your projects, share experiences with writing and getting published, get ideas for development of a piece, and learn from each other in a casual atmosphere. Questions? Contact the Programs Staff. Location: upstairs at th...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cb831ee418cb",
+    "title": "Guest Artist Recital: John Sipher, Trombone",
+    "start": "2026-10-26T19:30:00-06:00",
+    "end": "2026-10-26T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/guest-artist-recital-john-sipher-trombone",
+    "description": "John Sipher, principal trombonist of the Colorado Symphony—along with the College of Music's Associate Teaching Professor of Collaborative Piano Hsiao-Ling Lin and Assistant Professor of Trombone Sterling Tanner—present a unique and eclectic mix of Sipher's original compositions and arrangements...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/guest-artist-recital-john-sipher-trombone",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c4969d08fd54",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-27T09:30:00-06:00",
+    "end": "2026-10-27T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605859",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605859",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "40d7c7a7564d",
+    "title": "Baby Storytime",
+    "start": "2026-10-27T10:30:00-06:00",
+    "end": "2026-10-27T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9957acb21e61",
+    "title": "Erie Music & Movement",
+    "start": "2026-10-27T10:30:00-06:00",
+    "end": "2026-10-27T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605870",
+    "description": "Music and Movement is designed for children and caregivers to get up and move together while enhancing motor skills and reinforcing early literacy skills. Instruments and activities are geared toward children ages 3 - 5. This event is drop in and has limited capacity, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605870",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a5490b4e6563",
+    "title": "Wild Bear Storytime",
+    "start": "2026-10-27T10:30:00-06:00",
+    "end": "2026-10-27T12:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15917166",
+    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15917166",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "21645b6376ee",
+    "title": "Acu Detox",
+    "start": "2026-10-27T13:00:00-06:00",
+    "end": "2026-10-27T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17886836",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17886836",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f868c834c069",
+    "title": "Bookmobile: Erie",
+    "start": "2026-10-27T13:30:00-06:00",
+    "end": "2026-10-27T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17497585",
+    "description": "Bookmobile stop: open to the public for checkout, returns, computer use, printing service, and other library services.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17497585",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1d2f867bb046",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-27T15:30:00-06:00",
+    "end": "2026-10-27T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "14bc5a6a13db",
+    "title": "Science Explorers! K-2",
+    "start": "2026-10-27T16:15:00-06:00",
+    "end": "2026-10-27T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/sciexplk2",
+    "description": "Come explore science with fun activities and hands-on experiments! Each program will teach a different concept. This is geared towards children in kindergarten through second grade. Parents are welcome to stay, or drop off their child but remain in the building. Please register for each date indi...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/sciexplk2",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "77d7b4e1cfff",
+    "title": "Fall Spanish Buddies - Register",
+    "start": "2026-10-27T16:45:00-06:00",
+    "end": "2026-10-27T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games in Spanish with our teen volunteers! Your parent or guardian must be present at the Library during each session. No Spanish experience necessary! Registration required. This registration commits your child to all sessions (Tuesdays: Sept. 29...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c7820b4adaa2",
+    "title": "PEN Parenting Book Group: \"The Anxious Generation\" - Register",
+    "start": "2026-10-27T18:00:00-06:00",
+    "end": "2026-10-27T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PENbookgroupFall2026",
+    "description": "Adults and older teens - join us for a four-session book discussion with the Parent Engagement Network (PEN), focused on \"The Anxious Generation\" by Jonathan Haidt. Explore how childhood has shifted from play-based to phone-based and discuss the effects of this change on children’s mental health...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PENbookgroupFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f40c6cae3b2b",
+    "title": "Faculty Tuesdays: The Art of Collaboration",
+    "start": "2026-10-27T19:30:00-06:00",
+    "end": "2026-10-27T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/faculty-tuesdays-the-art-of-collaboration",
+    "description": "Join us for an evening of exquisite chamber music featuring guest artists Norman Fischer, cello and Jeanne Kierman Fischer, piano. The renowned Fischer Duo joins forces with College of Music faculty members Meta Weiss, David Requiro, Harumi Rhodes, Andrea Segar, Erika Eckert and Christina Jenning...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/faculty-tuesdays-the-art-of-collaboration",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "672819be703a",
+    "title": "Library closed: book drops closed",
+    "start": "2026-10-28",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17887120",
+    "description": "The Library will be closed on Wednesday, Oct. 28 due to repair to the main water lines into the building. We will reopen for regular business on Thursday, Oct. 29. Book drops will be locked from 5pm on Tuesday until Thursday at 9am.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17887120",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f15a05526729",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-10-28T09:30:00-06:00",
+    "end": "2026-10-28T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605928",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605928",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "53c91694a07b",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-28T10:30:00-06:00",
+    "end": "2026-10-28T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605963",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605963",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "88f5c79cb669",
+    "title": "AcuDetox with Doris Vargas",
+    "start": "2026-10-28T12:00:00-06:00",
+    "end": "2026-10-28T13:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17105182",
+    "description": "Offering Free AcuDetox, which is a 5 point Ear Acupuncture on the outer ears. Each point corresponds to organs or systems to support and ease emotions and the nervous system. Aids in calming the mind, reducing depression, lowering stress, detoxifying the body, and assists with improved sleep. Tea...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17105182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7a380d0ba67b",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-10-29T09:30:00-06:00",
+    "end": "2026-10-29T10:00:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606025",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606025",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "eb505da26c4d",
+    "title": "Bilingual Storytime",
+    "start": "2026-10-29T10:30:00-06:00",
+    "end": "2026-10-29T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+    "description": "Kids and caregivers - join us for bilingual stories and activities! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "78366589e9eb",
+    "title": "After-school Makers Club",
+    "start": "2026-10-29T15:30:00-06:00",
+    "end": "2026-10-29T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17481851",
+    "description": "Due to staffing limitations, we can only offer one weekly afterschool program this Fall, and are allowing 1st Grade thru 5th Grade to participate. I’m sorry we don’t have capacity to take Kindergarteners for this round. But we’re so happy that the Afterschool Makers Club is returning, as we alway...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17481851",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "abf8b054de76",
+    "title": "Makerspace - Drop In",
+    "start": "2026-10-29T15:30:00-06:00",
+    "end": "2026-10-29T19:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8b68565a1a78",
+    "title": "Erie Family Storytime",
+    "start": "2026-10-29T16:15:00-06:00",
+    "end": "2026-10-29T16:45:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606066",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606066",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "48a41b1a54f9",
+    "title": "The History and the Sport of Pack Burro Racing with ReDONKulous Ranch Sanctuary & Rescue, Inc.",
+    "start": "2026-10-29T16:30:00-06:00",
+    "end": "2026-10-29T18:30:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/16902958",
+    "description": "Pack Burro Racing is Colorado's summer heritage sport that is not just a race - it is a partnership between burro (Spanish for donkey) and runner. There is no riding involved. It is just you and the burro, running the trails and roads surrounding the mountain towns where the sport was born. How f...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/16902958",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1514f5929d6c",
+    "title": "Fall Reading Buddies - Register",
+    "start": "2026-10-29T16:45:00-06:00",
+    "end": "2026-10-29T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+    "description": "Kids in grades K-3 - have fun reading and playing games with our teen volunteers! Your parent or guardian must be present at the Library during each session. Registration required. This registration commits your child to all sessions (Thursdays: Sept. 24, 30; Oct. 1,8, 15, 22, and 29). If you are...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9671d80ee03b",
+    "title": "Adult Makers Club",
+    "start": "2026-10-29T17:30:00-06:00",
+    "end": "2026-10-29T18:40:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://nederland.libcal.com/event/17759270",
+    "description": "Adult Makers Night - Paper Marigolds Join our collaborative, community-driven monthly meet-up, where adults meet to create, learn, and share DIY and crafting tips and skills! No experience necessary. Leah De Capio will be leading us through this fun workshop where we will manipulate crepe paper i...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17759270",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e94962bddc00",
+    "title": "Author Talk with Devon O'Neil",
+    "start": "2026-10-29T18:30:00-06:00",
+    "end": "2026-10-29T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "arts-culture",
+    "tags": [
+      "author-event"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17464114",
+    "description": "Please pay in person at the library with cash, check or credit card.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17464114",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8591e1314819",
+    "title": "Fall Festival of Choirs",
+    "start": "2026-10-29T19:30:00-06:00",
+    "end": "2026-10-29T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "festivals",
+    "tags": [
+      "festival"
+    ],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/fall-festival-of-choirs-cu-boulder-university-choir-chamber-singers-festival-chorus-and-treble-chorus-with-special-guests-the-vanguard-school-choirs",
+    "description": "CU Boulder Choirs will perform music of light and transformation including songs by Willametta Spencer, Francis Poulenc, W.A. Mozart, Kai-Young Chan, Dolly Parton, Carly Simon, Flory Jagoda, Moses Hogan, Elaine Hagenberg, Hubert Bird, Orlando di Lasso, G.P. da Palestrina, Aaron Copland and Regina...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/fall-festival-of-choirs-cu-boulder-university-choir-chamber-singers-festival-chorus-and-treble-chorus-with-special-guests-the-vanguard-school-choirs",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "971db6390aa9",
+    "title": "Guest Artist Recital and Master Class: Thomas Kurtz, Saxophone and Suyeon Kim, Piano",
+    "start": "2026-10-29T19:30:00-06:00",
+    "end": "2026-10-29T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony",
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://calendar.colorado.edu/event/guest-artist-recital-and-master-class-thomas-kurtz-saxophone-and-suyeon-kim-piano",
+    "description": "Join us for a special event with Thomas Kurtz featuring a 30-minute recital followed by a 50-minute studio master class. Kurtz opens with Jean-Denis Michat’s electrifying \"Shams,\" a sun-drenched work blending Western art music with Arabic modal traditions, followed by Ingrid Stölzel’s luminous \"W...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/guest-artist-recital-and-master-class-thomas-kurtz-saxophone-and-suyeon-kim-piano",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c70e052958ff",
+    "title": "Vote Center - OPEN 8am-6pm",
+    "start": "2026-10-30",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17220580",
+    "description": "In-person Vote Center: voting hours differ from Library open hours. To vote in person, please use the outside entrance to the lower-level Meeting Room (near the North end of the parking lot and ballot box). Friday, Oct. 30: 8am-6pm Saturday, Oct. 31: 8am-5pm Monday, Nov. 2: 8am-6pm Election Day (...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17220580",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "aa23565b3113",
+    "title": "STORYTIME!",
+    "start": "2026-10-30T10:15:00-06:00",
+    "end": "2026-10-30T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820249",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820249",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0f7a0483c939",
+    "title": "Halloween Storytime with Mountain Buddies",
+    "start": "2026-10-30T10:30:00-06:00",
+    "end": "2026-10-30T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "holiday-seasonal",
+    "tags": [
+      "halloween",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/HalloweenStorytime2026",
+    "description": "Families - join us for a special Halloween Storytime, with musical guest, the Mountain Buddies. Little goblins, witches, and ghosts will have fun dancing to original silly Halloween tunes and enjoy some spooky stories. Costumes encouraged but not required!",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/HalloweenStorytime2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "dc5d12133acf",
+    "title": "Thompson Jazz Studies Combos: Fall 2026 Concert in Grusin and Ensemble Hall",
+    "start": "2026-10-30T19:30:00-06:00",
+    "end": "2026-10-30T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/thompson-jazz-studies-combos-fall-2026-concert-in-grusin-and-ensemble-hall",
+    "description": "CU Boulder Thompson Jazz Studies Combos present their fall 2026 concert paying homage to Freddie Hubbard, Lee Morgan, Kenny Dorham and Booker Little; these four jazz trumpet players helped shape the jazz canon through both their improvisations and compositions. Additionally, you'll experience sev...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/thompson-jazz-studies-combos-fall-2026-concert-in-grusin-and-ensemble-hall",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cf836832ec52",
+    "title": "Vote Center - OPEN 8am-5pm",
+    "start": "2026-10-31",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17220764",
+    "description": "In-person Vote Center: voting hours differ from Library open hours. To vote in person, please use the outside entrance to the lower-level Meeting Room (near the North end of the parking lot and ballot box). Saturday, Oct. 31: 8am-5pm Monday, Nov. 2: 8am-6pm Election Day (Tuesday, Nov. 3): 7am-7pm...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17220764",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5d6eeb79e8a5",
+    "title": "Sensory Storytime",
+    "start": "2026-10-31T10:30:00-06:00",
+    "end": "2026-10-31T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SensoryStorytimeAugNov2026",
+    "description": "Kids and caregivers: join us for Storytime designed for kids ages 2-8 who are neurodiverse and/or have sensory needs. This structured Storytime, with softer lighting, singing, books, and sensory toys, is led by a Board-Certified Behavior Analyst. Location: Conference Room (lower level) - note, th...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SensoryStorytimeAugNov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cd26a0487209",
+    "title": "Conversations in English - Drop In",
+    "start": "2026-10-31T11:00:00-06:00",
+    "end": "2026-10-31T12:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cf50e2c5c244",
+    "title": "Pokeween Hang Out!",
+    "start": "2026-10-31T14:00:00-06:00",
+    "end": "2026-10-31T14:45:00-06:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/pokemonhang",
+    "description": "Kids in elementary school are invited to a Special Halloween themed Pokemon Hang Out. Talk about Pokemon! Trade Cards! Play the game! Dress up in a Pokemon themed costume! Meet kids who love Pokemon as much as you do! Note-this is an unstructured event. No guidance will be provided on playing the...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/pokemonhang",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  }
+]
