@@ -16,10 +16,8 @@
   "triggers": {
     "crons": ["0 10 * * *"]
   },
-  // The visitor log's database (see website/README.md, "Visitor log"). Create it with
-  // `npx wrangler d1 create weekendboulder-log` and put its id here; until then deploys fail
-  // rather than writing to another site's database.
+  // The visitor log's database (see website/README.md, "Visitor log").
   "d1_databases": [
-    { "binding": "LOG_DB", "database_name": "weekendboulder-log", "database_id": "REPLACE-WITH-WEEKENDBOULDER-LOG-DATABASE-ID" }
+    { "binding": "LOG_DB", "database_name": "weekendboulder-log", "database_id": "99dc388a-a5c1-4655-8e44-7f5781665815" }
   ]
 }
