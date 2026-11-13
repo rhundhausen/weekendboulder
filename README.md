@@ -1,6 +1,6 @@
 # WeekendBoulder
 
-WeekendBoulder is an automated reader of public event calendars in the Boulder County area of Colorado (Boulder, Longmont, Louisville, Lafayette, Superior, Erie, Broomfield, Niwot, Lyons, Nederland and nearby). It collects upcoming events into one non-commercial calendar. The public site is not live yet.
+WeekendBoulder is an automated reader of public event calendars in the Boulder County area of Colorado (Boulder, Longmont, Louisville, Lafayette, Superior, Erie, Broomfield, Niwot, Lyons, Nederland and nearby). It collects upcoming events into one non-commercial calendar, published at [weekendboulder.com](https://weekendboulder.com).
 
 This page is for site owners who see the WeekendBoulder bot in their logs.
 
