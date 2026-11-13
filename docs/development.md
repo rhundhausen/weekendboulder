@@ -6,7 +6,7 @@ Boulder County area event aggregator. A nightly GitHub Actions workflow pulls ev
 
 ## How it works
 
-1. `ingestion/sources.json` lists each source and the adapter that reads it (ICS feed, Meetup group feed, The Events Calendar REST API, RSS, a Google Calendar, a ticketing API, or, for sites with no feed, a `robots.txt`-respecting scraper). The repo starts with an empty `sources` list there, and with blank data files (`data/raw-events.json` has no sources, `data/events.json` is an empty array).
+1. `ingestion/sources.json` lists each source and the adapter that reads it (ICS feed, Meetup group feed, The Events Calendar REST API, RSS, a Google Calendar, a ticketing API, or, for sites with no feed, a `robots.txt`-respecting scraper). It also holds the ideas and ruled-out sites, so there is one place to check.
 2. **Ingest** (`ingestion/scripts/Invoke-Ingest.ps1`, midnight Boulder time) runs every adapter, normalizes each event to the common schema, and stores what each source returned in `data/raw-events.json`, one entry per source. It does nothing else.
 3. **Refine** (`ingestion/scripts/Invoke-Refine.ps1`, started when ingest finishes, even if ingest failed) reads the raw file, dedupes across sources, fills in cities, moves old cost fields to `costTier`, looks up the city of events still stored as Other by reading their pages, checks event links, and writes `data/events.json` (upcoming only), `data/archive/YYYY-MM.json` (past events), `data/links.json`, `data/city-lookup.json`, and `data/meta.json`. It never fetches a source, so it can be rerun by hand as often as needed.
 4. Each workflow commits only the files it owns. Refine's commit deploys the site.
@@ -130,7 +130,7 @@ Prefer official APIs and published feeds over scraping. Adapters identify themse
 
 ## Status
 
-Ingestion, the nightly ingest and refine workflows, the report emails, and the website are built. There are no sources yet: `ingestion/sources.json` has an empty list and the data files are blank, so the site shows no events until sources are added. The site is live at https://weekendboulder.com (and www.weekendboulder.com). The site still has the TESTING ONLY `?period=day|sunset|night` switch in `website/layouts/baseof.html`, to remove before launch.
+Ingestion, the nightly ingest and refine workflows, the report emails, and the website are built. The first 64 sources run from 2026-11-13 (Boulder County, city and town calendars, libraries, venues, CU Presents, a chamber, and 47 Meetup groups); the rest of `ingestion/sources.json` is ideas. The site is live at https://weekendboulder.com (and www.weekendboulder.com). The site still has the TESTING ONLY `?period=day|sunset|night` switch in `website/layouts/baseof.html`, to remove before launch.
 
 ## Built with
 

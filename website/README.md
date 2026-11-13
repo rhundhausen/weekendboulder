@@ -4,7 +4,7 @@ Hugo site, deployed by Cloudflare Workers Builds on every push to `main` (see "D
 
 Reads events from the repo-level `data/` folder via a `module.mounts` entry (source `../data`, target `data`), so ingestion never writes into this tree. `ingestion/sources.json` is mounted the same way as `data/sources.json`, for the `/sources/` page (every running source, with its upcoming event count linking to the grid filtered by `?source=<name>`) and the header count. The `/bot` page for site owners who see the `WeekendBoulder` user agent will live at `content/bot.md`.
 
-The repo starts with no sources (`ingestion/sources.json` has an empty `sources` list) and blank data files, so the grid and the `/sources/` page stay empty until sources are added and the first ingest and refine have run.
+The grid and the `/sources/` page fill from the nightly ingest and refine runs; before the first run, the data files are blank.
 
 ## Run it
 

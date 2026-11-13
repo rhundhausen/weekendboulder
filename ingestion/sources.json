@@ -12,10 +12,10 @@
     },
     {
       "displayName": "20s Boulder Hiking (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "outdoors-recreation",
       "url": "https://www.meetup.com/20s-boulder-hiking/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/20s-boulder-hiking/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "300 Suns Brewing",
@@ -44,11 +44,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
     },
     {
+      "name": "meetup-40ish-childfree-meet-up",
       "displayName": "40ish Childfree Meet Up (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/40ish-childfree-meet-up/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/40ish-childfree-meet-up/",
-      "notes": "Area: Erie. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Erie",
+      "venue": "40ish Childfree Meet Up",
+      "venueKey": "meetup-40ish-childfree-meet-up",
+      "priority": 70,
+      "notes": "Area: Erie. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Active.com (Boulder County)",
@@ -71,11 +79,19 @@
       "notes": "Area: Boulder. Likely adapter: other."
     },
     {
+      "name": "meetup-ai-for-small-business-boulder-denver",
       "displayName": "AI for Small Business Boulder Denver (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/ai-for-small-business-boulder-denver/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/ai-for-small-business-boulder-denver",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "AI for Small Business Boulder Denver",
+      "venueKey": "meetup-ai-for-small-business-boulder-denver",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Aims Community College News and Events",
@@ -113,11 +129,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-analyze-boulder",
       "displayName": "Analyze Boulder (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/Analyze-Boulder/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/Analyze-Boulder/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Analyze Boulder",
+      "venueKey": "meetup-analyze-boulder",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Ann Armstrong Memorial Native Garden",
@@ -257,11 +281,19 @@
       "notes": "Area: Longmont. Likely adapter: scrape."
     },
     {
+      "name": "meetup-beerandcameras",
       "displayName": "Beer and Cameras (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/beerandcameras/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/beerandcameras/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Beer and Cameras",
+      "venueKey": "meetup-beerandcameras",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Bicycle Colorado Events",
@@ -293,11 +325,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-bniintegrity",
       "displayName": "BNI Integrity (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/bniintegrity/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/bniintegrity/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "BNI Integrity",
+      "venueKey": "meetup-bniintegrity",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Bob L. Burger Lafayette Recreation Center",
@@ -305,7 +345,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/venue/bob-l-burger-lafayette-recreation-center/",
-      "notes": "Area: Lafayette. Likely adapter: tribe."
+      "notes": "Area: Lafayette. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Bolder Boulder",
@@ -328,11 +368,19 @@
       "notes": "Area: Niwot. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-20s-30s-hiking-travel-local-activities",
       "displayName": "Boulder 20s 30s Hiking Travel Local Activities (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-20s-30s-hiking-travel-local-activities/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulder-20s-30s-hiking-travel-local-activities/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder 20s 30s Hiking Travel Local Activities",
+      "venueKey": "meetup-boulder-20s-30s-hiking-travel-local-activities",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder annual events (Visit Boulder)",
@@ -384,11 +432,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-birds-and-brew",
       "displayName": "Boulder Birds and Brew (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-birds-and-brew/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://meetup.com/boulder-birds-and-brew",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Birds and Brew",
+      "venueKey": "meetup-boulder-birds-and-brew",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Black History Month Community Events",
@@ -399,18 +455,34 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
     },
     {
+      "name": "meetup-boulder-board-games",
       "displayName": "Boulder Board Games (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-board-games/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/boulder-board-games/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Board Games",
+      "venueKey": "meetup-boulder-board-games",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulder-board-games-galore",
       "displayName": "Boulder Board Games Galore (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-board-games-galore/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/boulder-board-games-galore/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Board Games Galore",
+      "venueKey": "meetup-boulder-board-games-galore",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Book Store",
@@ -420,11 +492,19 @@
       "notes": "Area: Boulder. Likely adapter: eventbrite-search."
     },
     {
+      "name": "meetup-boulder-bookaholics",
       "displayName": "Boulder Bookaholics (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-bookaholics/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-bookaholics/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Bookaholics",
+      "venueKey": "meetup-boulder-bookaholics",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Chamber",
@@ -503,7 +583,7 @@
       "category": "community-civic",
       "adapter": "scrape",
       "url": "https://bouldercounty.gov/news/boulder-county-area-agency-on-aging-offers-trainings-for-family-and-informal-caregivers/",
-      "notes": "Area: Boulder County. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
+      "notes": "Area: Boulder County. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Arts Alliance",
@@ -541,14 +621,23 @@
       "category": "outdoors-recreation",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/tag/bike-to-work/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
+      "name": "boulder-county",
       "displayName": "Boulder County Calendar",
-      "status": "idea",
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://bouldercounty.gov/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://bouldercounty.gov/events/month/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "inferCategory": true,
+      "city": "Other",
+      "venue": "Boulder County",
+      "venueKey": "boulder-county",
+      "priority": 20,
+      "excludeTitlePattern": "(?i)\\bmeetings?\\b|\\bhearings?\\b|\\bclosed\\b|\\bboard of\\b|\\bcommission\\b|\\bsession\\b",
+      "notes": "Area: Boulder County. Likely adapter: tribe. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 83 events. Terms not read."
     },
     {
       "displayName": "Boulder County Climate Justice Event Calendar",
@@ -563,7 +652,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/county-commissioners/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Community Planning and Permitting Meetings",
@@ -571,7 +660,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/community-planning-permitting/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Elections Events",
@@ -579,7 +668,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/elections/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Extension (CSU)",
@@ -594,14 +683,14 @@
       "status": "idea",
       "category": "festivals",
       "url": "https://www.bouldercountyfair.org/",
-      "notes": "Area: Longmont. Likely adapter: tribe. Found through https://bouldercounty.gov/event/boulder-county-fair-11/."
+      "notes": "Area: Longmont. Likely adapter: tribe. Found through https://bouldercounty.gov/event/boulder-county-fair-11/. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Fairgrounds",
       "status": "idea",
       "category": "festivals",
       "url": "https://bouldercounty.gov/events/category/fairgrounds/month/",
-      "notes": "Area: Longmont. Likely adapter: tribe."
+      "notes": "Area: Longmont. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Fairgrounds Event Calendar",
@@ -609,7 +698,7 @@
       "category": "festivals",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/fairgrounds/",
-      "notes": "Area: Longmont. Likely adapter: tribe."
+      "notes": "Area: Longmont. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Farm Trail (Visit Boulder)",
@@ -627,11 +716,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-county-fun-with-french",
       "displayName": "Boulder County Fun with French (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-county-fun-with-french/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/boulder-county-fun-with-french",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder County Fun with French",
+      "venueKey": "meetup-boulder-county-fun-with-french",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder County Hispanic and Latinx Heritage Month Events",
@@ -639,7 +736,7 @@
       "category": "festivals",
       "adapter": "scrape",
       "url": "https://bouldercounty.gov/news/celebrate-hispanic-and-latinx-heritage-month/",
-      "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
+      "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Housing and Human Services Events",
@@ -647,7 +744,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/housing-human-services/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Kids",
@@ -668,7 +765,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/office-of-sustainability/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Open Space Blog (Images)",
@@ -683,7 +780,7 @@
       "status": "idea",
       "category": "arts-culture",
       "url": "https://thedairy.org/open-studios-2/",
-      "notes": "Area: Boulder County. Likely adapter: scrape. Covers: Dairy Arts Center Open Studios (https://thedairy.org/open-studios-2/); Boulder County Open Studios (Eventbrite) (https://www.eventbrite.com/o/25027672879)."
+      "notes": "Area: Boulder County. Likely adapter: scrape. Covers: Dairy Arts Center Open Studios (https://thedairy.org/open-studios-2/); Boulder County Open Studios (Eventbrite) (https://www.eventbrite.com/o/25027672879). Covered by the running source dairy-arts-center (2026-11-13)."
     },
     {
       "displayName": "Boulder County Parks and Open Space Discover Registration",
@@ -691,14 +788,14 @@
       "category": "outdoors-recreation",
       "adapter": "scrape",
       "url": "https://discover.bouldercounty.gov/",
-      "notes": "Area: Boulder County. Likely adapter: scrape."
+      "notes": "Area: Boulder County. Likely adapter: scrape. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Parks and Open Space Hikes and Events",
       "status": "idea",
       "category": "outdoors-recreation",
       "url": "https://bouldercounty.gov/open-space/activities/calendar/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Parks and Open Space Lagerman Reservoir",
@@ -706,7 +803,7 @@
       "category": "outdoors-recreation",
       "adapter": "scrape",
       "url": "https://bouldercounty.gov/open-space/parks-and-trails/lagerman/",
-      "notes": "Area: Boulder County. Likely adapter: scrape."
+      "notes": "Area: Boulder County. Likely adapter: scrape. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Parks and Open Space Longmont Venue",
@@ -714,7 +811,7 @@
       "category": "outdoors-recreation",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/venue/boulder-county-parks-open-space-longmont/",
-      "notes": "Area: Longmont. Likely adapter: tribe."
+      "notes": "Area: Longmont. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Parks and Open Space Volunteer Opportunities",
@@ -722,7 +819,7 @@
       "category": "outdoors-recreation",
       "adapter": "scrape",
       "url": "https://bouldercounty.gov/volunteer/parks-and-open-space/",
-      "notes": "Area: Boulder County. Likely adapter: scrape."
+      "notes": "Area: Boulder County. Likely adapter: scrape. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Public Health Events",
@@ -730,7 +827,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/public-health/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Roller Derby",
@@ -745,7 +842,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/sheriffs-office/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Veterans Stand Down",
@@ -767,7 +864,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/community-planning-permitting/wildfire-mitigation/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder County Workforce Events and Workshops",
@@ -775,7 +872,7 @@
       "category": "learning-business",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/events/category/community-services/wfbc-events-workshops/",
-      "notes": "Area: Boulder County. Likely adapter: tribe."
+      "notes": "Area: Boulder County. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder Creek Festival",
@@ -801,11 +898,19 @@
       "notes": "Area: Boulder, Longmont, Louisville, Lafayette. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-dance",
       "displayName": "Boulder Dance (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-dance/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/boulder-dance/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Dance",
+      "venueKey": "meetup-boulder-dance",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Downtown Public Art Guided Walking Tour",
@@ -838,11 +943,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-experiments-in-art-and-technology",
       "displayName": "Boulder Experiments in Art and Technology (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-experiments-in-art-and-technology/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-experiments-in-art-and-technology/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Experiments in Art and Technology",
+      "venueKey": "meetup-boulder-experiments-in-art-and-technology",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Film Friends in Superior",
@@ -866,11 +979,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-hiking-and-yoga-networking-group",
       "displayName": "Boulder Hiking and Yoga Networking Group (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-hiking-and-yoga-networking-group/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulder-hiking-and-yoga-networking-group/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Hiking and Yoga Networking Group",
+      "venueKey": "meetup-boulder-hiking-and-yoga-networking-group",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder holiday traditions (Visit Boulder)",
@@ -894,11 +1015,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
     },
     {
+      "name": "meetup-boulder-independent-film-club",
       "displayName": "Boulder Independent Film Club (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-independent-film-club/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-independent-film-club",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Independent Film Club",
+      "venueKey": "meetup-boulder-independent-film-club",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Indigenous Peoples Day Events (City of Boulder)",
@@ -965,11 +1094,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-mountain-bikers",
       "displayName": "Boulder Mountain Bikers (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-mountain-bikers/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulder-mountain-bikers/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Mountain Bikers",
+      "venueKey": "meetup-boulder-mountain-bikers",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Museum of Contemporary Art",
@@ -1000,11 +1137,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The sister site WeekendBoise ruled out its counterpart (WordPress with no tribe route and no ICS; no other public calendar). Recheck here."
     },
     {
+      "name": "meetup-bdnewtech",
       "displayName": "Boulder New Tech (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/bdnewtech/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/bdnewtech",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder New Tech",
+      "venueKey": "meetup-bdnewtech",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Newcomers Club",
@@ -1103,11 +1248,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The sister site WeekendBoise ruled out its counterpart (HTTP 401 on 2026-10-30, REST API requires login). Recheck here."
     },
     {
+      "name": "meetup-boulder-photo-center",
       "displayName": "Boulder Photo Center (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-photo-center/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-photo-center/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Photo Center",
+      "venueKey": "meetup-boulder-photo-center",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Potters Guild",
@@ -1115,7 +1268,7 @@
       "category": "arts-culture",
       "adapter": "scrape",
       "url": "https://boulderpottersguild.org/",
-      "notes": "Area: Boulder. Likely adapter: scrape. Found through https://bouldercounty.gov/event/boulder-potters-guild-spring-pottery-sale-7/."
+      "notes": "Area: Boulder. Likely adapter: scrape. Found through https://bouldercounty.gov/event/boulder-potters-guild-spring-pottery-sale-7/. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Boulder Public Art Social",
@@ -1147,18 +1300,34 @@
       "notes": "Area: Boulder. Likely adapter: other."
     },
     {
+      "name": "meetup-boulderpython",
       "displayName": "Boulder Python (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/BoulderPython/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/BoulderPython/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Python",
+      "venueKey": "meetup-boulderpython",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulderramblers",
       "displayName": "Boulder Ramblers (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulderramblers/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulderramblers/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Ramblers",
+      "venueKey": "meetup-boulderramblers",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Reporting Lab",
@@ -1188,11 +1357,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-rock-climbing-meetup-group",
       "displayName": "Boulder Rock Climbing Meetup Group (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-rock-climbing-meetup-group/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulder-rock-climbing-meetup-group",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Rock Climbing Meetup Group",
+      "venueKey": "meetup-boulder-rock-climbing-meetup-group",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Rock Club",
@@ -1202,10 +1379,10 @@
     },
     {
       "displayName": "Boulder Roleplaying Games RPGs (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "nightlife-social",
       "url": "https://www.meetup.com/boulder-roleplaying-games-rpgs-meetup-group",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/boulder-roleplaying-games-rpgs-meetup-group/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Boulder Rugby Club",
@@ -1228,11 +1405,19 @@
       "notes": "Area: Boulder County. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-shambhala-center",
       "displayName": "Boulder Shambhala Center (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-shambhala-center/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://www.meetup.com/boulder-shambhala-center/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Shambhala Center",
+      "venueKey": "meetup-boulder-shambhala-center",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 5 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Social Streets",
@@ -1263,11 +1448,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulderstartups",
       "displayName": "Boulder Startups (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulderstartups/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/boulderstartups/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Startups",
+      "venueKey": "meetup-boulderstartups",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 7 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Summer School for Condensed Matter Public Lecture",
@@ -1283,11 +1476,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-tech-connect",
       "displayName": "Boulder Tech Connect (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-tech-connect/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/boulder-tech-connect",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Tech Connect",
+      "venueKey": "meetup-boulder-tech-connect",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Theater",
@@ -1304,11 +1505,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-bouldertoddlerparents",
       "displayName": "Boulder Toddler Parents (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/bouldertoddlerparents/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://www.meetup.com/bouldertoddlerparents",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Toddler Parents",
+      "venueKey": "meetup-bouldertoddlerparents",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Track Club",
@@ -1324,11 +1533,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. The url is one event or an article, not a calendar: find the calendar before configuring."
     },
     {
+      "name": "boulder-university-womens-club",
       "displayName": "Boulder University Women's Club",
-      "status": "idea",
-      "category": "nightlife-social",
-      "url": "https://boulderuwc.org",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://boulderuwc.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
+      "category": "community-civic",
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder University Women's Club",
+      "venueKey": "boulder-university-womens-club",
+      "priority": 40,
+      "notes": "Area: Boulder. Likely adapter: scrape. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 4 events. Terms not read."
     },
     {
       "displayName": "Boulder Valley School District Athletics",
@@ -1345,18 +1562,34 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulderveganfamilies",
       "displayName": "Boulder Vegan Families (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulderveganfamilies/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://www.meetup.com/boulderveganfamilies",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Vegan Families",
+      "venueKey": "meetup-boulderveganfamilies",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulderwalks",
       "displayName": "Boulder Walks (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulderwalks/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulderwalks/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Walks",
+      "venueKey": "meetup-boulderwalks",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder Weekly",
@@ -1380,32 +1613,64 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-boulder-wilderness-hiking",
       "displayName": "Boulder Wilderness Hiking (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-wilderness-hiking/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/boulder-wilderness-hiking/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Wilderness Hiking",
+      "venueKey": "meetup-boulder-wilderness-hiking",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulderwine",
       "displayName": "Boulder Wine (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulderwine/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "food-drink",
-      "url": "https://www.meetup.com/boulderwine/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Wine",
+      "venueKey": "meetup-boulderwine",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 6 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulder-writers-alliance-meetup",
       "displayName": "Boulder Writers Alliance (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-writers-alliance-meetup/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Writers Alliance",
+      "venueKey": "meetup-boulder-writers-alliance-meetup",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-boulder-writers-directors-filmmaking-photographers-show",
       "displayName": "Boulder Writers Directors Filmmaking Photographers Show (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/boulder-writers-directors-filmmaking-photographers-show/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/boulder-writers-directors-filmmaking-photographers-show",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Boulder Writers Directors Filmmaking Photographers Show",
+      "venueKey": "meetup-boulder-writers-directors-filmmaking-photographers-show",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Boulder's Dinner Theatre (BDT Stage)",
@@ -1434,11 +1699,19 @@
       "notes": "Area: Boulder County. Likely adapter: other. The sister site WeekendBoise ruled out its counterpart (HTTP 503, refuses automated requests). Recheck here."
     },
     {
+      "name": "meetup-bvgt-family-activities",
       "displayName": "BVGT Family Activities (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/bvgt-family-activities/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://www.meetup.com/bvgt-family-activities",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "BVGT Family Activities",
+      "venueKey": "meetup-bvgt-family-activities",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "BVSD School Libraries Blog",
@@ -1454,11 +1727,19 @@
       "notes": "Area: Longmont. Likely adapter: scrape."
     },
     {
+      "name": "meetup-camerasandbeersboulder-thephotoshow",
       "displayName": "Cameras and Beers Boulder The Photo Show (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/camerasandbeersboulder-thephotoshow/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/camerasandbeersboulder-thephotoshow/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Cameras and Beers Boulder The Photo Show",
+      "venueKey": "meetup-camerasandbeersboulder-thephotoshow",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Caring Transitions of North Denver, Longmont, and Boulder",
@@ -1478,12 +1759,21 @@
       "notes": "Area: Louisville/Lafayette area, unconfirmed. Likely adapter: other. Lists on EstateSales.org."
     },
     {
+      "name": "carousel-of-happiness",
       "displayName": "Carousel of Happiness",
-      "status": "idea",
-      "category": "arts-culture",
-      "adapter": "scrape",
-      "url": "https://carouselofhappiness.org",
-      "notes": "Area: Nederland. Likely adapter: scrape."
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://carouselofhappiness.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
+      "category": "community-civic",
+      "inferCategory": true,
+      "city": "Nederland",
+      "venue": "Carousel of Happiness",
+      "venueKey": "carousel-of-happiness",
+      "priority": 20,
+      "fixedVenue": true,
+      "excludeTitlePattern": "(?i)^private\\b",
+      "notes": "Area: Nederland. Likely adapter: scrape. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 2 events. Terms not read."
     },
     {
       "displayName": "Cassiopeia Comedy Open Mic",
@@ -1578,11 +1868,20 @@
       "notes": "Area: Lafayette. Likely adapter: ics."
     },
     {
+      "name": "city-of-longmont",
       "displayName": "City of Longmont Events",
-      "status": "idea",
+      "status": "running",
+      "adapter": "ics",
+      "url": "https://longmontcolorado.gov/events/?ical=1",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://longmontcolorado.gov/events/",
-      "notes": "Area: Longmont. Likely adapter: tribe. Covers: Friends of the Longmont Library (FOLL) Book Sales."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "City of Longmont",
+      "venueKey": "city-of-longmont",
+      "priority": 20,
+      "excludeTitlePattern": "(?i)\\bmeetings?\\b|\\bhearings?\\b|\\bclosed\\b|\\bboard of\\b|\\bcommission\\b|\\bsession\\b",
+      "notes": "Area: Longmont. Likely adapter: tribe. Covers: Friends of the Longmont Library (FOLL) Book Sales. Configured 2026-11-13: iCal feed, robots.txt allows it; dry run found 28 events. Terms not read."
     },
     {
       "displayName": "City of Louisville Events",
@@ -1599,10 +1898,10 @@
     },
     {
       "displayName": "College Moms of Boulder (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "community-civic",
       "url": "https://www.meetup.com/college-moms-of-boulder-family-identity-what-s-next",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/college-moms-of-boulder-family-identity-what-s-next/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Colorado Bluegrass Music Society (Lyons Jam)",
@@ -1612,12 +1911,19 @@
       "notes": "Area: Lyons. Likely adapter: scrape."
     },
     {
+      "name": "colorado-chautauqua",
       "displayName": "Colorado Chautauqua",
-      "status": "idea",
-      "category": "arts-culture",
-      "adapter": "scrape",
-      "url": "https://chautauqua.com/",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://www.chautauqua.com/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
+      "category": "performing-arts",
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Chautauqua Auditorium",
+      "venueKey": "chautauqua-auditorium",
+      "priority": 20,
+      "notes": "Area: Boulder. Likely adapter: scrape. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 24 events. Terms not read."
     },
     {
       "displayName": "Colorado Directory (Boulder events)",
@@ -1640,11 +1946,11 @@
     },
     {
       "displayName": "Colorado Horse Rescue Tours (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "outdoors-recreation",
       "adapter": "meetup",
       "url": "https://www.meetup.com/en-au/flora-and-fauna-experiences/events/312655677",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/en-au/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Colorado MahlerFest",
@@ -1682,11 +1988,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "colorado-music-festival",
       "displayName": "Colorado Music Festival",
-      "status": "idea",
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://coloradomusicfestival.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
       "category": "music",
-      "url": "https://coloradomusicfestival.org",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Chautauqua Auditorium",
+      "venueKey": "chautauqua-auditorium",
+      "priority": 20,
+      "notes": "Area: Boulder. Likely adapter: scrape. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 0 events. Terms not read."
     },
     {
       "displayName": "Colorado Native Plant and Garden Tours at Boulder County Extension Demonstration Gardens",
@@ -1968,7 +2282,7 @@
       "status": "idea",
       "category": "performing-arts",
       "url": "https://cupresents.org/series/cu-performing-arts/cu-theatre-dance",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "notes": "Area: Boulder. Likely adapter: scrape. Covered by the running source cu-presents (2026-11-13)."
     },
     {
       "displayName": "CU Boulder Discovery Learning Center Calendar",
@@ -2145,7 +2459,7 @@
       "status": "idea",
       "category": "performing-arts",
       "url": "https://calendar.colorado.edu/group/macky_auditorium_concert_hall",
-      "notes": "Area: Boulder. Likely adapter: ics."
+      "notes": "Area: Boulder. Likely adapter: ics. Covered by the running source cu-presents (2026-11-13)."
     },
     {
       "displayName": "CU Boulder Mini Law School",
@@ -2389,11 +2703,21 @@
       "notes": "Area: Boulder. Likely adapter: tribe."
     },
     {
+      "name": "cu-presents",
       "displayName": "CU Presents",
-      "status": "idea",
+      "status": "running",
+      "adapter": "ics",
+      "url": "https://calendar.colorado.edu/group/cu_presents/calendar.ics",
+      "robotsChecked": "2026-11-13",
       "category": "performing-arts",
-      "url": "https://cupresents.org/events/",
-      "notes": "Area: Boulder. Likely adapter: scrape. Covers: CU Presents (Campus Calendar Group) (https://calendar.colorado.edu/group/cu_presents); CU Presents Dance Series (FRESH, The Current) (https://cupresents.org/series/cu-performing-arts/cu-dance); CU Presents Eklund Opera Program (https://cupresents.org/series/cu-performing-arts/cu-opera); CU Presents Macky Auditorium Venue Page (https://cupresents.org/venue/16/macky-auditorium/)."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "CU Boulder campus",
+      "venueKey": "cu-boulder-campus",
+      "priority": 20,
+      "locationFilter": "^(?!.*Denver)",
+      "excludeTitlePattern": "(?i)^cancel+ed\\b",
+      "notes": "Area: Boulder. Likely adapter: scrape. Covers: CU Presents (Campus Calendar Group) (https://calendar.colorado.edu/group/cu_presents); CU Presents Dance Series (FRESH, The Current) (https://cupresents.org/series/cu-performing-arts/cu-dance); CU Presents Eklund Opera Program (https://cupresents.org/series/cu-performing-arts/cu-opera); CU Presents Macky Auditorium Venue Page (https://cupresents.org/venue/16/macky-auditorium/). Configured 2026-11-13: iCal feed, robots.txt allows it; dry run found 237 events. Terms not read."
     },
     {
       "displayName": "CU Science Under the Dome",
@@ -2411,11 +2735,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape. Found through https://boulderreportinglab.org/2026/07/16/28-boulder-county-farm-stands-worth-a-summer-road-trip/."
     },
     {
+      "name": "dairy-arts-center",
       "displayName": "Dairy Arts Center",
-      "status": "idea",
-      "category": "performing-arts",
-      "url": "https://thedairy.org/",
-      "notes": "Area: Boulder. Likely adapter: tribe. Covers: Boulder Comedy Festival (Dairy Arts Center)."
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://thedairy.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
+      "category": "arts-culture",
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Dairy Arts Center",
+      "venueKey": "dairy-arts-center",
+      "priority": 20,
+      "notes": "Area: Boulder. Likely adapter: tribe. Covers: Boulder Comedy Festival (Dairy Arts Center). Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 249 events. Terms not read."
     },
     {
       "displayName": "Dairy Arts Center Exhibitions",
@@ -2423,7 +2755,7 @@
       "category": "arts-culture",
       "adapter": "tribe",
       "url": "https://thedairy.org/art-exhibitions/",
-      "notes": "Area: Boulder. Likely adapter: tribe."
+      "notes": "Area: Boulder. Likely adapter: tribe. Covered by the running source dairy-arts-center (2026-11-13)."
     },
     {
       "displayName": "DARIA Art Spaces and Exhibitions Calendar (Boulder-Longmont)",
@@ -2614,14 +2946,25 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/venue/erie-community-center/",
-      "notes": "Area: Erie. Likely adapter: tribe."
+      "notes": "Area: Erie. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
+      "name": "erie-community-library",
       "displayName": "Erie Community Library",
-      "status": "idea",
+      "status": "running",
+      "adapter": "ics",
+      "url": "https://highplains.libcal.com/ical_subscribe.php?src=p&cid=8181",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://highplains.libcal.com",
-      "notes": "Area: Erie. Likely adapter: ics."
+      "inferCategory": true,
+      "city": "Erie",
+      "venue": "Erie Community Library",
+      "venueKey": "erie-community-library",
+      "priority": 30,
+      "fixedVenue": true,
+      "locationFilter": "Erie",
+      "excludeTitlePattern": "(?i)^closed\\b|\\bboard meeting\\b|^reserved\\b|^private\\b",
+      "notes": "Area: Erie. Likely adapter: ics. Configured 2026-11-13: iCal feed, robots.txt allows it; dry run found 48 events. Terms not read."
     },
     {
       "displayName": "Erie Concerts in the Park",
@@ -2668,10 +3011,11 @@
     },
     {
       "displayName": "Erie Women's Hiking Group (Meetup)",
-      "status": "idea",
+      "status": "ruled-out",
       "category": "outdoors-recreation",
       "url": "https://www.meetup.com/erie-womens-hiking-group/",
-      "notes": "Area: Erie. Likely adapter: meetup."
+      "notes": "Area: Erie. Likely adapter: meetup.",
+      "reason": "Private Meetup group: its iCal feed answered HTTP 403 on 2026-11-13."
     },
     {
       "displayName": "Estate Alchemy LLC",
@@ -2824,17 +3168,18 @@
     },
     {
       "displayName": "Finding Female Friends Past Fifty Boulder County (Meetup)",
-      "status": "idea",
+      "status": "ruled-out",
       "category": "nightlife-social",
       "url": "https://www.meetup.com/finding-female-friends-past-fifty-boulder-county",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup.",
+      "reason": "Private Meetup group: its iCal feed answered HTTP 403 on 2026-11-13."
     },
     {
       "displayName": "Finding Friends Past Fifty Longmont (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "nightlife-social",
       "url": "https://www.meetup.com/finding-friends-past-fifty-longmont/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/finding-friends-past-fifty-longmont/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Firehouse Art Center (Longmont)",
@@ -3004,7 +3349,7 @@
       "status": "idea",
       "category": "music",
       "url": "https://cupresents.org/venue-details/12/grusin-music-hall-c112",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "notes": "Area: Boulder. Likely adapter: scrape. Covered by the running source cu-presents (2026-11-13)."
     },
     {
       "displayName": "Handweavers Guild of Boulder",
@@ -3021,12 +3366,19 @@
       "notes": "Area: Erie. Likely adapter: scrape."
     },
     {
+      "name": "historic-boulder",
       "displayName": "Historic Boulder Inc",
-      "status": "idea",
-      "category": "arts-culture",
+      "status": "running",
       "adapter": "tribe",
-      "url": "https://historicboulder.org/",
-      "notes": "Area: Boulder. Likely adapter: tribe."
+      "url": "https://historicboulder.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
+      "category": "arts-culture",
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Historic Boulder",
+      "venueKey": "historic-boulder",
+      "priority": 20,
+      "notes": "Area: Boulder. Likely adapter: tribe. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 3 events. Terms not read."
     },
     {
       "displayName": "Historic Boulder Neighborhoods Black History in Boulder County (HBC)",
@@ -3064,11 +3416,19 @@
       "notes": "Area: Lafayette. Likely adapter: scrape."
     },
     {
+      "name": "meetup-improvbouldermeetup",
       "displayName": "Improv Boulder (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/improvbouldermeetup/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "performing-arts",
-      "url": "https://www.meetup.com/improvbouldermeetup/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Improv Boulder",
+      "venueKey": "meetup-improvbouldermeetup",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 5 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "INSTAAR Seminars",
@@ -3161,7 +3521,7 @@
       "status": "idea",
       "category": "community-civic",
       "url": "https://bouldercounty.gov/volunteer/opportunities/details/keep-it-clean-waterways-project/",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "notes": "Area: Boulder. Likely adapter: scrape. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "KGNU Community Calendar",
@@ -3248,11 +3608,22 @@
       "notes": "Area: Lafayette. Likely adapter: scrape. Found through https://events.bizwest.com/event/lafayette-peach-festival/."
     },
     {
+      "name": "lafayette-public-library",
       "displayName": "Lafayette Public Library",
-      "status": "idea",
+      "status": "running",
+      "adapter": "ics",
+      "url": "https://lafayettepubliclibrary.libcal.com/ical_subscribe.php?src=p&cid=10144",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://lafayettepubliclibrary.libcal.com",
-      "notes": "Area: Lafayette. Likely adapter: ics. Also listed on Burbio (https://www.burbio.com/states/Colorado/Lafayette/lafayette-public-library); read the library calendar, not Burbio."
+      "inferCategory": true,
+      "city": "Lafayette",
+      "venue": "Lafayette Public Library",
+      "venueKey": "lafayette-public-library",
+      "priority": 30,
+      "fixedVenue": true,
+      "locationFilter": "Lafayette Library",
+      "excludeTitlePattern": "(?i)^closed\\b|\\bboard meeting\\b|^reserved\\b|^private\\b|\\bstaff\\b",
+      "notes": "Area: Lafayette. Likely adapter: ics. Also listed on Burbio (https://www.burbio.com/states/Colorado/Lafayette/lafayette-public-library); read the library calendar, not Burbio. Configured 2026-11-13: iCal feed, robots.txt allows it; dry run found 473 events. Terms not read."
     },
     {
       "displayName": "Lafayette Quaker Oatmeal Festival",
@@ -3408,10 +3779,10 @@
     },
     {
       "displayName": "Longmont Business Connections Meetup Group (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "learning-business",
       "url": "https://www.meetup.com/longmont-business-connections-meetup-group/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/longmont-business-connections-meetup-group/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Longmont Chorale",
@@ -3441,7 +3812,7 @@
       "category": "community-civic",
       "adapter": "tribe",
       "url": "https://longmontcolorado.gov/events/category/community-and-neighborhood-resources/",
-      "notes": "Area: Longmont. Likely adapter: tribe."
+      "notes": "Area: Longmont. Likely adapter: tribe. Covered by the running source city-of-longmont (2026-11-13)."
     },
     {
       "displayName": "Longmont Community Foundation",
@@ -3473,10 +3844,10 @@
     },
     {
       "displayName": "Longmont Depression Meet Up (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "community-civic",
       "url": "https://www.meetup.com/longmont-depression-meet-up/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/longmont-depression-meet-up/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Longmont Economic Development Partnership",
@@ -3501,11 +3872,19 @@
       "notes": "Area: Longmont. Likely adapter: scrape."
     },
     {
+      "name": "meetup-longmont-game-night-society",
       "displayName": "Longmont Game Night Society (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/longmont-game-night-society/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/longmont-game-night-society/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "Longmont Game Night Society",
+      "venueKey": "meetup-longmont-game-night-society",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Longmont GO Guide (Seniors, Recreation, Events PDFs)",
@@ -3561,7 +3940,7 @@
       "status": "idea",
       "category": "community-civic",
       "url": "https://longmontcolorado.gov/events/tag/library-bilingues/",
-      "notes": "Area: Longmont. Likely adapter: scrape."
+      "notes": "Area: Longmont. Likely adapter: scrape. Covered by the running source city-of-longmont (2026-11-13)."
     },
     {
       "displayName": "Longmont Library Hobby Groups (City of Longmont)",
@@ -3597,7 +3976,7 @@
       "category": "arts-culture",
       "adapter": "scrape",
       "url": "https://longmontcolorado.gov/events/category/museum/",
-      "notes": "Area: Longmont. Likely adapter: scrape."
+      "notes": "Area: Longmont. Likely adapter: scrape. Covered by the running source city-of-longmont (2026-11-13)."
     },
     {
       "displayName": "Longmont Museum Events and Performances",
@@ -3634,14 +4013,14 @@
       "status": "idea",
       "category": "learning-business",
       "url": "https://longmontcolorado.gov/events/category/library/",
-      "notes": "Area: Longmont. Likely adapter: tribe. Also posts on Eventbrite (https://www.eventbrite.com/o/15722966697)."
+      "notes": "Area: Longmont. Likely adapter: tribe. Also posts on Eventbrite (https://www.eventbrite.com/o/15722966697). Covered by the running source city-of-longmont (2026-11-13)."
     },
     {
       "displayName": "Longmont Public Library Meetups (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "learning-business",
       "url": "https://www.meetup.com/longmont-public-library-meetups/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/longmont-public-library-meetups/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Longmont Recreation Services",
@@ -3706,18 +4085,26 @@
       "notes": "Area: Longmont. Likely adapter: scrape."
     },
     {
+      "name": "meetup-longmont-walks",
       "displayName": "Longmont Walks (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/longmont-walks/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/longmont-walks/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "Longmont Walks",
+      "venueKey": "meetup-longmont-walks",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Longmont Women Personal Development Meetup Group (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "learning-business",
       "url": "https://www.meetup.com/longmont-women-personal-development-meetup-group/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/longmont-women-personal-development-meetup-group/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Longmont Youth Center and Children, Youth and Families Calendar",
@@ -3832,7 +4219,7 @@
       "status": "idea",
       "category": "outdoors-recreation",
       "url": "https://www.louisvilleco.gov/living-in-louisville/recreation-senior-center/visit-us/calendar",
-      "notes": "Area: Louisville. Likely adapter: scrape. Also on the Boulder County calendar as a venue (https://bouldercounty.gov/venue/louisville-recreation-senior-center/)."
+      "notes": "Area: Louisville. Likely adapter: scrape. Also on the Boulder County calendar as a venue (https://bouldercounty.gov/venue/louisville-recreation-senior-center/). Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Louisville Street Faire",
@@ -3958,9 +4345,9 @@
     },
     {
       "displayName": "Meetup.com",
-      "status": "idea",
+      "status": "investigating",
       "url": "https://www.meetup.com/find/us--co--boulder/",
-      "notes": "Area: Boulder. Likely adapter: meetup. The sister site WeekendBoise ruled out its counterpart (replaced by one source per group; the umbrella entry is not used itself). Recheck here."
+      "notes": "Area: Boulder. Likely adapter: meetup. The sister site WeekendBoise ruled out its counterpart (replaced by one source per group; the umbrella entry is not used itself). Recheck here. 2026-11-13: https://www.meetup.com/find/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Mile High 360 Estate Sales",
@@ -3991,11 +4378,20 @@
       "notes": "Area: Lafayette. Likely adapter: other. Found through https://tickets.venuepilot.com/e/124651."
     },
     {
+      "name": "museum-of-boulder",
       "displayName": "Museum of Boulder",
-      "status": "idea",
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://museumofboulder.org/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://museumofboulder.org",
-      "notes": "Area: Boulder. Likely adapter: tribe."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Museum of Boulder",
+      "venueKey": "museum-of-boulder",
+      "priority": 20,
+      "fixedVenue": true,
+      "notes": "Area: Boulder. Likely adapter: tribe. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 8 events. Terms not read."
     },
     {
       "displayName": "Music festivals (Boulder music festival)",
@@ -4101,18 +4497,28 @@
       "notes": "Area: Nederland. Likely adapter: scrape."
     },
     {
+      "name": "nederland-community-library",
       "displayName": "Nederland Community Library",
-      "status": "idea",
+      "status": "running",
+      "adapter": "ics",
+      "url": "https://nederland.libcal.com/ical_subscribe.php?src=p&cid=4818",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://nederland.libcal.com",
-      "notes": "Area: Nederland. Likely adapter: ics. Also listed on Burbio (https://www.burbio.com/states/Colorado/Nederland/nederland-community-library); read the library calendar, not Burbio."
+      "inferCategory": true,
+      "city": "Nederland",
+      "venue": "Nederland Community Library",
+      "venueKey": "nederland-community-library",
+      "priority": 30,
+      "fixedVenue": true,
+      "excludeTitlePattern": "(?i)^closed\\b|\\bboard meeting\\b|^reserved\\b|^private\\b",
+      "notes": "Area: Nederland. Likely adapter: ics. Also listed on Burbio (https://www.burbio.com/states/Colorado/Nederland/nederland-community-library); read the library calendar, not Burbio. Configured 2026-11-13: iCal feed, robots.txt allows it; dry run found 208 events. Terms not read."
     },
     {
       "displayName": "Nederland Mining Museum",
       "status": "idea",
       "category": "arts-culture",
       "url": "https://bouldercounty.gov/open-space/education/museums/nederland-mining-museum/",
-      "notes": "Area: Nederland. Likely adapter: scrape."
+      "notes": "Area: Nederland. Likely adapter: scrape. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Nederland Visitors Center",
@@ -4166,7 +4572,7 @@
       "type": "auction",
       "category": "auctions-estate-sales",
       "url": "https://bouldercounty.gov/event/niwot-antique-auction-19/",
-      "notes": "Area: Longmont (Boulder County Fairgrounds). Likely adapter: ics. Listed on the Boulder County fairgrounds event calendar. The url is one event or an article, not a calendar: find the calendar before configuring."
+      "notes": "Area: Longmont (Boulder County Fairgrounds). Likely adapter: ics. Listed on the Boulder County fairgrounds event calendar. The url is one event or an article, not a calendar: find the calendar before configuring. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Niwot Business Association",
@@ -4208,18 +4614,34 @@
       "notes": "Area: Boulder. Likely adapter: eventbrite."
     },
     {
+      "name": "meetup-nocomustachians",
       "displayName": "NoCoMustachians (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/nocomustachians/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/nocomustachians/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "NoCoMustachians",
+      "venueKey": "meetup-nocomustachians",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 5 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-northern-burbs-active-adults",
       "displayName": "Northern Burbs Active Adults (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/northern-burbs-active-adults/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "nightlife-social",
-      "url": "https://www.meetup.com/northern-burbs-active-adults/",
-      "notes": "Area: Louisville. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Louisville",
+      "venue": "Northern Burbs Active Adults",
+      "venueKey": "meetup-northern-burbs-active-adults",
+      "priority": 70,
+      "notes": "Area: Louisville. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "OnStage Colorado",
@@ -4362,11 +4784,19 @@
       "notes": "Area: Boulder. Likely adapter: other."
     },
     {
+      "name": "meetup-pugs-of-colorado",
       "displayName": "Pugs of Colorado (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/Pugs-of-Colorado/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "outdoors-recreation",
-      "url": "https://www.meetup.com/Pugs-of-Colorado",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Pugs of Colorado",
+      "venueKey": "meetup-pugs-of-colorado",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Race Roster",
@@ -4410,11 +4840,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-meetup-group-rebelbookclub",
       "displayName": "Rebel Book Club (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/meetup-group-rebelbookclub/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/meetup-group-rebelbookclub",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Rebel Book Club",
+      "venueKey": "meetup-meetup-group-rebelbookclub",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Regal Village at the Peaks (Longmont)",
@@ -4444,11 +4882,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-rmaiig",
       "displayName": "Rocky Mountain Artificial Intelligence Interest Group RMAIIG (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/rmaiig/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/rmaiig",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Rocky Mountain Artificial Intelligence Interest Group RMAIIG",
+      "venueKey": "meetup-rmaiig",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Rocky Mountain Equality",
@@ -4560,11 +5006,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "meetup-silent-book-club-lafayette",
       "displayName": "Silent Book Club Lafayette (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/silent-book-club-lafayette/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://www.meetup.com/silent-book-club-lafayette",
-      "notes": "Area: Lafayette. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Lafayette",
+      "venue": "Silent Book Club Lafayette",
+      "venueKey": "meetup-silent-book-club-lafayette",
+      "priority": 70,
+      "notes": "Area: Lafayette. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Silicon Flatirons (Colorado Law Localist)",
@@ -4595,12 +5049,19 @@
       "notes": "Area: Longmont. Likely adapter: scrape."
     },
     {
+      "name": "meetup-solidstatedepot",
       "displayName": "Solid State Depot (Louisville Makerspace)",
-      "status": "idea",
-      "category": "learning-business",
+      "status": "running",
       "adapter": "meetup",
-      "url": "https://www.meetup.com/solidstatedepot/events/315609492/",
-      "notes": "Area: Louisville. Likely adapter: meetup."
+      "url": "https://www.meetup.com/solidstatedepot/events/ical/",
+      "robotsChecked": "2026-11-13",
+      "category": "learning-business",
+      "inferCategory": true,
+      "city": "Louisville",
+      "venue": "Solid State Depot (Louisville Makerspace)",
+      "venueKey": "meetup-solidstatedepot",
+      "priority": 70,
+      "notes": "Area: Louisville. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 10 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Sommers-Bausch Observatory",
@@ -4623,10 +5084,10 @@
     },
     {
       "displayName": "Sophie's Sanitas Singles Boulder 30s 40s Hike (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "outdoors-recreation",
       "url": "https://www.meetup.com/sophie-s-sanitas-singles-boulder-30s-40s-hike/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/sophie-s-sanitas-singles-boulder-30s-40s-hike/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Spring blossom and orchard festivals (Boulder County)",
@@ -4635,11 +5096,19 @@
       "notes": "Area: Boulder County. Likely adapter: scrape. The sister site WeekendBoise ruled out its counterpart (official site did not resolve in DNS). Recheck here."
     },
     {
+      "name": "meetup-st-vrain-chain-gang",
       "displayName": "St Vrain Chain Gang (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/st-vrain-chain-gang/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "sports",
-      "url": "https://www.meetup.com/st-vrain-chain-gang",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "St Vrain Chain Gang",
+      "venueKey": "meetup-st-vrain-chain-gang",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "St. Vrain and Left Hand Water Conservancy District",
@@ -4655,7 +5124,7 @@
       "category": "performing-arts",
       "adapter": "scrape",
       "url": "https://www.svvsd.org/?p=11072",
-      "notes": "Area: Longmont. Likely adapter: scrape. Covers: St. Vrain Valley Schools Art Show (Boulder County Calendar) (https://bouldercounty.gov/event/st-vrain-valley-schools-art-show-5/). The url is one event or an article, not a calendar: find the calendar before configuring."
+      "notes": "Area: Longmont. Likely adapter: scrape. Covers: St. Vrain Valley Schools Art Show (Boulder County Calendar) (https://bouldercounty.gov/event/st-vrain-valley-schools-art-show-5/). The url is one event or an article, not a calendar: find the calendar before configuring. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "St. Vrain Valley Schools Athletics",
@@ -4672,11 +5141,19 @@
       "notes": "Area: Longmont. Likely adapter: rss."
     },
     {
+      "name": "meetup-startup-longmont",
       "displayName": "Startup Longmont (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/startup-longmont/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/startup-longmont/",
-      "notes": "Area: Longmont. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Longmont",
+      "venue": "Startup Longmont",
+      "venueKey": "meetup-startup-longmont",
+      "priority": 70,
+      "notes": "Area: Longmont. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 0 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Steinbaugh Pavilion",
@@ -4718,11 +5195,22 @@
       "notes": "Area: Boulder County. Likely adapter: other. The sister site WeekendBoise ruled out its counterpart (partner API only, and resale duplicates primary listings). Recheck here."
     },
     {
+      "name": "superior-chamber",
       "displayName": "Superior Chamber of Commerce",
-      "status": "idea",
+      "status": "running",
+      "adapter": "scrape",
+      "url": "https://member.superiorchamber.com/events/calendar/",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://member.superiorchamber.com/events",
-      "notes": "Area: Superior. Likely adapter: scrape. The sister site WeekendBoise ruled out its counterpart (GrowthZone chamber calendars behind a Cloudflare challenge). Recheck here."
+      "inferCategory": true,
+      "city": "Superior",
+      "venue": "Superior Chamber of Commerce",
+      "venueKey": "superior-chamber",
+      "priority": 20,
+      "scrapeMode": "chambermaster",
+      "maxPages": 3,
+      "excludeTitlePattern": "(?i)\\bworship\\b|\\bbible\\b|\\bmeeting\\b|\\bclosed\\b|\\bdeadline\\b|ribbon cutting|\\bleads group\\b|\\bboard\\b",
+      "notes": "Area: Superior. Likely adapter: scrape. The sister site WeekendBoise ruled out its counterpart (GrowthZone chamber calendars behind a Cloudflare challenge). Recheck here. Configured 2026-11-13: scrape (chambermaster), robots.txt allows it; dry run found 15 events. Terms not read."
     },
     {
       "displayName": "Superior Chat with the Chief",
@@ -4792,10 +5280,10 @@
     },
     {
       "displayName": "Supporting Boulder County Homeschoolers (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "community-civic",
       "url": "https://www.meetup.com/supporting-boulder-county-homeschoolers-meetup-group/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/supporting-boulder-county-homeschoolers-meetup-group/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "SweatPals (Boulder)",
@@ -4816,7 +5304,7 @@
       "status": "idea",
       "category": "music",
       "url": "https://cupresents.org/performance/1707507621",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "notes": "Area: Boulder. Likely adapter: scrape. Covered by the running source cu-presents (2026-11-13)."
     },
     {
       "displayName": "Taste of Pearl (Downtown Boulder)",
@@ -5006,11 +5494,21 @@
       "notes": "Area: Boulder. Likely adapter: other. The sister site WeekendBoise ruled out its counterpart (robots.txt answered HTTP 403 to the project User-Agent). Recheck here."
     },
     {
+      "name": "town-of-erie",
       "displayName": "Town of Erie",
-      "status": "idea",
+      "status": "running",
+      "adapter": "scrape",
+      "url": "https://www.erieco.gov/Calendar.aspx",
+      "robotsChecked": "2026-11-13",
       "category": "community-civic",
-      "url": "https://www.erieco.gov",
-      "notes": "Area: Erie. Likely adapter: scrape."
+      "inferCategory": true,
+      "city": "Erie",
+      "venue": "Town of Erie",
+      "venueKey": "town-of-erie",
+      "priority": 20,
+      "scrapeMode": "civicplus",
+      "excludeTitlePattern": "(?i)\\bmeetings?\\b|\\bhearings?\\b|\\bclosed\\b|\\bboard of\\b|\\bcommission\\b|\\bsession\\b|\\bauthority\\b|\\badvising\\b",
+      "notes": "Area: Erie. Likely adapter: scrape. Configured 2026-11-13: scrape (civicplus), robots.txt allows it; dry run found 4 events. Terms not read."
     },
     {
       "displayName": "Town of Erie Parks and Recreation",
@@ -5020,11 +5518,21 @@
       "notes": "Area: Erie. Likely adapter: scrape."
     },
     {
+      "name": "town-of-lyons",
       "displayName": "Town of Lyons Calendar",
-      "status": "idea",
-      "category": "community-civic",
+      "status": "running",
+      "adapter": "scrape",
       "url": "https://townoflyons.com/Calendar.aspx?CID=14",
-      "notes": "Area: Lyons. Likely adapter: rss."
+      "robotsChecked": "2026-11-13",
+      "category": "community-civic",
+      "inferCategory": true,
+      "city": "Lyons",
+      "venue": "Town of Lyons",
+      "venueKey": "town-of-lyons",
+      "priority": 20,
+      "scrapeMode": "civicplus",
+      "excludeTitlePattern": "(?i)\\bmeetings?\\b|\\bhearings?\\b|\\bclosed\\b|\\bboard of\\b|\\bcommission\\b|\\bsession\\b",
+      "notes": "Area: Lyons. Likely adapter: rss. Configured 2026-11-13: scrape (civicplus), robots.txt allows it; dry run found 0 events. Terms not read."
     },
     {
       "displayName": "Town of Lyons Official Communications (CivicSend)",
@@ -5138,11 +5646,19 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "name": "upslope-brewing",
       "displayName": "Upslope Brewing Company",
-      "status": "idea",
+      "status": "running",
+      "adapter": "tribe",
+      "url": "https://upslopebrewing.com/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-13",
       "category": "food-drink",
-      "url": "https://upslopebrewing.com/events/",
-      "notes": "Area: Boulder. Likely adapter: tribe."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Upslope Brewing Company",
+      "venueKey": "upslope-brewing",
+      "priority": 30,
+      "notes": "Area: Boulder. Likely adapter: tribe. Configured 2026-11-13: The Events Calendar REST API (tribe), robots.txt allows it; dry run found 0 events. Terms not read."
     },
     {
       "displayName": "Vance Brand Civic Auditorium",
@@ -5206,7 +5722,7 @@
       "category": "outdoors-recreation",
       "adapter": "tribe",
       "url": "https://bouldercounty.gov/venue/walden-ponds-wildlife-habitat/?eventDisplay=past",
-      "notes": "Area: Boulder. Likely adapter: tribe."
+      "notes": "Area: Boulder. Likely adapter: tribe. Covered by the running source boulder-county (2026-11-13)."
     },
     {
       "displayName": "Walnut Gallery (Longmont)",
@@ -5271,18 +5787,34 @@
       "notes": "Area: Lyons. Likely adapter: other."
     },
     {
+      "name": "meetup-women-in-ai-colorado",
       "displayName": "Women in AI Colorado (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/women-in-ai-colorado/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "learning-business",
-      "url": "https://www.meetup.com/women-in-ai-colorado/",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Women in AI Colorado",
+      "venueKey": "meetup-women-in-ai-colorado",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 1 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "name": "meetup-womens-open-jam-at-dog-house-music-studios",
       "displayName": "Women's Open Jam at Dog House Music Studios (Meetup)",
-      "status": "idea",
+      "status": "running",
+      "adapter": "meetup",
+      "url": "https://www.meetup.com/womens-open-jam-at-dog-house-music-studios/events/ical/",
+      "robotsChecked": "2026-11-13",
       "category": "arts-culture",
-      "url": "https://meetup.com/womens-open-jam-at-dog-house-music-studios",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "Women's Open Jam at Dog House Music Studios",
+      "venueKey": "meetup-womens-open-jam-at-dog-house-music-studios",
+      "priority": 70,
+      "notes": "Area: Boulder. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
       "displayName": "Yellow Scene Magazine",
@@ -5299,10 +5831,10 @@
     },
     {
       "displayName": "Your Boulder Village 30s 40s (Meetup)",
-      "status": "idea",
+      "status": "investigating",
       "category": "nightlife-social",
       "url": "https://www.meetup.com/your-boulder-village-30-40s",
-      "notes": "Area: Boulder. Likely adapter: meetup."
+      "notes": "Area: Boulder. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/your-boulder-village-30-40s/events/ical/ answered HTTP 404; the group may be gone or renamed."
     },
     {
       "displayName": "Z2 Entertainment (Tixr)",

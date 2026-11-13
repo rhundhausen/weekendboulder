@@ -1,6 +1,6 @@
 # Sources
 
-`ingestion/sources.json` lists every source: the ones ingest runs, configured ones waiting on credentials, ideas, and sites already ruled out. Ingest runs only entries whose `status` is `running`. The repo starts with an empty `sources` list and an empty `doNotIngest` list, so nothing runs until entries are added. It is hand-edited: keep entries sorted by `displayName`, ignoring case. Run `./ingestion/scripts/Test-Sources.ps1` from the repo root after editing.
+`ingestion/sources.json` lists every source: the ones ingest runs, configured ones waiting on credentials, ideas, and sites already ruled out. Ingest runs only entries whose `status` is `running`. It is hand-edited: keep entries sorted by `displayName`, ignoring case. Run `./ingestion/scripts/Test-Sources.ps1` from the repo root after editing.
 
 **Check it before probing any site.** See [Status lifecycle](#status-lifecycle) below.
 
@@ -252,7 +252,7 @@ Songkick covers the first seven ticketing platforms for music without scraping.
 
 Start with the four public APIs (Ticketmaster, Eventbrite, SeatGeek, Songkick), then Showclix and Etix scrapes for seasonal and club coverage, then the long tail.
 
-No source is running yet, and none of the API adapters (Ticketmaster, Google Calendar, Eventbrite, SeatGeek, Songkick) has credentials in this repo. Scraping must follow the project rule: no evading bot controls, so a site that refuses requests stays out, recorded as `ruled-out` in `sources.json`.
+The first sources run from 2026-11-13, all without API keys. None of the API adapters (Ticketmaster, Google Calendar, Eventbrite, SeatGeek, Songkick) has credentials in this repo. Scraping must follow the project rule: no evading bot controls, so a site that refuses requests stays out, recorded as `ruled-out` in `sources.json`.
 
 ### API status
 
