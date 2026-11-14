@@ -244,6 +244,28 @@
     ]
   },
   {
+    "id": "1960dac54cd6",
+    "title": "Erie Evening Book Club",
+    "start": "2026-11-02T18:30:00-07:00",
+    "end": "2026-11-02T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/15852476",
+    "description": "Do you love reading and lively conversation? Looking for a fun way to enjoy books, meet new people and share opinions about what you’ve read? Join the Erie Evening Book Club to discuss fiction and non-fiction books. The book club discussion is in-person.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/15852476",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
     "id": "d051b498782e",
     "title": "Takács Quartet: Nov. 2026",
     "start": "2026-11-02T19:30:00-07:00",
@@ -283,6 +305,55 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/event/17220815",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c7e982d6cade",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-03T09:30:00-07:00",
+    "end": "2026-11-03T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605860",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605860",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "111f1d134588",
+    "title": "Erie Music & Movement",
+    "start": "2026-11-03T10:30:00-07:00",
+    "end": "2026-11-03T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605871",
+    "description": "Music and Movement is designed for children and caregivers to get up and move together while enhancing motor skills and reinforcing early literacy skills. Instruments and activities are geared toward children ages 3 - 5. This event is drop in and has limited capacity, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605871",
+        "fetchedAt": "2026-11-14T07:11:53Z"
       }
     ]
   },
@@ -1827,6 +1898,28 @@
     ]
   },
   {
+    "id": "5070353ddda1",
+    "title": "All Out League",
+    "start": "2026-11-13T04:00:00-07:00",
+    "end": "2026-11-13T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-13/",
+    "description": "(AOL) is a pro-diversity, anti-gang sports league for middle and high school students. AOL emphasizes sportsmanship, selflessness and new friendships. Sports include basketball, soccer, flag football, volleyball, ultimate Frisbee and many more. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
     "id": "9380702db4c8",
     "title": "Enchanted Mesa Group Hike",
     "start": "2026-11-13T09:00:00-07:00",
@@ -1852,6 +1945,142 @@
     ]
   },
   {
+    "id": "025ea15eb8b8",
+    "title": "Discovery Days Art",
+    "start": "2026-11-13T09:15:00-07:00",
+    "end": "2026-11-13T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-13/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "848af9fe3f8f",
+    "title": "Continental Divide Overlook via Fowler - 7.5 miles and 1,400 feet EG",
+    "start": "2026-11-13T09:30:00-07:00",
+    "end": "2026-11-13T13:30:00-07:00",
+    "allDay": false,
+    "venue": "Eldorado Canyon Park and Ride",
+    "venueKey": "eldorado-canyon-park-and-ride",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316832130/",
+    "description": "Let's hike from the Fowler trailhead on CO 67 into Eldorado Canyon State Park and take the Rattlesnake Gulch trail up the mountain. We will pass the historic Crags Hotel ruins on our way to the Continental Divide overlook. We will take a number of short breaks to enjoy the beautiful scenery and w...",
+    "sources": [
+      {
+        "name": "meetup-boulder-wilderness-hiking",
+        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316832130/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "84b7974f1591",
+    "title": "Front Range Agility Club NADAC Dog Agility Trial",
+    "start": "2026-11-13T09:30:00-07:00",
+    "end": "2026-11-13T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d2232229b933",
+    "title": "Boulder Potters Guild Fall Pottery Sale",
+    "start": "2026-11-13T10:00:00-07:00",
+    "end": "2026-11-13T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-2-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-2-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f0e8500484be",
+    "title": "Second Friday Book Club",
+    "start": "2026-11-13T10:00:00-07:00",
+    "end": "2026-11-13T11:15:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Sr2nFridayBookClub2026",
+    "description": "This independent book club, co-sponsored by the Senior Center, meets at the Library on the second Friday of each month. For any questions on book selections or the club, contact Pat by email. Visit the Library Book Group page for more information: lafayetteco.gov/LibraryBookGroups.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Sr2nFridayBookClub2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3c3cae6b90ab",
+    "title": "STORYTIME!",
+    "start": "2026-11-13T10:15:00-07:00",
+    "end": "2026-11-13T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820251",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820251",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
     "id": "26296d2661b6",
     "title": "Family Storytime",
     "start": "2026-11-13T10:30:00-07:00",
@@ -1872,6 +2101,366 @@
       {
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeFriAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1f47ee05b8f6",
+    "title": "Pella Crossing Noon Hour Nature Walk",
+    "start": "2026-11-13T12:00:00-07:00",
+    "end": "2026-11-13T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Pella Crossing",
+    "venueKey": "pella-crossing",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316623487/",
+    "description": "FOOD DRIVE: BRING A CANNED GOOD WITH YOU FOR THE OUR CENTER! TYPE: Weekly walk | PACE: Moderate | TERRAIN: crushed gravel trail | DISTANCE 1.8 miles | Fridays at Noon at the Pella Crossing Open Space. With grasses, wildflowers and trees surrounding the wetlands, Pella Crossing areas are biologica...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316623487/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b22d13305efd",
+    "title": "Cello At The Library",
+    "start": "2026-11-13T14:00:00-07:00",
+    "end": "2026-11-13T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/cello-at-the-library/",
+    "description": "All ages Library Meeting Rooms No registration required This program is in English Stop by the Longmont Public Library and enjoy the ambient curated cello music by renowned cellist Julian Bennett. Whether you’re quickly picking up a book or are hear for some classic music, grab a chair and enjoy!",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/cello-at-the-library/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0573d6287418",
+    "title": "Makerspace - Reserve",
+    "start": "2026-11-13T14:30:00-07:00",
+    "end": "2026-11-13T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerReservationsNov13Dec182026",
+    "description": "Reserve the Makerspace for yourself and up to three additional people. When reserving, select which machines you want to use: laser cutter, sewing and embroidery machines, Cricut machines, and more! (At this time, 3D printers are not available for use during Makerspace reservation sessions.) Rese...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerReservationsNov13Dec182026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f4b799dd8962",
+    "title": "Friday Afternoon Concert: LAPOMPE",
+    "start": "2026-11-13T14:30:00-07:00",
+    "end": "2026-11-13T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/friday-afternoon-concert-lapompe/",
+    "description": "Enjoy an afternoon of live music in our Stewart Auditorium this fall featuring an eclectic array of musical acts from up and down the Front Range. For nearly a decade, LAPOMPE has been entertaining and delighting audiences in Colorado with their eclectic combination of gypsy swing, blues and soul...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/friday-afternoon-concert-lapompe/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a54556e63e0d",
+    "title": "Art",
+    "start": "2026-11-13T15:00:00-07:00",
+    "end": "2026-11-13T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/art-2/2026-11-13/",
+    "description": "Come try a new art project on Monday afternoons with Lydia, a local art teacher and student therapist. Join us at the art table to relax, hang out, and get creative! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/art-2/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ad281d88c4c2",
+    "title": "Mental Wellness Activities with Clinica Family Health: Sensory Jars",
+    "start": "2026-11-13T15:00:00-07:00",
+    "end": "2026-11-13T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/mental-wellness-activities-with-clinica-family-health-sensory-jars/",
+    "description": "For all ages Library lobby No registration required This program is in English and Spanish Join Community Health Workers from Clinica Family Health & Wellness for simple wellness activities in our main Library lobby area. They visit every on select Fridays each month to share tips and resources a...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/mental-wellness-activities-with-clinica-family-health-sensory-jars/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "832c23ed4f56",
+    "title": "Bernstein’s Wall | Nov. 11 – 14",
+    "start": "2026-11-13T15:30:00-07:00",
+    "end": "2026-11-13T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/bernsteins-wall-nov-11-14/2026-11-13/",
+    "description": "TICKETS Nov 11-14 This film follows Leonard Bernstein on his lifelong journey to define his role as one of America’s most important musical figures, while fighting to create social change and inspire political activism through his work. Told in Bernstein’s own voice and featuring never-before-see...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/bernsteins-wall-nov-11-14/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "263a0569971d",
+    "title": "Astronomy: Inside the Asteroid Belt",
+    "start": "2026-11-13T16:30:00-07:00",
+    "end": "2026-11-13T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Ron Stewart Preserve at Rabbit Mountain",
+    "venueKey": "ron-stewart-preserve-at-rabbit-mountain",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/astronomy-inside-the-asteroid-belt/",
+    "description": "Why is there no planet between Mars and Jupiter? Explore the story of the asteroid belt and how Jupiter shaped this busy region of space. With Mars and Jupiter appearing close together, volunteer naturalists will guide a discussion about solar system history and the rocky leftovers orbiting our S...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/astronomy-inside-the-asteroid-belt/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cabe605b7a45",
+    "title": "The Human Animal Exhibition Opening Reception",
+    "start": "2026-11-13T17:00:00-07:00",
+    "end": "2026-11-13T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Dairy Arts Center",
+    "venueKey": "dairy-arts-center",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "museum"
+    ],
+    "size": "M",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/the-human-animal-exhibition-opening-reception/",
+    "description": "Nov 13 – Jan 3 | Opening Reception: Nov 13, 5 – 8 This exhibition explores how conceptual artists use imagery of animals, creatures, and “the other” to reflect on human nature and the breadth of human experience. Through large-scale installations and sweeping conceptual works, the exhibition exam...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-human-animal-exhibition-opening-reception/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "735c1fb73109",
+    "title": "Queen at Sea | Nov. 11 – 14",
+    "start": "2026-11-13T18:00:00-07:00",
+    "end": "2026-11-13T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/queen-at-sea-nov-11-14/2026-11-13/",
+    "description": "TICKETS Nov 11-14 Juliette Binoche and Tom Courtenay star as Amanda and her stepfather, Martin, who struggle with a moral issue that divides them. Has Amanda’s mother, Leslie, who is suffering from advanced dementia, lost the ability to make critical decisions in her own best interests? And, if s...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/queen-at-sea-nov-11-14/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3f0ff0e4bb85",
+    "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
+    "start": "2026-11-13T19:00:00-07:00",
+    "end": "2026-11-13T21:00:00-07:00",
+    "allDay": false,
+    "venue": "Grace Gamm Theatre",
+    "venueKey": "grace-gamm-theatre",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-13/",
+    "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "74f93a41d33b",
+    "title": "The 150 Project: A New Play Rooted in Student Stories",
+    "start": "2026-11-13T19:30:00-07:00",
+    "end": "2026-11-13T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Old Main",
+    "venueKey": "old-main",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+    "description": "In celebration of CU Boulder’s 150th anniversary, the Department of Theatre & Dance partners with the acclaimed Tectonic Theatre Project, creators of The Laramie Project, to premiere a new work rooted in student voices. Working with Tectonic artist Jimmy Maize, CU Boulder students will delve into...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d19843cea1ac",
+    "title": "RIOT: A Subversive Rock Cabaret | Nov. 13 & 14",
+    "start": "2026-11-13T19:30:00-07:00",
+    "end": "2026-11-13T21:00:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "concert",
+      "dance"
+    ],
+    "size": "M",
+    "costTier": "$$$",
+    "url": "https://thedairy.org/event/riot-a-subversive-rock-cabaret/2026-11-13/",
+    "description": "TICKETS The world premiere of RIOT includes a 100% femme-identifying cast. Inspired by the subversive genius of Pink Floyd, particularly in The Wall, Animals, and The Dark Side of the Moon, RIOT takes the spirit of these works into new territory. Through contemporary, cabaret, ballet, physical th...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/riot-a-subversive-rock-cabaret/2026-11-13/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "89b637bbf1fd",
+    "title": "Sheela Bringi & Elden Kelly",
+    "start": "2026-11-13T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Chautauqua Community House",
+    "venueKey": "chautauqua-community-house",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://www.chautauqua.com/event/sheela-bringi-elden-kelly/",
+    "description": "Presented By KGNU Door time: 7:30 Show time: 8:00 Indian-American vocalist and multi-instrumentalist Sheela Bringi and genre-defying guitarist and vocalist Elden Kelly make music that moves freely between worlds — Indian classical rāga, jazz-inspired improvisation, folk lyricism, and original son...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/sheela-bringi-elden-kelly/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "525e671017cf",
+    "title": "Friday Night Weird: These People",
+    "start": "2026-11-13T20:30:00-07:00",
+    "end": "2026-11-13T22:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/friday-night-weird-these-people/",
+    "description": "TICKETS With filmmaker Cory McAbee in attendance. THESE PEOPLE is a musical feature film created by Cory McAbee (THE AMERICAN ASTRONAUT). The story is centered around Abraham Lincoln’s assassination at the Ford Theater in 1865. From there our story ripples outward as we follow the lives of Abraha...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/friday-night-weird-these-people/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]

@@ -1,9 +1,21 @@
 {
   "links": {
+    "https://bouldercounty.gov/event/ahc-march-6/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/ahc-open-dec-5/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/ahc-open-feb-6/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/ahc-open-jan-2/": {
@@ -72,6 +84,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-10/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-7/": {
       "verdict": "ok",
       "status": 200,
@@ -82,6 +100,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-9/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-2/": {
@@ -228,6 +252,24 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/native-american-art-auction-19/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/native-american-art-auction-20/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/niwot-antique-auction-16/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/niwot-auction-new-years-day-auction/": {
       "verdict": "ok",
       "status": 200,
@@ -288,10 +330,59 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://boulderuwc.org/event/lecture-luncheon-3-february-15-2027/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://boulderuwc.org/event/lecture-luncheon-4/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://boulderuwc.org/event/lecture-luncheon-5/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://boulderuwc.org/event/opera-brunch-and-opera-the-marriage-of-figaro/": {
+      "verdict": "transient",
+      "status": 0,
+      "error": "timeout",
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 1
+    },
+    "https://calendar.colorado.edu/event/cannibal-the-musical-by-trey-parker": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/chamber-music-recital-faculty-and-student-side-by-side-performance": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/chamber-music-showcase-fall-2026-part-ii": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/chamber-music-showcase-spring-2027-part-i": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/chamber-music-showcase-spring-2027-part-ii": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/christmas-in-mexico-mariachi-garibaldi-de-jaime-cuellar-ballet-folklorico-del-rio-grande": {
@@ -300,10 +391,70 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/concert-jazz-ensemble-and-jazz-composers-orchestra-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/concerto-competition-finals-spring-2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/coup-detat-episode-3-of-4": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-campus-orchestra-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-chamber-orchestra-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-chamber-singers-and-university-choir-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-band-first-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-band-second-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-orchestra-fall-2026-concert": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-honor-band-middle-school-high-school-honor-bands-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-philharmonia-orchestra-first-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/cu-boulder-philharmonia-orchestra-second-fall-2026-concert": {
@@ -312,10 +463,34 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/cu-boulder-philharmonia-orchestra-second-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/cu-boulder-soundworks-fall-2026-songwriters-concert": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-soundworks-first-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-soundworks-fourth-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-soundworks-second-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/cu-boulder-soundworks-song-writers-fall-2026-concert-at-roots-music-project": {
@@ -324,10 +499,52 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/cu-boulder-soundworks-third-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-symphonic-band-first-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-symphonic-band-second-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/cu-boulder-symphony-orchestra-pictures": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-symphony-orchestra-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-wind-symphony-and-symphonic-band-honor-band-festival-performance": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-wind-symphony-first-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/cu-boulder-wind-symphony-second-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/dance-against-progress-episode-2-of-4": {
@@ -336,10 +553,34 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/early-music-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/ekstrand-memorial-graduate-student-competition-fall-2026-finals": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-andrew-cooperstock-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-andrew-garland-voice": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-annie-booth-jazz-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/faculty-tuesdays-dan-silver-clarinet": {
@@ -348,10 +589,94 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-jennifer-dedominici-mezzo-soprano-and-andrew-garland-baritone": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-lillian-gordis-harpsichord": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/faculty-tuesdays-the-music-of-jessie-montgomery": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-tres-intime-a-night-of-jazz-and-cabaret": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/faculty-tuesdays-yoshi-ishikawa-bassoon": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/graduate-string-quartet-recital-astrodon-string-quartet-spring-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-lecture-recital-david-dolan-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-duo-mundi-george-lopez-piano-and-gulimina-mahamuti-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-jerome-hantai-viola-de-gamba": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-john-walthausen-harpsichord": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-olivia-phaneuf-saxophone": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-patrick-sutton-guitar-and-kimberly-patterson-cello": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-robert-satterlee-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-sergei-nakariakov-trumpet-and-maria-meerovitch-piano": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/guest-artist-recital-soloduo-lorenzo-micheli-matteo-mela-guitars": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/holiday-festival-2026": {
@@ -360,10 +685,34 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/japanese-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/jazz-composers-orchestra-locally-sourced": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/jlin-third-coast-percussion-vernacular": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/js-bachs-the-art-of-fugue-by-circa": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/latin-american-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/opera-arias-and-ensembles-fall-2026-concert": {
@@ -372,16 +721,94 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/opera-sneak-peek-the-marriage-of-figaro": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/paul-romaine-retirement-celebration-concert-jazz-ensemble-and-jazz-composers-orchestra": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/percussion-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/pippin": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/polyester-and-pearls-a-1970s-songbook": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://calendar.colorado.edu/event/roll-over-beethoven-john-malkovich-orchester-wiener-akademie": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/romeo-and-juliet-by-william-shakespeare": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://calendar.colorado.edu/event/roser-piano-and-keyboard-alum-series-spring-2027-concert": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/songwriters-concert-at-roots-music-project-spring-2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/sounds-for-the-earth-a-climate-recital": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/spring-festival-of-choirs-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/stanley-clarke-hiromi-a-celebration-of-the-music-of-chick-corea-and-beyond": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/student-recitals-in-february-undergraduate-masters-and-doctoral-musician-recitals": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/takacs-quartet-april-2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/takacs-quartet-febmarch-2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/takacs-quartet-jan-2027": {
@@ -394,6 +821,42 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/the-current-episode-4-of-4": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/the-marriage-of-figaro-by-wolfgang-amadeus-mozart": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/thompson-jazz-studies-combos-spring-2027-concert-in-grusin-and-ensemble-hall": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/thompson-latin-jazz-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/vocal-jazz-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/west-african-highlife-ensemble-spring-2027-concert": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://historicboulder.org/event/homes-for-the-holidays-tour-2026/": {
@@ -412,6 +875,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/Arabicbookclub2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/ArabicBooks2026": {
@@ -454,6 +923,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/BloodDrives2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026": {
@@ -502,6 +977,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/DandelionFlipAnimation": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/DandelionRecords": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/DecSale2026": {
@@ -636,6 +1123,18 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/PositivePlay2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/RBSpring2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/santastorytime2026": {
       "verdict": "ok",
       "status": 200,
@@ -652,6 +1151,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/SBSpring2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/SensorySanta2026_Dec5_A": {
@@ -682,6 +1187,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/SLCJan-Dec2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/Sr2nFridayBookClub2026": {
@@ -720,10 +1231,22 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/TINFeb-Apr2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/TradicionesST2026": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/WBSpring2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/WellnessAugDec2026": {
@@ -810,10 +1333,22 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/event/17223763": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/event/17223765": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17223767": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/event/17303961": {
@@ -822,10 +1357,46 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/event/17303962": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17303963": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17303964": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/event/17304164": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17304165": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17304167": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/event/17304169": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-16/": {
@@ -850,6 +1421,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/bilingual-storytime/2026-11-16/": {
@@ -886,6 +1463,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/english-conversation-group/2026-11-14/": {
@@ -942,6 +1525,18 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/online-english-conversation-group-4/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/open-chess-night/2026-11-17/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/santa-visit-at-callahan-house/": {
       "verdict": "ok",
       "status": 200,
@@ -952,6 +1547,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-17/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/teen-craft-create-club-5/2026-11-17/": {
@@ -1302,6 +1903,42 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17959194": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17959195": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983278": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983279": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983280": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983281": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983316": {
       "verdict": "ok",
       "status": 200,
@@ -1320,16 +1957,154 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17983319": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983320": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983321": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983322": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983323": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983324": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983325": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983326": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983327": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983328": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983329": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983330": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983331": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983332": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983333": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983334": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983374": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17983375": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983376": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983377": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983390": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983391": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983392": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983393": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983394": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/18000798": {
@@ -1344,10 +2119,130 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/18000800": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000801": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000802": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000803": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000804": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000805": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000806": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000807": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000808": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000809": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000810": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000811": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000812": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000813": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000814": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000815": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/18000967": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000968": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000969": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000970": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000971": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22-2/": {
@@ -1410,6 +2305,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/benise-spanish-nights-by-candlelight/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/bernsteins-wall-nov-11-14/2026-11-13/": {
       "verdict": "ok",
       "status": 200,
@@ -1464,10 +2365,112 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/boulder-ballet-presents-rebels-and-innovators-mar-5-7/2027-03-05/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ballet-presents-rebels-and-innovators-mar-5-7/2027-03-06/1/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ballet-presents-rebels-and-innovators-mar-5-7/2027-03-07/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-new-years-eve-spectacular/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-15/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-16/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-17/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-25/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-26/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-04-30/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-05-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-05-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-05-07/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-05-08/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-effect-april-15-may-9-2027/2027-05-09/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-fair-maid-of-the-west-dec-3-27/2026-12-03/": {
@@ -1620,6 +2623,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/boulder-opera-company-mainstage-faust-by-gounod/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/cinema-classics-with-jeffrey-kash-little-women/": {
       "verdict": "ok",
       "status": 200,
@@ -1638,6 +2647,42 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-02-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-03-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-04-05/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-05-03/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/compass-resonance-journey-of-a-thousand-pipes-featuring-christopher-holman/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/compass-resonance-message-in-a-bottle-with-vadim-gluzman-and-core/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/compass-resonance-sweeter-than-roses-with-taylor-raven-and-core/": {
       "verdict": "ok",
       "status": 200,
@@ -1648,6 +2693,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/dairy-comedy-in-the-boe-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://thedairy.org/event/dairy-comedy-in-the-boe/": {
@@ -1714,6 +2765,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/fly-fishing-film-tour-2027/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://thedairy.org/event/frequent-flyers-aerial-dancaerialology-an-atmospheric-adventure/2026-12-04/": {
@@ -1812,6 +2869,96 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-19/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-20/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-21/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-25/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-26/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-27/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-02-28/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-04/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-05/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-06/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-07/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-11/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-12/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/local-theater-company-faster-horses/2027-03-13/1/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/mad-librarians/2026-11-22/": {
       "verdict": "ok",
       "status": 200,
@@ -1822,6 +2969,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/mad-librarians/2027-02-21/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/mad-librarians/2027-04-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://thedairy.org/event/mountains-on-stage-winter-edition-2026/": {
@@ -2124,6 +3283,24 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://thedairy.org/event/storybook-ballet-snow-white-april-9-11/2027-04-09/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/storybook-ballet-snow-white-april-9-11/2027-04-10/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/storybook-ballet-snow-white-april-9-11/2027-04-11/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-19/": {
       "verdict": "ok",
       "status": 200,
@@ -2358,6 +3535,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.chautauqua.com/event/bluebird/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://www.chautauqua.com/event/caleb-schwing/": {
       "verdict": "ok",
       "status": 200,
@@ -2380,6 +3563,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.chautauqua.com/event/february-full-moon-hike-the-snow-moon/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-02/": {
@@ -2428,6 +3617,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.chautauqua.com/event/swan-lake-reimagined/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://www.chautauqua.com/event/talking-to-the-sun-fundraiser/": {
@@ -2550,6 +3745,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-dance/events/315956658/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-dance/events/315956659/": {
       "verdict": "ok",
       "status": 200,
@@ -2580,6 +3781,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-dance/events/317317500/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-mountain-bikers/events/314319093/": {
       "verdict": "ok",
       "status": 200,
@@ -2608,6 +3815,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-shambhala-center/events/317424041/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-shambhala-center/events/snlqvtyjcqbfb/": {
@@ -2682,6 +3895,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-wilderness-hiking/events/317358099/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/": {
       "verdict": "ok",
       "status": 200,
@@ -2748,6 +3967,18 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulderramblers/events/317423763/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderramblers/events/317423955/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulderstartups/events/312798854/": {
       "verdict": "ok",
       "status": 200,
@@ -2764,6 +3995,30 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderstartups/events/315968061/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderstartups/events/315968079/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderstartups/events/315968092/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderstartups/events/315968106/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://www.meetup.com/boulderwine/events/313660288/": {
@@ -2968,6 +4223,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/solidstatedepot/events/317422468/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
     "https://www.meetup.com/solidstatedepot/events/klpdmtyjcqbfb/": {
