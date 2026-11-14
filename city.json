@@ -1,0 +1,41 @@
+{
+  "_comment": "WeekendBoulder's facts for the shared engine (github.com/rhundhausen/weekend). Format: the engine's ingestion/schema/city.schema.json. ZIP 80027 is left out on purpose: Louisville and Superior share it, so other clues decide. 80503 is Longmont's and Niwot's; it maps to Longmont. Gunbarrel (80301) is unincorporated, but its addresses read Boulder.",
+  "siteName": "WeekendBoulder",
+  "domain": "weekendboulder.com",
+  "repo": "rhundhausen/weekendboulder",
+  "cityName": "Boulder",
+  "timeZone": "America/Denver",
+  "state": { "code": "CO", "name": "Colorado" },
+  "cities": ["Boulder", "Longmont", "Louisville", "Lafayette", "Superior", "Erie", "Broomfield", "Niwot", "Lyons", "Nederland"],
+  "cityAliases": {
+    "Gunbarrel": "Boulder"
+  },
+  "ambiguousCities": ["Superior", "Erie", "Lyons"],
+  "zipCodes": {
+    "80301": "Boulder", "80302": "Boulder", "80303": "Boulder", "80304": "Boulder",
+    "80305": "Boulder", "80306": "Boulder", "80307": "Boulder", "80308": "Boulder",
+    "80309": "Boulder", "80310": "Boulder", "80314": "Boulder",
+    "80501": "Longmont", "80502": "Longmont", "80503": "Longmont", "80504": "Longmont",
+    "80026": "Lafayette",
+    "80516": "Erie",
+    "80020": "Broomfield", "80023": "Broomfield",
+    "80544": "Niwot",
+    "80540": "Lyons",
+    "80466": "Nederland"
+  },
+  "titleAbbreviations": {
+    "cu": "university of colorado"
+  },
+  "searchAliases": {
+    "cu": ["university of colorado"],
+    "buffs": ["buffaloes"]
+  },
+  "coordinates": { "lat": 40.015, "lon": -105.271 },
+  "description": "Upcoming events in Boulder, Longmont, Louisville, Lafayette, and the rest of Boulder County.",
+  "logDatabase": "weekendboulder-log",
+  "about": {
+    "intro": "WeekendBoulder lists upcoming events in Boulder, Longmont, Louisville, Lafayette, Superior, Erie, Broomfield, and the mountain and plains towns around them, from Niwot and Lyons up to Nederland. Concerts, theater, games, markets, festivals, library programs, classes, races, auctions and estate sales: if a public calendar lists it, it shows up here.",
+    "story": "WeekendBoulder is the sister site of <a href=\"https://weekendboise.com\">WeekendBoise</a>, which Richard Hundhausen built so he could see what was happening around Boise without hunting through dozens of separate websites. WeekendBoulder runs on the same engine, pointed at Boulder County's public calendars, and is refreshed every night.",
+    "cityNote": "Gunbarrel counts as Boulder."
+  }
+}

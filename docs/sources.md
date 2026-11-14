@@ -1,6 +1,6 @@
 # Sources
 
-`ingestion/sources.json` lists every source: the ones ingest runs, configured ones waiting on credentials, ideas, and sites already ruled out. Ingest runs only entries whose `status` is `running`. It is hand-edited: keep entries sorted by `displayName`, ignoring case. Run `./ingestion/scripts/Test-Sources.ps1` from the repo root after editing.
+`ingestion/sources.json` lists every source: the ones ingest runs, configured ones waiting on credentials, ideas, and sites already ruled out. Ingest runs only entries whose `status` is `running`. It is hand-edited: keep entries sorted by `displayName`, ignoring case. Run `../weekend/ingestion/scripts/Test-Sources.ps1` from the repo root after editing.
 
 **Check it before probing any site.** See [Status lifecycle](#status-lifecycle) below.
 
@@ -17,7 +17,7 @@ An idea needs only `displayName`. An entry with a `name` is a configured source 
 | `adapter` | configured, `ready` | `bandsintown`, `eventastic`, `eventbrite`, `eventbrite-search`, `googlecalendar`, `ics`, `meetup`, `rss`, `sales`, `scrape`, `seatgeek`, `songkick`, `ticketmaster`, or `tribe`. `other` is allowed on ideas that need a new adapter, never on a configured entry |
 | `url` | configured, `feed-found`, `ready` | Feed or API endpoint, or the site for an idea |
 | `category` | configured | An id from `data/schema/categories.json`, used for this source's events. With `inferCategory`, it's the fallback |
-| `inferCategory` | no | `true` chooses each event's category from its tags. Use it for sources that mix many kinds of event. See [schema.md](schema.md#categories-and-tags) |
+| `inferCategory` | no | `true` chooses each event's category from its tags. Use it for sources that mix many kinds of event. See the engine's [docs/schema.md](https://github.com/rhundhausen/weekend/blob/main/docs/schema.md#categories-and-tags) |
 | `city` | configured | Fallback city. Use `Other` for aggregators |
 | `venue` | configured | Fallback venue display name |
 | `venueKey` | configured | Fallback venue slug |
@@ -29,7 +29,7 @@ An idea needs only `displayName`. An entry with a `name` is a configured source 
 
 `venue`, `venueKey`, and `city` are fallbacks. When an event reports its own location, that wins. The exception is `ticketmaster`, which always uses the entry's values so a venue's key matches the key other sources use for it.
 
-Unknown fields fail validation, so a typo can't silently turn a setting off. A new adapter field must also be added to `ingestion/schema/sources.schema.json`.
+Unknown fields fail validation, so a typo can't silently turn a setting off. A new adapter field must also be added to the engine's `ingestion/schema/sources.schema.json`.
 
 ## Per-adapter fields
 
@@ -277,7 +277,7 @@ An entry is valid with nothing but a displayName:
 { "displayName": "Dairy Arts Center" }
 ```
 
-Add it to `sources`, keep the list sorted by `displayName`, and run `./ingestion/scripts/Test-Sources.ps1`. Fill in the rest as you learn it.
+Add it to `sources`, keep the list sorted by `displayName`, and run `../weekend/ingestion/scripts/Test-Sources.ps1` (the engine checked out next to this repo). Fill in the rest as you learn it.
 
 ### Status lifecycle
 
