@@ -349,11 +349,10 @@
       "failures": 0
     },
     "https://boulderuwc.org/event/opera-brunch-and-opera-the-marriage-of-figaro/": {
-      "verdict": "transient",
-      "status": 0,
-      "error": "timeout",
-      "checkedAt": "2026-11-14T07:16:16Z",
-      "failures": 1
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
     },
     "https://calendar.colorado.edu/event/cannibal-the-musical-by-trey-parker": {
       "verdict": "ok",
@@ -875,6 +874,60 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-11-20-foy-vance": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-11-21-22nd-annual-last-waltz-revisited-copy": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-11-27-leftover-salmon": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-12-09-father-john-misty": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-12-10-reprise": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-12-10-winterfest-at-chautauqua": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2026-12-30-the-infamous-stringdusters": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2027-04-01-daniel-donatos-cosmic-country": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://kbco.iheart.com/calendar/content/2027-04-02-daniel-donatos-cosmic-country": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/Arabicbookclub2027": {
@@ -1423,6 +1476,18 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/baby-storytime/2026-11-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/": {
       "verdict": "ok",
       "status": 200,
@@ -1441,6 +1506,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/city-of-longmont-gis-day-2026/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-13/": {
       "verdict": "ok",
       "status": 200,
@@ -1451,6 +1522,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/discovery-days-music-movement-4/2026-11-17/": {
@@ -1577,6 +1654,48 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/comfy-couch-performance-circle/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/intro-to-davinci-resolve-editing-class/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/livestreaming-workshop/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/orientation-podcasting/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/speed-editing-in-davinci-resolve/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/the-outlaw-folk-album-release-party-and-community-potluck/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/tour-longmont-public-media/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://member.superiorchamber.com/events/details/2026-gratitude-member-celebration-16824": {
@@ -3721,6 +3840,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-bookaholics/events/316540220/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-bookaholics/events/316809228/": {
       "verdict": "ok",
       "status": 200,
@@ -3797,6 +3922,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-photo-center/events/317434882/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-photo-center/events/blkzttyjcqbgb/": {
@@ -3911,6 +4042,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/316009927/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630272/": {
@@ -4141,6 +4278,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/longmont-walks/events/316623514/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
     "https://www.meetup.com/longmont-walks/events/317181854/": {
       "verdict": "ok",
       "status": 200,
@@ -4259,6 +4402,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/solidstatedepot/events/klpdmtykccbkb/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
     "https://www.meetup.com/solidstatedepot/events/lcsxvtykccbjb/": {

@@ -2464,5 +2464,542 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "13e40fb0f6e1",
+    "title": "Longmont Farmers Market",
+    "start": "2026-11-14T08:00:00-07:00",
+    "end": "2026-11-14T13:00:00-07:00",
+    "allDay": false,
+    "venue": "North Parking Lot",
+    "venueKey": "north-parking-lot",
+    "city": "Longmont",
+    "category": "markets-shopping",
+    "tags": [
+      "farmers-market"
+    ],
+    "size": "M",
+    "url": "https://bouldercounty.gov/event/longmont-farmers-market-2/2026-11-14/",
+    "description": "Longmont Farmers Market Saturdays, 8am-1pm April 4 – November 21 Boulder County Fairgrounds Longmont, CO 80501 No Pets Please! On the fourth Saturday of every month, we invite local artisans to join the market for the ultimate local shopping experience. Their one-of-a-kind items include everythin...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/longmont-farmers-market-2/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1dccaba0f5ae",
+    "title": "Longmont Turkey Trot",
+    "start": "2026-11-14T09:00:00-07:00",
+    "end": "2026-11-14T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Altona Middle School",
+    "venueKey": "altona-middle-school",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "race"
+    ],
+    "size": "L",
+    "url": "https://longmontcolorado.gov/event/longmont-turkey-trot-2/",
+    "description": "Gobble, Gobble, Gobble GO! Run one of the fastest, most scenic, 10K or 2-mile courses around! Or – take an early November stroll with family and friends, and sample all the goodies in Vendor Village after the race. Longmont Turkey Trot net proceeds benefit community recreation events. A wheelchai...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/longmont-turkey-trot-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6759b869e215",
+    "title": "Boulder Potters Guild Fall Pottery Sale",
+    "start": "2026-11-14T09:00:00-07:00",
+    "end": "2026-11-14T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-4-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-4-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "82e5b4091bf1",
+    "title": "Discovery Days Art",
+    "start": "2026-11-14T09:15:00-07:00",
+    "end": "2026-11-14T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-14/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "18706d7c8b38",
+    "title": "Front Range Agility Club NADAC Dog Agility Trial",
+    "start": "2026-11-14T09:30:00-07:00",
+    "end": "2026-11-14T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2feade1e705b",
+    "title": "Betasso Preserve - 8.4 miles and 950 feet EG",
+    "start": "2026-11-14T09:30:00-07:00",
+    "end": "2026-11-14T13:30:00-07:00",
+    "allDay": false,
+    "venue": "Betasso Preserve Trailhead",
+    "venueKey": "betasso-preserve-trailhead",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316860925/",
+    "description": "Let's hike Betasso Preserve on a bike free Saturday. The Canyon View and Benjamin loops plus the connecting link trails add up to about 8.4 miles and 950 feet elevation gain. [Betasso Preserve](bouldercounty.gov/open-space/parks-and-trails/betasso-preserve/) offers mountain vistas, scenic trails,...",
+    "sources": [
+      {
+        "name": "meetup-boulder-wilderness-hiking",
+        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316860925/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a6bb833a6316",
+    "title": "Longmont Walks does Disc Golf",
+    "start": "2026-11-14T10:00:00-07:00",
+    "end": "2026-11-14T12:00:00-07:00",
+    "allDay": false,
+    "venue": "1101 Lashley Street",
+    "venueKey": "1101-lashley-street",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/317248942/",
+    "description": "Have you ever been curious to play disc golf but have never heard of it and have no equipment, here is your chance at last. I have plenty of discs to share but bring any discs/frisbees you have. Disc golf is just throwing discs into buckets with chains and walking through a park. Like golf but wi...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/317248942/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b5b2a1444bb1",
+    "title": "Gobble! Gobble! Wild Turkey Program",
+    "start": "2026-11-14T10:00:00-07:00",
+    "end": "2026-11-14T12:30:00-07:00",
+    "allDay": false,
+    "venue": "Boulder County",
+    "venueKey": "boulder-county",
+    "city": "Other",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/gobble-gobble-wild-turkey-program-3/",
+    "description": "How fast can a turkey run? Do they fly? Did you know wild turkeys can be found all over the Front Range, including at Heil Valley Ranch? Come learn all about wild turkeys during this program, which includes a short hike, hands-on crafts, and games. Registration required. Register",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/gobble-gobble-wild-turkey-program-3/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "178413ee290c",
+    "title": "English Conversation Group",
+    "start": "2026-11-14T10:30:00-07:00",
+    "end": "2026-11-14T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/english-conversation-group/2026-11-14/",
+    "description": "Unquiet Study Area, upstairs No registration required This program is presented in English This event happens weekly, every Saturday Practice English conversation with others in an informal, conversational setting. We recommend attendees have some previous English experience to effectively partic...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/english-conversation-group/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "29eb5e999533",
+    "title": "Saturday Storytime",
+    "start": "2026-11-14T10:30:00-07:00",
+    "end": "2026-11-14T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+    "description": "Kids and caregivers - join us for stories, songs, and interactive fun perfect for all ages! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "55ecbb615480",
+    "title": "All Ages Storytime: Saturday",
+    "start": "2026-11-14T11:00:00-07:00",
+    "end": "2026-11-14T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/all-ages-storytime-saturday/2026-11-14/",
+    "description": "All ages welcome (ideal for birth-5) Library Meeting Rooms No registration required This program is in English A 30-minute Saturday morning storytime designed for children and their grown-ups! Join us as we share picture books, move, dance and sing together. All storytimes require a dedicated adu...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/all-ages-storytime-saturday/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f7f2c2b67d9a",
+    "title": "Conversations in English - Drop In",
+    "start": "2026-11-14T11:00:00-07:00",
+    "end": "2026-11-14T12:15:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "902af6a907b8",
+    "title": "Repair Clinic and Take-a-Party!",
+    "start": "2026-11-14T13:00:00-07:00",
+    "end": "2026-11-14T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Solid State Depot",
+    "venueKey": "solid-state-depot",
+    "city": "Boulder",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/solidstatedepot/events/316438867/",
+    "description": "Have something that is broken and want to fix it? Maybe you have something you want to re-purpose. Or perhaps you have always wanted to know how something works but lack the tools to take it apart? Come to the Repair Clinic and Take-a-Party at Solid State Depot! Spend an afternoon at Solid State...",
+    "sources": [
+      {
+        "name": "meetup-solidstatedepot",
+        "url": "https://www.meetup.com/solidstatedepot/events/316438867/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5802d3b3136c",
+    "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
+    "start": "2026-11-14T14:00:00-07:00",
+    "end": "2026-11-14T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Grace Gamm Theatre",
+    "venueKey": "grace-gamm-theatre",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-14/",
+    "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a209e955bceb",
+    "title": "Dance Against Progress: Episode 2 of 4",
+    "start": "2026-11-14T14:00:00-07:00",
+    "end": "2026-11-14T15:00:00-07:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/dance-against-progress-episode-2-of-4",
+    "description": "Choreography by CU Students & Faculty Original choreography by dance students and faculty that collide research questions with Hip-Hop, contemporary, experimental and (insert style here). Transforming the performance space into a laboratory, these dances question long-hyphenated parentheticals th...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/dance-against-progress-episode-2-of-4",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b752856a447f",
+    "title": "Polyester and Pearls: A 1970s Songbook",
+    "start": "2026-11-14T14:00:00-07:00",
+    "end": "2026-11-14T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/polyester-and-pearls-a-1970s-songbook",
+    "description": "CU Boulder’s Musical Theatre students bring fresh energy to the unforgettable pop sound of the 1970s in an intimate, cabaret-style revue inspired by venues like New York’s legendary 54 Below. This one-act performance features songs by Burt Bacharach, the Carpenters, Carole King and other favorite...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/polyester-and-pearls-a-1970s-songbook",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cda0e9e78c0f",
+    "title": "RIOT: A Subversive Rock Cabaret | Nov. 13 & 14",
+    "start": "2026-11-14T15:30:00-07:00",
+    "end": "2026-11-14T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "concert",
+      "dance"
+    ],
+    "size": "M",
+    "costTier": "$$$",
+    "url": "https://thedairy.org/event/riot-a-subversive-rock-cabaret/2026-11-14/1/",
+    "description": "TICKETS The world premiere of RIOT includes a 100% femme-identifying cast. Inspired by the subversive genius of Pink Floyd, particularly in The Wall, Animals, and The Dark Side of the Moon, RIOT takes the spirit of these works into new territory. Through contemporary, cabaret, ballet, physical th...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/riot-a-subversive-rock-cabaret/2026-11-14/1/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e7a364ce85f9",
+    "title": "Write to Publish, Publish to Sell",
+    "start": "2026-11-14T15:30:00-07:00",
+    "end": "2026-11-14T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Public Library",
+    "venueKey": "boulder-public-library",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317090459/",
+    "description": "Join Us for our next BWA Write to Publish, Publish to Sell meetup. In this session, we'll be focusing on starting an email list using Substack. We all know that we should probably have an email list, but starting one can feel a bit daunting. Andy Curran runs a publication called \"The Poetic Pause...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317090459/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e1a307617838",
+    "title": "Queen at Sea | Nov. 11 – 14",
+    "start": "2026-11-14T17:00:00-07:00",
+    "end": "2026-11-14T18:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/queen-at-sea-nov-11-14/2026-11-14/",
+    "description": "TICKETS Nov 11-14 Juliette Binoche and Tom Courtenay star as Amanda and her stepfather, Martin, who struggle with a moral issue that divides them. Has Amanda’s mother, Leslie, who is suffering from advanced dementia, lost the ability to make critical decisions in her own best interests? And, if s...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/queen-at-sea-nov-11-14/2026-11-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e9750d59912a",
+    "title": "Parents Night Out - Postponed",
+    "start": "2026-11-14T17:00:00-07:00",
+    "end": "2026-11-14T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17916050",
+    "description": "PARENTS NIGHT OUT!!! This is the Drop-Off Program that you know and love! For kids ages 5 and above only. We provide pizza, popcorn, juice, crafts, games and a movie! Drop-off is at 5pm or after. Pick up your child between 7:15-7:30pm. Waivers and emergency contact forms need to be filled out if...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17916050",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3d92a6c80d43",
+    "title": "Jazz Composers Orchestra: Locally Sourced",
+    "start": "2026-11-14T19:30:00-07:00",
+    "end": "2026-11-14T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/jazz-composers-orchestra-locally-sourced",
+    "description": "The inaugural performance of CU Boulder's Thompson Jazz Composers’ Orchestra presents an exciting program of original compositions and arrangements by the creative voices of the Thompson Jazz Studies Program. Directed by Assistant Professor of Jazz Studies Annie Booth, and featuring works by stud...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/jazz-composers-orchestra-locally-sourced",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a57296e015ce",
+    "title": "The 150 Project: A New Play Rooted in Student Stories",
+    "start": "2026-11-14T19:30:00-07:00",
+    "end": "2026-11-14T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Old Main",
+    "venueKey": "old-main",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+    "description": "In celebration of CU Boulder’s 150th anniversary, the Department of Theatre & Dance partners with the acclaimed Tectonic Theatre Project, creators of The Laramie Project, to premiere a new work rooted in student voices. Working with Tectonic artist Jimmy Maize, CU Boulder students will delve into...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6d2736043e77",
+    "title": "Caleb Schwing & the Holy Smokes with Alex Dunn",
+    "start": "2026-11-14T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Chautauqua Community House",
+    "venueKey": "chautauqua-community-house",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://www.chautauqua.com/event/caleb-schwing/",
+    "description": "Presented By KGNU Door time: 7:30 Show time: 8:00 Caleb Schwing In many circles, Caleb Schwing is known as the Miyamoto Musashi of bald, country adjacent singer songwriters in Colorado. With his band the Holy Smokes, comprised of lovers and converted enemies, they create an addicting sound someti...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/caleb-schwing/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]
