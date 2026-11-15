@@ -24,31 +24,6 @@
     ]
   },
   {
-    "id": "5fa9a359a93a",
-    "title": "Bernstein’s Wall | Nov. 11 – 14",
-    "start": "2026-11-14T19:30:00-07:00",
-    "end": "2026-11-14T21:00:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/bernsteins-wall-nov-11-14/2026-11-14/",
-    "description": "TICKETS Nov 11-14 This film follows Leonard Bernstein on his lifelong journey to define his role as one of America’s most important musical figures, while fighting to create social change and inspire political activism through his work. Told in Bernstein’s own voice and featuring never-before-see...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/bernsteins-wall-nov-11-14/2026-11-14/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "d64b4fb691d3",
     "title": "Coffee & Community at East Simpson",
     "start": "2026-11-15T09:00:00-07:00",
@@ -23947,6 +23922,50 @@
     ]
   },
   {
+    "id": "6a3a3cf682c5",
+    "title": "Around the Town Book Group",
+    "start": "2027-05-05T10:00:00-06:00",
+    "end": "2027-05-05T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/AroundtheTown2027",
+    "description": "This independent book club meets on the first Wednesday of each month. For any questions on book selections or the club, contact Judith by email. Visit the Library Book Group page for more information: lafayetteco.gov/LibraryBookGroups.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/AroundtheTown2027",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "00b6be2fa5a2",
+    "title": "Last Word Book Club",
+    "start": "2027-05-05T11:30:00-06:00",
+    "end": "2027-05-05T12:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/lastwordbookgroup2027",
+    "description": "This independent book club meets on the first Wednesday of each month. For any questions on book selections or the club, contact Ruth Gerrity at 913-269-5804 or by email. Visit the Library Book Group page for more information: lafayetteco.gov/LibraryBookGroups",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/lastwordbookgroup2027",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
     "id": "07dcb7a0bbfa",
     "title": "Zero Waste Subcommittee Meeting",
     "start": "2027-05-05T13:00:00-06:00",
@@ -23964,6 +23983,98 @@
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/18000971",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "25f3abac2939",
+    "title": "Makerspace - Drop In",
+    "start": "2027-05-05T14:30:00-06:00",
+    "end": "2027-05-05T18:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "508d2f522977",
+    "title": "Conversations in Spanish - Drop In",
+    "start": "2027-05-05T18:00:00-06:00",
+    "end": "2027-05-05T19:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+    "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff. Location: upstairs at the North End seating area.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "26e4cc28c776",
+    "title": "LYAB Meeting",
+    "start": "2027-05-05T18:30:00-06:00",
+    "end": "2027-05-05T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17303965",
+    "description": "Monthly meetings of the Lafayette Youth Advisory Board (LYAB) are open to the public and typically happen on the first Wednesday. For more information on LYAB, or how to become a member, visit the LYAB home page.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17303965",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "e40bf3650374",
+    "title": "Makerspace - Drop In",
+    "start": "2027-05-06T14:30:00-06:00",
+    "end": "2027-05-06T18:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+        "fetchedAt": "2026-11-15T07:11:58Z"
       }
     ]
   },

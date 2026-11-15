@@ -1428,6 +1428,12 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/event/17303965": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-15T07:16:18Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/event/17304164": {
       "verdict": "ok",
       "status": 200,
