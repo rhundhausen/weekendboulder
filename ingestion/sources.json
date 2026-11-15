@@ -60,12 +60,20 @@
     },
     {
       "displayName": "97.3 KBCO",
-      "status": "investigating",
+      "status": "running",
       "category": "music",
       "url": "https://kbco.iheart.com/calendar/",
       "robotsChecked": "2026-11-14",
       "termsChecked": "2026-11-14",
-      "notes": "Area: Boulder and Denver. iHeart station, found 2026-11-14 under station calendars. robots.txt allows /calendar/. The calendar lists about 60 upcoming concerts and community events (categories Community, Concerts, Entertainment, Holiday, Station Events), such as Foy Vance at the Fox Theatre and WinterFest at Chautauqua. List cards give title, date, and category; each event page (/calendar/content/<date>-<slug>/) adds the venue and times as text. No schema.org Event data and no feed. The Fox Theatre and Boulder Theater are only ideas here, so their shows would be new; most other venues are in Denver. iHeart's terms forbid scraping only for AI uses. Would need a new scrape mode."
+      "name": "kbco-calendar",
+      "adapter": "scrape",
+      "scrapeMode": "iheart",
+      "inferCategory": true,
+      "city": "Boulder",
+      "venue": "97.3 KBCO",
+      "venueKey": "kbco",
+      "priority": 40,
+      "notes": "Area: Boulder and Denver. iHeart station, found 2026-11-14 under station calendars. robots.txt allows /calendar/. The calendar lists about 60 upcoming concerts and community events (categories Community, Concerts, Entertainment, Holiday, Station Events), such as Foy Vance at the Fox Theatre and WinterFest at Chautauqua. List cards give title, date, and category; each event page (/calendar/content/<date>-<slug>/) adds the venue and times as text. No schema.org Event data and no feed. The Fox Theatre and Boulder Theater are only ideas here, so their shows would be new; most other venues are in Denver. iHeart's terms forbid scraping only for AI uses. Would need a new scrape mode. Configured 2026-11-14 with the new scrape mode iheart, which reads the calendar records in the page's __PRELOADED_STATE__ data (title, venue name and address, start times, categories) in one request, and keeps only events whose address is in a Boulder area city. Dry run: 9 of the 63 listed events, at the Fox Theatre, Boulder Theater, and Chautauqua; the Denver ones and station promotions with no address are dropped. Times matched the event pages."
     },
     {
       "displayName": "98.5 KYGO",
@@ -4088,11 +4096,21 @@
     },
     {
       "displayName": "Longmont Public Media",
-      "status": "feed-found",
+      "status": "running",
       "city": "Longmont",
       "url": "https://longmontpublicmedia.org/calendar/",
       "robotsChecked": "2026-11-14",
-      "notes": "Area: Longmont. Community media center (public-access TV and radio, 457 4th Avenue), found 2026-11-14 under station calendars. robots.txt allows it. The calendar page carries schema.org Event data for each event (12 on 2026-11-14): DaVinci Resolve and podcasting classes, studio tours, member orientations and meetings, an album-release party, and a Comfy Couch Performance Circle. Not The Events Calendar (its REST API answers 404). Likely adapter: scrape jsonld. Several startDates read as early morning (Tour Longmont Public Media at 05:00), so compare times with the page before enabling. Downtown Longmont also lists its open houses and Lunch & Learns."
+      "name": "longmont-public-media",
+      "adapter": "scrape",
+      "scrapeMode": "jsonld",
+      "category": "learning-business",
+      "inferCategory": true,
+      "venue": "Longmont Public Media",
+      "venueKey": "longmont-public-media",
+      "priority": 20,
+      "excludeTitlePattern": "(?i)\\bmember meeting\\b|\\bfor 24/7 members\\b",
+      "localTimeAsUtc": true,
+      "notes": "Area: Longmont. Community media center (public-access TV and radio, 457 4th Avenue), found 2026-11-14 under station calendars. robots.txt allows it. The calendar page carries schema.org Event data for each event (12 on 2026-11-14): DaVinci Resolve and podcasting classes, studio tours, member orientations and meetings, an album-release party, and a Comfy Couch Performance Circle. Not The Events Calendar (its REST API answers 404). Likely adapter: scrape jsonld. Several startDates read as early morning (Tour Longmont Public Media at 05:00), so compare times with the page before enabling. Downtown Longmont also lists its open houses and Lunch & Learns. Configured 2026-11-14: scrape (jsonld) on the calendar page, one request a night. Its startDates are local wall-clock time written as UTC and then shifted (the Tour reads 05:00-07:00, the page says 12:00 pm), so localTimeAsUtc is on; a dry run then matched the page for all events. Members-only items (orientation for 24/7 members, member meetings) are skipped by title. Dry run: 9 events."
     },
     {
       "displayName": "Longmont Recreation Services",
