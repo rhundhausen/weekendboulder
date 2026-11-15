@@ -59,6 +59,23 @@
       "notes": "Area: Erie. Likely adapter: meetup. Meetup group, configured 2026-11-13. iCal feed answered 200 with 2 events; each new event's page gives its venue and city, and online events and other cities are dropped."
     },
     {
+      "displayName": "97.3 KBCO",
+      "status": "investigating",
+      "category": "music",
+      "url": "https://kbco.iheart.com/calendar/",
+      "robotsChecked": "2026-11-14",
+      "termsChecked": "2026-11-14",
+      "notes": "Area: Boulder and Denver. iHeart station, found 2026-11-14 under station calendars. robots.txt allows /calendar/. The calendar lists about 60 upcoming concerts and community events (categories Community, Concerts, Entertainment, Holiday, Station Events), such as Foy Vance at the Fox Theatre and WinterFest at Chautauqua. List cards give title, date, and category; each event page (/calendar/content/<date>-<slug>/) adds the venue and times as text. No schema.org Event data and no feed. The Fox Theatre and Boulder Theater are only ideas here, so their shows would be new; most other venues are in Denver. iHeart's terms forbid scraping only for AI uses. Would need a new scrape mode."
+    },
+    {
+      "displayName": "98.5 KYGO",
+      "status": "investigating",
+      "category": "music",
+      "url": "https://kygo.com/wp-json/tribe/events/v1/events",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver metro. Bonneville country station, found 2026-11-14 under station calendars. The Events Calendar REST API works (tribe adapter). On 2026-11-14 it had 26 upcoming events, none in Boulder County: Denver 18, Morrison 2, Aurora, Littleton, Loveland, Greenwood Village. Recheck for Boulder County venues before configuring."
+    },
+    {
       "displayName": "Active.com (Boulder County)",
       "status": "idea",
       "category": "sports",
@@ -1783,6 +1800,13 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "displayName": "CBS Colorado sponsored events",
+      "status": "investigating",
+      "url": "https://www.cbsnews.com/colorado/sponsored-events/",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver metro. TV station (KCNC), found 2026-11-14 under station calendars. robots.txt allows it. A list of events the station sponsors, each an article linking to the organizer (such as a Denver Union Station fun run), with an RSS feed of articles (cbsnews.com/latest/rss/sponsored-events/). No event data. Mostly Denver."
+    },
+    {
       "displayName": "CEEE Science On a Sphere Planet Theater",
       "status": "idea",
       "category": "arts-culture",
@@ -2038,6 +2062,14 @@
       "category": "food-drink",
       "url": "https://coloradobeer.org/colorado-pint-day/",
       "notes": "Area: Boulder County. Likely adapter: scrape."
+    },
+    {
+      "displayName": "Colorado Public Radio",
+      "status": "ruled-out",
+      "reason": "cpr.org/events/ answered HTTP 403 to the project User-Agent on 2026-11-14, although robots.txt allows it",
+      "url": "https://www.cpr.org/events/",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver metro. Found 2026-11-14 under station calendars."
     },
     {
       "displayName": "Colorado Runner Calendar",
@@ -2771,6 +2803,14 @@
       "notes": "Area: Boulder. Likely adapter: scrape."
     },
     {
+      "displayName": "Denver7",
+      "status": "ruled-out",
+      "reason": "Not an events calendar. /community/events, titled Community Calendar, lists news stories, with an RSS feed of articles (checked 2026-11-14)",
+      "url": "https://www.denver7.com/community/events",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver metro. TV station (KMGH, Scripps), found 2026-11-14 under station calendars."
+    },
+    {
       "displayName": "Dickens Opera House",
       "status": "idea",
       "category": "performing-arts",
@@ -3253,6 +3293,14 @@
       "notes": "Area: Boulder. Likely adapter: other."
     },
     {
+      "displayName": "FOX31 (KDVR)",
+      "status": "ruled-out",
+      "reason": "kdvr.com/community-calendar/ answered HTTP 403 to the project User-Agent on 2026-11-14, although robots.txt allows it",
+      "url": "https://kdvr.com/community-calendar/",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver metro. TV station, found 2026-11-14 under station calendars."
+    },
+    {
       "displayName": "FRCC Boulder County Observatory Stargazing",
       "status": "idea",
       "category": "outdoors-recreation",
@@ -3525,9 +3573,10 @@
     },
     {
       "displayName": "KGNU Community Calendar",
-      "status": "idea",
-      "url": "https://kgnu.org/kgnucalendars/",
-      "notes": "Area: Boulder. Likely adapter: ics."
+      "status": "investigating",
+      "url": "https://kgnu.org/calendars/concerts/",
+      "notes": "Area: Boulder. Community radio. 2026-11-14: robots.txt allows /calendars/. Five calendars, each a Styled Calendar embed (embed.styledcalendar.com), drawn in the browser with nothing in the HTML: Concert Calendar (/calendars/concerts/, id VYtnZhncmLxJsHQJnSiO), Arts + Events (/calendars/arts-events/, 9NoDHUH0jjm0J8ocFC2m), KGNU Events (/calendars/kgnu-events/, Ff7HlhqKNViPJNOjw7zG), KGNU Presents (/calendars/kgnu-presents/, O87UgwCmFLbnw1f8HfMy), and Buck's Bluegrass Hotline (/calendars/bucks-bluegrass-hotline/, CStlCzMjilm3u295hptb). Styled Calendar shows Google Calendars; the embed's data URL (app.styledcalendar.com/api/get-styled-calendar-events-data/) answered with the app's HTML page, not data, and was not pushed further. Next: ask KGNU for the public Google Calendar ids or iCal links, which the googlecalendar or ics adapter reads. The page notes the events are submitted by the public. The Events Calendar plugin styles are present but its REST API answers 404.",
+      "robotsChecked": "2026-11-14"
     },
     {
       "displayName": "Kid City Guide Boulder",
@@ -3535,6 +3584,21 @@
       "category": "community-civic",
       "url": "https://boulder.kidcityguide.com/events/",
       "notes": "Area: Boulder. Likely adapter: scrape."
+    },
+    {
+      "displayName": "KUNC",
+      "status": "investigating",
+      "url": "https://www.kunc.org/events",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Northern Colorado. Public radio (Greeley), found 2026-11-14 under station calendars. robots.txt allows /events. The page lists the station's own events: on 2026-11-14 only one, already past (In The NoCo presents a conversation with Ken Salazar, 2026-11-11), and /events.rss is empty. No community calendar found."
+    },
+    {
+      "displayName": "KUVO Jazz",
+      "status": "investigating",
+      "category": "music",
+      "url": "https://www.kuvo.org/events",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Denver. Public jazz radio (Rocky Mountain Public Media), found 2026-11-14 under station calendars. robots.txt allows /events. Lists the station's own events: on 2026-11-14 one, Jazz Odyssey Presents at Town Hall Collaborative in Denver. Event pages carry schema.org Event data (the ticket link is the url). Nothing in Boulder County yet."
     },
     {
       "displayName": "Lafayette Chamber of Commerce",
@@ -4021,6 +4085,14 @@
       "category": "learning-business",
       "url": "https://www.meetup.com/longmont-public-library-meetups/",
       "notes": "Area: Longmont. Likely adapter: meetup. 2026-11-13: https://www.meetup.com/longmont-public-library-meetups/events/ical/ answered HTTP 404; the group may be gone or renamed."
+    },
+    {
+      "displayName": "Longmont Public Media",
+      "status": "feed-found",
+      "city": "Longmont",
+      "url": "https://longmontpublicmedia.org/calendar/",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Longmont. Community media center (public-access TV and radio, 457 4th Avenue), found 2026-11-14 under station calendars. robots.txt allows it. The calendar page carries schema.org Event data for each event (12 on 2026-11-14): DaVinci Resolve and podcasting classes, studio tours, member orientations and meetings, an album-release party, and a Comfy Couch Performance Circle. Not The Events Calendar (its REST API answers 404). Likely adapter: scrape jsonld. Several startDates read as early morning (Tour Longmont Public Media at 05:00), so compare times with the page before enabling. Downtown Longmont also lists its open houses and Lunch & Learns."
     },
     {
       "displayName": "Longmont Recreation Services",
@@ -4834,10 +4906,18 @@
     },
     {
       "displayName": "Radio 1190",
-      "status": "idea",
+      "status": "ruled-out",
       "category": "music",
       "url": "https://1190.radio/",
-      "notes": "Area: Boulder. Likely adapter: scrape."
+      "notes": "Area: Boulder. KVCU, CU Boulder student radio. JamBase (Boulder) has an idea for its venue listing.",
+      "reason": "No events calendar: the site's Events menu is station news posts (/category/station-news-events/), checked 2026-11-14",
+      "robotsChecked": "2026-11-14"
+    },
+    {
+      "displayName": "Radio station calendars",
+      "status": "investigating",
+      "robotsChecked": "2026-11-14",
+      "notes": "Checked 2026-11-14. Own entries: KGNU Community Calendar, Radio 1190, 97.3 KBCO, 98.5 KYGO, KUNC, KUVO Jazz, Colorado Public Radio, Longmont Public Media. Alice 105.9 (Audacy) lists upcoming concerts at audacy.com/alice1059/events, mostly Denver venues; not examined further. Channel 93.3 has no events page at that path (404). TV: Denver7, FOX31, CBS Colorado, Rocky Mountain PBS have entries; 9News /community is news stories; Boulder 8 (the City of Boulder's channel) is a newscast, and city events come through the city's own calendar."
     },
     {
       "name": "meetup-meetup-group-rebelbookclub",
@@ -4916,6 +4996,13 @@
       "category": "music",
       "url": "https://bluegrass.com/folks",
       "notes": "Area: Lyons. Likely adapter: scrape."
+    },
+    {
+      "displayName": "Rocky Mountain PBS",
+      "status": "investigating",
+      "url": "https://www.rmpbs.org/events",
+      "robotsChecked": "2026-11-14",
+      "notes": "Area: Colorado. TV station, found 2026-11-14 under station calendars. robots.txt allows /events, but both requests that day answered HTTP 429 (Too Many Requests) on 2026-11-14. Not retried further. KUVO Jazz is its radio station."
     },
     {
       "displayName": "Rocky Mountain Theatre For Kids",
