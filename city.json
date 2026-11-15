@@ -1,5 +1,5 @@
 {
-  "_comment": "WeekendBoulder's facts for the shared engine (github.com/rhundhausen/weekend). Format: the engine's ingestion/schema/city.schema.json. ZIP 80027 is left out on purpose: Louisville and Superior share it, so other clues decide. 80503 is Longmont's and Niwot's; it maps to Longmont. Gunbarrel (80301) is unincorporated, but its addresses read Boulder.",
+  "_comment": "WeekendBoulder's facts for the shared core (github.com/rhundhausen/weekend). Format: the core's ingestion/schema/city.schema.json. ZIP 80027 is left out on purpose: Louisville and Superior share it, so other clues decide. 80503 is Longmont's and Niwot's; it maps to Longmont. Gunbarrel (80301) is unincorporated, but its addresses read Boulder.",
   "siteName": "WeekendBoulder",
   "domain": "weekendboulder.com",
   "repo": "rhundhausen/weekendboulder",
@@ -35,7 +35,7 @@
   "logDatabase": "weekendboulder-log",
   "about": {
     "intro": "WeekendBoulder lists upcoming events in Boulder, Longmont, Louisville, Lafayette, Superior, Erie, Broomfield, and the mountain and plains towns around them, from Niwot and Lyons up to Nederland. Concerts, theater, games, markets, festivals, library programs, classes, races, auctions and estate sales: if a public calendar lists it, it shows up here.",
-    "story": "WeekendBoulder is the sister site of <a href=\"https://weekendboise.com\">WeekendBoise</a>, which Richard Hundhausen built so he could see what was happening around Boise without hunting through dozens of separate websites. WeekendBoulder runs on the same engine, pointed at Boulder County's public calendars, and is refreshed every night.",
+    "story": "WeekendBoulder is the sister site of <a href=\"https://weekendboise.com\">WeekendBoise</a>, which Richard Hundhausen built so he could see what was happening around Boise without hunting through dozens of separate websites. WeekendBoulder runs on the same core, pointed at Boulder County's public calendars, and is refreshed every night.",
     "cityNote": "Gunbarrel counts as Boulder."
   }
 }
