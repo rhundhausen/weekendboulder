@@ -1458,6 +1458,12 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/event/17304170": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-16/": {
       "verdict": "ok",
       "status": 200,
@@ -1578,6 +1584,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/kids-club-9/2026-11-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/longmont-home-movie-day-workshop-screening/": {
       "verdict": "ok",
       "status": 200,
@@ -1618,6 +1630,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/remote-sustainability-advisory-board-2/2026-11-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/santa-visit-at-callahan-house/": {
@@ -1666,6 +1684,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/goddess-gala/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://longmontpublicmedia.org/events/intro-to-davinci-resolve-editing-class/": {
@@ -1840,6 +1864,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://museumofboulder.org/events/natural-highs-winter-craft-market-3/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/15782162": {
@@ -2340,6 +2370,12 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/18000816": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/18000967": {
       "verdict": "ok",
       "status": 200,
@@ -2506,6 +2542,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-14/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-new-years-eve-spectacular/": {
@@ -3858,6 +3900,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-bookaholics/events/317402205/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-dance/events/315956650/": {
       "verdict": "ok",
       "status": 200,
@@ -4036,6 +4084,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-wilderness-hiking/events/317432615/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/": {
@@ -4380,6 +4434,12 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://www.meetup.com/solidstatedepot/events/317446318/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
     "https://www.meetup.com/solidstatedepot/events/klpdmtyjcqbfb/": {
       "verdict": "ok",
       "status": 200,
@@ -4420,6 +4480,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/st-vrain-chain-gang/events/317441167/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
     "https://www.meetup.com/women-in-ai-colorado/events/317260441/": {

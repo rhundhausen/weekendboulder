@@ -541,6 +541,28 @@
     ]
   },
   {
+    "id": "5ec3a68ddd72",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-11-04T09:30:00-07:00",
+    "end": "2026-11-04T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605929",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605929",
+        "fetchedAt": "2026-11-16T07:20:28Z"
+      }
+    ]
+  },
+  {
     "id": "5bd2798739d9",
     "title": "Around the Town Book Group",
     "start": "2026-11-04T10:00:00-07:00",
@@ -584,6 +606,31 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a8b9f574e6af",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-04T10:30:00-07:00",
+    "end": "2026-11-04T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605964",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605964",
+        "fetchedAt": "2026-11-16T07:20:28Z"
       }
     ]
   },
@@ -1320,6 +1367,30 @@
       {
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/17733800",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ef5ac6cabf54",
+    "title": "Lottery Open: Santa Visit at Callahan House",
+    "start": "2026-11-09T00:00:00-07:00",
+    "end": "2026-11-15T23:59:59-07:00",
+    "allDay": false,
+    "venue": "Callahan House",
+    "venueKey": "callahan-house",
+    "city": "Longmont",
+    "category": "holiday-seasonal",
+    "tags": [
+      "santa"
+    ],
+    "size": "M",
+    "url": "https://longmontcolorado.gov/event/santa-visit-at-callahan-house/",
+    "description": "Visit Santa at the holiday-decorated Callahan House on Thursday, Dec. 10. Space is limited, and visits with Santa are assigned by lottery. Enter the lottery online Nov. 9-15 or call 303-774-4700. This event is free; donations are appreciated. Another free opportunity to see the Callahan House dec...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/santa-visit-at-callahan-house/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -3047,6 +3118,304 @@
       {
         "name": "colorado-chautauqua",
         "url": "https://www.chautauqua.com/event/caleb-schwing/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d64b4fb691d3",
+    "title": "Coffee & Community at East Simpson",
+    "start": "2026-11-15T09:00:00-07:00",
+    "end": "2026-11-15T11:00:00-07:00",
+    "allDay": false,
+    "venue": "East Simpson Coffee Company",
+    "venueKey": "east-simpson-coffee-company",
+    "city": "Lafayette",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/nocomustachians/events/317314920/",
+    "description": "Join us to hang out and build community with others interested in financial independence. Everyone is welcome, no matter where on the path you are. We’ll kick things off with some informal social time to connect and get to know one another, followed by a group discussion shaped by the questions t...",
+    "sources": [
+      {
+        "name": "meetup-nocomustachians",
+        "url": "https://www.meetup.com/nocomustachians/events/317314920/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "22c83880a8e4",
+    "title": "New Date! Green Mountain via West Ridge Trail - 4 miles and 750 ft EG",
+    "start": "2026-11-15T09:30:00-07:00",
+    "end": "2026-11-15T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Green Mountain West Ridge Trail",
+    "venueKey": "green-mountain-west-ridge-trail",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317127666/",
+    "description": "This beautiful out-and-back trail ascends Green Mountain from Flagstaff Road. Once at the summit you get rewarded with panoramic views and a summit marker featuring a peak finder to the surrounding mountain ranges. The hike is considered moderate; the last half mile up to the peak is steep and ro...",
+    "sources": [
+      {
+        "name": "meetup-boulder-wilderness-hiking",
+        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317127666/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7652a42fa1d7",
+    "title": "Front Range Agility Club NADAC Dog Agility Trial",
+    "start": "2026-11-15T09:30:00-07:00",
+    "end": "2026-11-15T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial-3/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/front-range-agility-club-nadac-dog-agility-trial-3/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "35b544c47213",
+    "title": "Boulder Potters Guild Fall Pottery Sale",
+    "start": "2026-11-15T10:00:00-07:00",
+    "end": "2026-11-15T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-5-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/boulder-potters-guild-fall-pottery-sale-5-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9e66a9133488",
+    "title": "Holiday Bazar – Craft Fair and Bake Sale",
+    "start": "2026-11-15T11:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "markets-shopping",
+    "tags": [
+      "makers-market"
+    ],
+    "size": "M",
+    "url": "https://bouldercounty.gov/event/holiday-bazar-craft-fair-and-bake-sale/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/holiday-bazar-craft-fair-and-bake-sale/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "440c529fd571",
+    "title": "Longmont Home Movie Day: Workshop & Screening",
+    "start": "2026-11-15T13:00:00-07:00",
+    "end": "2026-11-15T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/longmont-home-movie-day-workshop-screening/",
+    "description": "Do you have old home movies wasting away in your closet, attic, or basement? Not sure what to do with those ancient VHS or Beta tapes, Super 8 films, or even 16mm? If so, you’re in luck. Librarians and archivists from the University of Colorado Boulder are here to help you care for your personal...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/longmont-home-movie-day-workshop-screening/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6c13f58c83d8",
+    "title": "Polyester and Pearls: A 1970s Songbook",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/polyester-and-pearls-a-1970s-songbook",
+    "description": "CU Boulder’s Musical Theatre students bring fresh energy to the unforgettable pop sound of the 1970s in an intimate, cabaret-style revue inspired by venues like New York’s legendary 54 Below. This one-act performance features songs by Burt Bacharach, the Carpenters, Carole King and other favorite...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/polyester-and-pearls-a-1970s-songbook",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8a6810944217",
+    "title": "The 150 Project: A New Play Rooted in Student Stories",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Old Main",
+    "venueKey": "old-main",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+    "description": "In celebration of CU Boulder’s 150th anniversary, the Department of Theatre & Dance partners with the acclaimed Tectonic Theatre Project, creators of The Laramie Project, to premiere a new work rooted in student voices. Working with Tectonic artist Jimmy Maize, CU Boulder students will delve into...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/the-150-project-a-new-play-rooted-in-student-stories-7756",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bba623cac4dc",
+    "title": "Chamber Music Showcase Fall 2026: Part II",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/chamber-music-showcase-fall-2026-part-ii",
+    "description": "Join us for a showcase concert featuring College of Music chamber music students performing brass, piano, string, wind and percussion chamber music. This must-attend event for chamber music enthusiasts offers an opportunity to experience the excitement and artistry of students who have devoted th...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/chamber-music-showcase-fall-2026-part-ii",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c134e420fd8a",
+    "title": "Family American Sign Language (ASL) with Instructor",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/family-american-sign-language/2026-11-15/",
+    "description": "Library Meeting Rooms No registration required For children age 5+ and their grown ups This program is presented in American Sign Language (ASL) 3rd Sundays Discover the fun of American Sign Language (ASL) together! Join us each month for a playful, hands-on learning experience where children and...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/family-american-sign-language/2026-11-15/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d7a36567349c",
+    "title": "The Outlaw Folk Album-Release Party and Community Potluck",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Media",
+    "venueKey": "longmont-public-media",
+    "city": "Longmont",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://longmontpublicmedia.org/events/the-outlaw-folk-album-release-party-and-community-potluck/",
+    "description": "Community potluck followed by The Outlaw Folk concert with The Outlaw Folk and special guests Elise Cole on cello and Kris Nickeson on slide guitar and bass guitar. The Outlaw Folk is an acoustic duo comprised of Mike Barnett on guitar/vocals and Naomi Horii on vocals. Their debut release Subject...",
+    "sources": [
+      {
+        "name": "longmont-public-media",
+        "url": "https://longmontpublicmedia.org/events/the-outlaw-folk-album-release-party-and-community-potluck/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "e75378e086f1",
+    "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Grace Gamm Theatre",
+    "venueKey": "grace-gamm-theatre",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-15/",
+    "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-15/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "864dc50676cd",
+    "title": "Seicento Baroque Ensemble: Magnificat",
+    "start": "2026-11-15T18:00:00-07:00",
+    "end": "2026-11-15T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/seicento-baroque-ensemble-magnificat/",
+    "description": "TICKETS “Magnificat” features the 18th-century settings of the Magnificat by Telemann, Zelenka, and Bach. This production, using historical performance practice, will illustrate how the composers’ individual interpretations of a single text resulted in works with dramatically different stylistic...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/seicento-baroque-ensemble-magnificat/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
