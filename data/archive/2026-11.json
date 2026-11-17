@@ -3832,6 +3832,29 @@
     ]
   },
   {
+    "id": "e21e6030258a",
+    "title": "The Studio Series: Holiday Gift Making",
+    "start": "2026-11-17T09:30:00-07:00",
+    "end": "2026-11-17T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://longmontcolorado.gov/event/the-studio-series-holiday-gift-making/2026-11-17/",
+    "description": "Tuesdays, Nov. Each three-class series provides an opportunity for adults to dive deeper into arts and crafts while enhancing their knowledge and skills in a variety of mediums and techniques. Holiday Gift Making returns by popular demand! In this festive series, students will create handmade gif...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/the-studio-series-holiday-gift-making/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
     "id": "7e9e78e927b3",
     "title": "Toddler Storytime",
     "start": "2026-11-17T10:00:00-07:00",
@@ -3852,6 +3875,30 @@
       {
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "008a5bdd9d7b",
+    "title": "Wild Bear Storytime",
+    "start": "2026-11-17T10:30:00-07:00",
+    "end": "2026-11-17T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15917169",
+    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15917169",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
