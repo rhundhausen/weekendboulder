@@ -750,6 +750,28 @@
     ]
   },
   {
+    "id": "9afea5c75950",
+    "title": "Threads",
+    "start": "2026-11-04T16:00:00-07:00",
+    "end": "2026-11-04T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/erie_threads",
+    "description": "Gather to knit, crochet, cross-stitch embroider, latch hook, and hand sew in our cozy living room. Work on existing projects or learn something new. Share patterns, tips, and ideas with like-minded needle crafters. Please bring your own supplies. All experience levels and ages are welcome. No reg...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/erie_threads",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "4744cd88a3c5",
     "title": "Conversations in Spanish - Drop In",
     "start": "2026-11-04T18:00:00-07:00",
@@ -3416,6 +3438,371 @@
       {
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/seicento-baroque-ensemble-magnificat/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "102654daff17",
+    "title": "Write Together - BWA @ Broomfield",
+    "start": "2026-11-16T08:00:00-07:00",
+    "end": "2026-11-16T11:00:00-07:00",
+    "allDay": false,
+    "venue": "La Belle French Bakery",
+    "venueKey": "la-belle-french-bakery",
+    "city": "Broomfield",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317160953/",
+    "description": "Come write and work together! We're a small group (usually two to four), but always looking for more writers of all stripes. Time is focused on writing/working on our own projects, and a bit of conversation peppered throughout. We meet each week at La Belle Coffee and Bakery in Broomfield, off Hi...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317160953/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6e489afda9b9",
+    "title": "NCAR, Mesa trails and part of Fern Canyon - 4.6 miles and 1,200 ft EG",
+    "start": "2026-11-16T09:30:00-07:00",
+    "end": "2026-11-16T12:00:00-07:00",
+    "allDay": false,
+    "venue": "NCAR",
+    "venueKey": "ncar",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317123486/",
+    "description": "By signing up for this hike you acknowledge that you participate at your own risk and are solely responsible for your safety. You release the hosts from all liabilities, claims and demands arising from your participation in this event. We are not professional guides and have no medical training....",
+    "sources": [
+      {
+        "name": "meetup-boulder-wilderness-hiking",
+        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317123486/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "27c6c7733e3b",
+    "title": "Colorado Chautauqua History Tour",
+    "start": "2026-11-16T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Academic Hall",
+    "venueKey": "academic-hall",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "free-admission"
+    ],
+    "size": "M",
+    "costTier": "free",
+    "url": "https://www.chautauqua.com/event/colorado-chautauqua-history-tour/2026-11-16/",
+    "description": "History Tours take place on Mondays from April 6 to October 26, excluding August 17. Tours will also take place on Select Thursdays from July 16 through November 23 Join us for a walking tour of the Colorado Chautauqua National Historic Landmark. This quarter-mile stroll covers the central public...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/colorado-chautauqua-history-tour/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "56e7b9a1b49e",
+    "title": "Bilingual Storytime",
+    "start": "2026-11-16T10:00:00-07:00",
+    "end": "2026-11-16T10:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/bilingual-storytime/2026-11-16/",
+    "description": "Library Meeting Rooms No registration required This program is in English and Spanish Enjoy culturally diverse stories, songs, and movement in English and Spanish while building language, early literacy, and biliteracy skills. Ideal for birth to 5 year-old children. All storytimes require a dedic...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/bilingual-storytime/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6ea5dae6d044",
+    "title": "All Ages Stay & Play Monday",
+    "start": "2026-11-16T10:30:00-07:00",
+    "end": "2026-11-16T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-16/",
+    "description": "Library Meeting Rooms No registration required This program is presented in English and Spanish This event happens weekly on Mondays unless the Library is closed Join us for open play time for birth-4-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all th...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e75f443ac2d5",
+    "title": "Guided Tour of Heritage in Motion with Exhibit Curator Binisha Shrestha",
+    "start": "2026-11-16T11:00:00-07:00",
+    "end": "2026-11-16T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Museum of Boulder",
+    "venueKey": "museum-of-boulder",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "museum",
+      "tour"
+    ],
+    "size": "S",
+    "url": "https://museumofboulder.org/events/guided-tour-of-heritage-in-motion-with-exhibit-curator-binisha-shrestha/2026-11-16/",
+    "description": "Monday, October 5 at 11AM – 12PM CANCELED: Monday, November 16 at 11AM – 12PM Monday, December 14 at 11AM – 12PM REGISTER HERE Join us for a special insider tour of Heritage in Motion with curator Binisha Shrestha. Spend an hour immersed in stories, personal insights, and cultural connections as...",
+    "sources": [
+      {
+        "name": "museum-of-boulder",
+        "url": "https://museumofboulder.org/events/guided-tour-of-heritage-in-motion-with-exhibit-curator-binisha-shrestha/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "27a2381ebcd7",
+    "title": "Speed Editing in DaVinci Resolve",
+    "start": "2026-11-16T12:00:00-07:00",
+    "end": "2026-11-16T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Media",
+    "venueKey": "longmont-public-media",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://longmontpublicmedia.org/events/speed-editing-in-davinci-resolve/",
+    "description": "Want to take your editing skills on DaVinci Resolve to the next level? Join us for this hands-on class and discover how the Blackmagic Speed Editor Keyboard can revolutionize your workflow. Designed specifically for DaVinci Resolve, this powerful tool helps you edit your content faster and more e...",
+    "sources": [
+      {
+        "name": "longmont-public-media",
+        "url": "https://longmontpublicmedia.org/events/speed-editing-in-davinci-resolve/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "4f27dca9307c",
+    "title": "Tour Longmont Public Media",
+    "start": "2026-11-16T12:00:00-07:00",
+    "end": "2026-11-16T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Media",
+    "venueKey": "longmont-public-media",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
+    "description": "Interested in learning more about Longmont Public Media and what you can do at our facility? Join us for an tour and info session where you’ll get an inside look at the media makerspace, our studios, equipment, and how you can use it for your media needs. Please register below to attend. Can’t ma...",
+    "sources": [
+      {
+        "name": "longmont-public-media",
+        "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "cf5f4095a282",
+    "title": "Monday Nederland Writers",
+    "start": "2026-11-16T13:00:00-07:00",
+    "end": "2026-11-16T15:15:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15820329",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15820329",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2654068bef3f",
+    "title": "Mythical Creatures Club",
+    "start": "2026-11-16T16:00:00-07:00",
+    "end": "2026-11-16T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/mythical-creatures-club-14/",
+    "description": "For 1st-5th graders Library Meeting Rooms No registration required This program is presented in English Join us every 3rd Monday of the month for our Mythical Creatures Club! We’ll learn about Bigfoot, mermaids and many other legendary creatures through fun crafts and activities. This program is...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/mythical-creatures-club-14/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6ae920581bbb",
+    "title": "Navigators",
+    "start": "2026-11-16T16:00:00-07:00",
+    "end": "2026-11-16T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-16/",
+    "description": "combines young adults’ life-skills education with an outdoor adventure component. Young people get to know themselves and the kinds of futures they want while exploring the City if Longmont on bikes, kayaks, and their own two feet. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in tim...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ca12a313374f",
+    "title": "High School Group",
+    "start": "2026-11-16T16:00:00-07:00",
+    "end": "2026-11-16T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/high-school-group-3/2026-11-16/",
+    "description": "In High School Group, you will build community by getting to know yourself and others. Whether you’re into creating, discovering new places, or just looking to try something different, this group is all about making meaningful connections and experiences and connections. The Zone opens: 3 pm Snac...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/high-school-group-3/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "13f91513280b",
+    "title": "⚫/⚫⚫ Enduro Ride ⚫/⚫⚫",
+    "start": "2026-11-16T17:30:00-07:00",
+    "end": "2026-11-16T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lefthand Canyon OHV trailhead",
+    "venueKey": "lefthand-canyon-ohv-trailhead",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-mountain-bikers/events/314319093/",
+    "description": "Lights are mandatory!! The Ride: * Lefthand: Steep and sometimes loose fire road climbs with steep, loose and technical descents * Aerobic Difficulty: 9/10, Technical Difficulty: 8/10 * The climbs are about 500 ft/mile and we'll try to do a couple laps. Expect over 1,000 - 2,000 ft of climbing in...",
+    "sources": [
+      {
+        "name": "meetup-boulder-mountain-bikers",
+        "url": "https://www.meetup.com/boulder-mountain-bikers/events/314319093/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2abcf4caf8fe",
+    "title": "Drop-in Writers Group (for Adults)",
+    "start": "2026-11-16T18:00:00-07:00",
+    "end": "2026-11-16T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/drop-in-writers-group-3/2026-11-16/",
+    "description": "Unquiet Study Area, upstairs No registration required This program is in English Come join us in a thoughtful, intentional and inclusive space to gather around the art and craft of writing. We will celebrate creativity and work toward achievable goals, together! View more details about the group...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/drop-in-writers-group-3/2026-11-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "848046f6a918",
+    "title": "Writers Group - Drop In",
+    "start": "2026-11-16T18:00:00-07:00",
+    "end": "2026-11-16T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+    "description": "Adults - drop by the Library to chat with fellow writers of all levels about your projects, share experiences with writing and getting published, get ideas for development of a piece, and learn from each other in a casual atmosphere. Questions? Contact the Programs Staff. Location: upstairs at th...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WritersSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8066bc04aeaa",
+    "title": "CU Boulder Philharmonia Orchestra: Second Fall 2026 Concert",
+    "start": "2026-11-16T19:30:00-07:00",
+    "end": "2026-11-16T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert",
+      "symphony"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/cu-boulder-philharmonia-orchestra-second-fall-2026-concert",
+    "description": "The CU Boulder Philharmonia Orchestra features musicians from the College of Music performing a diverse range of repertoire for strings and full orchestra. This event will be livestreamed by CU Boulder: https://cupresents.org/cu-boulder-college-of-music-Livestream/",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/cu-boulder-philharmonia-orchestra-second-fall-2026-concert",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
