@@ -69,28 +69,6 @@
     ]
   },
   {
-    "id": "e6284bcdaca7",
-    "title": "Weekly In-Town..South Mesa Quicky",
-    "start": "2026-11-17T13:00:00-07:00",
-    "end": "2026-11-17T14:30:00-07:00",
-    "allDay": false,
-    "venue": "South Mesa Trailhead.",
-    "venueKey": "south-mesa-trailhead",
-    "city": "Boulder",
-    "category": "outdoors-recreation",
-    "tags": [],
-    "size": "S",
-    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317166263/",
-    "description": "If you dont have a whole day, this is a great hike. Gorgeous moderate hike with views and woods... you name it! Get you heart rate up on Homestead Trail.... then we'll take Towhee back. This is a loop hike. Love that! Approximately 3.5 miles. Great little hike anytime of year. Even a small stream...",
-    "sources": [
-      {
-        "name": "meetup-boulder-wilderness-hiking",
-        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317166263/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "1be98452ea47",
     "title": "Teen Craft & Create Club",
     "start": "2026-11-17T15:00:00-07:00",
@@ -24577,6 +24555,31 @@
       {
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-15/1/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "80c99c17665c",
+    "title": "Boulder Ballet presents Vital | May 14 – 16, 2027",
+    "start": "2027-05-16T14:00:00-06:00",
+    "end": "2027-05-16T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "dance"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-16/",
+    "description": "TICKETS Experience the vitality of presence, the power of connection, and the beauty of being human with works from Ma Cong and world premieres by Ben Needham-Wood and Nicolo Fonte.",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-16/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
