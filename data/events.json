@@ -47,30 +47,6 @@
     ]
   },
   {
-    "id": "cad37ff86d20",
-    "title": "St. Vrain Greenway Morning Nature Walk",
-    "start": "2026-11-17T09:00:00-07:00",
-    "end": "2026-11-17T11:00:00-07:00",
-    "allDay": false,
-    "venue": "St. Vrain Greenway trailhead",
-    "venueKey": "st-vrain-greenway-trailhead",
-    "city": "Longmont",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "url": "https://www.meetup.com/longmont-walks/events/316623499/",
-    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
-    "sources": [
-      {
-        "name": "meetup-longmont-walks",
-        "url": "https://www.meetup.com/longmont-walks/events/316623499/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "e21e6030258a",
     "title": "The Studio Series: Holiday Gift Making",
     "start": "2026-11-17T09:30:00-07:00",
@@ -116,31 +92,6 @@
     ]
   },
   {
-    "id": "7e9e78e927b3",
-    "title": "Toddler Storytime",
-    "start": "2026-11-17T10:00:00-07:00",
-    "end": "2026-11-17T10:20:00-07:00",
-    "allDay": false,
-    "venue": "City of Longmont",
-    "venueKey": "city-of-longmont",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [
-      "kids",
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
-    "description": "Library Meeting Rooms No registration required This program is in English A lively storytime designed for ages 2 to 3 years old and their grownup. Enjoy 20 minutes of books, songs, movement and fun for children to build fine motor and literacy skills! All storytimes require a dedicated adult care...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "008a5bdd9d7b",
     "title": "Wild Bear Storytime",
     "start": "2026-11-17T10:30:00-07:00",
@@ -160,54 +111,6 @@
       {
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/15917169",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "92ebfcc87f4c",
-    "title": "Toddler Stay & Play",
-    "start": "2026-11-17T10:30:00-07:00",
-    "end": "2026-11-17T11:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Library",
-    "venueKey": "longmont-public-library",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [
-      "kids"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
-    "description": "Library Meeting Rooms No registration required This program is presented in English This event happens weekly on Tuesdays Join us for open play time for 2 to 3-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. Me...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "d23d6c3b2b25",
-    "title": "Baby Storytime",
-    "start": "2026-11-17T10:30:00-07:00",
-    "end": "2026-11-17T11:00:00-07:00",
-    "allDay": false,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
-    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: lafayetteco.gov/Storytimes.",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -557,6 +460,26 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/online-english-conversation-group-4/",
         "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "de53d608017a",
+    "title": "One Time Event",
+    "start": "2026-11-17T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Town of Erie",
+    "venueKey": "town-of-erie",
+    "city": "Erie",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+    "sources": [
+      {
+        "name": "town-of-erie",
+        "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+        "fetchedAt": "2026-11-17T18:16:42Z"
       }
     ]
   },
@@ -1443,6 +1366,28 @@
     ]
   },
   {
+    "id": "bb2b08e80d10",
+    "title": "Make it Better",
+    "start": "2026-11-19T15:00:00-07:00",
+    "end": "2026-11-19T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+    "description": "The world can be a cruel place, right? So what are you willing to do to Make It Better? In this weekly club, we cheer up the depressed and lonely, improve our natural environment, run kindness campaigns, and spread happiness to those around us! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
     "id": "d6ce63187ab9",
     "title": "The Great Ideas Reading and Discussion Group",
     "start": "2026-11-19T15:00:00-07:00",
@@ -1509,6 +1454,28 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6320b1b2b7ed",
+    "title": "Tween Club",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+    "description": "For 3rd-5th graders Library Meeting Rooms No registration necessary This program is in English Join us for Tween club, where we’ll play games, make crafts and do fun challenges and activities. Tween club is a great place to make friends, celebrate reading, and learn new skills.",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
       }
     ]
   },
@@ -2999,6 +2966,31 @@
         "name": "colorado-chautauqua",
         "url": "https://www.chautauqua.com/event/colorado-chautauqua-history-tour/2026-11-23/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a47d5bf75555",
+    "title": "Open Extra Days! Thanksgiving Break",
+    "start": "2026-11-23T11:00:00-07:00",
+    "end": "2026-11-29T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Carousel of Happiness",
+    "venueKey": "carousel-of-happiness",
+    "city": "Nederland",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://carouselofhappiness.org/event/open-extra-days-thanksgiving-break/",
+    "description": "We’ll be closed to celebrate Thanksgiving on Nov 26, 2026. However, we’ll also be open on Tuesday and Wednesday that week to make sure you get your regular dose of joy! Monday 11/23 – Open 11am, Close 5pm Tuesday 11/24 – Open 11am, Close 5pm Wednesday 11/25 – Open 11am, Close 5pm Thursday 11/26 –...",
+    "sources": [
+      {
+        "name": "carousel-of-happiness",
+        "url": "https://carouselofhappiness.org/event/open-extra-days-thanksgiving-break/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
       }
     ]
   },
@@ -4647,30 +4639,6 @@
     ]
   },
   {
-    "id": "64054419ba74",
-    "title": "Hot Chocolate Hikes",
-    "start": "2026-12-02T09:00:00-07:00",
-    "allDay": false,
-    "venue": "Academic Hall",
-    "venueKey": "academic-hall",
-    "city": "Boulder",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-02/",
-    "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
-    "sources": [
-      {
-        "name": "colorado-chautauqua",
-        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-02/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "d68aeffff504",
     "title": "Around the Town Book Group",
     "start": "2026-12-02T10:00:00-07:00",
@@ -5046,6 +5014,30 @@
         "name": "longmont-public-media",
         "url": "https://longmontpublicmedia.org/events/orientation-podcasting/",
         "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "5c9d18715fa0",
+    "title": "Hot Chocolate Hikes",
+    "start": "2026-12-03T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Academic Hall",
+    "venueKey": "academic-hall",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/",
+    "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
       }
     ]
   },
@@ -7051,30 +7043,6 @@
     ]
   },
   {
-    "id": "7ba7136c427b",
-    "title": "Hot Chocolate Hikes",
-    "start": "2026-12-09T09:00:00-07:00",
-    "allDay": false,
-    "venue": "Academic Hall",
-    "venueKey": "academic-hall",
-    "city": "Boulder",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/",
-    "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
-    "sources": [
-      {
-        "name": "colorado-chautauqua",
-        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "798d721f231e",
     "title": "Creative Connections: Winter Sing Along and Screening of “Love Actually”",
     "start": "2026-12-09T12:00:00-07:00",
@@ -7121,6 +7089,30 @@
         "name": "boulder-county",
         "url": "https://bouldercounty.gov/event/future-of-work-32/",
         "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "7ba7136c427b",
+    "title": "Hot Chocolate Hikes",
+    "start": "2026-12-09T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Academic Hall",
+    "venueKey": "academic-hall",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/",
+    "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
   },
@@ -8604,6 +8596,30 @@
     ]
   },
   {
+    "id": "9655d9cbd67b",
+    "title": "St. Vrain Greenway Morning Nature Walk",
+    "start": "2026-12-15T09:00:00-07:00",
+    "end": "2026-12-15T11:00:00-07:00",
+    "allDay": false,
+    "venue": "St. Vrain Greenway trailhead",
+    "venueKey": "st-vrain-greenway-trailhead",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316623516/",
+    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316623516/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
     "id": "ac5caecb90be",
     "title": "Babies and Bells Storytime",
     "start": "2026-12-15T10:30:00-07:00",
@@ -8720,30 +8736,6 @@
     ]
   },
   {
-    "id": "2109b950938d",
-    "title": "Hot Chocolate Hikes",
-    "start": "2026-12-16T09:00:00-07:00",
-    "allDay": false,
-    "venue": "Academic Hall",
-    "venueKey": "academic-hall",
-    "city": "Boulder",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-16/",
-    "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
-    "sources": [
-      {
-        "name": "colorado-chautauqua",
-        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-16/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "8d6b24eaa2a4",
     "title": "Storytime with Santa",
     "start": "2026-12-16T10:30:00-07:00",
@@ -8813,6 +8805,30 @@
         "name": "boulder-county",
         "url": "https://bouldercounty.gov/event/overcoming-difficult-work-histories-32/",
         "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "2109b950938d",
+    "title": "Hot Chocolate Hikes",
+    "start": "2026-12-16T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Academic Hall",
+    "venueKey": "academic-hall",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-16/",
+    "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
   },
@@ -9664,6 +9680,30 @@
     ]
   },
   {
+    "id": "a12bd6f71b1b",
+    "title": "Winter Solstice Celebration Hike",
+    "start": "2026-12-19T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Academic Hall",
+    "venueKey": "academic-hall",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.chautauqua.com/event/winter-solstice-celebration-hike/",
+    "description": "Hike is approximately 2 hours 30 minutes Join us at Chautauqua to celebrate the Winter Solstice—the shortest day and longest night of the year—and the gradual return of longer days. Discover why the seasons change, explore winter solstice traditions and celebrations from around the world, and lea...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/winter-solstice-celebration-hike/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
     "id": "61d095435e01",
     "title": "Lotería Mexicana - Family Bingo",
     "start": "2026-12-19T11:30:00-07:00",
@@ -10019,26 +10059,24 @@
     ]
   },
   {
-    "id": "37e7a5a60cca",
-    "title": "Winter Solstice Celebration Hike",
+    "id": "12e21efc7f1b",
+    "title": "Open Extra Days! Winter Break",
     "start": "2026-12-21T11:00:00-07:00",
+    "end": "2027-01-03T17:00:00-07:00",
     "allDay": false,
-    "venue": "Academic Hall",
-    "venueKey": "academic-hall",
-    "city": "Boulder",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
+    "venue": "Carousel of Happiness",
+    "venueKey": "carousel-of-happiness",
+    "city": "Nederland",
+    "category": "community-civic",
+    "tags": [],
     "size": "S",
-    "costTier": "$",
-    "url": "https://www.chautauqua.com/event/winter-solstice-celebration-hike/",
-    "description": "Hike is approximately 2 hours 30 minutes Join us at Chautauqua to celebrate the Winter Solstice—the shortest day and longest night of the year—and the gradual return of longer days. Discover why the seasons change, explore winter solstice traditions and celebrations from around the world, and lea...",
+    "url": "https://carouselofhappiness.org/event/open-extra-days-winter-break/",
+    "description": "Let it snow, let it snow, let it snow! Join us for Winter Break as we open up on Tues & Wed for Christmas week and New Year’s week. Our festive carousel will be spinning with trees, lights, and a few Santa hats. You may even get a chance to meet Santa Clause and Mrs. Claus, though we never know w...",
     "sources": [
       {
-        "name": "colorado-chautauqua",
-        "url": "https://www.chautauqua.com/event/winter-solstice-celebration-hike/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
+        "name": "carousel-of-happiness",
+        "url": "https://carouselofhappiness.org/event/open-extra-days-winter-break/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
       }
     ]
   },

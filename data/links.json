@@ -906,6 +906,20 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://carouselofhappiness.org/event/open-extra-days-thanksgiving-break/": {
+      "verdict": "transient",
+      "status": 0,
+      "error": "timeout",
+      "checkedAt": "2026-11-17T18:20:58Z",
+      "failures": 1
+    },
+    "https://carouselofhappiness.org/event/open-extra-days-winter-break/": {
+      "verdict": "transient",
+      "status": 0,
+      "error": "timeout",
+      "checkedAt": "2026-11-17T18:20:58Z",
+      "failures": 1
+    },
     "https://historicboulder.org/event/homes-for-the-holidays-tour-2026/": {
       "verdict": "ok",
       "status": 200,
@@ -1680,6 +1694,12 @@
       "checkedAt": "2026-11-17T07:18:18Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/make-it-better/2026-11-19/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-17T18:20:58Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/mental-wellness-activities-with-clinica-family-health-sensory-jars/": {
       "verdict": "ok",
       "status": 200,
@@ -1786,6 +1806,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-17T18:20:58Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/workshop-what-is-vision-zero-safer-speeds/": {
@@ -3882,6 +3908,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-17T18:20:58Z",
+      "failures": 0
+    },
     "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/": {
       "verdict": "ok",
       "status": 200,
@@ -3988,6 +4020,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.erieco.gov/Calendar.aspx?EID=5537": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-17T18:20:58Z",
       "failures": 0
     },
     "https://www.meetup.com/40ish-childfree-meet-up/events/317256748/": {
@@ -4510,6 +4548,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/longmont-walks/events/316623516/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-17T18:20:58Z",
       "failures": 0
     },
     "https://www.meetup.com/longmont-walks/events/317181854/": {

@@ -3806,5 +3806,102 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "cad37ff86d20",
+    "title": "St. Vrain Greenway Morning Nature Walk",
+    "start": "2026-11-17T09:00:00-07:00",
+    "end": "2026-11-17T11:00:00-07:00",
+    "allDay": false,
+    "venue": "St. Vrain Greenway trailhead",
+    "venueKey": "st-vrain-greenway-trailhead",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316623499/",
+    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316623499/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7e9e78e927b3",
+    "title": "Toddler Storytime",
+    "start": "2026-11-17T10:00:00-07:00",
+    "end": "2026-11-17T10:20:00-07:00",
+    "allDay": false,
+    "venue": "City of Longmont",
+    "venueKey": "city-of-longmont",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
+    "description": "Library Meeting Rooms No registration required This program is in English A lively storytime designed for ages 2 to 3 years old and their grownup. Enjoy 20 minutes of books, songs, movement and fun for children to build fine motor and literacy skills! All storytimes require a dedicated adult care...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "92ebfcc87f4c",
+    "title": "Toddler Stay & Play",
+    "start": "2026-11-17T10:30:00-07:00",
+    "end": "2026-11-17T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
+    "description": "Library Meeting Rooms No registration required This program is presented in English This event happens weekly on Tuesdays Join us for open play time for 2 to 3-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. Me...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d23d6c3b2b25",
+    "title": "Baby Storytime",
+    "start": "2026-11-17T10:30:00-07:00",
+    "end": "2026-11-17T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]
