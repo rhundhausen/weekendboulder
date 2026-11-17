@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-17T07:00:00Z",
+  "asOf": "2026-11-17T18:16:42Z",
   "sources": {
     "boulder-county": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "5749758f074a",
@@ -1800,7 +1800,7 @@
       ]
     },
     "boulder-university-womens-club": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "2dc295316f90",
@@ -1900,8 +1900,60 @@
         }
       ]
     },
+    "carousel-of-happiness": {
+      "fetchedAt": "2026-11-17T18:16:42Z",
+      "events": [
+        {
+          "id": "a47d5bf75555",
+          "title": "Open Extra Days! Thanksgiving Break",
+          "start": "2026-11-23T11:00:00-07:00",
+          "end": "2026-11-29T17:00:00-07:00",
+          "allDay": false,
+          "venue": "Carousel of Happiness",
+          "venueKey": "carousel-of-happiness",
+          "city": "Nederland",
+          "category": "holiday-seasonal",
+          "tags": [
+            "holiday-event"
+          ],
+          "size": "S",
+          "costTier": "$",
+          "url": "https://carouselofhappiness.org/event/open-extra-days-thanksgiving-break/",
+          "description": "We’ll be closed to celebrate Thanksgiving on Nov 26, 2026. However, we’ll also be open on Tuesday and Wednesday that week to make sure you get your regular dose of joy! Monday 11/23 – Open 11am, Close 5pm Tuesday 11/24 – Open 11am, Close 5pm Wednesday 11/25 – Open 11am, Close 5pm Thursday 11/26 –...",
+          "sources": [
+            {
+              "name": "carousel-of-happiness",
+              "url": "https://carouselofhappiness.org/event/open-extra-days-thanksgiving-break/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
+        },
+        {
+          "id": "12e21efc7f1b",
+          "title": "Open Extra Days! Winter Break",
+          "start": "2026-12-21T11:00:00-07:00",
+          "end": "2027-01-03T17:00:00-07:00",
+          "allDay": false,
+          "venue": "Carousel of Happiness",
+          "venueKey": "carousel-of-happiness",
+          "city": "Nederland",
+          "category": "community-civic",
+          "tags": [],
+          "size": "S",
+          "url": "https://carouselofhappiness.org/event/open-extra-days-winter-break/",
+          "description": "Let it snow, let it snow, let it snow! Join us for Winter Break as we open up on Tues & Wed for Christmas week and New Year’s week. Our festive carousel will be spinning with trees, lights, and a few Santa hats. You may even get a chance to meet Santa Clause and Mrs. Claus, though we never know w...",
+          "sources": [
+            {
+              "name": "carousel-of-happiness",
+              "url": "https://carouselofhappiness.org/event/open-extra-days-winter-break/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
+        }
+      ]
+    },
     "city-of-longmont": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "09d5f0265ff9",
@@ -1969,55 +2021,6 @@
             {
               "name": "city-of-longmont",
               "url": "https://longmontcolorado.gov/event/the-studio-series-holiday-gift-making/2026-11-17/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "7e9e78e927b3",
-          "title": "Toddler Storytime",
-          "start": "2026-11-17T10:00:00-07:00",
-          "end": "2026-11-17T10:20:00-07:00",
-          "allDay": false,
-          "venue": "City of Longmont",
-          "venueKey": "city-of-longmont",
-          "city": "Longmont",
-          "category": "learning-business",
-          "tags": [
-            "kids",
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
-          "description": "Library Meeting Rooms No registration required This program is in English A lively storytime designed for ages 2 to 3 years old and their grownup. Enjoy 20 minutes of books, songs, movement and fun for children to build fine motor and literacy skills! All storytimes require a dedicated adult care...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "92ebfcc87f4c",
-          "title": "Toddler Stay & Play",
-          "start": "2026-11-17T10:30:00-07:00",
-          "end": "2026-11-17T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
-          "description": "Library Meeting Rooms No registration required This program is presented in English This event happens weekly on Tuesdays Join us for open play time for 2 to 3-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. Me...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-17/",
               "fetchedAt": "2026-11-13T18:03:35Z"
             }
           ]
@@ -2535,6 +2538,28 @@
           ]
         },
         {
+          "id": "bb2b08e80d10",
+          "title": "Make it Better",
+          "start": "2026-11-19T15:00:00-07:00",
+          "end": "2026-11-19T17:30:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Youth Center",
+          "venueKey": "longmont-youth-center",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+          "description": "The world can be a cruel place, right? So what are you willing to do to Make It Better? In this weekly club, we cheer up the depressed and lonely, improve our natural environment, run kindness campaigns, and spread happiness to those around us! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
+        },
+        {
           "id": "d6ce63187ab9",
           "title": "The Great Ideas Reading and Discussion Group",
           "start": "2026-11-19T15:00:00-07:00",
@@ -2555,11 +2580,33 @@
               "fetchedAt": "2026-11-17T07:13:48Z"
             }
           ]
+        },
+        {
+          "id": "6320b1b2b7ed",
+          "title": "Tween Club",
+          "start": "2026-11-19T16:00:00-07:00",
+          "end": "2026-11-19T17:00:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Public Library",
+          "venueKey": "longmont-public-library",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+          "description": "For 3rd-5th graders Library Meeting Rooms No registration necessary This program is in English Join us for Tween club, where we’ll play games, make crafts and do fun challenges and activities. Tween club is a great place to make friends, celebrate reading, and learn new skills.",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
         }
       ]
     },
     "colorado-chautauqua": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "16013cdedb53",
@@ -2635,9 +2682,9 @@
           ]
         },
         {
-          "id": "64054419ba74",
+          "id": "5c9d18715fa0",
           "title": "Hot Chocolate Hikes",
-          "start": "2026-12-02T09:00:00-07:00",
+          "start": "2026-12-03T15:00:00-07:00",
           "allDay": false,
           "venue": "Academic Hall",
           "venueKey": "academic-hall",
@@ -2648,13 +2695,13 @@
           ],
           "size": "S",
           "costTier": "$",
-          "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-02/",
-          "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+          "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/",
+          "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
           "sources": [
             {
               "name": "colorado-chautauqua",
-              "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-02/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
+              "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
             }
           ]
         },
@@ -2730,7 +2777,7 @@
         {
           "id": "7ba7136c427b",
           "title": "Hot Chocolate Hikes",
-          "start": "2026-12-09T09:00:00-07:00",
+          "start": "2026-12-09T15:00:00-07:00",
           "allDay": false,
           "venue": "Academic Hall",
           "venueKey": "academic-hall",
@@ -2742,7 +2789,7 @@
           "size": "S",
           "costTier": "$",
           "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/",
-          "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+          "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
           "sources": [
             {
               "name": "colorado-chautauqua",
@@ -2830,7 +2877,7 @@
         {
           "id": "2109b950938d",
           "title": "Hot Chocolate Hikes",
-          "start": "2026-12-16T09:00:00-07:00",
+          "start": "2026-12-16T15:00:00-07:00",
           "allDay": false,
           "venue": "Academic Hall",
           "venueKey": "academic-hall",
@@ -2842,7 +2889,7 @@
           "size": "S",
           "costTier": "$",
           "url": "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-16/",
-          "description": "Hot Chocolate Hikes will occur on December 2, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
+          "description": "Hot Chocolate Hikes will occur on December 3, 9, and 16. Hike is approximately 90 minutes Join us for a guided winter walk from Chautauqua’s Academic Hall to the historic Bluebell Shelter. Along the way, discover stories of the early Chautauquans, learn about the history of the Bluebell Shelter,...",
           "sources": [
             {
               "name": "colorado-chautauqua",
@@ -2852,9 +2899,9 @@
           ]
         },
         {
-          "id": "37e7a5a60cca",
+          "id": "a12bd6f71b1b",
           "title": "Winter Solstice Celebration Hike",
-          "start": "2026-12-21T11:00:00-07:00",
+          "start": "2026-12-19T11:00:00-07:00",
           "allDay": false,
           "venue": "Academic Hall",
           "venueKey": "academic-hall",
@@ -2871,7 +2918,7 @@
             {
               "name": "colorado-chautauqua",
               "url": "https://www.chautauqua.com/event/winter-solstice-celebration-hike/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
+              "fetchedAt": "2026-11-17T18:16:42Z"
             }
           ]
         },
@@ -3044,11 +3091,11 @@
       ]
     },
     "colorado-music-festival": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "cu-presents": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "ba1a43bffd32",
@@ -8429,7 +8476,7 @@
       ]
     },
     "dairy-arts-center": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "3776e0fba893",
@@ -14215,7 +14262,7 @@
       ]
     },
     "erie-community-library": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "fa29f454bd84",
@@ -15320,7 +15367,7 @@
       ]
     },
     "historic-boulder": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "1abcbee6882b",
@@ -15393,7 +15440,7 @@
       ]
     },
     "kbco-calendar": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "12c879ea400c",
@@ -15604,7 +15651,7 @@
       ]
     },
     "lafayette-public-library": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "b6ef9feed09b",
@@ -26677,7 +26724,7 @@
       ]
     },
     "longmont-public-media": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "cc751c2c9b61",
@@ -26887,7 +26934,7 @@
       ]
     },
     "meetup-40ish-childfree-meet-up": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "e7d43f54c385",
@@ -26914,15 +26961,15 @@
       ]
     },
     "meetup-ai-for-small-business-boulder-denver": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-analyze-boulder": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-bdnewtech": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "568c26793787",
@@ -26949,7 +26996,7 @@
       ]
     },
     "meetup-beerandcameras": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -26977,11 +27024,11 @@
       ]
     },
     "meetup-bniintegrity": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-20s-30s-hiking-travel-local-activities": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "b8a8101e5819",
@@ -27052,7 +27099,7 @@
       ]
     },
     "meetup-boulder-birds-and-brew": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "0bd83576b4db",
@@ -27103,15 +27150,15 @@
       ]
     },
     "meetup-boulder-board-games": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-board-games-galore": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-bookaholics": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "e9d772c47656",
@@ -27228,11 +27275,11 @@
       ]
     },
     "meetup-boulder-county-fun-with-french": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-dance": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "946a859e0a11",
@@ -27464,19 +27511,19 @@
       ]
     },
     "meetup-boulder-experiments-in-art-and-technology": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-hiking-and-yoga-networking-group": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-independent-film-club": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-mountain-bikers": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "0f2759e1ce69",
@@ -27503,7 +27550,7 @@
       ]
     },
     "meetup-boulder-photo-center": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "075332c34cc7",
@@ -27532,11 +27579,11 @@
       ]
     },
     "meetup-boulder-rock-climbing-meetup-group": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulder-shambhala-center": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "240dae9aef4a",
@@ -27656,7 +27703,7 @@
       ]
     },
     "meetup-boulder-tech-connect": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "66d2392144bf",
@@ -27683,7 +27730,7 @@
       ]
     },
     "meetup-boulder-wilderness-hiking": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "e6284bcdaca7",
@@ -27842,7 +27889,7 @@
       ]
     },
     "meetup-boulder-writers-alliance-meetup": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "4f0976318d9e",
@@ -28067,15 +28114,15 @@
       ]
     },
     "meetup-boulder-writers-directors-filmmaking-photographers-show": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulderpython": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulderramblers": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "293a932eb711",
@@ -28146,7 +28193,7 @@
       ]
     },
     "meetup-boulderstartups": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "75236a92ce8b",
@@ -28318,15 +28365,15 @@
       ]
     },
     "meetup-bouldertoddlerparents": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulderveganfamilies": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-boulderwalks": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "293a932eb711",
@@ -28397,7 +28444,7 @@
       ]
     },
     "meetup-boulderwine": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "afd93afadd32",
@@ -28549,11 +28596,11 @@
       ]
     },
     "meetup-bvgt-family-activities": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-camerasandbeersboulder-thephotoshow": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -28581,7 +28628,7 @@
       ]
     },
     "meetup-improvbouldermeetup": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "57e19c3de7c7",
@@ -28707,36 +28754,12 @@
       ]
     },
     "meetup-longmont-game-night-society": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-longmont-walks": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
-        {
-          "id": "cad37ff86d20",
-          "title": "St. Vrain Greenway Morning Nature Walk",
-          "start": "2026-11-17T09:00:00-07:00",
-          "end": "2026-11-17T11:00:00-07:00",
-          "allDay": false,
-          "venue": "St. Vrain Greenway trailhead",
-          "venueKey": "st-vrain-greenway-trailhead",
-          "city": "Longmont",
-          "category": "outdoors-recreation",
-          "tags": [
-            "hike"
-          ],
-          "size": "S",
-          "url": "https://www.meetup.com/longmont-walks/events/316623499/",
-          "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
-          "sources": [
-            {
-              "name": "meetup-longmont-walks",
-              "url": "https://www.meetup.com/longmont-walks/events/316623499/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "140c09be19df",
           "title": "Pella Crossing Noon Hour Nature Walk",
@@ -28926,15 +28949,39 @@
               "fetchedAt": "2026-11-15T03:54:54Z"
             }
           ]
+        },
+        {
+          "id": "9655d9cbd67b",
+          "title": "St. Vrain Greenway Morning Nature Walk",
+          "start": "2026-12-15T09:00:00-07:00",
+          "end": "2026-12-15T11:00:00-07:00",
+          "allDay": false,
+          "venue": "St. Vrain Greenway trailhead",
+          "venueKey": "st-vrain-greenway-trailhead",
+          "city": "Longmont",
+          "category": "outdoors-recreation",
+          "tags": [
+            "hike"
+          ],
+          "size": "S",
+          "url": "https://www.meetup.com/longmont-walks/events/316623516/",
+          "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
+          "sources": [
+            {
+              "name": "meetup-longmont-walks",
+              "url": "https://www.meetup.com/longmont-walks/events/316623516/",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
         }
       ]
     },
     "meetup-meetup-group-rebelbookclub": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-nocomustachians": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "721c077a4416",
@@ -28983,7 +29030,7 @@
       ]
     },
     "meetup-northern-burbs-active-adults": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "1c4f8deb5e69",
@@ -29101,11 +29148,11 @@
       ]
     },
     "meetup-pugs-of-colorado": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-rmaiig": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "7685c22aac43",
@@ -29133,7 +29180,7 @@
       ]
     },
     "meetup-silent-book-club-lafayette": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "6009f9b8a8e8",
@@ -29160,7 +29207,7 @@
       ]
     },
     "meetup-solidstatedepot": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "62e915ec0128",
@@ -29400,7 +29447,7 @@
       ]
     },
     "meetup-st-vrain-chain-gang": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "2b52723759de",
@@ -29427,11 +29474,11 @@
       ]
     },
     "meetup-startup-longmont": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "meetup-women-in-ai-colorado": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "54a841b3bebb",
@@ -29459,7 +29506,7 @@
       ]
     },
     "meetup-womens-open-jam-at-dog-house-music-studios": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "2bbaf8cc70b9",
@@ -29512,7 +29559,7 @@
       ]
     },
     "museum-of-boulder": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "73e0d2ce015e",
@@ -29715,7 +29762,7 @@
       ]
     },
     "nederland-community-library": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "4acffecba674",
@@ -34316,7 +34363,7 @@
       ]
     },
     "superior-chamber": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
         {
           "id": "4f0046b26fe5",
@@ -34659,8 +34706,28 @@
       ]
     },
     "town-of-erie": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": [
+        {
+          "id": "de53d608017a",
+          "title": "One Time Event",
+          "start": "2026-11-17T18:00:00-07:00",
+          "allDay": false,
+          "venue": "Town of Erie",
+          "venueKey": "town-of-erie",
+          "city": "Erie",
+          "category": "community-civic",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+          "sources": [
+            {
+              "name": "town-of-erie",
+              "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+              "fetchedAt": "2026-11-17T18:16:42Z"
+            }
+          ]
+        },
         {
           "id": "80dc500371d8",
           "title": "Substance Use and Teens: A Clinic Presented by SROs",
@@ -34755,11 +34822,11 @@
       ]
     },
     "town-of-lyons": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     },
     "upslope-brewing": {
-      "fetchedAt": "2026-11-17T07:13:48Z",
+      "fetchedAt": "2026-11-17T18:16:42Z",
       "events": []
     }
   }
