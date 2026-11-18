@@ -1,5 +1,5 @@
 {
-  "_comment": "WeekendBoulder's facts for the shared core (github.com/rhundhausen/weekend). Format: the core's ingestion/schema/city.schema.json. ZIP 80027 is left out on purpose: Louisville and Superior share it, so other clues decide. 80503 is Longmont's and Niwot's; it maps to Longmont. Gunbarrel (80301) is unincorporated, but its addresses read Boulder.",
+  "_comment": "WeekendBoulder's facts for the shared code (github.com/rhundhausen/weekend). Format: the core's ingestion/schema/city.schema.json. ZIP 80027 is left out on purpose: Louisville and Superior share it, so other clues decide. 80503 is Longmont's and Niwot's; it maps to Longmont. Gunbarrel (80301) is unincorporated, but its addresses read Boulder.",
   "siteName": "WeekendBoulder",
   "domain": "weekendboulder.com",
   "repo": "rhundhausen/weekendboulder",
