@@ -3808,6 +3808,31 @@
     ]
   },
   {
+    "id": "500d8c72c587",
+    "title": "Discovery Days Music & Movement",
+    "start": "2026-11-17T08:00:00-07:00",
+    "end": "2026-11-17T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-music-movement-4/2026-11-17/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-music-movement-4/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
     "id": "cad37ff86d20",
     "title": "St. Vrain Greenway Morning Nature Walk",
     "start": "2026-11-17T09:00:00-07:00",
@@ -3850,6 +3875,28 @@
       {
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/the-studio-series-holiday-gift-making/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5749758f074a",
+    "title": "Risk Limiting Audit (RLA) – 2026 General Election",
+    "start": "2026-11-17T10:00:00-07:00",
+    "end": "2026-11-17T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder County Clerk & Recorder’s Office – Boulder office",
+    "venueKey": "boulder-county-clerk-and-recorders-office-boulder-office",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/risk-limiting-audit-rla-2026-general-election/",
+    "description": "The public is invited to observe the Boulder County Election Division’s 2026 General Election risk-limiting audit (RLA) beginning on Tuesday, Nov. 17. The risk-limiting audit is a test that helps ensure the accuracy of election results and provides the public with evidence that election outcomes...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/risk-limiting-audit-rla-2026-general-election/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -3970,6 +4017,51 @@
         "name": "meetup-boulder-wilderness-hiking",
         "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317166263/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1be98452ea47",
+    "title": "Teen Craft & Create Club",
+    "start": "2026-11-17T15:00:00-07:00",
+    "end": "2026-11-17T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://longmontcolorado.gov/event/teen-craft-create-club-5/2026-11-17/",
+    "description": "Tuesdays, Sept. 1 – Dec. 8, 3 – 5 pm, ages 13-18 Free! Join us each Tuesday for craft activities, snacks and just to hangout! Each week we will explore a new activity such as collage, painting, fiber art and free-choice art making time. This program is perfect for teens who want to explore their...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/teen-craft-create-club-5/2026-11-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2b52723759de",
+    "title": "Post season ride, 18 mi, 3:00 pm start (B3 at 2:30)",
+    "start": "2026-11-17T15:00:00-07:00",
+    "end": "2026-11-17T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Bearded Brewer Artisan Ales",
+    "venueKey": "bearded-brewer-artisan-ales",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [],
+    "size": "M",
+    "url": "https://www.meetup.com/st-vrain-chain-gang/events/317441167/",
+    "description": "[Ride with GPS 18.4 mi loop from Bearded Brewer](https://ridewithgps.com/routes/49128558) As the days get shorter, we can continue to ride on Tuesday night provided we start earlier and keep the routes shorter. The goal is to finish well before sunset, even if you need to fix a flat or have some...",
+    "sources": [
+      {
+        "name": "meetup-st-vrain-chain-gang",
+        "url": "https://www.meetup.com/st-vrain-chain-gang/events/317441167/",
+        "fetchedAt": "2026-11-16T07:20:28Z"
       }
     ]
   }
