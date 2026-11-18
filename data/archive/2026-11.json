@@ -840,6 +840,31 @@
     ]
   },
   {
+    "id": "506ede236756",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-05T09:30:00-07:00",
+    "end": "2026-11-05T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606026",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606026",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "8b88df3299d6",
     "title": "Bilingual Storytime",
     "start": "2026-11-05T10:30:00-07:00",
@@ -3808,6 +3833,28 @@
     ]
   },
   {
+    "id": "09d5f0265ff9",
+    "title": "Senior Center 50th Anniversary Celebration",
+    "start": "2026-11-17T08:00:00-07:00",
+    "end": "2026-11-17T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Senior Center",
+    "venueKey": "longmont-senior-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/senior-center-50th-anniversary-celebration/",
+    "description": "The Longmont Senior Center will celebrate its 50th anniversary on Tuesday, November 17 with a day-long open house celebration, including presentations, an ice cream social and more. Details include: A welcome lunch will be held from 11:30-1:30, featuring presentations, including: Museum staff sha...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/senior-center-50th-anniversary-celebration/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
     "id": "500d8c72c587",
     "title": "Discovery Days Music & Movement",
     "start": "2026-11-17T08:00:00-07:00",
@@ -4062,6 +4109,376 @@
         "name": "meetup-st-vrain-chain-gang",
         "url": "https://www.meetup.com/st-vrain-chain-gang/events/317441167/",
         "fetchedAt": "2026-11-16T07:20:28Z"
+      }
+    ]
+  },
+  {
+    "id": "47058ff9c6a5",
+    "title": "Makerspace - Drop In",
+    "start": "2026-11-17T15:30:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bff5483c16aa",
+    "title": "Snacks & Antojitos",
+    "start": "2026-11-17T16:00:00-07:00",
+    "end": "2026-11-17T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-17/",
+    "description": "Snack & Cooking is a culinary adventure. All participants can learn to make different snacks/dishes and then bond as they enjoy their creations as a group! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring your own w...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-17/",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "4f0046b26fe5",
+    "title": "Small Business AI Academy",
+    "start": "2026-11-17T17:00:00-07:00",
+    "end": "2026-11-17T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Superior Community Center",
+    "venueKey": "superior-community-center",
+    "city": "Superior",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://member.superiorchamber.com/events/details/small-business-ai-academy-16829",
+    "description": "Learn how to put AI to work for your business! This four-part, hands-on series is designed specifically for small business owners, entrepreneurs, and professionals who want to save time, improve their marketing, simplify operations, and prepare their businesses for the future. No technical experi...",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/small-business-ai-academy-16829",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d5c9553fcdd4",
+    "title": "Philosophy Club - AI 3",
+    "start": "2026-11-17T17:00:00-07:00",
+    "end": "2026-11-17T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15879338",
+    "description": "Philosophy Club meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics. This month: AI Agents 3: Is AI Conscious? Over the years, as the capabilities of AI increase, debate on this topic seems to recur and become more widely discussed. W...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15879338",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "44ddee4a6828",
+    "title": "Open Chess Night @ the Library",
+    "start": "2026-11-17T17:30:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-17/",
+    "description": "Unquiet Study Area (Library, second floor) Open to all ages Open to all levels and abilities No registration required This program is in English Tuesdays are Open Chess Night at the Longmont Public Library! We will have tables set up for playing and chess sets available. You may bring your own se...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-17/",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "7b9c0e9acfda",
+    "title": "SOLD OUT: Be Ready Longmont: Disaster Preparedness Workshop",
+    "start": "2026-11-17T17:30:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/",
+    "description": "Library Meeting Rooms Registration required This program is in English Led by the Longmont Office of Emergency Management, this interactive workshop will leave you more prepared for the unexpected events that can upend our daily lives. The Be Ready Longmont workshop will teach you how to: The Be...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "7685c22aac43",
+    "title": "AI Robotics: AI in the Physical World",
+    "start": "2026-11-17T17:45:00-07:00",
+    "end": "2026-11-17T20:45:00-07:00",
+    "allDay": false,
+    "venue": "Ann and H.J. Smead Aerospace Engineering Sciences",
+    "venueKey": "ann-and-h-j-smead-aerospace-engineering-sciences",
+    "city": "Boulder",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.meetup.com/rmaiig/events/316986284/",
+    "description": "The Rocky Mountain AI Interest Group (RMAIIG) will host an in-person meeting in Boulder on Tuesday, November 17th, at 5:45 pm MT on “AI Robotics” What happens when artificial intelligence moves beyond the screen and into the physical world? Explore the rapidly evolving world of AI robotics, where...",
+    "sources": [
+      {
+        "name": "meetup-rmaiig",
+        "url": "https://www.meetup.com/rmaiig/events/316986284/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "00525eae5d97",
+    "title": "Tune into Nature: Pint-Size Predators and Perky Little Pollinators",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TINJUNE-NOV2026",
+    "description": "Adults and older teens - join the volunteer naturalists of Boulder County Parks & Open Space for \"Pint-Size Predators and Perky Little Pollinators.\" A world of crafty little crawlers and miniature flashy flyers lives in Boulder County, a big stage where small-scale romance, rivalry, and adventure...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TINJUNE-NOV2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "24069fc03c60",
+    "title": "High School Equivalency Test Prep for Adults - Register",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+    "description": "Adults - need help preparing for the GED or High School Equivalency (HiSET) test? The Coal Creek Adult Education Center (CCAEC) and The Lafayette Public Library have partnered to bring High School Equivalency preparation classes to Lafayette. Earning your High School Equivalency Diploma will impr...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "34e719186f44",
+    "title": "Teen Dungeons & Dragons",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "nightlife-social",
+    "tags": [
+      "board-games"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/",
+    "description": "For 6th-12th graders Teen Room Registration is not required This program is in English Calling all D&D lovers! 6th-12th graders who have some experience playing Dungeons & Dragons are invited to come and play friendly campaigns. The most experienced players will Dungeon Master and more experience...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "4f0976318d9e",
+    "title": "BWA Evening Write Together",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Cafe Luna",
+    "venueKey": "cafe-luna",
+    "city": "Longmont",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316644554/",
+    "description": "Hello, writers. We are a standing writing event. Join us every third Tuesday of the month, from six to eight p.m., at Longmont's Luna Café for a quiet, relaxed, and comfortable writing session. Writers, poets, screenwriters, and related, from seasoned professionals to those just beginning, all ar...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316644554/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "64806a3af631",
+    "title": "Pint-Size Predators and Perky Little Pollinators",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/pint-size-predators-and-perky-little-pollinators-2/",
+    "description": "A world of crafty little crawlers and miniature flashy flyers lives in Boulder County, a big stage where small-scale romance, rivalry, and adventure, unfold. Enter a hidden realm where furry moths and beautiful beetles play out tales of skullduggery and devotion. Learn about some of our most inte...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/pint-size-predators-and-perky-little-pollinators-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      },
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TINJUNE-NOV2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a663b2bcd9f8",
+    "title": "[Online] English Conversation Group",
+    "start": "2026-11-17T18:00:00-07:00",
+    "end": "2026-11-17T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Virtual Meeting",
+    "venueKey": "virtual-meeting",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/online-english-conversation-group-4/",
+    "description": "Zoom (Online) Registration is not required This program is presented in English Every Tuesday (unless the Library is closed) Last week’s group had to be canceled last minute due to an emergency. We apologize for the lack of notification. Practice English conversation with others online via Zoom....",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/online-english-conversation-group-4/",
+        "fetchedAt": "2026-11-14T07:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "de53d608017a",
+    "title": "One Time Event",
+    "start": "2026-11-17T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Town of Erie",
+    "venueKey": "town-of-erie",
+    "city": "Erie",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+    "sources": [
+      {
+        "name": "town-of-erie",
+        "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "2687a2d82dce",
+    "title": "Ekstrand Memorial Graduate Student Competition: Fall 2026 Finals",
+    "start": "2026-11-17T19:30:00-07:00",
+    "end": "2026-11-17T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/ekstrand-memorial-graduate-student-competition-fall-2026-finals",
+    "description": "CU Boulder's top College of Music graduate students compete for a monetary grand prize in the Bruce Ekstrand Memorial Graduate Student Performance Competition, named for former Vice Chancellor for Academic Affairs Bruce Ekstrand. This year’s esteemed panel of judges is pianist Theresa Bogard, CU...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/ekstrand-memorial-graduate-student-competition-fall-2026-finals",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8ed40511d9ec",
+    "title": "CU Boulder Concert Band and Campus Orchestra: Fall 2026 Concert",
+    "start": "2026-11-17T19:30:00-07:00",
+    "end": "2026-11-17T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert",
+      "symphony"
+    ],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-orchestra-fall-2026-concert",
+    "description": "The CU Boulder Concert Band and Campus Orchestra present their combined fall 2026 concert featuring a varied program of both standard repertoire and exciting new music. Made up of students from schools and majors across campus, these ensembles are a true representation of CU Boulder: Join us! For...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-orchestra-fall-2026-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
   }

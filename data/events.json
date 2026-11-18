@@ -1,375 +1,5 @@
 [
   {
-    "id": "09d5f0265ff9",
-    "title": "Senior Center 50th Anniversary Celebration",
-    "start": "2026-11-17T08:00:00-07:00",
-    "end": "2026-11-17T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Senior Center",
-    "venueKey": "longmont-senior-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/senior-center-50th-anniversary-celebration/",
-    "description": "The Longmont Senior Center will celebrate its 50th anniversary on Tuesday, November 17 with a day-long open house celebration, including presentations, an ice cream social and more. Details include: A welcome lunch will be held from 11:30-1:30, featuring presentations, including: Museum staff sha...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/senior-center-50th-anniversary-celebration/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "47058ff9c6a5",
-    "title": "Makerspace - Drop In",
-    "start": "2026-11-17T15:30:00-07:00",
-    "end": "2026-11-17T19:30:00-07:00",
-    "allDay": false,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [
-      "kids"
-    ],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
-    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "bff5483c16aa",
-    "title": "Snacks & Antojitos",
-    "start": "2026-11-17T16:00:00-07:00",
-    "end": "2026-11-17T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Youth Center",
-    "venueKey": "longmont-youth-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-17/",
-    "description": "Snack & Cooking is a culinary adventure. All participants can learn to make different snacks/dishes and then bond as they enjoy their creations as a group! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring your own w...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-17/",
-        "fetchedAt": "2026-11-14T07:11:53Z"
-      }
-    ]
-  },
-  {
-    "id": "4f0046b26fe5",
-    "title": "Small Business AI Academy",
-    "start": "2026-11-17T17:00:00-07:00",
-    "end": "2026-11-17T19:00:00-07:00",
-    "allDay": false,
-    "venue": "Superior Community Center",
-    "venueKey": "superior-community-center",
-    "city": "Superior",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$$",
-    "url": "https://member.superiorchamber.com/events/details/small-business-ai-academy-16829",
-    "description": "Learn how to put AI to work for your business! This four-part, hands-on series is designed specifically for small business owners, entrepreneurs, and professionals who want to save time, improve their marketing, simplify operations, and prepare their businesses for the future. No technical experi...",
-    "sources": [
-      {
-        "name": "superior-chamber",
-        "url": "https://member.superiorchamber.com/events/details/small-business-ai-academy-16829",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "d5c9553fcdd4",
-    "title": "Philosophy Club - AI 3",
-    "start": "2026-11-17T17:00:00-07:00",
-    "end": "2026-11-17T19:00:00-07:00",
-    "allDay": false,
-    "venue": "Nederland Community Library",
-    "venueKey": "nederland-community-library",
-    "city": "Nederland",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "url": "https://nederland.libcal.com/event/15879338",
-    "description": "Philosophy Club meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics. This month: AI Agents 3: Is AI Conscious? Over the years, as the capabilities of AI increase, debate on this topic seems to recur and become more widely discussed. W...",
-    "sources": [
-      {
-        "name": "nederland-community-library",
-        "url": "https://nederland.libcal.com/event/15879338",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "44ddee4a6828",
-    "title": "Open Chess Night @ the Library",
-    "start": "2026-11-17T17:30:00-07:00",
-    "end": "2026-11-17T19:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Library",
-    "venueKey": "longmont-public-library",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-17/",
-    "description": "Unquiet Study Area (Library, second floor) Open to all ages Open to all levels and abilities No registration required This program is in English Tuesdays are Open Chess Night at the Longmont Public Library! We will have tables set up for playing and chess sets available. You may bring your own se...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-17/",
-        "fetchedAt": "2026-11-14T07:11:53Z"
-      }
-    ]
-  },
-  {
-    "id": "7b9c0e9acfda",
-    "title": "SOLD OUT: Be Ready Longmont: Disaster Preparedness Workshop",
-    "start": "2026-11-17T17:30:00-07:00",
-    "end": "2026-11-17T19:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Library",
-    "venueKey": "longmont-public-library",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [
-      "workshop"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/",
-    "description": "Library Meeting Rooms Registration required This program is in English Led by the Longmont Office of Emergency Management, this interactive workshop will leave you more prepared for the unexpected events that can upend our daily lives. The Be Ready Longmont workshop will teach you how to: The Be...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
-      }
-    ]
-  },
-  {
-    "id": "7685c22aac43",
-    "title": "AI Robotics: AI in the Physical World",
-    "start": "2026-11-17T17:45:00-07:00",
-    "end": "2026-11-17T20:45:00-07:00",
-    "allDay": false,
-    "venue": "Ann and H.J. Smead Aerospace Engineering Sciences",
-    "venueKey": "ann-and-h-j-smead-aerospace-engineering-sciences",
-    "city": "Boulder",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://www.meetup.com/rmaiig/events/316986284/",
-    "description": "The Rocky Mountain AI Interest Group (RMAIIG) will host an in-person meeting in Boulder on Tuesday, November 17th, at 5:45 pm MT on “AI Robotics” What happens when artificial intelligence moves beyond the screen and into the physical world? Explore the rapidly evolving world of AI robotics, where...",
-    "sources": [
-      {
-        "name": "meetup-rmaiig",
-        "url": "https://www.meetup.com/rmaiig/events/316986284/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "24069fc03c60",
-    "title": "High School Equivalency Test Prep for Adults - Register",
-    "start": "2026-11-17T18:00:00-07:00",
-    "end": "2026-11-17T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
-    "description": "Adults - need help preparing for the GED or High School Equivalency (HiSET) test? The Coal Creek Adult Education Center (CCAEC) and The Lafayette Public Library have partnered to bring High School Equivalency preparation classes to Lafayette. Earning your High School Equivalency Diploma will impr...",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "34e719186f44",
-    "title": "Teen Dungeons & Dragons",
-    "start": "2026-11-17T18:00:00-07:00",
-    "end": "2026-11-17T19:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Library",
-    "venueKey": "longmont-public-library",
-    "city": "Longmont",
-    "category": "nightlife-social",
-    "tags": [
-      "board-games"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/",
-    "description": "For 6th-12th graders Teen Room Registration is not required This program is in English Calling all D&D lovers! 6th-12th graders who have some experience playing Dungeons & Dragons are invited to come and play friendly campaigns. The most experienced players will Dungeon Master and more experience...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/",
-        "fetchedAt": "2026-11-14T07:11:53Z"
-      }
-    ]
-  },
-  {
-    "id": "4f0976318d9e",
-    "title": "BWA Evening Write Together",
-    "start": "2026-11-17T18:00:00-07:00",
-    "end": "2026-11-17T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Cafe Luna",
-    "venueKey": "cafe-luna",
-    "city": "Longmont",
-    "category": "arts-culture",
-    "tags": [],
-    "size": "S",
-    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316644554/",
-    "description": "Hello, writers. We are a standing writing event. Join us every third Tuesday of the month, from six to eight p.m., at Longmont's Luna Café for a quiet, relaxed, and comfortable writing session. Writers, poets, screenwriters, and related, from seasoned professionals to those just beginning, all ar...",
-    "sources": [
-      {
-        "name": "meetup-boulder-writers-alliance-meetup",
-        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316644554/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "64806a3af631",
-    "title": "Pint-Size Predators and Perky Little Pollinators",
-    "start": "2026-11-17T18:00:00-07:00",
-    "end": "2026-11-17T19:30:00-07:00",
-    "allDay": false,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "url": "https://bouldercounty.gov/event/pint-size-predators-and-perky-little-pollinators-2/",
-    "description": "A world of crafty little crawlers and miniature flashy flyers lives in Boulder County, a big stage where small-scale romance, rivalry, and adventure, unfold. Enter a hidden realm where furry moths and beautiful beetles play out tales of skullduggery and devotion. Learn about some of our most inte...",
-    "sources": [
-      {
-        "name": "boulder-county",
-        "url": "https://bouldercounty.gov/event/pint-size-predators-and-perky-little-pollinators-2/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      },
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TINJUNE-NOV2026",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "a663b2bcd9f8",
-    "title": "[Online] English Conversation Group",
-    "start": "2026-11-17T18:00:00-07:00",
-    "end": "2026-11-17T19:00:00-07:00",
-    "allDay": false,
-    "venue": "Virtual Meeting",
-    "venueKey": "virtual-meeting",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/online-english-conversation-group-4/",
-    "description": "Zoom (Online) Registration is not required This program is presented in English Every Tuesday (unless the Library is closed) Last week’s group had to be canceled last minute due to an emergency. We apologize for the lack of notification. Practice English conversation with others online via Zoom....",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/online-english-conversation-group-4/",
-        "fetchedAt": "2026-11-14T07:11:53Z"
-      }
-    ]
-  },
-  {
-    "id": "de53d608017a",
-    "title": "One Time Event",
-    "start": "2026-11-17T18:00:00-07:00",
-    "allDay": false,
-    "venue": "Town of Erie",
-    "venueKey": "town-of-erie",
-    "city": "Erie",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
-    "sources": [
-      {
-        "name": "town-of-erie",
-        "url": "https://www.erieco.gov/Calendar.aspx?EID=5537",
-        "fetchedAt": "2026-11-17T18:16:42Z"
-      }
-    ]
-  },
-  {
-    "id": "2687a2d82dce",
-    "title": "Ekstrand Memorial Graduate Student Competition: Fall 2026 Finals",
-    "start": "2026-11-17T19:30:00-07:00",
-    "end": "2026-11-17T20:30:00-07:00",
-    "allDay": false,
-    "venue": "Imig Music",
-    "venueKey": "imig-music",
-    "city": "Boulder",
-    "category": "performing-arts",
-    "tags": [],
-    "size": "M",
-    "url": "https://calendar.colorado.edu/event/ekstrand-memorial-graduate-student-competition-fall-2026-finals",
-    "description": "CU Boulder's top College of Music graduate students compete for a monetary grand prize in the Bruce Ekstrand Memorial Graduate Student Performance Competition, named for former Vice Chancellor for Academic Affairs Bruce Ekstrand. This year’s esteemed panel of judges is pianist Theresa Bogard, CU...",
-    "sources": [
-      {
-        "name": "cu-presents",
-        "url": "https://calendar.colorado.edu/event/ekstrand-memorial-graduate-student-competition-fall-2026-finals",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "8ed40511d9ec",
-    "title": "CU Boulder Concert Band and Campus Orchestra: Fall 2026 Concert",
-    "start": "2026-11-17T19:30:00-07:00",
-    "end": "2026-11-17T20:30:00-07:00",
-    "allDay": false,
-    "venue": "Macky Auditorium",
-    "venueKey": "macky-auditorium",
-    "city": "Boulder",
-    "category": "music",
-    "tags": [
-      "concert",
-      "symphony"
-    ],
-    "size": "L",
-    "url": "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-orchestra-fall-2026-concert",
-    "description": "The CU Boulder Concert Band and Campus Orchestra present their combined fall 2026 concert featuring a varied program of both standard repertoire and exciting new music. Made up of students from schools and majors across campus, these ensembles are a true representation of CU Boulder: Join us! For...",
-    "sources": [
-      {
-        "name": "cu-presents",
-        "url": "https://calendar.colorado.edu/event/cu-boulder-concert-band-and-campus-orchestra-fall-2026-concert",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "a716f2aaf8f2",
     "title": "Discovery Days Art",
     "start": "2026-11-18T09:15:00-07:00",
@@ -646,31 +276,6 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/remote-sustainability-advisory-board-2/2026-11-18/",
         "fetchedAt": "2026-11-16T07:20:28Z"
-      }
-    ]
-  },
-  {
-    "id": "3776e0fba893",
-    "title": "The Human Animal Creative Workshop",
-    "start": "2026-11-18T17:00:00-07:00",
-    "end": "2026-11-18T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Dairy Arts Center",
-    "venueKey": "dairy-arts-center",
-    "city": "Boulder",
-    "category": "learning-business",
-    "tags": [
-      "workshop"
-    ],
-    "size": "S",
-    "costTier": "$$",
-    "url": "https://thedairy.org/event/human-animal-creative-workshop/",
-    "description": "TICKETS Get up close and personal in The Human Animal Exhibition for a collaborative still life activation. Guests are encouraged to bring their favorite materials, figurative and animal inspiration. We’ll spend time observing the exhibition and create a collaborative still life to draw inspirati...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/human-animal-creative-workshop/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
   },
@@ -1297,6 +902,29 @@
     ]
   },
   {
+    "id": "46dd57bb5117",
+    "title": "Art & Sip: Geometric Block Print Tote",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://longmontcolorado.gov/event/art-sip-geometric-block-print-tote/",
+    "description": "Two sessions: 4 – 6 pm AND 6:30 – 8:30 pm Instructor: Julie Benoit Grab a drink and get creative with these classes designed to guide beginners as well as bring new skills to experienced artists and crafters. Wine, beer, fizzy water and snacks are available to purchase. Learn techniques to design...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/art-sip-geometric-block-print-tote/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "6320b1b2b7ed",
     "title": "Tween Club",
     "start": "2026-11-19T16:00:00-07:00",
@@ -1315,6 +943,28 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
         "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "8dc20ceb0d44",
+    "title": "Navigators",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-19/",
+    "description": "combines young adults’ life-skills education with an outdoor adventure component. Young people get to know themselves and the kinds of futures they want while exploring the City if Longmont on bikes, kayaks, and their own two feet. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in tim...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-19/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -1340,6 +990,31 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-19/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "56df04545bbd",
+    "title": "Star Party with the Longmont Astronomical Society",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "kids",
+      "nature-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/star-party-with-the-longmont-astronomical-society/",
+    "description": "Library Meeting Rooms All ages, children must be attended by an adult Registration is not required This program is in English Join volunteers from the Longmont Astronomical Society at the Longmont Public Library’s first-floor meeting rooms and patio space to view the cosmos. The Longmont Astronom...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/star-party-with-the-longmont-astronomical-society/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -1386,6 +1061,30 @@
         "name": "meetup-boulder-writers-alliance-meetup",
         "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d140401a5480",
+    "title": "Board Game Night",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "nightlife-social",
+    "tags": [
+      "board-games"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/board-game-night-2/",
+    "description": "Unquiet Study Area (2nd floor) Open to all ages Open to all levels and abilities No registration required This program is in English and Spanish ** December Board Game Night and Monthly Video Game Night are canceled because of holiday closures.** Tonight’s event falls one week earlier than usual...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/board-game-night-2/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -4787,27 +4486,23 @@
     ]
   },
   {
-    "id": "73c0a46c4c2a",
-    "title": "Opera, Arias and Ensembles: Fall 2026 Concert",
-    "start": "2026-12-02T19:30:00-07:00",
-    "end": "2026-12-02T20:30:00-07:00",
+    "id": "4eefd3d7f6e1",
+    "title": "Green Business Breakfast",
+    "start": "2026-12-03T08:00:00-07:00",
+    "end": "2026-12-03T09:30:00-07:00",
     "allDay": false,
-    "venue": "Imig Music",
-    "venueKey": "imig-music",
-    "city": "Boulder",
-    "category": "music",
-    "tags": [
-      "concert",
-      "symphony"
-    ],
-    "size": "M",
-    "url": "https://calendar.colorado.edu/event/opera-arias-and-ensembles-fall-2026-concert",
-    "description": "In the Eklund Opera Scenes, graduate students direct their colleagues in pieces spanning the entire operatic canon. This free, public event not only showcases brilliant student performances but also gives the audience an in-depth look at how students begin to develop and hone their directing and...",
+    "venue": "Superior Chamber of Commerce",
+    "venueKey": "superior-chamber",
+    "city": "Superior",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://member.superiorchamber.com/events/details/green-business-breakfast-16847",
     "sources": [
       {
-        "name": "cu-presents",
-        "url": "https://calendar.colorado.edu/event/opera-arias-and-ensembles-fall-2026-concert",
-        "fetchedAt": "2026-11-13T18:03:35Z"
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/green-business-breakfast-16847",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -5533,6 +5228,30 @@
     ]
   },
   {
+    "id": "28728f04adc4",
+    "title": "Birds of Prey Driving Tour",
+    "start": "2026-12-05T09:00:00-07:00",
+    "end": "2026-12-05T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder County",
+    "venueKey": "boulder-county",
+    "city": "Other",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/birds-of-prey-driving-tour-dec-5/",
+    "description": "Hop in your car with friends and family and join us for a driving tour of some of Boulder County’s best areas to view birds of prey. Follow the tour map to designated stops with volunteer naturalists, search the skies for raptors, learn about their habitats and behaviors, and work on your observa...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/birds-of-prey-driving-tour-dec-5/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "da28142b4129",
     "title": "Boulder County Farmers Market Winter Market",
     "start": "2026-12-05T09:00:00-07:00",
@@ -5619,6 +5338,30 @@
         "name": "boulder-county",
         "url": "https://bouldercounty.gov/event/ahc-open-dec-5/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7b0bee5c20ed",
+    "title": "Hammering on the Farm",
+    "start": "2026-12-05T10:00:00-07:00",
+    "end": "2026-12-05T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Agricultural Heritage Center",
+    "venueKey": "agricultural-heritage-center",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/hammering-on-the-farm-dec-5/",
+    "description": "Drop by anytime from 10 a.m. to noon to watch the blacksmith work his craft. Listen to the clang-clang-clang of the hammer and the hum of the coal forge blower. Learn about blacksmithing tools such as hammers, tongs, anvils, swage blocks, and more. Registration is not required for this activity,...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/hammering-on-the-farm-dec-5/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -6304,6 +6047,28 @@
         "name": "colorado-chautauqua",
         "url": "https://www.chautauqua.com/event/talking-to-the-sun-fundraiser/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4e46cb7fa26b",
+    "title": "Write Together - BWA @ Broomfield",
+    "start": "2026-12-07T08:00:00-07:00",
+    "end": "2026-12-07T11:00:00-07:00",
+    "allDay": false,
+    "venue": "La Belle French Bakery",
+    "venueKey": "la-belle-french-bakery",
+    "city": "Broomfield",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317452294/",
+    "description": "Come write and work together! We're a small group (usually two to four), but always looking for more writers of all stripes. Time is focused on writing/working on our own projects, and a bit of conversation peppered throughout. We meet each week at La Belle Coffee and Bakery in Broomfield, off Hi...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317452294/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -7481,6 +7246,30 @@
     ]
   },
   {
+    "id": "26806988a28c",
+    "title": "Birds of Prey Slideshow Program",
+    "start": "2026-12-11T13:00:00-07:00",
+    "end": "2026-12-11T14:00:00-07:00",
+    "allDay": false,
+    "venue": "Superior Community Center",
+    "venueKey": "superior-community-center",
+    "city": "Other",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/birds-of-prey-slideshow-program-5/",
+    "description": "Join us for a fun slideshow program and learn to recognize birds of prey, including hawks, eagles, and falcons, that fly in the skies above Boulder County. Volunteers will share tips to help you distinguish among raptors by identifying field marks, behavior, location, and time of year. Registrati...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/birds-of-prey-slideshow-program-5/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "633b35382d50",
     "title": "Makerspace - Reserve",
     "start": "2026-12-11T14:30:00-07:00",
@@ -7499,6 +7288,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerReservationsNov13Dec182026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0aede0cc2b5a",
+    "title": "Astronomy: The Geminid Meteor Shower",
+    "start": "2026-12-11T16:00:00-07:00",
+    "end": "2026-12-11T18:30:00-07:00",
+    "allDay": false,
+    "venue": "Ron Stewart Preserve at Rabbit Mountain",
+    "venueKey": "ron-stewart-preserve-at-rabbit-mountain",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/astronomy-dec-11/",
+    "description": "Bundle up and enjoy one of the richest meteor showers of the year. Learn why the Geminids are bright, plentiful, and perfect for winter stargazing. Volunteer naturalists will share what makes this shower special. Presentations will be at the picnic shelter, followed by stargazing in the parking a...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/astronomy-dec-11/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -8340,6 +8153,28 @@
     ]
   },
   {
+    "id": "e2787349c00d",
+    "title": "Maker Mondays: Felted Mushroom Ornament - Register",
+    "start": "2026-12-14T17:30:00-07:00",
+    "end": "2026-12-14T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MMDec2026",
+    "description": "Adults 18 and older - sign up for a single-session workshop to make a needle-felted mushroom ornament with fiber artist Cat Eskey of Cottage Chip Hand Embroidery. In this beginner-friendly class, you will learn needle felting basics and use them to make a three-dimensional mushroom with a loop fo...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MMDec2026",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "45d23619effd",
     "title": "BOCO Flamenco presents Flamenco Jazz Alicia Camiña",
     "start": "2026-12-14T18:00:00-07:00",
@@ -8852,6 +8687,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SLC2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "17f5be11841e",
+    "title": "Hikes for Seniors: Migrating Raptors",
+    "start": "2026-12-17T13:00:00-07:00",
+    "end": "2026-12-17T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Ron Stewart Preserve at Rabbit Mountain",
+    "venueKey": "ron-stewart-preserve-at-rabbit-mountain",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/hikes-for-seniors-migrating-raptors-2/",
+    "description": "Join us for a moderate hike where the plains meet the foothills and learn about our area’s winter ecology. This hike takes place in one of our county’s most biodiverse areas. The trail has a moderate incline with some rocky sections, and benches can be found along the trail. Hiking poles are reco...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/hikes-for-seniors-migrating-raptors-2/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -9638,6 +9497,30 @@
     ]
   },
   {
+    "id": "0c9b4e631fd5",
+    "title": "Winter Solstice Night Walk at Pella Crossing",
+    "start": "2026-12-19T16:30:00-07:00",
+    "end": "2026-12-19T18:30:00-07:00",
+    "allDay": false,
+    "venue": "Pella Crossing",
+    "venueKey": "pella-crossing",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/winter-solstice-night-walk-at-pella-crossing/",
+    "description": "On the longest night of the year, experience what the night has to offer. Join volunteer naturalists for a flat, easy, 1-mile walk around the ponds at Pella Crossing. Explore open space after hours and discover the secrets of the dark, including local nocturnal wildlife and the winter constellati...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/winter-solstice-night-walk-at-pella-crossing/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "e07dd29f10ef",
     "title": "Fatherland | Dec 16 – 20",
     "start": "2026-12-19T17:30:00-07:00",
@@ -9848,6 +9731,30 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/fatherland-dec-16-20/2026-12-20/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c4000d605e75",
+    "title": "Winter Solstice Night Walk at Walden Ponds Wildlife Habitat",
+    "start": "2026-12-20T16:30:00-07:00",
+    "end": "2026-12-20T18:30:00-07:00",
+    "allDay": false,
+    "venue": "Walden Ponds Wildlife Habitat",
+    "venueKey": "walden-ponds-wildlife-habitat",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/winter-solstice-night-walden-ponds/",
+    "description": "On the longest night of the year, experience what the night has to offer. Join volunteer naturalists for a flat, easy, 1-mile walk around the ponds at Walden Ponds. Explore open space after hours and discover the secrets of the dark, including local nocturnal wildlife and the winter constellation...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/winter-solstice-night-walden-ponds/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -11456,6 +11363,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6b97f3978b21",
+    "title": "Hammering on the Farm",
+    "start": "2027-01-02T10:00:00-07:00",
+    "end": "2027-01-02T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Agricultural Heritage Center",
+    "venueKey": "agricultural-heritage-center",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/hammering-on-the-farm-jan-2/",
+    "description": "Drop by anytime from 10 a.m. to noon to watch the blacksmith work his craft. Listen to the clang-clang-clang of the hammer and the hum of the coal forge blower. Learn about blacksmithing tools such as hammers, tongs, anvils, swage blocks, and more. Registration is not required for this activity,...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/hammering-on-the-farm-jan-2/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -14059,6 +13990,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/WBSpring2027",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "48755b2e57dc",
+    "title": "2/2 Femme Musicians Meetup (& jam)",
+    "start": "2027-02-02T18:30:00-07:00",
+    "end": "2027-02-02T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Dog House Music Studios",
+    "venueKey": "dog-house-music-studios",
+    "city": "Lafayette",
+    "category": "nightlife-social",
+    "tags": [
+      "meetup"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/colorado-femme-musicians/events/317478378/",
+    "description": "[RSVP for FREE!](https://www.rockforthepeople.org/event-details/femme-musicians-meetup-jam-2027-02-02-18-30) All ages, all experience levels, all genres!! Do you have any questions or want some more info before joining? Email our group leader, Liz Vasko, at liz@rockforthepeople.org Lets hang, cha...",
+    "sources": [
+      {
+        "name": "meetup-womens-open-jam-at-dog-house-music-studios",
+        "url": "https://www.meetup.com/colorado-femme-musicians/events/317478378/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
@@ -19496,6 +19451,29 @@
     ]
   },
   {
+    "id": "583d5cd14245",
+    "title": "Library closed: book drops closed",
+    "start": "2027-03-19",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/18043291",
+    "description": "The Library is closed for staff training. The book drops will be locked from 8pm on Thursday until 9am on Saturday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/18043291",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "cbd7cad40559",
     "title": "STORYTIME!",
     "start": "2027-03-19T10:15:00-06:00",
@@ -19516,31 +19494,6 @@
       {
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/18000808",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "d7cb127cd85c",
-    "title": "Family Storytime",
-    "start": "2027-03-19T10:30:00-06:00",
-    "end": "2027-03-19T11:00:00-06:00",
-    "allDay": false,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [
-      "kids",
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/familystorytimeFriJan-Apr2027",
-    "description": "Stories, songs, rhymes, and fun designed for toddlers and active walkers through preschool age. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/familystorytimeFriJan-Apr2027",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -22724,6 +22677,28 @@
     ]
   },
   {
+    "id": "a2630151bc24",
+    "title": "2027 April Scholarship Luncheon",
+    "start": "2027-04-20T11:00:00-06:00",
+    "end": "2027-04-20T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Boulder Country Club",
+    "venueKey": "boulder-country-club",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://boulderuwc.org/event/2027-april-scholarship-luncheon/",
+    "description": "The 2027 University Women’s Club Annual Scholarship Luncheon will take place on Tuesday, April 20, 2027, from 11:00 a.m. to 2:00 p.m. at the Boulder Country Club.",
+    "sources": [
+      {
+        "name": "boulder-university-womens-club",
+        "url": "https://boulderuwc.org/event/2027-april-scholarship-luncheon/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "da45a59c6f61",
     "title": "Makerspace - Drop In",
     "start": "2027-04-20T14:30:00-06:00",
@@ -24393,6 +24368,74 @@
     ]
   },
   {
+    "id": "0ad5953dba71",
+    "title": "Conversations in Spanish - Drop In",
+    "start": "2027-05-12T18:00:00-06:00",
+    "end": "2027-05-12T19:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+    "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff. Location: upstairs at the North End seating area.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "3cd88ed75fe2",
+    "title": "Makerspace - Drop In",
+    "start": "2027-05-13T14:30:00-06:00",
+    "end": "2027-05-13T18:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "c5fccb94627a",
+    "title": "Second Friday Book Club",
+    "start": "2027-05-14T10:00:00-06:00",
+    "end": "2027-05-14T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Sr2nFridayBookClub2027",
+    "description": "This independent book club, co-sponsored by the Senior Center, meets at the Library on the second Friday of each month. For any questions on book selections or the club, contact Pat by email. Visit the Library Book Group page for more information: lafayetteco.gov/LibraryBookGroups.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Sr2nFridayBookClub2027",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
     "id": "d742940d2c8b",
     "title": "STORYTIME!",
     "start": "2027-05-14T10:15:00-06:00",
@@ -24439,6 +24482,53 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-14/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "87aa1bdbd9e9",
+    "title": "Coffee and Conversation",
+    "start": "2027-05-15T10:00:00-06:00",
+    "end": "2027-05-15T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
+    "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "281cc2b3cc31",
+    "title": "Saturday Storytime",
+    "start": "2027-05-15T10:30:00-06:00",
+    "end": "2027-05-15T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/saturdaystorytimeJan-May2027",
+    "description": "Kids and caregivers - join us for stories, songs, and interactive fun perfect for all ages! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/saturdaystorytimeJan-May2027",
+        "fetchedAt": "2026-11-18T07:13:48Z"
       }
     ]
   },
