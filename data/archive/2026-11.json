@@ -4481,5 +4481,558 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "a716f2aaf8f2",
+    "title": "Discovery Days Art",
+    "start": "2026-11-18T09:15:00-07:00",
+    "end": "2026-11-18T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-18/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-18/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "158724b88e45",
+    "title": "City of Longmont GIS Day",
+    "start": "2026-11-18T10:00:00-07:00",
+    "end": "2026-11-18T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/city-of-longmont-gis-day-2026/",
+    "description": "Longmont Public Library | West Atrium and 1st Floor meeting Rooms The City of Longmont will host its annual GIS Day celebration on Wednesday November 18th from 10am to 3pm at the Longmont Public Library. GIS (Geographic Information Systems) are a series of technologies that include interactive on...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/city-of-longmont-gis-day-2026/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "6f175c22cab4",
+    "title": "Mount Sanitas via Sunshine Canyon - 8 miles and 1300 feet EG",
+    "start": "2026-11-18T10:00:00-07:00",
+    "end": "2026-11-18T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Centennial Trailhead",
+    "venueKey": "centennial-trailhead",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316977361/",
+    "description": "By signing up for this hike you acknowledge that you participate at your own risk and are solely responsible for your safety. You release the hosts from all liabilities, claims and demands arising from your participation in this event. We are not professional guides but volunteers and have no med...",
+    "sources": [
+      {
+        "name": "meetup-boulder-wilderness-hiking",
+        "url": "https://www.meetup.com/boulder-wilderness-hiking/events/316977361/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "de64d5e6f96d",
+    "title": "Baby Storytime",
+    "start": "2026-11-18T10:00:00-07:00",
+    "end": "2026-11-18T10:20:00-07:00",
+    "allDay": false,
+    "venue": "City of Longmont",
+    "venueKey": "city-of-longmont",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-18/",
+    "description": "For ages birth-2 Library Meeting Rooms No registration required This program is in English Get ready for an interactive storytime designed for infants to age 2 and their grownup! Enjoy 20 minutes of short stories, songs, rhymes, bouncing, and fun for child and grownup. Baby Storytime is a great w...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-18/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "df95f4205c9e",
+    "title": "Creative Writer's Critique Group",
+    "start": "2026-11-18T10:00:00-07:00",
+    "end": "2026-11-18T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Public Library",
+    "venueKey": "boulder-public-library",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630272/",
+    "description": "Calling all creative writers! The BWA Writing Critique Group is here to for you! Everyone has a story inside them; we’ll help you find your voice and help you keep going. Our participants range from novices to published authors. Participation is open to anyone working on a creative piece -- wheth...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630272/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "09367ce1c6f7",
+    "title": "Family Storytime",
+    "start": "2026-11-18T10:30:00-07:00",
+    "end": "2026-11-18T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+    "description": "Stories, songs, rhymes, and fun designed for toddlers and active walkers through preschool age. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FamilyStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7631f075700a",
+    "title": "Baby Stay & Play",
+    "start": "2026-11-18T10:30:00-07:00",
+    "end": "2026-11-18T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-18/",
+    "description": "Library Meeting Rooms No registration required This program is in English This event happens weekly on Wednesdays Join us for open play time for birth through 2-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. M...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-18/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "03f73845cecf",
+    "title": "Makerspace - Drop In",
+    "start": "2026-11-18T13:00:00-07:00",
+    "end": "2026-11-18T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "40bf6e943770",
+    "title": "Get Strategic About Your Job Search",
+    "start": "2026-11-18T13:00:00-07:00",
+    "end": "2026-11-18T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Virtual via Zoom",
+    "venueKey": "virtual-via-zoom",
+    "city": "Other",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/get-strategic-about-your-job-search-30/",
+    "description": "Get Strategic About Your Job Search, Virtual, 1.5 hours Tap into the hidden job market and discover the importance of networking in your job search. 50% of jobs are never advertised or posted. Learn innovative ways to find the hidden jobs and get referred. To sign up for a workshop go to Connecti...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/get-strategic-about-your-job-search-30/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "264e5f3f8110",
+    "title": "Start-Up Essentials",
+    "start": "2026-11-18T14:00:00-07:00",
+    "end": "2026-11-18T17:00:00-07:00",
+    "allDay": false,
+    "venue": "5050 Pearl Street Municipal Services Center Conf - MSC -",
+    "venueKey": "5050-pearl-street-municipal-services-center-conf-msc",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://member.superiorchamber.com/events/details/start-up-essentials-11-18-2026-16818",
+    "description": "?? Thinking of starting a business? Don't miss the Start-Up Essentials Workshop! ?? 5050 Pearl Street Municipal Services Center Conf - MSC - 120 Boulder, CO 80301 ?? November 18, 2026 ? 2 PM - 5 PM Join Attorney Theresa Pickner for a hands-on workshop covering the legal and practical must-knows o...",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/start-up-essentials-11-18-2026-16818",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "23850ed9e015",
+    "title": "Kids Club",
+    "start": "2026-11-18T16:00:00-07:00",
+    "end": "2026-11-18T16:45:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/kids-club-9/2026-11-18/",
+    "description": "For 1st-2nd graders No registration required This program is presented in English Join us in Kids Club on 1st and 3rd Wednesdays of each month to make crafts, play games, and enjoy other fun activities. Participants will practice working with peers, explore their creativity, and exercise critical...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/kids-club-9/2026-11-18/",
+        "fetchedAt": "2026-11-16T07:20:28Z"
+      }
+    ]
+  },
+  {
+    "id": "89f5a7a34327",
+    "title": "REMOTE Sustainability Advisory Board",
+    "start": "2026-11-18T16:30:00-07:00",
+    "end": "2026-11-18T18:30:00-07:00",
+    "allDay": false,
+    "venue": "HTTPS://Longmontcolorado.Gov/Event/Remote-Sustainability-Advisory-Board-2/2026-11-18/",
+    "venueKey": "https-longmontcolorado-gov-event-remote-sustainability-advisory-board-2-2026-11-18",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/remote-sustainability-advisory-board-2/2026-11-18/",
+    "description": "The Sustainability Advisory Board meets the 3rd Wednesday of each month, January-November. In December, the Board will meet the 2nd Wednesday of the month. Click to visit the City’s Agenda Management Portal to search for more information regarding the Sustainability Advisory Board, including agen...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/remote-sustainability-advisory-board-2/2026-11-18/",
+        "fetchedAt": "2026-11-16T07:20:28Z"
+      }
+    ]
+  },
+  {
+    "id": "5c5258c7aa1d",
+    "title": "Teen Cozy Crafternoon: Decorate Hats and Gloves",
+    "start": "2026-11-18T17:00:00-07:00",
+    "end": "2026-11-18T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/teen-hats-gloves/",
+    "description": "For teens in 6th-12th graders Teen Room No registration necessary This program is in English Calling all teens! Make sure you have the proper gear to stay warm and cozy this winter! We will be providing beanies and gloves (while supplies last) and fabric paint to keep you warm in style.",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/teen-hats-gloves/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "afb04d2cb501",
+    "title": "Make and Take Station: Buttons",
+    "start": "2026-11-18T17:00:00-07:00",
+    "end": "2026-11-18T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/make-and-take-station-buttons-2/",
+    "description": "Best for kids of all ages with caregivers In the Children’s Area of the Library No registration required This program is presented in English and Spanish Come to the Children’s Area of the library on the 1st and 3rd Wednesday of every month from 5-7 pm to try a new make and take activity! We’ll h...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/make-and-take-station-buttons-2/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "b4842efa872c",
+    "title": "Front Range Mycological Society",
+    "start": "2026-11-18T17:00:00-07:00",
+    "end": "2026-11-18T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17876392",
+    "description": "Mycological Club Meeting",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17876392",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7dcb2e85fb32",
+    "title": "Monthly Video Game Night",
+    "start": "2026-11-18T17:30:00-07:00",
+    "end": "2026-11-18T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "nightlife-social",
+    "tags": [
+      "board-games"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/monthly-video-game-night-4/",
+    "description": "For ages 18+ Library Unquiet Study Area No registration required This program is in English ** December Board Game Night and Monthly Video Game Night are canceled because of holiday closures.** Tonight’s event falls one week earlier than usual because of the Thanksgiving holidays. Join us on the...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/monthly-video-game-night-4/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "c48be283ff35",
+    "title": "2026 Gratitude Member Celebration",
+    "start": "2026-11-18T17:30:00-07:00",
+    "end": "2026-11-18T19:30:00-07:00",
+    "allDay": false,
+    "venue": "The Stable Bar & Grill",
+    "venueKey": "the-stable-bar-and-grill",
+    "city": "Superior",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://member.superiorchamber.com/events/details/2026-gratitude-member-celebration-16824",
+    "description": "We are delighted to invite you and your team to the Superior Chamber Gratitude Celebration on Wednesday, November 18th, at 5:30 PM. This special evening, set against a festive fall theme, is our chance to come together and celebrate the collective and individual achievements that have shaped our...",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/2026-gratitude-member-celebration-16824",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4338a330895c",
+    "title": "Workshop: What is Vision Zero? – Safer Speeds",
+    "start": "2026-11-18T18:00:00-07:00",
+    "end": "2026-11-18T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Senior Center",
+    "venueKey": "longmont-senior-center",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/workshop-what-is-vision-zero-safer-speeds/",
+    "description": "Curious about Vision Zero and how speeds impacts safety? Join us to learn about Vision Zero and the effort to reduce serious and fatal crashes in Longmont to zero by 2040. During this free educational workshop, we’ll explore why safer speeds matter and learn about street design, the role of educa...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/workshop-what-is-vision-zero-safer-speeds/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "5f1e91e6af26",
+    "title": "Arabic Book Club",
+    "start": "2026-11-18T18:00:00-07:00",
+    "end": "2026-11-18T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ArabicBooks2026",
+    "description": "The Arabic Book Club is an independent book group, open to the public, that typically meets on the fourth Wednesday of each month (this month was rescheduled due to Thanksgiving). We choose Arabic books with English translations, making it easy for everyone to participate in enriching conversatio...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ArabicBooks2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6716936bad1a",
+    "title": "3D Printing Group Orientation",
+    "start": "2026-11-18T18:00:00-07:00",
+    "end": "2026-11-18T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/3d-printing-group-orientation-9/",
+    "description": "Registration required Location: Unquiet Study Area (second floor) Once you take the orientation, you are ready to use the 3D Printer 3D Print Reservations can be made after your orientation in the computer lab Minors (under 16) must be accompanied by an adult Before you can use the Library’s 3D p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/3d-printing-group-orientation-9/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "ab02e07a0478",
+    "title": "Conversations in Spanish - Drop In",
+    "start": "2026-11-18T18:00:00-07:00",
+    "end": "2026-11-18T19:15:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+    "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConversationsSpanishSeptDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5ade0fb81646",
+    "title": "Landlord Tenant Alliance: TBD",
+    "start": "2026-11-18T18:30:00-07:00",
+    "end": "2026-11-18T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Senior Center – Rooms D&E",
+    "venueKey": "longmont-senior-center-rooms-d-and-e",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/landlord-tenant-alliance-12/",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/landlord-tenant-alliance-12/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "57e19c3de7c7",
+    "title": "Improv comedy drop-in: It's a JAM! Wednesday, Nov 18th 7pm",
+    "start": "2026-11-18T19:00:00-07:00",
+    "end": "2026-11-18T21:00:00-07:00",
+    "allDay": false,
+    "venue": "The Louisville Underground",
+    "venueKey": "the-louisville-underground",
+    "city": "Louisville",
+    "category": "performing-arts",
+    "tags": [
+      "comedy"
+    ],
+    "size": "M",
+    "url": "https://www.meetup.com/improvbouldermeetup/events/317331204/",
+    "description": "Hey, we are at the Louisville Underground this week for our monthly Jam. Join us for this free drop-in Improv JAM! The format is like a casual improv show. We'll put everyone on a team (or gather your own team) and each team will have about a 12-15 minute set. Feel free to invite friends and fami...",
+    "sources": [
+      {
+        "name": "meetup-improvbouldermeetup",
+        "url": "https://www.meetup.com/improvbouldermeetup/events/317331204/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d7669f672b2d",
+    "title": "CU Boulder SoundWorks: Fall 2026 Songwriter's Concert",
+    "start": "2026-11-18T19:30:00-07:00",
+    "end": "2026-11-18T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Imig Music",
+    "venueKey": "imig-music",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/cu-boulder-soundworks-fall-2026-songwriters-concert",
+    "description": "Enjoy an evening of original music by CU Boulder student songwriters! Featuring a diverse range of musical styles and creative voices, this concert showcases the artistry of emerging musicians as they share their own compositions. Performers: Ridge Dicarlo, Leo Hall, Sebastian Lamb, Henrik Mills,...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/cu-boulder-soundworks-fall-2026-songwriters-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]
