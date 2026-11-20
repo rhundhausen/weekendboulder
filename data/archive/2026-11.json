@@ -938,6 +938,75 @@
     ]
   },
   {
+    "id": "aa0ee792f260",
+    "title": "Erie Family Storytime",
+    "start": "2026-11-05T16:15:00-07:00",
+    "end": "2026-11-05T16:45:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606067",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606067",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "d7504c666af7",
+    "title": "Code Club",
+    "start": "2026-11-05T16:30:00-07:00",
+    "end": "2026-11-05T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/cc",
+    "description": "In Code Club, participants in grades 3 through 8 will explore beginner-friendly coding tools such as Scratch, Fiero Code, and more. Participants will collaborate with peers, build teamwork skills, and develop problem-solving and creative thinking through hands-on coding challenges. Sessions are h...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/cc",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "b572fa958006",
+    "title": "Adult Social Chess Club",
+    "start": "2026-11-05T18:15:00-07:00",
+    "end": "2026-11-05T19:45:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/asccae",
+    "description": "Adults are invited to participate in a social chess club here at the Erie Library! Beginners as well as those who want to improve their game, or competitive players looking for a good game. An instructor will be available to help participants at all levels. No registration is required. Drop in. F...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/asccae",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
     "id": "a86355888e25",
     "title": "Peak Harmony Choir Performance",
     "start": "2026-11-05T18:30:00-07:00",
@@ -5031,6 +5100,911 @@
       {
         "name": "cu-presents",
         "url": "https://calendar.colorado.edu/event/cu-boulder-soundworks-fall-2026-songwriters-concert",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "89d837218511",
+    "title": "Discovery Days Art",
+    "start": "2026-11-19T09:15:00-07:00",
+    "end": "2026-11-19T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-19/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-19/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "1abcbee6882b",
+    "title": "Pearl Street Monthly Walking Tours 2026 Nov",
+    "start": "2026-11-19T10:00:00-07:00",
+    "end": "2026-11-19T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Boulder County Courthouse",
+    "venueKey": "boulder-county-courthouse",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://historicboulder.org/event/pearl-street-monthly-walking-tours-2026-nov/",
+    "description": "Get Your Tickets Here Pearl Street , once Boulder’s commercial artery, “has become its cultural heart and soul,” said Richard Foy, one of the designers of the Mall. Boulder began as a supply town for gold miners and Pearl Street was the main road from the plains up into the mountains, as well as...",
+    "sources": [
+      {
+        "name": "historic-boulder",
+        "url": "https://historicboulder.org/event/pearl-street-monthly-walking-tours-2026-nov/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b37ded652a18",
+    "title": "Hikes for Seniors: Winter at the Preserve",
+    "start": "2026-11-19T10:00:00-07:00",
+    "end": "2026-11-19T12:30:00-07:00",
+    "allDay": false,
+    "venue": "Ron Stewart Preserve at Rabbit Mountain",
+    "venueKey": "ron-stewart-preserve-at-rabbit-mountain",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/hikes-for-seniors-winter-at-the-preserve-2/",
+    "description": "Join us for a moderate hike where the plains meet the foothills and learn about our area’s winter ecology. This hike takes place in one of our county’s most biodiverse areas. The trail has a moderate incline with some rocky sections, and benches can be found along the trail. Hiking poles are reco...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/hikes-for-seniors-winter-at-the-preserve-2/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "c8ba364c87c6",
+    "title": "Yoga Storytime",
+    "start": "2026-11-19T10:00:00-07:00",
+    "end": "2026-11-19T10:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/yoga-storytime/2026-11-19/",
+    "description": "Best for 3-6 year olds and their grown-ups Library Meeting Rooms No registration required This program is in English Enjoy stories, movement, breathing, and mindfulness while building skills in self-regulation, mental and physical health, and early literacy. Limited number of yoga mats provided,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/yoga-storytime/2026-11-19/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "fc8087e3b61c",
+    "title": "Bilingual Storytime",
+    "start": "2026-11-19T10:30:00-07:00",
+    "end": "2026-11-19T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+    "description": "Kids and caregivers - join us for bilingual stories and activities! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "871166cd90f7",
+    "title": "The Library @ the Longmont Senior Center",
+    "start": "2026-11-19T11:30:00-07:00",
+    "end": "2026-11-19T13:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Senior Center",
+    "venueKey": "longmont-senior-center",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/the-library-the-longmont-senior-center-2/",
+    "description": "Stop by the Longmont Library’s table every 4th Thursday of each month to sign up for a FREE Library card, check out materials and learn about all the FREE resources, services, programs and more the Library offers!",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/the-library-the-longmont-senior-center-2/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "cc751c2c9b61",
+    "title": "Orientation: Intro to Podcasting at Longmont Public Media",
+    "start": "2026-11-19T12:30:00-07:00",
+    "end": "2026-11-19T14:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Media",
+    "venueKey": "longmont-public-media",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://longmontpublicmedia.org/events/orientation-podcasting/",
+    "description": "New to podcasting? This hands-on orientation is your starting point for making great audio and video content at Longmont Public Media. In just 90 minutes, you'll get comfortable in the studio and walk away ready to book your first session. What we'll cover: Studio Setup — Learn how the studio is...",
+    "sources": [
+      {
+        "name": "longmont-public-media",
+        "url": "https://longmontpublicmedia.org/events/orientation-podcasting/",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "359e53770980",
+    "title": "Overcoming Difficult Work Histories",
+    "start": "2026-11-19T13:00:00-07:00",
+    "end": "2026-11-19T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Virtual via Zoom",
+    "venueKey": "virtual-via-zoom",
+    "city": "Other",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/overcoming-difficult-work-histories-31/",
+    "description": "Overcoming Difficult Work Histories – Virtual, 1.5 hours A bad boss, a toxic workplace, getting fired, burnout… it’s not just you. Many workers have had a difficult work experience that continues to impact them and their work long after leaving that job. Learn about resources to process your expe...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/overcoming-difficult-work-histories-31/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4adf556ff44f",
+    "title": "Big Events, Local Opportunity: 10 Ways to Bring Customers Through Your Door",
+    "start": "2026-11-19T13:00:00-07:00",
+    "end": "2026-11-19T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Louisville Recreation and Senior Center",
+    "venueKey": "louisville-recreation-and-senior-center",
+    "city": "Louisville",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://member.superiorchamber.com/events/details/big-events-local-opportunity-10-ways-to-bring-customers-through-your-door-16842",
+    "description": "?? BIG EVENTS. BIG OPPORTUNITIES. MORE LOCAL CUSTOMERS. How can your business make the most of major events happening in our region? Join Boulder SBDC for Big Events, Local Opportunity: 10 Ways to Bring Customers Through Your Door! This workshop is designed for businesses in Louisville, Lafayette...",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/big-events-local-opportunity-10-ways-to-bring-customers-through-your-door-16842",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "939fb6b55af7",
+    "title": "Older Adult Learning Club: Cricut Stickers - Register",
+    "start": "2026-11-19T13:00:00-07:00",
+    "end": "2026-11-19T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SLC2026",
+    "description": "Adults ages 50 and older - Join us for a new workshop in the Library Makerspace each month! This month we will make custom stickers using the Cricut machine. Learn more and sign up online through the Senior Center. For more information about any Senior Center activities offered, please call 303-6...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SLC2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a382f336ad7d",
+    "title": "Spanish-English Conversation Group",
+    "start": "2026-11-19T13:00:00-07:00",
+    "end": "2026-11-19T14:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/spanish-english-conversation-group-2/2026-11-19/",
+    "description": "Unquiet Study Area, upstairs No registration required This program is presented in English and Spanish This event happens weekly, every Thursday Practice Spanish or English conversation with others in an informal, conversational setting. We recommend attendees have at least an intermediate level...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/spanish-english-conversation-group-2/2026-11-19/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "bb21bdb08a84",
+    "title": "SUNS Thursday Night Gravel Ride ***See below for start time and new location***",
+    "start": "2026-11-19T15:00:00-07:00",
+    "end": "2026-11-19T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Rocky Mountain Tap & Garden Craft Kitchen & Pizza",
+    "venueKey": "rocky-mountain-tap-and-garden-craft-kitchen-and-pizza",
+    "city": "Louisville",
+    "category": "sports",
+    "tags": [],
+    "size": "M",
+    "url": "https://www.meetup.com/st-vrain-chain-gang/events/317489502/",
+    "description": "WEEKLY RIDE ON THURSDAY NIGHTS FOR THE SVCG FAITHFUL! - Spin Until Next Summer (SUNS) Start time is 3:00 p.m Start location is Rocky Mountain Tap & Garden, Louisville, CO BRING LIGHTS FOR THIS RIDE!! 99% Gravel, limited road time. DID I SAY BRING YOUR LIGHTS! I WILL HAVE EXTRAS. \"A/B\" Group Ride...",
+    "sources": [
+      {
+        "name": "meetup-st-vrain-chain-gang",
+        "url": "https://www.meetup.com/st-vrain-chain-gang/events/317489502/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "bb2b08e80d10",
+    "title": "Make it Better",
+    "start": "2026-11-19T15:00:00-07:00",
+    "end": "2026-11-19T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+    "description": "The world can be a cruel place, right? So what are you willing to do to Make It Better? In this weekly club, we cheer up the depressed and lonely, improve our natural environment, run kindness campaigns, and spread happiness to those around us! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-19/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "d6ce63187ab9",
+    "title": "The Great Ideas Reading and Discussion Group",
+    "start": "2026-11-19T15:00:00-07:00",
+    "end": "2026-11-19T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/the-great-ideas-reading-and-discussion-group-19/2026-11-19/",
+    "description": "Unquiet Study Room upstairs No registration required This program is in English Participants will be asked to complete a brief reading and then join us to discuss readings from “Great Books of the Western World,” compiled by Mortimer J. Adler, an American philosopher. Some of the topics will incl...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/the-great-ideas-reading-and-discussion-group-19/2026-11-19/",
+        "fetchedAt": "2026-11-17T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "35ad9bfa9ddc",
+    "title": "After-school Makers Club",
+    "start": "2026-11-19T15:30:00-07:00",
+    "end": "2026-11-19T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17481854",
+    "description": "Due to staffing limitations, we can only offer one weekly afterschool program this Fall, and are allowing 1st Grade thru 5th Grade to participate. I’m sorry we don’t have capacity to take Kindergarteners for this round. But we’re so happy that the Afterschool Makers Club is returning, as we alway...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17481854",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fd237bfd1c1c",
+    "title": "Makerspace - Drop In",
+    "start": "2026-11-19T15:30:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "46dd57bb5117",
+    "title": "Art & Sip: Geometric Block Print Tote",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://longmontcolorado.gov/event/art-sip-geometric-block-print-tote/",
+    "description": "Two sessions: 4 – 6 pm AND 6:30 – 8:30 pm Instructor: Julie Benoit Grab a drink and get creative with these classes designed to guide beginners as well as bring new skills to experienced artists and crafters. Wine, beer, fizzy water and snacks are available to purchase. Learn techniques to design...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/art-sip-geometric-block-print-tote/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "6320b1b2b7ed",
+    "title": "Tween Club",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+    "description": "For 3rd-5th graders Library Meeting Rooms No registration necessary This program is in English Join us for Tween club, where we’ll play games, make crafts and do fun challenges and activities. Tween club is a great place to make friends, celebrate reading, and learn new skills.",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/",
+        "fetchedAt": "2026-11-17T18:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "8dc20ceb0d44",
+    "title": "Navigators",
+    "start": "2026-11-19T16:00:00-07:00",
+    "end": "2026-11-19T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-19/",
+    "description": "combines young adults’ life-skills education with an outdoor adventure component. Young people get to know themselves and the kinds of futures they want while exploring the City if Longmont on bikes, kayaks, and their own two feet. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in tim...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-19/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "92a7dd008d44",
+    "title": "The History of Concrete November 19 – 23",
+    "start": "2026-11-19T16:30:00-07:00",
+    "end": "2026-11-19T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-19/",
+    "description": "TICKETS Nov 19-23 Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life fo...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-19/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "56df04545bbd",
+    "title": "Star Party with the Longmont Astronomical Society",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "kids",
+      "nature-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/star-party-with-the-longmont-astronomical-society/",
+    "description": "Library Meeting Rooms All ages, children must be attended by an adult Registration is not required This program is in English Join volunteers from the Longmont Astronomical Society at the Longmont Public Library’s first-floor meeting rooms and patio space to view the cosmos. The Longmont Astronom...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/star-party-with-the-longmont-astronomical-society/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "62e915ec0128",
+    "title": "Makerspace Open House and Tours",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T18:00:00-07:00",
+    "allDay": false,
+    "venue": "5765 Arapahoe Ave unit b",
+    "venueKey": "5765-arapahoe-ave-unit-b",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [
+      "public-meeting"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/solidstatedepot/events/317212439/",
+    "description": "Solid State Depot is a 100% volunteer run makerspace. The best way to find out about our makerspace, get questions answers, or sign-up to become a member is to swing by one of our Open Houses. Every Thursday evening from 5pm - 6pm (officially ends at 6pm, but feel free to swing by later and almos...",
+    "sources": [
+      {
+        "name": "meetup-solidstatedepot",
+        "url": "https://www.meetup.com/solidstatedepot/events/317212439/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8f5b669e1689",
+    "title": "BWA Monthly Happy Hour",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T21:00:00-07:00",
+    "allDay": false,
+    "venue": "The Corner Bar",
+    "venueKey": "the-corner-bar",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/",
+    "description": "Hi Writers, Editors, Agents, Beginners, and Professionals, Wanna talk writing? Plot conundrums? Publishing? Or just get out of the house? Then come join us. Do we welcome writers of any genre? Yes! How about poets? Yes! Beginners? Yes! Professionals? Yes! Editors, agents, publishers? Yes, yes, an...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d140401a5480",
+    "title": "Board Game Night",
+    "start": "2026-11-19T17:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "nightlife-social",
+    "tags": [
+      "board-games"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/board-game-night-2/",
+    "description": "Unquiet Study Area (2nd floor) Open to all ages Open to all levels and abilities No registration required This program is in English and Spanish ** December Board Game Night and Monthly Video Game Night are canceled because of holiday closures.** Tonight’s event falls one week earlier than usual...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/board-game-night-2/",
+        "fetchedAt": "2026-11-18T07:13:48Z"
+      }
+    ]
+  },
+  {
+    "id": "0f2759e1ce69",
+    "title": "Nite Ride 🔵",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Doudy Draw TH",
+    "venueKey": "doudy-draw-th",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-mountain-bikers/events/316901631/",
+    "description": "Lights are mandatory 🔦 🔵 Come join us for a chill night ride at Doudy Draw. Lights are required, here's [some tips if](https://www.bouldermountainbike.org/time-to-dust-of-your-lights-its-night-riding-season/) you haven't mountain biked in the dark before. Aerobic Difficulty: 3/10 Technical Diff...",
+    "sources": [
+      {
+        "name": "meetup-boulder-mountain-bikers",
+        "url": "https://www.meetup.com/boulder-mountain-bikers/events/316901631/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1c4f8deb5e69",
+    "title": "Thirsty Thursday Happy Hour @ Duets Bistro & Deli in Longmont",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "600 South Airport Road",
+    "venueKey": "600-south-airport-road",
+    "city": "Longmont",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/northern-burbs-active-adults/events/316800439/",
+    "description": "Come for a little further northern exposure... Longmont, CO! Duets ... your westside destination for amazing food, and awesome happy hours in a relaxed, sophisticated setting. At Duets, community drives every choice we make. Whether you’re here to unwind with friends, dine with family, or host a...",
+    "sources": [
+      {
+        "name": "meetup-northern-burbs-active-adults",
+        "url": "https://www.meetup.com/northern-burbs-active-adults/events/316800439/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "54a841b3bebb",
+    "title": "The Leadership Part of AI: Five Challenges, Five Tools, One Next Step",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Kiln Co-Working Space",
+    "venueKey": "kiln-co-working-space",
+    "city": "Boulder",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$$",
+    "url": "https://www.meetup.com/women-in-ai-colorado/events/317260441/",
+    "description": "Join Women in AI Colorado on Thursday, November 19 for a working session with [Ina Winterle](https://www.linkedin.com/in/inawinterle/). Ina spent the summer interviewing 13 senior executives about how AI is showing up inside their organizations. The technology came up least. What came up constant...",
+    "sources": [
+      {
+        "name": "meetup-women-in-ai-colorado",
+        "url": "https://www.meetup.com/women-in-ai-colorado/events/317260441/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b16c504c840a",
+    "title": "Write to Publish, Publish to Sell",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Public Library",
+    "venueKey": "boulder-public-library",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/315907073/",
+    "description": "Make It Stick: Using theme to create stories that will stay with readers Have you ever read a book that you kept thinking about days after you finished it? Wondering how to write a story that leaves other readers feeling the same way? The answer lies in your story’s theme. “Theme” is a term that...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/315907073/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bcce1b21f47d",
+    "title": "Parks & Open Space Advisory Committee (POSAC)",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Commissioners’ Hearing Room",
+    "venueKey": "commissioners-hearing-room",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/parks-open-space-advisory-committee-posac-27/",
+    "description": "The Parks & Open Space Advisory Committee (POSAC) will meet on Nov. 19 from 5:30 to 8 p.m. The meeting will be held in a hybrid format where attendees can join through Zoom or in-person at the Boulder County Courthouse, 1325 Pearl Street, 3rd Floor, Boulder. Complete details can be found at Parks...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/parks-open-space-advisory-committee-posac-27/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cdf4b5be6a47",
+    "title": "Adult Makers Club",
+    "start": "2026-11-19T17:30:00-07:00",
+    "end": "2026-11-19T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17916348",
+    "description": "Join our collaborative, community-driven monthly meet-up, where adults meet to create, learn, and share DIY and crafting tips and skills! No experience necessary. Leah De Capio will be leading us through this creative, no-pressure workshop where we will create a beautiful thanksgiving banner for...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17916348",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "703fcdfbc936",
+    "title": "FI Book Club",
+    "start": "2026-11-19T18:00:00-07:00",
+    "end": "2026-11-19T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
+    "description": "The FI Book Club is an independent book group, open to the public, that meets to discuss books about finance and business on the fourth Thursday of each month (except for holidays or other closures). Interested in joining or have questions about the book selection? Contact Evan or visit lafayette...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      },
+      {
+        "name": "meetup-nocomustachians",
+        "url": "https://www.meetup.com/nocomustachians/events/316739552/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a1d3bbd59186",
+    "title": "Teen Try it Out: DIY Puzzles",
+    "start": "2026-11-19T18:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/teen-try-it-out-2/",
+    "description": "For teens in 6th-12th graders Teen Room No registration necessary This program is in English Try something new each month at this self-led program for teens! Explore a variety of activities, such as watercolor painting, learning about astrology, reading tarot cards, and more. Supplies and instruc...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/teen-try-it-out-2/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "d858d17f5b29",
+    "title": "Taller: ¿Qué es Visión Cero? - Velocidades más seguras",
+    "start": "2026-11-19T18:00:00-07:00",
+    "end": "2026-11-19T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Senior Center",
+    "venueKey": "longmont-senior-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/taller-que-es-vision-cero-velocidades-mas-seguras/",
+    "description": "¿Tiene curiosidad sobre Visión Cero y lo que significa para Longmont? Acompáñenos para conocer Visión Cero y el esfuerzo por reducir a cero los accidentes graves y mortales en Longmont para el año 2040. Durante este taller educativo gratuito, exploraremos por qué son importantes las velocidades m...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/taller-que-es-vision-cero-velocidades-mas-seguras/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "240dae9aef4a",
+    "title": "Thursday Night Open Class",
+    "start": "2026-11-19T19:00:00-07:00",
+    "end": "2026-11-19T20:45:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Shambhala Center",
+    "venueKey": "boulder-shambhala-center",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://www.meetup.com/boulder-shambhala-center/events/317214527/",
+    "description": "All are invited to the Boulder Shambhala Center, where a senior teacher will lead a period of sitting meditation practice (with meditation instruction offered) followed by a presentation with questions and discussion. Each week’s presentation is on a topic inspired by the Buddhist, Shambhala, or...",
+    "sources": [
+      {
+        "name": "meetup-boulder-shambhala-center",
+        "url": "https://www.meetup.com/boulder-shambhala-center/events/317214527/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5bda5c95ea33",
+    "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
+    "start": "2026-11-19T19:00:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Carsen Theater",
+    "venueKey": "carsen-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-19/",
+    "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-19/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b9f4bd6aa8ee",
+    "title": "Cultural Caravan & the Future of Chamber Music: Can't Take My Soul",
+    "start": "2026-11-19T19:00:00-07:00",
+    "end": "2026-11-19T21:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://longmontcolorado.gov/event/cultural-caravan-the-future-of-chamber-music/",
+    "description": "The Cultural Caravan rolls into town for a concert featuring this year’s guest artist, the award-winning violinist Njioma Grevious accompanied by Alex Gonzalez (violin), Jordan Bak (violin), Josh Halpern (cello), and Elliot Wuu (piano). The program will span more than two centuries showcasing the...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/cultural-caravan-the-future-of-chamber-music/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "bbe19272d483",
+    "title": "Fjord | Nov. 19 – 23",
+    "start": "2026-11-19T19:00:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-19/",
+    "description": "TICKETS Nov 19-22 From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their r...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-19/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bc68e8d315a5",
+    "title": "Deep Thoughts Philosophy Book Group (Virtual)",
+    "start": "2026-11-19T19:00:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/deep-thoughts-philosophy-book-group-virtual-14/",
+    "description": "Everything you need for this month’s discussion is on this shared Google site We meet via Zoom every third Thursday of the month at the same time unless the Library is closed Open to adults and older teens aged 16+ This book group meets via Zoom and discusses a different classic work of philosoph...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/deep-thoughts-philosophy-book-group-virtual-14/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "e2f8fdf58dbf",
+    "title": "CU Boulder Symphony Orchestra: Pictures!",
+    "start": "2026-11-19T19:30:00-07:00",
+    "end": "2026-11-19T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Macky Auditorium",
+    "venueKey": "macky-auditorium",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "symphony"
+    ],
+    "size": "L",
+    "url": "https://calendar.colorado.edu/event/cu-boulder-symphony-orchestra-pictures",
+    "description": "On this program, the CU Boulder Symphony Orchestra will feature two exciting soloists along with a perennial favorite, Maurice Ravel's vivid orchestration of Modest Mussorgsky's \"Pictures at an Exhibition.\" Los Angeles-based composer and jazz saxophonist Ennis Harris will join the orchestra to pe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/cu-boulder-symphony-orchestra-pictures",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]

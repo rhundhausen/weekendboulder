@@ -1006,17 +1006,17 @@
       "verdict": "transient",
       "status": 0,
       "error": "timeout",
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-20T07:18:11Z",
       "brokenSince": "2026-11-19T07:17:46Z",
-      "failures": 2
+      "failures": 3
     },
     "https://carouselofhappiness.org/event/open-extra-days-winter-break/": {
       "verdict": "transient",
       "status": 0,
       "error": "timeout",
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-20T07:18:11Z",
       "brokenSince": "2026-11-19T07:17:46Z",
-      "failures": 2
+      "failures": 3
     },
     "https://historicboulder.org/event/homes-for-the-holidays-tour-2026/": {
       "verdict": "ok",
@@ -1654,6 +1654,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/all-ages-stay-play-friday/2026-11-20/": {
       "verdict": "ok",
       "status": 200,
@@ -1732,6 +1738,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/bilingual-storytime/2026-11-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/board-game-night-2/": {
       "verdict": "ok",
       "status": 200,
@@ -1750,10 +1762,22 @@
       "checkedAt": "2026-11-15T03:59:25Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/community-food-workshop-for-teens-6/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/council-at-longmont-farmers-market/2026-11-21/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-19T07:17:46Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/councilmember-jake-marsing-virtual-office-hours-11/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/cultural-caravan-the-future-of-chamber-music/": {
@@ -1816,6 +1840,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/drop-in-writers-group-3/2026-11-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/": {
       "verdict": "ok",
       "status": 200,
@@ -1858,6 +1888,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/high-school-group-3/2026-11-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/holiday-guest-pass-on-sale-now/": {
       "verdict": "ok",
       "status": 200,
@@ -1876,10 +1912,22 @@
       "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/landlord-tenant-alliance-12/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-17T07:18:18Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/light-up-longmont/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/longmont-home-movie-day-workshop-screening/": {
@@ -1930,6 +1978,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/nature-fun-at-sandstone-ranch/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/navigators-4/2026-11-16/": {
       "verdict": "ok",
       "status": 200,
@@ -1942,6 +1996,12 @@
       "checkedAt": "2026-11-18T07:18:13Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/navigators-4/2026-11-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/online-english-conversation-group-4/": {
       "verdict": "ok",
       "status": 200,
@@ -1952,6 +2012,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/open-chess-night/2026-11-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/open-lego-build-2/2026-11-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/remote-sustainability-advisory-board-2/2026-11-18/": {
@@ -1982,6 +2054,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/spanish-english-conversation-group-2/2026-11-19/": {
@@ -2044,10 +2122,22 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/toddler-storytime/2026-11-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/": {
@@ -2650,6 +2740,12 @@
       "checkedAt": "2026-11-14T07:16:16Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17983378": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983390": {
       "verdict": "ok",
       "status": 200,
@@ -2822,6 +2918,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18059557": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18059608": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22-2/": {
@@ -3578,6 +3686,24 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/mariposa-collective-resilience/2027-02-12/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/mariposa-collective-resilience/2027-02-13/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/mariposa-collective-resilience/2027-02-14/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://thedairy.org/event/mountains-on-stage-winter-edition-2026/": {
@@ -4636,10 +4762,22 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/317371028/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/317452294/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-18T07:18:13Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/kghdbvyjcqbsb/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/rznpltyjcqbnb/": {
