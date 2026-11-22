@@ -1808,6 +1808,28 @@
     ]
   },
   {
+    "id": "b9d3189abaca",
+    "title": "Luvin Arms Animal Sanctuary Speaks!",
+    "start": "2026-11-09T18:00:00-07:00",
+    "end": "2026-11-09T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17476890",
+    "description": "Luvin Arms Animal Sanctuary is an animal sanctuary for for abused or neglected farmed animals located RIGHT HERE in Erie Colorado! Their residents include cows, pigs, turkeys, chickens, horses, goats, donkeys, sheep, and ducks! They have made national news by participating in Colorado's state tur...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17476890",
+        "fetchedAt": "2026-11-22T07:12:14Z"
+      }
+    ]
+  },
+  {
     "id": "930072e295b6",
     "title": "Recreation Center Community Update",
     "start": "2026-11-09T18:30:00-07:00",
@@ -1878,6 +1900,31 @@
     ]
   },
   {
+    "id": "ea138641d454",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-10T09:30:00-07:00",
+    "end": "2026-11-10T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605861",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605861",
+        "fetchedAt": "2026-11-22T07:12:14Z"
+      }
+    ]
+  },
+  {
     "id": "24ddbd12ccab",
     "title": "Wild Bear Storytime",
     "start": "2026-11-10T10:30:00-07:00",
@@ -1902,6 +1949,30 @@
     ]
   },
   {
+    "id": "4d28b719f4c9",
+    "title": "Erie Music & Movement",
+    "start": "2026-11-10T10:30:00-07:00",
+    "end": "2026-11-10T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605872",
+    "description": "Music and Movement is designed for children and caregivers to get up and move together while enhancing motor skills and reinforcing early literacy skills. Instruments and activities are geared toward children ages 3 - 5. This event is drop in and has limited capacity, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605872",
+        "fetchedAt": "2026-11-22T07:12:14Z"
+      }
+    ]
+  },
+  {
     "id": "c2c6fac98f96",
     "title": "Baby Storytime",
     "start": "2026-11-10T10:30:00-07:00",
@@ -1922,6 +1993,28 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesAug-Nov2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d5be3b097c12",
+    "title": "Bookmobile: Erie",
+    "start": "2026-11-10T13:30:00-07:00",
+    "end": "2026-11-10T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17497586",
+    "description": "Bookmobile stop: open to the public for checkout, returns, computer use, printing service, and other library services.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17497586",
+        "fetchedAt": "2026-11-22T07:12:14Z"
       }
     ]
   },
@@ -1992,6 +2085,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f2c30d0629eb",
+    "title": "Rebecca Thorne Author Talk",
+    "start": "2026-11-10T18:00:00-07:00",
+    "end": "2026-11-10T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "arts-culture",
+    "tags": [
+      "author-event"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17531288",
+    "description": "Please come join us for an author talk from best selling author Rebecca Thorne! Author of USA Today, INDIE, and Sunday Times Best Seller \"Can't Spell Treason without Tea\", Rebecca is an avid writer, having published 10 books since 2023 alone. Fans of her work, and fans of the crafts of reading an...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17531288",
+        "fetchedAt": "2026-11-22T07:12:14Z"
       }
     ]
   },
@@ -6766,6 +6883,593 @@
       {
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/friday-night-weird-the-american-astronaut/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5262e8171c10",
+    "title": "Front Range Agility Club CPE Dog Agility",
+    "start": "2026-11-21T08:00:00-07:00",
+    "end": "2026-11-21T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-7/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-7/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "be73b2bd7ba6",
+    "title": "Longmont Farmers Market",
+    "start": "2026-11-21T08:00:00-07:00",
+    "end": "2026-11-21T13:00:00-07:00",
+    "allDay": false,
+    "venue": "North Parking Lot",
+    "venueKey": "north-parking-lot",
+    "city": "Longmont",
+    "category": "markets-shopping",
+    "tags": [
+      "farmers-market"
+    ],
+    "size": "M",
+    "url": "https://bouldercounty.gov/event/longmont-farmers-market-2/2026-11-21/",
+    "description": "Longmont Farmers Market Saturdays, 8am-1pm April 4 – November 21 Boulder County Fairgrounds Longmont, CO 80501 No Pets Please! On the fourth Saturday of every month, we invite local artisans to join the market for the ultimate local shopping experience. Their one-of-a-kind items include everythin...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/longmont-farmers-market-2/2026-11-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c3c6ed270df6",
+    "title": "Council at Longmont Farmers Market",
+    "start": "2026-11-21T08:00:00-07:00",
+    "end": "2026-11-21T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Farmers Market",
+    "venueKey": "longmont-farmers-market",
+    "city": "Longmont",
+    "category": "markets-shopping",
+    "tags": [
+      "farmers-market"
+    ],
+    "size": "M",
+    "url": "https://longmontcolorado.gov/event/council-at-longmont-farmers-market/2026-11-21/",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/council-at-longmont-farmers-market/2026-11-21/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "866c70618a18",
+    "title": "Mollie McGee’s 45th Annual Holiday Craft Market",
+    "start": "2026-11-21T09:00:00-07:00",
+    "end": "2026-11-21T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d74535e261ac",
+    "title": "Chat with the Chief",
+    "start": "2026-11-21T09:00:00-07:00",
+    "end": "2026-11-21T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Superior Community Center",
+    "venueKey": "superior-community-center",
+    "city": "Superior",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://member.superiorchamber.com/events/details/chat-with-the-chief-11-21-2026-16126",
+    "description": "Sgt. Salaman from the Boulder County Sheriff's Office will host Chat with the Chief at the Superior Community Center (1500 Coalton Road). This is a great time to have a conversation about any concerns regarding crime, safety or any other issue that pertains to our local sheriff's office. The meet...",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/chat-with-the-chief-11-21-2026-16126",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "dfcf403ea2c1",
+    "title": "Birds of Prey Driving Tour",
+    "start": "2026-11-21T09:00:00-07:00",
+    "end": "2026-11-21T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder County",
+    "venueKey": "boulder-county",
+    "city": "Other",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/birds-of-prey-driving-tour-nov-21/",
+    "description": "Hop in your car with friends and family and join us for a driving tour of some of Boulder County’s best areas to view birds of prey. Follow the tour map to designated stops with volunteer naturalist and search the skies for raptors, learn about their habitat and behavior, and work on your observa...",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/birds-of-prey-driving-tour-nov-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "29164d0edefc",
+    "title": "Discovery Days Art",
+    "start": "2026-11-21T09:15:00-07:00",
+    "end": "2026-11-21T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-21/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-11-21/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "70344df842a2",
+    "title": "Coffee and Conversation",
+    "start": "2026-11-21T10:00:00-07:00",
+    "end": "2026-11-21T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsSept-Dec",
+    "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsSept-Dec",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6a6e55bbac50",
+    "title": "English Conversation Group",
+    "start": "2026-11-21T10:30:00-07:00",
+    "end": "2026-11-21T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/english-conversation-group/2026-11-21/",
+    "description": "Unquiet Study Area, upstairs No registration required This program is presented in English This event happens weekly, every Saturday Practice English conversation with others in an informal, conversational setting. We recommend attendees have some previous English experience to effectively partic...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/english-conversation-group/2026-11-21/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "d8d63fafd8b5",
+    "title": "Saturday Storytime",
+    "start": "2026-11-21T10:30:00-07:00",
+    "end": "2026-11-21T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+    "description": "Kids and caregivers - join us for stories, songs, and interactive fun perfect for all ages! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/SaturdayStorytimeAugDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "208364df84c9",
+    "title": "Conversations in English - Drop In",
+    "start": "2026-11-21T11:00:00-07:00",
+    "end": "2026-11-21T12:15:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5f9ae34d61de",
+    "title": "All Ages Storytime: Saturday",
+    "start": "2026-11-21T11:00:00-07:00",
+    "end": "2026-11-21T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/all-ages-storytime-saturday/2026-11-21/",
+    "description": "All ages welcome (ideal for birth-5) Library Meeting Rooms No registration required This program is in English A 30-minute Saturday morning storytime designed for children and their grown-ups! Join us as we share picture books, move, dance and sing together. All storytimes require a dedicated adu...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/all-ages-storytime-saturday/2026-11-21/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "64224484370b",
+    "title": "Lotería Mexicana - Family Bingo",
+    "start": "2026-11-21T11:30:00-07:00",
+    "end": "2026-11-21T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "food-drink",
+    "tags": [
+      "bingo"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Loteria2026",
+    "description": "All ages - please drop in to the Kid Zone for bilingual family bingo fun in the traditional Mexican style!",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Loteria2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b6f582d5bb76",
+    "title": "Free Saturday Fitness at Lanyon Park",
+    "start": "2026-11-21T12:00:00-07:00",
+    "end": "2026-11-21T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Lanyon Park",
+    "venueKey": "lanyon-park",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/free-saturday-fitness-at-lanyon-park/2026-11-21/",
+    "description": "Enjoy a workout in the fresh air! Join Recreation fitness instructors for a free Saturday Pilyoga (pilates/yoga) class at Lanyon Park. For ages 14 & up; no childcare is available. Call 303-774-4800 with questions. No registration needed. View the Fitness schedule",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/free-saturday-fitness-at-lanyon-park/2026-11-21/",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "31bd8f1ea041",
+    "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
+    "start": "2026-11-21T14:00:00-07:00",
+    "end": "2026-11-21T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Grace Gamm Theatre",
+    "venueKey": "grace-gamm-theatre",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-21/",
+    "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d79e5be91c01",
+    "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
+    "start": "2026-11-21T14:00:00-07:00",
+    "end": "2026-11-21T15:30:00-07:00",
+    "allDay": false,
+    "venue": "Carsen Theater",
+    "venueKey": "carsen-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-21/1/",
+    "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-21/1/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "73e0d2ce015e",
+    "title": "Have You Seen My Gods? Film Screening",
+    "start": "2026-11-21T15:00:00-07:00",
+    "end": "2026-11-21T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Museum of Boulder",
+    "venueKey": "museum-of-boulder",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "museum"
+    ],
+    "size": "S",
+    "url": "https://museumofboulder.org/events/have-you-seen-my-gods-film-screening/",
+    "description": "Have You Seen My Gods, A special screening of Amitabh Joshi’s powerful documentary exploring Nepal’s stolen sacred heritage. REGISTER HERE For our November program, we would like to host an exclusive screening of Have You Seen My Gods? , followed by a special appearance by Alisha Sijapati . The p...",
+    "sources": [
+      {
+        "name": "museum-of-boulder",
+        "url": "https://museumofboulder.org/events/have-you-seen-my-gods-film-screening/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e9838dcc1f84",
+    "title": "The History of Concrete November 19 – 23",
+    "start": "2026-11-21T15:00:00-07:00",
+    "end": "2026-11-21T16:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-21/",
+    "description": "TICKETS Nov 19-23 Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life fo...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f33f259b7c7d",
+    "title": "3rd Law Dance/Theater: The Home Between | Nov. 20 – 22",
+    "start": "2026-11-21T15:00:00-07:00",
+    "end": "2026-11-21T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "dance"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22-2/",
+    "description": "TICKETS 3rd Law Dance/Theater’s Fall Performance, A HOME BETWEEN, combines contemporary dance with live music featuring Enion Pelta-Tiller and her band Taarka. This modern family string band draws on jazz, bluegrass, pop, and world folk traditions and performs alongside 3rd Law’s company of 12 da...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ca28b78eea9a",
+    "title": "Light Up Longmont!",
+    "start": "2026-11-21T17:00:00-07:00",
+    "end": "2026-11-21T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Roosevelt Park",
+    "venueKey": "roosevelt-park",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/light-up-longmont/",
+    "description": "Celebrate the season all holiday long! Longmont Lights is expanding into a series of special Saturday events. Find all things warm and cozy to do in Longmont. Start at Roosevelt Park’s Ice Pavilion for opening night with a fire pit and hot cocoa, then help Santa & his cast of holiday characters t...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/light-up-longmont/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "f1b63885dd34",
+    "title": "Pool Night @ Zoosters",
+    "start": "2026-11-21T17:00:00-07:00",
+    "end": "2026-11-21T19:00:00-07:00",
+    "allDay": false,
+    "venue": "300 Nickel Street",
+    "venueKey": "300-nickel-street",
+    "city": "Broomfield",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.meetup.com/northern-burbs-active-adults/events/316803480/",
+    "description": "Here’s our 3rd NB Pool Event at Zooster’s for Fall 2026. The temperature has dropped and its now time to start getting together for one of our favorite indoor events, playing pool at Zooster's in Broomfield., For those not familiar with Zoosters, they are our friendly Pool Hall in Broomfield that...",
+    "sources": [
+      {
+        "name": "meetup-northern-burbs-active-adults",
+        "url": "https://www.meetup.com/northern-burbs-active-adults/events/316803480/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "181ccd4a20f7",
+    "title": "Fjord | Nov. 19 – 23",
+    "start": "2026-11-21T17:30:00-07:00",
+    "end": "2026-11-21T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-21/",
+    "description": "TICKETS Nov 19-22 From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their r...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "946a859e0a11",
+    "title": "Swing Dance to LAPOMPE",
+    "start": "2026-11-21T19:00:00-07:00",
+    "end": "2026-11-21T22:30:00-07:00",
+    "allDay": false,
+    "venue": "The Avalon",
+    "venueKey": "the-avalon",
+    "city": "Boulder",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://www.meetup.com/boulder-dance/events/317307561/",
+    "description": "This will be an unhosted event Come swing dance with us to LAPOMPE! This popular Denver-based group combines an eclectic combination of gypsy swing, blues, and soulful originals to create a unique sound and style. The group features acoustic guitars, vocals, upright bass and violin. This is a tal...",
+    "sources": [
+      {
+        "name": "meetup-boulder-dance",
+        "url": "https://www.meetup.com/boulder-dance/events/317307561/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c3f5d3559af8",
+    "title": "22nd Annual Last Waltz Revisited",
+    "start": "2026-11-21T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Theater",
+    "venueKey": "boulder-theater",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://kbco.iheart.com/calendar/content/2026-11-21-22nd-annual-last-waltz-revisited-copy",
+    "description": "Last Waltz Revisited. feat. Polytoxic, The Denver Horns & Guest Musicians. Saturday, November 21, 2026. All Ages. Doors: 7PM | Show: 8PM.",
+    "sources": [
+      {
+        "name": "kbco-calendar",
+        "url": "https://kbco.iheart.com/calendar/content/2026-11-21-22nd-annual-last-waltz-revisited-copy",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "ec5ab2e61e05",
+    "title": "Dairy Comedy in the Boe",
+    "start": "2026-11-21T20:30:00-07:00",
+    "end": "2026-11-21T22:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "comedy"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/dairy-comedy-in-the-boe/",
+    "description": "TICKETS Headlining is Al Jackson, a Los Angeles-based stand-up comedian, writer, and television personality born and raised in Cleveland. He made an unconventional career transition from middle school teacher in Miami to nationally touring comedian, earning his breakthrough with a Comedy Central...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/dairy-comedy-in-the-boe/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
