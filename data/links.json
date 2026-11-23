@@ -2970,6 +2970,12 @@
       "checkedAt": "2026-11-16T07:24:49Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/18000817": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/18000967": {
       "verdict": "ok",
       "status": 200,
@@ -4428,6 +4434,12 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://www.chautauqua.com/event/rising-appalachia-3/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
+      "failures": 0
+    },
     "https://www.chautauqua.com/event/sheela-bringi-elden-kelly/": {
       "verdict": "ok",
       "status": 200,
@@ -4920,6 +4932,24 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulderramblers/events/317546474/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderramblers/events/317547008/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulderramblers/events/317547165/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulderstartups/events/312798854/": {
       "verdict": "ok",
       "status": 200,
@@ -5038,6 +5068,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/improvbouldermeetup/events/317542584/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-23T07:19:32Z",
       "failures": 0
     },
     "https://www.meetup.com/longmont-walks/events/316517269/": {

@@ -2250,6 +2250,31 @@
     ]
   },
   {
+    "id": "3466737a0090",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-12T09:30:00-07:00",
+    "end": "2026-11-12T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606027",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606027",
+        "fetchedAt": "2026-11-23T07:15:21Z"
+      }
+    ]
+  },
+  {
     "id": "1d0007df3e1d",
     "title": "Bilingual Storytime",
     "start": "2026-11-12T10:30:00-07:00",
@@ -7470,6 +7495,267 @@
       {
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/dairy-comedy-in-the-boe/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "885bf0e543b2",
+    "title": "Front Range Agility Club CPE Dog Agility",
+    "start": "2026-11-22T08:00:00-07:00",
+    "end": "2026-11-22T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-8/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-8/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f0fac26195d1",
+    "title": "Mollie McGee’s 45th Annual Holiday Craft Market",
+    "start": "2026-11-22T10:00:00-07:00",
+    "end": "2026-11-22T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "70d39043b9d7",
+    "title": "MAD LIBrarians",
+    "start": "2026-11-22T11:00:00-07:00",
+    "end": "2026-11-22T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Dairy Arts Center",
+    "venueKey": "dairy-arts-center",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "M",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/mad-librarians/2026-11-22/",
+    "description": "TICKETS Watch top-notch improvisers light up the stage, while your kids’ faces light up! At each one-of-a-kind show, kids in the audience make up new book titles and then the MAD LIBrarians hilariously off-the-cuff stories to go with the kids’ titles. A free craft starts at the listed show time o...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/mad-librarians/2026-11-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "513b66d8c236",
+    "title": "Fjord | Nov. 19 – 23",
+    "start": "2026-11-22T13:00:00-07:00",
+    "end": "2026-11-22T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film",
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-22/",
+    "description": "TICKETS Nov 19-22 From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their r...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "04386ac4a5f9",
+    "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
+    "start": "2026-11-22T14:00:00-07:00",
+    "end": "2026-11-22T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Grace Gamm Theatre",
+    "venueKey": "grace-gamm-theatre",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-22/",
+    "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "10b1efb6dc0d",
+    "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
+    "start": "2026-11-22T14:00:00-07:00",
+    "end": "2026-11-22T15:30:00-07:00",
+    "allDay": false,
+    "venue": "Carsen Theater",
+    "venueKey": "carsen-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-22/",
+    "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "516db0d16bdd",
+    "title": "Kids' Creative Movement Class",
+    "start": "2026-11-22T14:00:00-07:00",
+    "end": "2026-11-22T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/",
+    "description": "Best for 3-5 year-olds with caregivers Library Meeting Rooms No registration required This program will be presented in English Join Mimi Ferrie, a movement educator and community leader at Anima Arts, for creative movement classes celebrating the way children experience the world: through curios...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "68047b1ed524",
+    "title": "Broncos vs. Raiders Game",
+    "start": "2026-11-22T14:00:00-07:00",
+    "end": "2026-11-22T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Mudrock's Tap & Tavern",
+    "venueKey": "mudrocks-tap-and-tavern",
+    "city": "Louisville",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/northern-burbs-active-adults/events/317247365/",
+    "description": "Join me to cheer on the Broncos in their quest to defeat the Raiders! We will gather at Mudrocks Tavern where there are multiple TVs for our viewing pleasure. They serve a large variety of food and drinks. A good time is guaranteed. Game time is at 2:25pm. I’ll be there by 2:00pm. Don't miss the...",
+    "sources": [
+      {
+        "name": "meetup-northern-burbs-active-adults",
+        "url": "https://www.meetup.com/northern-burbs-active-adults/events/317247365/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0bd83576b4db",
+    "title": "Beautiful Sawhill Ponds and Avery Brewing",
+    "start": "2026-11-22T15:00:00-07:00",
+    "end": "2026-11-22T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Sawhill Ponds",
+    "venueKey": "sawhill-ponds",
+    "city": "Boulder",
+    "category": "food-drink",
+    "tags": [
+      "brewery"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377258/",
+    "description": "Hi everyone, Good news! Dave Sutherland will lead us after months of recovering from a broken bone. We're excited to do this last meetup of 2026 with him. Join us at Sawhill Ponds on the west side of 75th St., 0.6 miles north of Valmont Rd. and just south of Walden Ponds (different access road)....",
+    "sources": [
+      {
+        "name": "meetup-boulder-birds-and-brew",
+        "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377258/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fcc684354361",
+    "title": "3rd Law Dance/Theater: The Home Between | Nov. 20 – 22",
+    "start": "2026-11-22T15:00:00-07:00",
+    "end": "2026-11-22T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [
+      "dance"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22/2026-11-22/",
+    "description": "TICKETS 3rd Law Dance/Theater’s Fall Performance, A HOME BETWEEN, combines contemporary dance with live music featuring Enion Pelta-Tiller and her band Taarka. This modern family string band draws on jazz, bluegrass, pop, and world folk traditions and performs alongside 3rd Law’s company of 12 da...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22/2026-11-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8c10383aa73f",
+    "title": "The History of Concrete November 19 – 23",
+    "start": "2026-11-22T16:00:00-07:00",
+    "end": "2026-11-22T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/1/",
+    "description": "TICKETS Nov 19-23 Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life fo...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/1/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
