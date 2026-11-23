@@ -1,51 +1,9 @@
 {
-  "asOf": "2026-11-22T07:00:00Z",
+  "asOf": "2026-11-23T07:00:00Z",
   "sources": {
     "boulder-county": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "885bf0e543b2",
-          "title": "Front Range Agility Club CPE Dog Agility",
-          "start": "2026-11-22T08:00:00-07:00",
-          "end": "2026-11-22T17:00:00-07:00",
-          "allDay": false,
-          "venue": "Indoor Arena",
-          "venueKey": "indoor-arena",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [],
-          "size": "S",
-          "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-8/",
-          "sources": [
-            {
-              "name": "boulder-county",
-              "url": "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-8/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "f0fac26195d1",
-          "title": "Mollie McGee’s 45th Annual Holiday Craft Market",
-          "start": "2026-11-22T10:00:00-07:00",
-          "end": "2026-11-22T16:00:00-07:00",
-          "allDay": false,
-          "venue": "Exhibit Building",
-          "venueKey": "exhibit-building",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [],
-          "size": "S",
-          "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market-2/",
-          "sources": [
-            {
-              "name": "boulder-county",
-              "url": "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market-2/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "459bb1dd3027",
           "title": "Interview Preparation",
@@ -1844,7 +1802,7 @@
       ]
     },
     "boulder-university-womens-club": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "2dc295316f90",
@@ -1967,7 +1925,7 @@
       ]
     },
     "carousel-of-happiness": {
-      "fetchedAt": "2026-11-21T07:12:31Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "a47d5bf75555",
@@ -2019,7 +1977,7 @@
       ]
     },
     "city-of-longmont": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "731f9bf4c73b",
@@ -2041,30 +1999,6 @@
               "name": "city-of-longmont",
               "url": "https://longmontcolorado.gov/event/holiday-guest-pass-on-sale-now/",
               "fetchedAt": "2026-11-19T07:13:26Z"
-            }
-          ]
-        },
-        {
-          "id": "516db0d16bdd",
-          "title": "Kids' Creative Movement Class",
-          "start": "2026-11-22T14:00:00-07:00",
-          "end": "2026-11-22T14:30:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/",
-          "description": "Best for 3-5 year-olds with caregivers Library Meeting Rooms No registration required This program will be presented in English Join Mimi Ferrie, a movement educator and community leader at Anima Arts, for creative movement classes celebrating the way children experience the world: through curios...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/",
-              "fetchedAt": "2026-11-20T07:13:46Z"
             }
           ]
         },
@@ -2693,11 +2627,35 @@
               "fetchedAt": "2026-11-22T07:12:14Z"
             }
           ]
+        },
+        {
+          "id": "6949dc6c730e",
+          "title": "All Ages Stay & Play Monday",
+          "start": "2026-11-30T10:30:00-07:00",
+          "end": "2026-11-30T11:00:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Public Library",
+          "venueKey": "longmont-public-library",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/all-ages-stay-play-monday/2026-11-30/",
+          "description": "Library Meeting Rooms No registration required This program is presented in English and Spanish This event happens weekly on Mondays unless the Library is closed Join us for open play time for birth-4-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all th...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/all-ages-stay-play-monday/2026-11-30/",
+              "fetchedAt": "2026-11-22T07:12:14Z"
+            }
+          ]
         }
       ]
     },
     "colorado-chautauqua": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "3d68d6e806ae",
@@ -3157,36 +3115,12 @@
       ]
     },
     "colorado-music-festival": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "cu-presents": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "8d9fcc6eb707",
-          "title": "CU Boulder Chamber Orchestra: Made in America",
-          "start": "2026-10-22T19:30:00-06:00",
-          "end": "2026-10-22T20:30:00-06:00",
-          "allDay": false,
-          "venue": "Imig Music",
-          "venueKey": "imig-music",
-          "city": "Boulder",
-          "category": "music",
-          "tags": [
-            "symphony"
-          ],
-          "size": "M",
-          "url": "https://calendar.colorado.edu/event/cu-boulder-chamber-orchestra-made-in-america",
-          "description": "This program—\"Made in America\"—features works by American and Mexican women composers Joan Tower and Gabriela Ortíz. \"La Calaca,\" composed by Ortíz, is an evocative work for string orchestra and \"Made in America\" is, in Tower's own words, \"... my unconscious reacting to the challenge of how do we...",
-          "sources": [
-            {
-              "name": "cu-presents",
-              "url": "https://calendar.colorado.edu/event/cu-boulder-chamber-orchestra-made-in-america",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "382c84b81c39",
           "title": "A.R.T. Through the Wake: Episode 1 of 4",
@@ -8447,182 +8381,8 @@
       ]
     },
     "dairy-arts-center": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "70d39043b9d7",
-          "title": "MAD LIBrarians",
-          "start": "2026-11-22T11:00:00-07:00",
-          "end": "2026-11-22T12:00:00-07:00",
-          "allDay": false,
-          "venue": "Dairy Arts Center",
-          "venueKey": "dairy-arts-center",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "kids"
-          ],
-          "size": "M",
-          "costTier": "free",
-          "url": "https://thedairy.org/event/mad-librarians/2026-11-22/",
-          "description": "TICKETS Watch top-notch improvisers light up the stage, while your kids’ faces light up! At each one-of-a-kind show, kids in the audience make up new book titles and then the MAD LIBrarians hilariously off-the-cuff stories to go with the kids’ titles. A free craft starts at the listed show time o...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/mad-librarians/2026-11-22/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "513b66d8c236",
-          "title": "Fjord | Nov. 19 – 23",
-          "start": "2026-11-22T13:00:00-07:00",
-          "end": "2026-11-22T14:30:00-07:00",
-          "allDay": false,
-          "venue": "Boedecker Theater",
-          "venueKey": "boedecker-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "film",
-            "kids"
-          ],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-22/",
-          "description": "TICKETS Nov 19-22 From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their r...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/fjord-nov-19-23/2026-11-22/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "04386ac4a5f9",
-          "title": "Viva Theater: Birthday Candles | Nov. 6 – 22",
-          "start": "2026-11-22T14:00:00-07:00",
-          "end": "2026-11-22T16:00:00-07:00",
-          "allDay": false,
-          "venue": "Grace Gamm Theatre",
-          "venueKey": "grace-gamm-theatre",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "costTier": "$$",
-          "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-22/",
-          "description": "TICKETS Over the course of a single evening, Ernestine Ashworth bakes the same birthday cake, again and again, as she grows from age seventeen to one hundred and one. The flames of love ignite, marriages form and dissolve. Children arrive, and spin away towards their own destiny. Loss visits, as...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/viva-theater-birthday-candles-nov-6-22/2026-11-22/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "10b1efb6dc0d",
-          "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
-          "start": "2026-11-22T14:00:00-07:00",
-          "end": "2026-11-22T15:30:00-07:00",
-          "allDay": false,
-          "venue": "Carsen Theater",
-          "venueKey": "carsen-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [],
-          "size": "S",
-          "costTier": "free",
-          "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-22/",
-          "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-22/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "fcc684354361",
-          "title": "3rd Law Dance/Theater: The Home Between | Nov. 20 – 22",
-          "start": "2026-11-22T15:00:00-07:00",
-          "end": "2026-11-22T16:00:00-07:00",
-          "allDay": false,
-          "venue": "Gordon Gamm Theater",
-          "venueKey": "gordon-gamm-theater",
-          "city": "Boulder",
-          "category": "performing-arts",
-          "tags": [
-            "dance"
-          ],
-          "size": "M",
-          "costTier": "$$",
-          "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22/2026-11-22/",
-          "description": "TICKETS 3rd Law Dance/Theater’s Fall Performance, A HOME BETWEEN, combines contemporary dance with live music featuring Enion Pelta-Tiller and her band Taarka. This modern family string band draws on jazz, bluegrass, pop, and world folk traditions and performs alongside 3rd Law’s company of 12 da...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22/2026-11-22/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "8c10383aa73f",
-          "title": "The History of Concrete November 19 – 23",
-          "start": "2026-11-22T16:00:00-07:00",
-          "end": "2026-11-22T17:30:00-07:00",
-          "allDay": false,
-          "venue": "Boedecker Theater",
-          "venueKey": "boedecker-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "film"
-          ],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/1/",
-          "description": "TICKETS Nov 19-23 Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life fo...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/1/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "8c10383aa73f",
-          "title": "The History of Concrete November 19 – 23",
-          "start": "2026-11-22T18:30:00-07:00",
-          "end": "2026-11-22T20:00:00-07:00",
-          "allDay": false,
-          "venue": "Boedecker Theater",
-          "venueKey": "boedecker-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "film"
-          ],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/2/",
-          "description": "TICKETS Nov 19-23 Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life fo...",
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/the-history-of-concrete-november-19-23/2026-11-22/2/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "a90f49c03db3",
           "title": "The History of Concrete November 19 – 23",
@@ -13888,125 +13648,8 @@
       ]
     },
     "erie-community-library": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "509db9facf78",
-          "title": "Erie Tales for Tots Storytime",
-          "start": "2026-10-22T09:30:00-06:00",
-          "end": "2026-10-22T10:00:00-06:00",
-          "allDay": false,
-          "venue": "Erie Community Library",
-          "venueKey": "erie-community-library",
-          "city": "Erie",
-          "category": "learning-business",
-          "tags": [
-            "kids",
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://highplains.libcal.com/event/17606024",
-          "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
-          "sources": [
-            {
-              "name": "erie-community-library",
-              "url": "https://highplains.libcal.com/event/17606024",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "5aae3203efa4",
-          "title": "Baby Open Play (BOP)",
-          "start": "2026-10-22T13:15:00-06:00",
-          "end": "2026-10-22T14:00:00-06:00",
-          "allDay": false,
-          "venue": "Erie Community Library",
-          "venueKey": "erie-community-library",
-          "city": "Erie",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://highplains.libcal.com/calendar/hpld/eclbabyplay",
-          "description": "Infants and babies, along with their caretakers, are welcome to drop in to play and explore with all their senses. Activities will stimulate their senses and allow babies to learn while they play. Babies will have the freedom to feel new textures, hear interesting sounds and see new sights. Careg...",
-          "sources": [
-            {
-              "name": "erie-community-library",
-              "url": "https://highplains.libcal.com/calendar/hpld/eclbabyplay",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "22c031f060d1",
-          "title": "Star-Crossed Covers Erie Romance Book Club",
-          "start": "2026-10-22T16:00:00-06:00",
-          "end": "2026-10-22T17:00:00-06:00",
-          "allDay": false,
-          "venue": "Erie Community Library",
-          "venueKey": "erie-community-library",
-          "city": "Erie",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://highplains.libcal.com/event/15947126",
-          "sources": [
-            {
-              "name": "erie-community-library",
-              "url": "https://highplains.libcal.com/event/15947126",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "910b7f2af0ad",
-          "title": "Erie Family Storytime",
-          "start": "2026-10-22T16:15:00-06:00",
-          "end": "2026-10-22T16:45:00-06:00",
-          "allDay": false,
-          "venue": "Erie Community Library",
-          "venueKey": "erie-community-library",
-          "city": "Erie",
-          "category": "learning-business",
-          "tags": [
-            "kids",
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://highplains.libcal.com/event/17606065",
-          "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
-          "sources": [
-            {
-              "name": "erie-community-library",
-              "url": "https://highplains.libcal.com/event/17606065",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "ef1b1cb7918a",
-          "title": "Parenting Series: Adolescent RISE, with Nicholas Thompson",
-          "start": "2026-10-22T18:30:00-06:00",
-          "end": "2026-10-22T20:00:00-06:00",
-          "allDay": false,
-          "venue": "Erie Community Library",
-          "venueKey": "erie-community-library",
-          "city": "Erie",
-          "category": "learning-business",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://highplains.libcal.com/calendar/hpld/AdolescentRISE",
-          "description": "Adolescent RISE is a presentation for parents/caregivers that takes a fun and informative look at the developmental period of adolescence (ages 10 – 25). It includes debunking myths about adolescence, understanding the four qualities of adolescence (risk taking, identity formation, social reorien...",
-          "sources": [
-            {
-              "name": "erie-community-library",
-              "url": "https://highplains.libcal.com/calendar/hpld/AdolescentRISE",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "2b7b8e50d6cc",
           "title": "Erie Twinkle Babies",
@@ -15035,11 +14678,36 @@
               "fetchedAt": "2026-11-22T07:12:14Z"
             }
           ]
+        },
+        {
+          "id": "3466737a0090",
+          "title": "Erie Tales for Tots Storytime",
+          "start": "2026-11-12T09:30:00-07:00",
+          "end": "2026-11-12T10:00:00-07:00",
+          "allDay": false,
+          "venue": "Erie Community Library",
+          "venueKey": "erie-community-library",
+          "city": "Erie",
+          "category": "learning-business",
+          "tags": [
+            "kids",
+            "library-program"
+          ],
+          "size": "S",
+          "url": "https://highplains.libcal.com/event/17606027",
+          "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills to them to participate with the storytellers and the other chil...",
+          "sources": [
+            {
+              "name": "erie-community-library",
+              "url": "https://highplains.libcal.com/event/17606027",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
         }
       ]
     },
     "historic-boulder": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "2b2bcaec3aa9",
@@ -15090,7 +14758,7 @@
       ]
     },
     "kbco-calendar": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "8f256506da43",
@@ -15255,125 +14923,8 @@
       ]
     },
     "lafayette-public-library": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "1c34fb3870be",
-          "title": "Bilingual Storytime",
-          "start": "2026-10-22T10:30:00-06:00",
-          "end": "2026-10-22T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [
-            "kids",
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
-          "description": "Kids and caregivers - join us for bilingual stories and activities! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BilingualStorytimeAug-Nov2026",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "7a287d1f7698",
-          "title": "Makerspace - Drop In",
-          "start": "2026-10-22T15:30:00-06:00",
-          "end": "2026-10-22T19:30:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
-          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThSepDec2026",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "f97f9987dc1d",
-          "title": "Fall Reading Buddies - Register",
-          "start": "2026-10-22T16:45:00-06:00",
-          "end": "2026-10-22T17:30:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
-          "description": "Kids in grades K-3 - have fun reading and playing games with our teen volunteers! Your parent or guardian must be present at the Library during each session. Registration required. This registration commits your child to all sessions (Thursdays: Sept. 24, 30; Oct. 1,8, 15, 22, and 29). If you are...",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/RBFall2026",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "6570f2f95c35",
-          "title": "FI Book Club",
-          "start": "2026-10-22T18:00:00-06:00",
-          "end": "2026-10-22T20:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
-          "description": "The FI Book Club is an independent book group, open to the public, that meets to discuss books about finance and business on the fourth Thursday of each month (except for holidays or other closures). Interested in joining or have questions about the book selection? Contact Evan or visit lafayette...",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIBookGroup2026",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "93cb5a634dee",
-          "title": "Lafayette Learns: The Enthusiasts",
-          "start": "2026-10-22T18:30:00-06:00",
-          "end": "2026-10-22T19:30:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLOct2026",
-          "description": "The Enthusiasts features three people doing quirky, fun presentations on topics they are enthusiastic about, followed by a brief question-and-answer period. This special collaboration with Buntport Theater, hosted at the Lafayette Public Library, will include topics like vampire lore, earthworms,...",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LLOct2026",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "3e5bdd4a9292",
           "title": "Day of the Dead - Día de los muertos",
@@ -26399,11 +25950,105 @@
               "fetchedAt": "2026-11-22T07:12:14Z"
             }
           ]
+        },
+        {
+          "id": "291d5b47e421",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-18T14:30:00-06:00",
+          "end": "2027-05-18T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInTuesJanMay2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInTuesJanMay2027",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "673b4fb3b459",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-19T14:30:00-06:00",
+          "end": "2027-05-19T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "1e1865ac2986",
+          "title": "Conversations in Spanish - Drop In",
+          "start": "2027-05-19T18:00:00-06:00",
+          "end": "2027-05-19T19:15:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+          "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff. Location: upstairs at the North End seating area.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "2cdd7c341fc5",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-20T14:30:00-06:00",
+          "end": "2027-05-20T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
         }
       ]
     },
     "longmont-public-media": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "e0413e36f67e",
@@ -26613,7 +26258,7 @@
       ]
     },
     "meetup-40ish-childfree-meet-up": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "e7d43f54c385",
@@ -26640,15 +26285,15 @@
       ]
     },
     "meetup-ai-for-small-business-boulder-denver": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-analyze-boulder": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-bdnewtech": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "568c26793787",
@@ -26675,7 +26320,7 @@
       ]
     },
     "meetup-beerandcameras": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -26703,11 +26348,11 @@
       ]
     },
     "meetup-bniintegrity": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-20s-30s-hiking-travel-local-activities": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "b8a8101e5819",
@@ -26778,32 +26423,8 @@
       ]
     },
     "meetup-boulder-birds-and-brew": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "0bd83576b4db",
-          "title": "Beautiful Sawhill Ponds and Avery Brewing",
-          "start": "2026-11-22T15:00:00-07:00",
-          "end": "2026-11-22T19:00:00-07:00",
-          "allDay": false,
-          "venue": "Sawhill Ponds",
-          "venueKey": "sawhill-ponds",
-          "city": "Boulder",
-          "category": "food-drink",
-          "tags": [
-            "brewery"
-          ],
-          "size": "S",
-          "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377258/",
-          "description": "Hi everyone, Good news! Dave Sutherland will lead us after months of recovering from a broken bone. We're excited to do this last meetup of 2026 with him. Join us at Sawhill Ponds on the west side of 75th St., 0.6 miles north of Valmont Rd. and just south of Walden Ponds (different access road)....",
-          "sources": [
-            {
-              "name": "meetup-boulder-birds-and-brew",
-              "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377258/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "482d749417cc",
           "title": "Night of the Condors!",
@@ -26829,15 +26450,15 @@
       ]
     },
     "meetup-boulder-board-games": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-board-games-galore": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-bookaholics": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "e9d772c47656",
@@ -26998,11 +26619,11 @@
       ]
     },
     "meetup-boulder-county-fun-with-french": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-dance": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "53ea279d4f98",
@@ -27234,23 +26855,23 @@
       ]
     },
     "meetup-boulder-experiments-in-art-and-technology": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-hiking-and-yoga-networking-group": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-independent-film-club": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-mountain-bikers": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-photo-center": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "075332c34cc7",
@@ -27279,11 +26900,11 @@
       ]
     },
     "meetup-boulder-rock-climbing-meetup-group": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulder-shambhala-center": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "67e6f4195dd6",
@@ -27380,7 +27001,7 @@
       ]
     },
     "meetup-boulder-tech-connect": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "66d2392144bf",
@@ -27407,7 +27028,7 @@
       ]
     },
     "meetup-boulder-wilderness-hiking": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "1116c693aa07",
@@ -27546,7 +27167,7 @@
       ]
     },
     "meetup-boulder-writers-alliance-meetup": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "d7e70712eef5",
@@ -27771,15 +27392,15 @@
       ]
     },
     "meetup-boulder-writers-directors-filmmaking-photographers-show": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulderpython": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulderramblers": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "4f99317755f8",
@@ -27800,6 +27421,72 @@
               "name": "meetup-boulderramblers",
               "url": "https://www.meetup.com/boulderramblers/events/317423763/",
               "fetchedAt": "2026-11-14T07:11:53Z"
+            }
+          ]
+        },
+        {
+          "id": "d3ab8ef6ed94",
+          "title": "Almost-Winter Waneka Lake Loop",
+          "start": "2026-12-12T09:30:00-07:00",
+          "end": "2026-12-12T11:00:00-07:00",
+          "allDay": false,
+          "venue": "East Simpson Coffee Company",
+          "venueKey": "east-simpson-coffee-company",
+          "city": "Lafayette",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317547008/",
+          "description": "TYPE: Urban hike | PACE: Conversational | TERRAIN: Sidewalks, dirt trails | DISTANCE: approx. 4 miles | Walk Description: With winter on the horizon, there's nothing better than a brisk and warming walk from a super-cozy coffee shop to a beautiful viewpoint and back! Lafayette's [East Simpson Cof...",
+          "sources": [
+            {
+              "name": "meetup-boulderramblers",
+              "url": "https://www.meetup.com/boulderramblers/events/317547008/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "9ae53a4fba39",
+          "title": "December Cold Moon Walk",
+          "start": "2026-12-23T17:30:00-07:00",
+          "end": "2026-12-23T19:00:00-07:00",
+          "allDay": false,
+          "venue": "Davidson Mesa Trailhead",
+          "venueKey": "davidson-mesa-trailhead",
+          "city": "Boulder",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317546474/",
+          "description": "TYPE: Walk | PACE: Gentle/Conversational | TERRAIN: Dirt/Gravel Trails | DISTANCE: 3.3 miles | Walk Description: The final full moon of the year, the \"Cold Moon,\" appears on Wednesday, December 23. Moonrise happens at about 4:40 pm, but let's get outside and walk in the light of the full moon aft...",
+          "sources": [
+            {
+              "name": "meetup-boulderramblers",
+              "url": "https://www.meetup.com/boulderramblers/events/317546474/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "89ac38c289fd",
+          "title": "Winot Niwot Loop",
+          "start": "2026-12-27T09:00:00-07:00",
+          "end": "2026-12-27T12:00:00-07:00",
+          "allDay": false,
+          "venue": "Winot Coffee Co",
+          "venueKey": "winot-coffee-co",
+          "city": "Niwot",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317547165/",
+          "description": "TYPE: Urban hike | PACE: Conversational | TERRAIN: dirt trails, sidewalks, streets | DISTANCE: Approx. 7 miles Walk Description: Come out to burn off some holiday calories and enjoy a 7-mile walk with friends old and new! This route starts at Winot Coffee in Niwot's central Cottonwood Square shop...",
+          "sources": [
+            {
+              "name": "meetup-boulderramblers",
+              "url": "https://www.meetup.com/boulderramblers/events/317547165/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
             }
           ]
         },
@@ -27828,7 +27515,7 @@
       ]
     },
     "meetup-boulderstartups": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "75236a92ce8b",
@@ -28000,15 +27687,15 @@
       ]
     },
     "meetup-bouldertoddlerparents": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulderveganfamilies": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-boulderwalks": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "4f99317755f8",
@@ -28029,6 +27716,72 @@
               "name": "meetup-boulderwalks",
               "url": "https://www.meetup.com/boulderramblers/events/317423763/",
               "fetchedAt": "2026-11-14T07:11:53Z"
+            }
+          ]
+        },
+        {
+          "id": "d3ab8ef6ed94",
+          "title": "Almost-Winter Waneka Lake Loop",
+          "start": "2026-12-12T09:30:00-07:00",
+          "end": "2026-12-12T11:00:00-07:00",
+          "allDay": false,
+          "venue": "East Simpson Coffee Company",
+          "venueKey": "east-simpson-coffee-company",
+          "city": "Lafayette",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317547008/",
+          "description": "TYPE: Urban hike | PACE: Conversational | TERRAIN: Sidewalks, dirt trails | DISTANCE: approx. 4 miles | Walk Description: With winter on the horizon, there's nothing better than a brisk and warming walk from a super-cozy coffee shop to a beautiful viewpoint and back! Lafayette's [East Simpson Cof...",
+          "sources": [
+            {
+              "name": "meetup-boulderwalks",
+              "url": "https://www.meetup.com/boulderramblers/events/317547008/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "9ae53a4fba39",
+          "title": "December Cold Moon Walk",
+          "start": "2026-12-23T17:30:00-07:00",
+          "end": "2026-12-23T19:00:00-07:00",
+          "allDay": false,
+          "venue": "Davidson Mesa Trailhead",
+          "venueKey": "davidson-mesa-trailhead",
+          "city": "Boulder",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317546474/",
+          "description": "TYPE: Walk | PACE: Gentle/Conversational | TERRAIN: Dirt/Gravel Trails | DISTANCE: 3.3 miles | Walk Description: The final full moon of the year, the \"Cold Moon,\" appears on Wednesday, December 23. Moonrise happens at about 4:40 pm, but let's get outside and walk in the light of the full moon aft...",
+          "sources": [
+            {
+              "name": "meetup-boulderwalks",
+              "url": "https://www.meetup.com/boulderramblers/events/317546474/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
+        {
+          "id": "89ac38c289fd",
+          "title": "Winot Niwot Loop",
+          "start": "2026-12-27T09:00:00-07:00",
+          "end": "2026-12-27T12:00:00-07:00",
+          "allDay": false,
+          "venue": "Winot Coffee Co",
+          "venueKey": "winot-coffee-co",
+          "city": "Niwot",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulderramblers/events/317547165/",
+          "description": "TYPE: Urban hike | PACE: Conversational | TERRAIN: dirt trails, sidewalks, streets | DISTANCE: Approx. 7 miles Walk Description: Come out to burn off some holiday calories and enjoy a 7-mile walk with friends old and new! This route starts at Winot Coffee in Niwot's central Cottonwood Square shop...",
+          "sources": [
+            {
+              "name": "meetup-boulderwalks",
+              "url": "https://www.meetup.com/boulderramblers/events/317547165/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
             }
           ]
         },
@@ -28057,7 +27810,7 @@
       ]
     },
     "meetup-boulderwine": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "afd93afadd32",
@@ -28209,11 +27962,11 @@
       ]
     },
     "meetup-bvgt-family-activities": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-camerasandbeersboulder-thephotoshow": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -28241,8 +27994,33 @@
       ]
     },
     "meetup-improvbouldermeetup": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
+        {
+          "id": "39189ac63c0d",
+          "title": "Improv drop-in workshop: Emotional Connection with Chuck Schultz",
+          "start": "2026-12-02T19:00:00-07:00",
+          "end": "2026-12-02T21:00:00-07:00",
+          "allDay": false,
+          "venue": "The Louisville Underground",
+          "venueKey": "the-louisville-underground",
+          "city": "Louisville",
+          "category": "performing-arts",
+          "tags": [
+            "comedy",
+            "workshop"
+          ],
+          "size": "S",
+          "url": "https://www.meetup.com/improvbouldermeetup/events/317542584/",
+          "description": "Join us for an instructive and fun workshop with Chuck Schultz from Here and Now Improv! Wednesday workshop December 2nd 7pm at Louisville Underground: The Mindful Art of Emotional Connection What happens when you stop thinking about what to say next and allow yourself to react to what your scene...",
+          "sources": [
+            {
+              "name": "meetup-improvbouldermeetup",
+              "url": "https://www.meetup.com/improvbouldermeetup/events/317542584/",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
+        },
         {
           "id": "41ee573bbca1",
           "title": "Improv Boulder show: Dec 4th LAUGH-AYETTE at The End Lafayette",
@@ -28319,11 +28097,11 @@
       ]
     },
     "meetup-longmont-game-night-society": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-longmont-walks": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "c2d730db2417",
@@ -28542,11 +28320,11 @@
       ]
     },
     "meetup-meetup-group-rebelbookclub": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-nocomustachians": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "1798244dcd32",
@@ -28573,30 +28351,8 @@
       ]
     },
     "meetup-northern-burbs-active-adults": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "68047b1ed524",
-          "title": "Broncos vs. Raiders Game",
-          "start": "2026-11-22T14:00:00-07:00",
-          "end": "2026-11-22T17:00:00-07:00",
-          "allDay": false,
-          "venue": "Mudrock's Tap & Tavern",
-          "venueKey": "mudrocks-tap-and-tavern",
-          "city": "Louisville",
-          "category": "nightlife-social",
-          "tags": [],
-          "size": "S",
-          "url": "https://www.meetup.com/northern-burbs-active-adults/events/317247365/",
-          "description": "Join me to cheer on the Broncos in their quest to defeat the Raiders! We will gather at Mudrocks Tavern where there are multiple TVs for our viewing pleasure. They serve a large variety of food and drinks. A good time is guaranteed. Game time is at 2:25pm. I’ll be there by 2:00pm. Don't miss the...",
-          "sources": [
-            {
-              "name": "meetup-northern-burbs-active-adults",
-              "url": "https://www.meetup.com/northern-burbs-active-adults/events/317247365/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "587cf84d41b1",
           "title": "Friendsgiving",
@@ -28668,15 +28424,15 @@
       ]
     },
     "meetup-pugs-of-colorado": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-rmaiig": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-silent-book-club-lafayette": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "6009f9b8a8e8",
@@ -28703,7 +28459,7 @@
       ]
     },
     "meetup-solidstatedepot": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "f4aaaf9e51a5",
@@ -28943,15 +28699,15 @@
       ]
     },
     "meetup-st-vrain-chain-gang": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-startup-longmont": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     },
     "meetup-women-in-ai-colorado": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "93f5c91e000f",
@@ -28978,7 +28734,7 @@
       ]
     },
     "meetup-womens-open-jam-at-dog-house-music-studios": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "2bbaf8cc70b9",
@@ -29055,7 +28811,7 @@
       ]
     },
     "museum-of-boulder": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "5c75422719c4",
@@ -29233,32 +28989,8 @@
       ]
     },
     "nederland-community-library": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
-        {
-          "id": "6b5528a08a0f",
-          "title": "After-school Makers Club",
-          "start": "2026-10-22T15:30:00-06:00",
-          "end": "2026-10-22T17:00:00-06:00",
-          "allDay": false,
-          "venue": "Nederland Community Library",
-          "venueKey": "nederland-community-library",
-          "city": "Nederland",
-          "category": "learning-business",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://nederland.libcal.com/event/17481850",
-          "description": "Due to staffing limitations, we can only offer one weekly afterschool program this Fall, and are allowing 1st Grade thru 5th Grade to participate. I’m sorry we don’t have capacity to take Kindergarteners for this round. But we’re so happy that the Afterschool Makers Club is returning, as we alway...",
-          "sources": [
-            {
-              "name": "nederland-community-library",
-              "url": "https://nederland.libcal.com/event/17481850",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "fb50d37b1184",
           "title": "STORYTIME!",
@@ -33767,11 +33499,33 @@
               "fetchedAt": "2026-11-22T07:12:14Z"
             }
           ]
+        },
+        {
+          "id": "50acf859f4ad",
+          "title": "Indian Peaks Radio Club",
+          "start": "2027-11-23T18:30:00-07:00",
+          "end": "2027-11-23T20:30:00-07:00",
+          "allDay": false,
+          "venue": "Nederland Community Library",
+          "venueKey": "nederland-community-library",
+          "city": "Nederland",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://nederland.libcal.com/event/17983288",
+          "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+          "sources": [
+            {
+              "name": "nederland-community-library",
+              "url": "https://nederland.libcal.com/event/17983288",
+              "fetchedAt": "2026-11-23T07:15:21Z"
+            }
+          ]
         }
       ]
     },
     "superior-chamber": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": [
         {
           "id": "0876015fc35b",
@@ -34035,7 +33789,7 @@
       "events": []
     },
     "upslope-brewing": {
-      "fetchedAt": "2026-11-22T07:12:14Z",
+      "fetchedAt": "2026-11-23T07:15:21Z",
       "events": []
     }
   }
