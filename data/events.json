@@ -23,127 +23,6 @@
     ]
   },
   {
-    "id": "c2d730db2417",
-    "title": "St. Vrain Greenway Morning Nature Walk",
-    "start": "2026-11-24T09:00:00-07:00",
-    "end": "2026-11-24T11:00:00-07:00",
-    "allDay": false,
-    "venue": "St. Vrain Greenway trailhead",
-    "venueKey": "st-vrain-greenway-trailhead",
-    "city": "Longmont",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "url": "https://www.meetup.com/longmont-walks/events/316517269/",
-    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
-    "sources": [
-      {
-        "name": "meetup-longmont-walks",
-        "url": "https://www.meetup.com/longmont-walks/events/316517269/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "3d25b32abf95",
-    "title": "Toddler Storytime",
-    "start": "2026-11-24T10:00:00-07:00",
-    "end": "2026-11-24T10:20:00-07:00",
-    "allDay": false,
-    "venue": "City of Longmont",
-    "venueKey": "city-of-longmont",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [
-      "kids",
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-24/",
-    "description": "Library Meeting Rooms No registration required This program is in English A lively storytime designed for ages 2 to 3 years old and their grownup. Enjoy 20 minutes of books, songs, movement and fun for children to build fine motor and literacy skills! All storytimes require a dedicated adult care...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-24/",
-        "fetchedAt": "2026-11-20T07:13:46Z"
-      }
-    ]
-  },
-  {
-    "id": "3a0855f646fe",
-    "title": "Toddler Stay & Play",
-    "start": "2026-11-24T10:30:00-07:00",
-    "end": "2026-11-24T11:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Library",
-    "venueKey": "longmont-public-library",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [
-      "kids"
-    ],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-24/",
-    "description": "Library Meeting Rooms No registration required This program is presented in English This event happens weekly on Tuesdays Join us for open play time for 2 to 3-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. Me...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-24/",
-        "fetchedAt": "2026-11-20T07:13:46Z"
-      }
-    ]
-  },
-  {
-    "id": "daeda54decc3",
-    "title": "Wild Bear Storytime",
-    "start": "2026-11-24T10:30:00-07:00",
-    "end": "2026-11-24T12:00:00-07:00",
-    "allDay": false,
-    "venue": "Nederland Community Library",
-    "venueKey": "nederland-community-library",
-    "city": "Nederland",
-    "category": "learning-business",
-    "tags": [
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://nederland.libcal.com/event/15917170",
-    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
-    "sources": [
-      {
-        "name": "nederland-community-library",
-        "url": "https://nederland.libcal.com/event/15917170",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "0876015fc35b",
-    "title": "Free Thanksgiving Lunch/Violin Performance",
-    "start": "2026-11-24T11:30:00-07:00",
-    "end": "2026-11-24T12:30:00-07:00",
-    "allDay": false,
-    "venue": "Josephine Commons",
-    "venueKey": "josephine-commons",
-    "city": "Lafayette",
-    "category": "holiday-seasonal",
-    "tags": [
-      "holiday-event"
-    ],
-    "size": "M",
-    "url": "https://member.superiorchamber.com/events/details/free-thanksgiving-lunch-violin-performance-16839",
-    "description": "Join us for a free community lunch at the Coal Creek Cafe in honor of Thanksgiving, on November 24th from 11:30am-12:30pm. There will be a beautiful violin performance as well! Take a look at our other upcoming free cafe lunches HERE!",
-    "sources": [
-      {
-        "name": "superior-chamber",
-        "url": "https://member.superiorchamber.com/events/details/free-thanksgiving-lunch-violin-performance-16839",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "c60125ad7d65",
     "title": "Open LEGO Build!",
     "start": "2026-11-24T14:00:00-07:00",
@@ -23765,6 +23644,3865 @@
         "name": "colorado-chautauqua",
         "url": "https://www.chautauqua.com/event/rising-appalachia-4/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d18b400604a6",
+    "title": "Monday Nederland Writers",
+    "start": "2027-05-24T13:00:00-06:00",
+    "end": "2027-05-24T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983336",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983336",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5966bf79bc8b",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-05-25T18:30:00-06:00",
+    "end": "2027-05-25T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983282",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983282",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "58a4bfff4865",
+    "title": "STORYTIME!",
+    "start": "2027-05-28T10:15:00-06:00",
+    "end": "2027-05-28T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000818",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000818",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "76c9d1fbbd3a",
+    "title": "COmpass REsonance: SANDS OF TIME with Mina Gajić and CORE",
+    "start": "2027-05-28T16:00:00-06:00",
+    "end": "2027-05-28T17:30:00-06:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/compass-resonance-sands-of-time-with-mina-gajic-and-core/",
+    "description": "TICKETS CORE’s Artistic Director, Mina Gajić performs the rarely heard Piano Concerto in A Minor (1822) by Felix Mendelssohn, a fiendishly difficult and impassioned work. Dr. Gajić, joined by violinist Zachary Carrettin and flutist Ysmael Reyes, presents another rarity, J.S. Bach’s trio sonata fr...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/compass-resonance-sands-of-time-with-mina-gajic-and-core/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fd1f31bba620",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-05-29T19:30:00-06:00",
+    "end": "2027-05-29T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ac7be31c4c38",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-05-30T19:30:00-06:00",
+    "end": "2027-05-30T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b04129313a35",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-06-02T13:00:00-06:00",
+    "end": "2027-06-02T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000972",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000972",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f8877489dfcb",
+    "title": "STORYTIME!",
+    "start": "2027-06-04T10:15:00-06:00",
+    "end": "2027-06-04T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000819",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000819",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "00e974e5b40b",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-05T19:30:00-06:00",
+    "end": "2027-06-05T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a431042a31d4",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-06T19:30:00-06:00",
+    "end": "2027-06-06T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "437c92976886",
+    "title": "Monday Nederland Writers",
+    "start": "2027-06-07T13:00:00-06:00",
+    "end": "2027-06-07T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983338",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983338",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6b5c2f664e53",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-06-07T19:00:00-06:00",
+    "end": "2027-06-07T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-06-07/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-06-07/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0e4c6460457a",
+    "title": "Sci Fi Book Club",
+    "start": "2027-06-08T19:00:00-06:00",
+    "end": "2027-06-08T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983395",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983395",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "075e8dc61ef9",
+    "title": "STORYTIME!",
+    "start": "2027-06-11T10:15:00-06:00",
+    "end": "2027-06-11T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000820",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000820",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2f6c8c7de3f1",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-11T19:30:00-06:00",
+    "end": "2027-06-11T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "348e7bf5e587",
+    "title": "All Breed Open Horse Show",
+    "start": "2027-06-12T08:00:00-06:00",
+    "end": "2027-06-12T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-16/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-16/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c3afbdf8a213",
+    "title": "Charting Resilience Free Public Event",
+    "start": "2027-06-12T09:00:00-06:00",
+    "end": "2027-06-12T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/charting-resilience/",
+    "description": "Resilience Convention",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/charting-resilience/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "050abab3ec69",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-12T19:00:00-06:00",
+    "end": "2027-06-12T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "36a5702dc137",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-12T19:30:00-06:00",
+    "end": "2027-06-12T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c9771f8364fd",
+    "title": "All Breed Open Horse Show",
+    "start": "2027-06-13T08:00:00-06:00",
+    "end": "2027-06-13T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-17/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-17/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5a55fd42a884",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-13T19:00:00-06:00",
+    "end": "2027-06-13T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3855f4f69338",
+    "title": "Monday Nederland Writers",
+    "start": "2027-06-14T13:00:00-06:00",
+    "end": "2027-06-14T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983339",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983339",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5894a24ad775",
+    "title": "Philosophy Club",
+    "start": "2027-06-15T17:15:00-06:00",
+    "end": "2027-06-15T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983379",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983379",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "43b18cb33bf5",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-17T19:30:00-06:00",
+    "end": "2027-06-17T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "db571370450f",
+    "title": "STORYTIME!",
+    "start": "2027-06-18T10:15:00-06:00",
+    "end": "2027-06-18T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000821",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000821",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b64393e0e6b9",
+    "title": "Native American Art Auction",
+    "start": "2027-06-19T08:00:00-06:00",
+    "end": "2027-06-19T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/native-american-art-auction-21/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/native-american-art-auction-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1474526c41f9",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-19T19:00:00-06:00",
+    "end": "2027-06-19T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "eedb04a0a149",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-19T19:30:00-06:00",
+    "end": "2027-06-19T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "482d4c824aa1",
+    "title": "Native American Art Auction",
+    "start": "2027-06-20T08:00:00-06:00",
+    "end": "2027-06-20T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/native-american-art-auction-22/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/native-american-art-auction-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "69721f2bc049",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-20T13:30:00-06:00",
+    "end": "2027-06-20T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "37ff35cea95c",
+    "title": "Monday Nederland Writers",
+    "start": "2027-06-21T13:00:00-06:00",
+    "end": "2027-06-21T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983340",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983340",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "df6aead06f68",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-06-22T18:30:00-06:00",
+    "end": "2027-06-22T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983283",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983283",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "35b417ddb9fb",
+    "title": "STORYTIME!",
+    "start": "2027-06-25T10:15:00-06:00",
+    "end": "2027-06-25T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000822",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000822",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c596cfbb8db3",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-26T19:00:00-06:00",
+    "end": "2027-06-26T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "be1abab5622b",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-06-26T19:30:00-06:00",
+    "end": "2027-06-26T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "68e9f3c6e51d",
+    "title": "Niwot Antique Auction",
+    "start": "2027-06-27T09:00:00-06:00",
+    "end": "2027-06-27T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/niwot-antique-auction-21/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/niwot-antique-auction-21/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b69929e75408",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-06-27T13:30:00-06:00",
+    "end": "2027-06-27T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a6c0b36f4c71",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-06-27T19:30:00-06:00",
+    "end": "2027-06-27T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6c7f923b81b1",
+    "title": "Monday Nederland Writers",
+    "start": "2027-06-28T13:00:00-06:00",
+    "end": "2027-06-28T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983341",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983341",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f07f5f0997bb",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-06-30T19:30:00-06:00",
+    "end": "2027-06-30T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e287a0f90654",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-01T19:30:00-06:00",
+    "end": "2027-07-01T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2eee0b74385b",
+    "title": "STORYTIME!",
+    "start": "2027-07-02T10:15:00-06:00",
+    "end": "2027-07-02T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000823",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000823",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "59c98f8e4383",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-02T19:30:00-06:00",
+    "end": "2027-07-02T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cfed70a8f1ad",
+    "title": "All Breed Open Horse Show",
+    "start": "2027-07-03T08:00:00-06:00",
+    "end": "2027-07-03T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-18/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-18/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "53b84da3106a",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-03T19:00:00-06:00",
+    "end": "2027-07-03T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a322cf05e5cb",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-03T19:30:00-06:00",
+    "end": "2027-07-03T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2638ea6e4dfc",
+    "title": "All Breed Open Horse Show",
+    "start": "2027-07-04T08:00:00-06:00",
+    "end": "2027-07-04T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-19/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/all-breed-open-horse-show-19/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cfba7aa026fd",
+    "title": "Monday Nederland Writers",
+    "start": "2027-07-05T13:00:00-06:00",
+    "end": "2027-07-05T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983342",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983342",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "63c8da1590f5",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-07-05T19:00:00-06:00",
+    "end": "2027-07-05T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-07-05/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-07-05/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d4eb0884ce8c",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-07-07T13:00:00-06:00",
+    "end": "2027-07-07T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000973",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000973",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5db03205122b",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-07T19:30:00-06:00",
+    "end": "2027-07-07T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4109ae92b599",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-08T19:30:00-06:00",
+    "end": "2027-07-08T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "de8993947edb",
+    "title": "STORYTIME!",
+    "start": "2027-07-09T10:15:00-06:00",
+    "end": "2027-07-09T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000824",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000824",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "347c3b9a6c99",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-09T19:30:00-06:00",
+    "end": "2027-07-09T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "406fc166b6c1",
+    "title": "Monster Mall",
+    "start": "2027-07-10T12:00:00-06:00",
+    "end": "2027-07-10T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/monster-mall/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/monster-mall/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4a4fb5286255",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-10T19:00:00-06:00",
+    "end": "2027-07-10T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6f6217c61426",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-10T19:30:00-06:00",
+    "end": "2027-07-10T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "13deab080c3c",
+    "title": "Monster Mall",
+    "start": "2027-07-11T12:00:00-06:00",
+    "end": "2027-07-11T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/monster-mall-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/monster-mall-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "713756480026",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-11T19:00:00-06:00",
+    "end": "2027-07-11T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ffc6b63d95de",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-11T19:30:00-06:00",
+    "end": "2027-07-11T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1e9f87083164",
+    "title": "Monday Nederland Writers",
+    "start": "2027-07-12T13:00:00-06:00",
+    "end": "2027-07-12T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983343",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983343",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a5bd1043e5c8",
+    "title": "Sci Fi Book Club",
+    "start": "2027-07-13T19:00:00-06:00",
+    "end": "2027-07-13T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983396",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983396",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1eaecca2f997",
+    "title": "Nederland Transportaton Advisory Committee (NTAC)",
+    "start": "2027-07-14T16:00:00-06:00",
+    "end": "2027-07-14T17:15:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17959196",
+    "description": "The Nederland EcoPass Public Improvement District Advisory Committee (NEPPIDAC) meetings are open to the public to discuss topics tied to transportation initiatives in the Nederland area. Since that name is not accessible, we shorten it to: Nederland Transportation Advisory Committee (NTAC)",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17959196",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b8eb99e90436",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-14T19:00:00-06:00",
+    "end": "2027-07-14T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "af510cb512cc",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-14T19:30:00-06:00",
+    "end": "2027-07-14T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a44a14e99a70",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-07-15T08:00:00-06:00",
+    "end": "2027-07-15T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-4/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-4/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "692f19d6b13a",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-15T19:00:00-06:00",
+    "end": "2027-07-15T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "edd23e0b8af0",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-15T19:30:00-06:00",
+    "end": "2027-07-15T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c4eb32796495",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-07-16T08:00:00-06:00",
+    "end": "2027-07-16T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-5/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-5/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "22291ca65e82",
+    "title": "STORYTIME!",
+    "start": "2027-07-16T10:15:00-06:00",
+    "end": "2027-07-16T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000825",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000825",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e0b117853cc9",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-16T19:00:00-06:00",
+    "end": "2027-07-16T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e9320995cc3b",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-16T19:30:00-06:00",
+    "end": "2027-07-16T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "64bbc562a76c",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-07-17T08:00:00-06:00",
+    "end": "2027-07-17T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-6/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-6/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "13a0bbf8fe42",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-17T19:00:00-06:00",
+    "end": "2027-07-17T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2a398053ae8e",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-17T19:30:00-06:00",
+    "end": "2027-07-17T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "696048fa089d",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-07-18T08:00:00-06:00",
+    "end": "2027-07-18T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-7/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-7/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "abdc5874d4e3",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-18T13:30:00-06:00",
+    "end": "2027-07-18T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a5a19444fb12",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-18T19:00:00-06:00",
+    "end": "2027-07-18T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3825b5a73efd",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-18T19:30:00-06:00",
+    "end": "2027-07-18T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "312faf8cdaee",
+    "title": "Monday Nederland Writers",
+    "start": "2027-07-19T13:00:00-06:00",
+    "end": "2027-07-19T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983344",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983344",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "50b9084afef7",
+    "title": "Philosophy Club",
+    "start": "2027-07-20T17:15:00-06:00",
+    "end": "2027-07-20T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983380",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983380",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2777bb37886b",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-21T19:00:00-06:00",
+    "end": "2027-07-21T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "bccc3b5ae6b4",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-21T19:30:00-06:00",
+    "end": "2027-07-21T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a9986f945922",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-22T19:00:00-06:00",
+    "end": "2027-07-22T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "64c59a329e09",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-22T19:30:00-06:00",
+    "end": "2027-07-22T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7ba9400cfbc7",
+    "title": "STORYTIME!",
+    "start": "2027-07-23T10:15:00-06:00",
+    "end": "2027-07-23T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000826",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000826",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "efd977ba9ef0",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-23T19:00:00-06:00",
+    "end": "2027-07-23T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "769fe7346d45",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-23T19:30:00-06:00",
+    "end": "2027-07-23T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3e77f9aec2a5",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-24T19:00:00-06:00",
+    "end": "2027-07-24T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d43561d2b56f",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-24T19:30:00-06:00",
+    "end": "2027-07-24T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f988512dca5b",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-25T13:30:00-06:00",
+    "end": "2027-07-25T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1ce5ed1004f8",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-25T19:00:00-06:00",
+    "end": "2027-07-25T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ca8a2fc60be6",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-25T19:30:00-06:00",
+    "end": "2027-07-25T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "fd7025ff423d",
+    "title": "Monday Nederland Writers",
+    "start": "2027-07-26T13:00:00-06:00",
+    "end": "2027-07-26T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983345",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983345",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e4d5906fda72",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-07-27T18:30:00-06:00",
+    "end": "2027-07-27T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983284",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983284",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9bb81bd16e27",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-28T19:00:00-06:00",
+    "end": "2027-07-28T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a2a2ecaf87c6",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-28T19:30:00-06:00",
+    "end": "2027-07-28T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "156507f23a06",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-29T19:00:00-06:00",
+    "end": "2027-07-29T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ec0f8bc647dd",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-07-29T19:30:00-06:00",
+    "end": "2027-07-29T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "33bf453cb044",
+    "title": "STORYTIME!",
+    "start": "2027-07-30T10:15:00-06:00",
+    "end": "2027-07-30T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000827",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000827",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "33e2c6f32bf9",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-07-30T19:00:00-06:00",
+    "end": "2027-07-30T20:00:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e59963addf16",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-30T19:30:00-06:00",
+    "end": "2027-07-30T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f0cc547c6d00",
+    "title": "Henry IV, Part 1: By William Shakespeare",
+    "start": "2027-07-31T13:30:00-06:00",
+    "end": "2027-07-31T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+    "description": "Even as his father’s reign is threatened by upstart nobles, wayward Prince Hal haunts the tavern with boastful, comic Falstaff and consorts with thieves. King Henry IV rues the comparison between his unruly son and the powerful rebel Hotspur, but when civil war ignites, Hal proves a worthy heir t...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ec9fa4e34457",
+    "title": "Hamlet: By William Shakespeare",
+    "start": "2027-07-31T19:30:00-06:00",
+    "end": "2027-07-31T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+    "description": "Prince Hamlet returns to Denmark, where his father’s ghost reveals that he was murdered by his brother Claudius, who has taken the throne and married Queen Gertrude. Vowing revenge, the prince poses as a madman even as he investigates the crime. But the ruse portends tragedy for his beloved, Ophe...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2ea1852ce5eb",
+    "title": "Henry IV, Part 2: By William Shakespeare",
+    "start": "2027-08-01T13:30:00-06:00",
+    "end": "2027-08-01T14:30:00-06:00",
+    "allDay": false,
+    "venue": "University Theatre",
+    "venueKey": "university-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+    "description": "As King Henry IV grows ill and weak, young Prince Hal struggles to balance his old, delinquent life with his approaching ascension to the throne. The prince’s long-time fellow traveler, the comical Falstaff, expects to gain favor and influence when his friend assumes the throne. But battle and re...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "529b385a47dd",
+    "title": "A Midsummer Night's Dream: By William Shakespeare",
+    "start": "2027-08-01T19:30:00-06:00",
+    "end": "2027-08-01T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Mary Rippon Theatre",
+    "venueKey": "mary-rippon-theatre",
+    "city": "Boulder",
+    "category": "performing-arts",
+    "tags": [],
+    "size": "M",
+    "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+    "description": "Seeking freedom from patriarchal expectations, four young Athenians flee into a deep, dark, magical forest, where the Fairy king orders the mischievous sprite Puck to administer a potion to confuse their affections. As King Oberon and his queen, Titania, spar over a young child, an inept troupe o...",
+    "sources": [
+      {
+        "name": "cu-presents",
+        "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "edfbfcef6cb0",
+    "title": "Monday Nederland Writers",
+    "start": "2027-08-02T13:00:00-06:00",
+    "end": "2027-08-02T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983346",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983346",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ea63b5ecc234",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-08-02T19:00:00-06:00",
+    "end": "2027-08-02T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-08-02/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-08-02/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c6c873aaee83",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-08-04T13:00:00-06:00",
+    "end": "2027-08-04T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000974",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000974",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ba5d58440119",
+    "title": "STORYTIME!",
+    "start": "2027-08-06T10:15:00-06:00",
+    "end": "2027-08-06T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000828",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000828",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "859cfd24a4de",
+    "title": "Monday Nederland Writers",
+    "start": "2027-08-09T13:00:00-06:00",
+    "end": "2027-08-09T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983347",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983347",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1c515d0f5c8c",
+    "title": "Sci Fi Book Club",
+    "start": "2027-08-10T19:00:00-06:00",
+    "end": "2027-08-10T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983397",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983397",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "adcf54b50a8b",
+    "title": "STORYTIME!",
+    "start": "2027-08-13T10:15:00-06:00",
+    "end": "2027-08-13T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000829",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000829",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3fb0667f20d9",
+    "title": "Monday Nederland Writers",
+    "start": "2027-08-16T13:00:00-06:00",
+    "end": "2027-08-16T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983349",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983349",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1c071a468dfe",
+    "title": "Philosophy Club",
+    "start": "2027-08-17T17:15:00-06:00",
+    "end": "2027-08-17T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983381",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983381",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3044edce7064",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-08-20T08:00:00-06:00",
+    "end": "2027-08-20T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "450453590bd8",
+    "title": "STORYTIME!",
+    "start": "2027-08-20T10:15:00-06:00",
+    "end": "2027-08-20T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000830",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000830",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f3afaa4feb38",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-08-21T08:00:00-06:00",
+    "end": "2027-08-21T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7985210aacb6",
+    "title": "Mystic Boho Vintage Extravaganza",
+    "start": "2027-08-21T10:00:00-06:00",
+    "end": "2027-08-21T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3bf3b2e180a7",
+    "title": "Mile High Agility Club of Boulder Dog Agility Trial",
+    "start": "2027-08-22T08:00:00-06:00",
+    "end": "2027-08-22T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-3/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-3/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e78334755287",
+    "title": "Mystic Boho Vintage Extravaganza",
+    "start": "2027-08-22T10:00:00-06:00",
+    "end": "2027-08-22T17:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cdb93f34b089",
+    "title": "Monday Nederland Writers",
+    "start": "2027-08-23T13:00:00-06:00",
+    "end": "2027-08-23T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983350",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983350",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "88fc2adf2e4b",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-08-24T18:30:00-06:00",
+    "end": "2027-08-24T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983285",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983285",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2ef6ee8d7b2c",
+    "title": "STORYTIME!",
+    "start": "2027-08-27T10:15:00-06:00",
+    "end": "2027-08-27T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000831",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000831",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "01a2495fd6de",
+    "title": "Colorado Pony of the Americas Open Horse Show",
+    "start": "2027-08-28T08:00:00-06:00",
+    "end": "2027-08-28T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5a16824cc12a",
+    "title": "Colorado Pony of the Americas Open Horse Show",
+    "start": "2027-08-29T08:00:00-06:00",
+    "end": "2027-08-29T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Indoor Arena",
+    "venueKey": "indoor-arena",
+    "city": "Longmont",
+    "category": "sports",
+    "tags": [
+      "rodeo"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4b30c6683dea",
+    "title": "Monday Nederland Writers",
+    "start": "2027-08-30T13:00:00-06:00",
+    "end": "2027-08-30T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983351",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983351",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0ca87351310d",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-09-01T13:00:00-06:00",
+    "end": "2027-09-01T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000975",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000975",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "84a744a25f7a",
+    "title": "STORYTIME!",
+    "start": "2027-09-03T10:15:00-06:00",
+    "end": "2027-09-03T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000832",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000832",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4a20acd53ae4",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-09-06T19:00:00-06:00",
+    "end": "2027-09-06T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-09-06/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-09-06/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "427cce013fef",
+    "title": "Nederland Transportaton Advisory Committee (NTAC)",
+    "start": "2027-09-08T16:00:00-06:00",
+    "end": "2027-09-08T17:15:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17959197",
+    "description": "The Nederland EcoPass Public Improvement District Advisory Committee (NEPPIDAC) meetings are open to the public to discuss topics tied to transportation initiatives in the Nederland area. Since that name is not accessible, we shorten it to: Nederland Transportation Advisory Committee (NTAC)",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17959197",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "38647ae448dc",
+    "title": "STORYTIME!",
+    "start": "2027-09-10T10:15:00-06:00",
+    "end": "2027-09-10T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000833",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000833",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "891873eee6a3",
+    "title": "Monday Nederland Writers",
+    "start": "2027-09-13T13:00:00-06:00",
+    "end": "2027-09-13T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983353",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983353",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9c1b307acf60",
+    "title": "Sci Fi Book Club",
+    "start": "2027-09-14T19:00:00-06:00",
+    "end": "2027-09-14T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983398",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983398",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "db4c81fd52f0",
+    "title": "STORYTIME!",
+    "start": "2027-09-17T10:15:00-06:00",
+    "end": "2027-09-17T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000834",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000834",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3e94fe05b0ff",
+    "title": "7th Annual Knight Riders Charity Car Show – Hosted by Knights of Columbus Council 1313",
+    "start": "2027-09-18T09:00:00-06:00",
+    "end": "2027-09-18T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Picnic Shelter",
+    "venueKey": "picnic-shelter",
+    "city": "Longmont",
+    "category": "festivals",
+    "tags": [
+      "car-show"
+    ],
+    "size": "L",
+    "url": "https://bouldercounty.gov/event/7th-annual-knight-riders-charity-car-show-hosted-by-knights-of-columbus-council-1313/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/7th-annual-knight-riders-charity-car-show-hosted-by-knights-of-columbus-council-1313/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "62fd0bad42f6",
+    "title": "Monday Nederland Writers",
+    "start": "2027-09-20T13:00:00-06:00",
+    "end": "2027-09-20T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983354",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983354",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6a9fd3da1187",
+    "title": "Philosophy Club",
+    "start": "2027-09-21T17:15:00-06:00",
+    "end": "2027-09-21T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983382",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983382",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4fca447629ad",
+    "title": "STORYTIME!",
+    "start": "2027-09-24T10:15:00-06:00",
+    "end": "2027-09-24T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000835",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000835",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a0e06aa0e33a",
+    "title": "Niwot Antique Auction",
+    "start": "2027-09-26T09:00:00-06:00",
+    "end": "2027-09-26T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/niwot-antique-auction-22/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/niwot-antique-auction-22/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "005c7f99f067",
+    "title": "Monday Nederland Writers",
+    "start": "2027-09-27T13:00:00-06:00",
+    "end": "2027-09-27T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983355",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983355",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "797ceb2e4927",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-09-28T18:30:00-06:00",
+    "end": "2027-09-28T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983286",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983286",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c5bae50427d6",
+    "title": "STORYTIME!",
+    "start": "2027-10-01T10:15:00-06:00",
+    "end": "2027-10-01T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000836",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000836",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "057315d318a5",
+    "title": "Monday Nederland Writers",
+    "start": "2027-10-04T13:00:00-06:00",
+    "end": "2027-10-04T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983356",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983356",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9ac547209831",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-10-04T19:00:00-06:00",
+    "end": "2027-10-04T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-10-04/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-10-04/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "b9f2615d4029",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-10-06T13:00:00-06:00",
+    "end": "2027-10-06T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000976",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000976",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "667761516f1d",
+    "title": "STORYTIME!",
+    "start": "2027-10-08T10:15:00-06:00",
+    "end": "2027-10-08T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000837",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000837",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e81f23f37c8a",
+    "title": "Native American Art Auction",
+    "start": "2027-10-09T08:00:00-06:00",
+    "end": "2027-10-09T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/native-american-art-auction-23/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/native-american-art-auction-23/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "30aaa1d5ab2d",
+    "title": "Native American Art Auction",
+    "start": "2027-10-10T08:00:00-06:00",
+    "end": "2027-10-10T16:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/native-american-art-auction-24/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/native-american-art-auction-24/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "6ff0fb7be16a",
+    "title": "Monday Nederland Writers",
+    "start": "2027-10-11T13:00:00-06:00",
+    "end": "2027-10-11T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983357",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983357",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2a6685b17ce7",
+    "title": "Sci Fi Book Club",
+    "start": "2027-10-12T19:00:00-06:00",
+    "end": "2027-10-12T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983399",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983399",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7e3fb4e49a8d",
+    "title": "STORYTIME!",
+    "start": "2027-10-15T10:15:00-06:00",
+    "end": "2027-10-15T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000838",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000838",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "783552d64293",
+    "title": "Monday Nederland Writers",
+    "start": "2027-10-18T13:00:00-06:00",
+    "end": "2027-10-18T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983358",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983358",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "cd5bb5f9ddf7",
+    "title": "Philosophy Club",
+    "start": "2027-10-19T17:15:00-06:00",
+    "end": "2027-10-19T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983383",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983383",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "a0d22e27416c",
+    "title": "STORYTIME!",
+    "start": "2027-10-22T10:15:00-06:00",
+    "end": "2027-10-22T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000839",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000839",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "80792199dc63",
+    "title": "Niwot Antique Auction",
+    "start": "2027-10-24T09:00:00-06:00",
+    "end": "2027-10-24T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Barn A",
+    "venueKey": "barn-a",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/niwot-antique-auction-23/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/niwot-antique-auction-23/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "f77a860caa3a",
+    "title": "Monday Nederland Writers",
+    "start": "2027-10-25T13:00:00-06:00",
+    "end": "2027-10-25T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983359",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983359",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "213f49680e2f",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-10-26T18:30:00-06:00",
+    "end": "2027-10-26T20:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983287",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983287",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "00edbef298cf",
+    "title": "STORYTIME!",
+    "start": "2027-10-29T10:15:00-06:00",
+    "end": "2027-10-29T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000840",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000840",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "7689f5b5a232",
+    "title": "Body Mind Spirit Celebration – Holistic Living Expo",
+    "start": "2027-10-30T10:00:00-06:00",
+    "end": "2027-10-30T19:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "trade-show"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9577b4a6fd31",
+    "title": "Body Mind Spirit Celebration – Holistic Living Expo",
+    "start": "2027-10-31T10:00:00-06:00",
+    "end": "2027-10-31T18:00:00-06:00",
+    "allDay": false,
+    "venue": "Exhibit Building",
+    "venueKey": "exhibit-building",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "trade-show"
+    ],
+    "size": "S",
+    "url": "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo-2/",
+    "sources": [
+      {
+        "name": "boulder-county",
+        "url": "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo-2/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "26223e905048",
+    "title": "Monday Nederland Writers",
+    "start": "2027-11-01T13:00:00-06:00",
+    "end": "2027-11-01T15:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983360",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983360",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "5810285720ed",
+    "title": "Cinema Youth Advisory Board: Movie Monday & Meeting",
+    "start": "2027-11-01T19:00:00-06:00",
+    "end": "2027-11-01T21:30:00-06:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-11-01/",
+    "description": "🍿 Movie Monday & Meeting A free movie night, the first Monday of most months, chosen by the Dairy Arts Center’s Cinema Youth Advisory Board! Each month, young movie lovers ages 14–24 are invited to join us for a film selected by the Youth Advisory Board, followed by a casual post-film discussion...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-11-01/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e59c3142cec5",
+    "title": "Zero Waste Subcommittee Meeting",
+    "start": "2027-11-03T13:00:00-06:00",
+    "end": "2027-11-03T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000977",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000977",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "054edf4ae802",
+    "title": "STORYTIME!",
+    "start": "2027-11-05T10:15:00-06:00",
+    "end": "2027-11-05T11:30:00-06:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000841",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000841",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1a4b72ed5e4a",
+    "title": "Monday Nederland Writers",
+    "start": "2027-11-08T13:00:00-07:00",
+    "end": "2027-11-08T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983361",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983361",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "eeb5da23b23e",
+    "title": "Sci Fi Book Club",
+    "start": "2027-11-09T19:00:00-07:00",
+    "end": "2027-11-09T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983400",
+    "description": "Newcomers welcome! Open to readers ages 17 Online or In-Person at the Library",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983400",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8bed982e1c72",
+    "title": "STORYTIME!",
+    "start": "2027-11-12T10:15:00-07:00",
+    "end": "2027-11-12T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000842",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000842",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9fc9b061c249",
+    "title": "Monday Nederland Writers",
+    "start": "2027-11-15T13:00:00-07:00",
+    "end": "2027-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983362",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983362",
+        "fetchedAt": "2026-11-15T07:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "6317c96f5e8c",
+    "title": "Philosophy Club",
+    "start": "2027-11-16T17:15:00-07:00",
+    "end": "2027-11-16T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983384",
+    "description": "meets from 5pm-7pm on the third Tuesday of every month. We welcome newcomers and all suggestions for future topics.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983384",
+        "fetchedAt": "2026-11-16T07:20:28Z"
+      }
+    ]
+  },
+  {
+    "id": "eb7f7ca2d75a",
+    "title": "STORYTIME!",
+    "start": "2027-11-19T10:15:00-07:00",
+    "end": "2027-11-19T11:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/18000843",
+    "description": "Stories! Song! Movement! Music! Play! Every Friday morning from 10:15am - 11:30am we hold Storytimes for ages 0-4 year olds. From 10:15am-10:45am we read books, sing songs, learn some ASL, and get the wiggles out! From 10:45m - 11:30 am we have free play, bring out the toys (and sometimes bubbles...",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/18000843",
+        "fetchedAt": "2026-11-19T07:13:26Z"
+      }
+    ]
+  },
+  {
+    "id": "7224d0f5e5dd",
+    "title": "Monday Nederland Writers",
+    "start": "2027-11-22T13:00:00-07:00",
+    "end": "2027-11-22T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983363",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983363",
+        "fetchedAt": "2026-11-22T07:12:14Z"
+      }
+    ]
+  },
+  {
+    "id": "50acf859f4ad",
+    "title": "Indian Peaks Radio Club",
+    "start": "2027-11-23T18:30:00-07:00",
+    "end": "2027-11-23T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/17983288",
+    "description": "This meeting is for the Nederland ham radio club to discuss events around Colorado, present topics in the ham radio field, and as a social gathering for people interested in ham radio.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/17983288",
+        "fetchedAt": "2026-11-23T07:15:21Z"
       }
     ]
   }

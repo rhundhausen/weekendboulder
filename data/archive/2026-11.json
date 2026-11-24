@@ -8240,5 +8240,126 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "c2d730db2417",
+    "title": "St. Vrain Greenway Morning Nature Walk",
+    "start": "2026-11-24T09:00:00-07:00",
+    "end": "2026-11-24T11:00:00-07:00",
+    "allDay": false,
+    "venue": "St. Vrain Greenway trailhead",
+    "venueKey": "st-vrain-greenway-trailhead",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316517269/",
+    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: Paved and gravel trail | DISTANCE: Approximately 4 miles | 9:00 am start time beginning September 15th! Rise and shine with our St. Vrain Greenway nature walk! Join us for a fun and beautiful community walk along the St. Vrain Greenway Trail to the Sa...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316517269/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3d25b32abf95",
+    "title": "Toddler Storytime",
+    "start": "2026-11-24T10:00:00-07:00",
+    "end": "2026-11-24T10:20:00-07:00",
+    "allDay": false,
+    "venue": "City of Longmont",
+    "venueKey": "city-of-longmont",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-24/",
+    "description": "Library Meeting Rooms No registration required This program is in English A lively storytime designed for ages 2 to 3 years old and their grownup. Enjoy 20 minutes of books, songs, movement and fun for children to build fine motor and literacy skills! All storytimes require a dedicated adult care...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/toddler-storytime/2026-11-24/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "3a0855f646fe",
+    "title": "Toddler Stay & Play",
+    "start": "2026-11-24T10:30:00-07:00",
+    "end": "2026-11-24T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-24/",
+    "description": "Library Meeting Rooms No registration required This program is presented in English This event happens weekly on Tuesdays Join us for open play time for 2 to 3-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. Me...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-11-24/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "daeda54decc3",
+    "title": "Wild Bear Storytime",
+    "start": "2026-11-24T10:30:00-07:00",
+    "end": "2026-11-24T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Nederland Community Library",
+    "venueKey": "nederland-community-library",
+    "city": "Nederland",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://nederland.libcal.com/event/15917170",
+    "description": "Connect with the natural world, yourself, and your community through children’s stories! Every Tuesday at 10:30 at the Nederland Library. Free program for littles and their grownups. See wildbear.org for more information.",
+    "sources": [
+      {
+        "name": "nederland-community-library",
+        "url": "https://nederland.libcal.com/event/15917170",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "0876015fc35b",
+    "title": "Free Thanksgiving Lunch/Violin Performance",
+    "start": "2026-11-24T11:30:00-07:00",
+    "end": "2026-11-24T12:30:00-07:00",
+    "allDay": false,
+    "venue": "Josephine Commons",
+    "venueKey": "josephine-commons",
+    "city": "Lafayette",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "M",
+    "url": "https://member.superiorchamber.com/events/details/free-thanksgiving-lunch-violin-performance-16839",
+    "description": "Join us for a free community lunch at the Coal Creek Cafe in honor of Thanksgiving, on November 24th from 11:30am-12:30pm. There will be a beautiful violin performance as well! Take a look at our other upcoming free cafe lunches HERE!",
+    "sources": [
+      {
+        "name": "superior-chamber",
+        "url": "https://member.superiorchamber.com/events/details/free-thanksgiving-lunch-violin-performance-16839",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]

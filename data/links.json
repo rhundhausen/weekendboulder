@@ -1,5 +1,11 @@
 {
   "links": {
+    "https://bouldercounty.gov/event/7th-annual-knight-riders-charity-car-show-hosted-by-knights-of-columbus-council-1313/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/ahc-march-6/": {
       "verdict": "ok",
       "status": 200,
@@ -22,6 +28,30 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/all-breed-open-horse-show-16/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/all-breed-open-horse-show-17/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/all-breed-open-horse-show-18/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/all-breed-open-horse-show-19/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/astronomy-dec-11/": {
@@ -52,6 +82,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-18T07:18:13Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/boulder-county-commissioners-monthly-public-comment-hybrid-4-2/": {
@@ -102,6 +144,12 @@
       "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/charting-resilience/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/colorado-area-rabbit-show-6/": {
       "verdict": "ok",
       "status": 200,
@@ -112,6 +160,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-19T07:17:46Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/denver-samoyed-association-dog-agility-trial-3/": {
@@ -336,6 +396,48 @@
       "checkedAt": "2026-11-19T07:17:46Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-3/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-4/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-5/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-6/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-7/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/mollie-mcgees-45th-annual-holiday-craft-market-2/": {
       "verdict": "ok",
       "status": 200,
@@ -346,6 +448,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/monster-mall-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/monster-mall/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/mountain-dog-sports-nadac-agility-trial-7/": {
@@ -366,6 +480,18 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/mystic-boho-vintage-extravaganza/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/native-american-art-auction-19/": {
       "verdict": "ok",
       "status": 200,
@@ -378,10 +504,52 @@
       "checkedAt": "2026-11-22T07:16:28Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/native-american-art-auction-21/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/native-american-art-auction-22/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/native-american-art-auction-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/native-american-art-auction-24/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/niwot-antique-auction-16/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/niwot-antique-auction-21/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/niwot-antique-auction-22/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://bouldercounty.gov/event/niwot-antique-auction-23/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/niwot-auction-new-years-day-auction/": {
@@ -496,6 +664,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/cannibal-the-musical-by-trey-parker": {
@@ -820,6 +994,24 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/hamlet-by-william-shakespeare": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/henry-iv-part-1-by-william-shakespeare": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://calendar.colorado.edu/event/henry-iv-part-2-by-william-shakespeare": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/holiday-festival-2026": {
@@ -2730,6 +2922,18 @@
       "checkedAt": "2026-11-22T07:16:28Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17959196": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17959197": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983278": {
       "verdict": "ok",
       "status": 200,
@@ -2752,6 +2956,48 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983282": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983283": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983284": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983285": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983286": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983287": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983288": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/17983316": {
@@ -2874,6 +3120,156 @@
       "checkedAt": "2026-11-19T07:17:46Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17983336": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983338": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983339": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983340": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983341": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983342": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983343": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983344": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983345": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983346": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983347": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983349": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983350": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983351": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983353": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983354": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983355": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983356": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983357": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983358": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983359": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983360": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983361": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983362": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983363": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983374": {
       "verdict": "ok",
       "status": 200,
@@ -2904,6 +3300,42 @@
       "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/17983379": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983380": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983381": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983382": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983383": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983384": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/17983390": {
       "verdict": "ok",
       "status": 200,
@@ -2932,6 +3364,42 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983395": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983396": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983397": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983398": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983399": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/17983400": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/18000798": {
@@ -3054,6 +3522,162 @@
       "checkedAt": "2026-11-23T07:19:32Z",
       "failures": 0
     },
+    "https://nederland.libcal.com/event/18000818": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000819": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000820": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000821": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000822": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000823": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000824": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000825": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000826": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000827": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000828": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000829": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000830": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000831": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000832": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000833": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000834": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000835": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000836": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000837": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000838": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000839": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000840": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000841": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000842": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000843": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://nederland.libcal.com/event/18000967": {
       "verdict": "ok",
       "status": 200,
@@ -3082,6 +3706,42 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000972": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000973": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000974": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000975": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000976": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18000977": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/18059557": {
@@ -3546,6 +4206,42 @@
       "checkedAt": "2026-11-22T07:16:28Z",
       "failures": 0
     },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-06-07/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-07-05/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-08-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-09-06/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-10-04/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/cinema-youth-advisory-board-movie-monday/2027-11-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
+      "failures": 0
+    },
     "https://thedairy.org/event/classics-with-jeffrey-kash-an-american-in-paris/": {
       "verdict": "ok",
       "status": 200,
@@ -3568,6 +4264,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/compass-resonance-sands-of-time-with-mina-gajic-and-core/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://thedairy.org/event/compass-resonance-sweeter-than-roses-with-taylor-raven-and-core/": {
@@ -4491,7 +5193,7 @@
     "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-03/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T18:20:58Z",
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://www.chautauqua.com/event/hot-chocolate-hikes/2026-12-09/": {
@@ -5253,7 +5955,7 @@
     "https://www.meetup.com/longmont-walks/events/316623516/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T18:20:58Z",
+      "checkedAt": "2026-11-24T20:32:02Z",
       "failures": 0
     },
     "https://www.meetup.com/longmont-walks/events/316623517/": {

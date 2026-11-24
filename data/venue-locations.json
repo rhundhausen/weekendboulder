@@ -324,6 +324,12 @@
     "from": "none",
     "checked": "2026-11-24"
   },
+  "mary-rippon-theatre": {
+    "lat": 40.0071797,
+    "lon": -105.272765,
+    "from": "lookup",
+    "checked": "2026-11-24"
+  },
   "mcintosh-lake": {
     "lat": 40.1943166,
     "lon": -105.1526429,
@@ -372,6 +378,13 @@
     "lat": 40.18364391,
     "lon": -105.1767969,
     "address": "11600 N. 75th St., Longmont, CO 80503",
+    "from": "feed",
+    "checked": "2026-11-24"
+  },
+  "picnic-shelter": {
+    "lat": 40.153462,
+    "lon": -105.12901,
+    "address": "9595 Nelson Road, Longmont, CO 80501",
     "from": "feed",
     "checked": "2026-11-24"
   },
