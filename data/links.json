@@ -93,13 +93,13 @@
     "https://bouldercounty.gov/event/capable-confident-in-the-job-search-31/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/career-exploration-35/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/colorado-area-rabbit-show-6/": {
@@ -129,7 +129,7 @@
     "https://bouldercounty.gov/event/essential-skills-15/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/front-range-agility-club-cpe-dog-agility-10/": {
@@ -213,7 +213,7 @@
     "https://bouldercounty.gov/event/future-of-work-32/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/get-strategic-about-your-job-search-30/": {
@@ -225,7 +225,7 @@
     "https://bouldercounty.gov/event/get-strategic-about-your-job-search-31/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/gobble-gobble-wild-turkey-program-3/": {
@@ -291,7 +291,7 @@
     "https://bouldercounty.gov/event/interview-preparation-34/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/last-chance-gift-fest-5/": {
@@ -399,7 +399,7 @@
     "https://bouldercounty.gov/event/overcoming-difficult-work-histories-32/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/parks-open-space-advisory-committee-posac-27/": {
@@ -453,7 +453,7 @@
     "https://bouldercounty.gov/event/updating-and-tailoring-your-resume-49/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/winter-solstice-night-walden-ponds/": {
@@ -1365,7 +1365,7 @@
     "https://lafayettepubliclibrary.libcal.com/calendar/main/puzzlecontestJan2027": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/RBSpring2027": {
@@ -2301,13 +2301,13 @@
     "https://longmontpublicmedia.org/events/audio-studio-orientation/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://longmontpublicmedia.org/events/canva-101/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://longmontpublicmedia.org/events/comfy-couch-performance-circle/": {
@@ -2524,6 +2524,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
+    "https://museumofboulder.org/events/valmont-hidden-in-plain-sight-panel-discussion/": {
+      "verdict": "ok",
+      "status": 202,
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/15782162": {
@@ -3243,7 +3249,7 @@
     "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-15/1/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-16/": {
@@ -4635,13 +4641,13 @@
     "https://www.meetup.com/boulder-20s-30s-hiking-travel-local-activities/events/317464048/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-20s-30s-hiking-travel-local-activities/events/317464053/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-birds-and-brew/events/317377258/": {
@@ -4899,7 +4905,7 @@
     "https://www.meetup.com/boulder-wilderness-hiking/events/317383404/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-wilderness-hiking/events/317425103/": {
@@ -4929,7 +4935,7 @@
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/315043048/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-17T07:18:18Z",
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/315907073/": {
@@ -5008,6 +5014,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/317566586/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T16:14:21Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/kghdbvyjcqbsb/": {

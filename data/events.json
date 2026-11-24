@@ -5156,6 +5156,31 @@
     ]
   },
   {
+    "id": "db8b3cca31d5",
+    "title": "Valmont: Hidden in Plain Sight Panel Discussion",
+    "start": "2026-12-10T17:30:00-07:00",
+    "end": "2026-12-10T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Museum of Boulder",
+    "venueKey": "museum-of-boulder",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "lecture",
+      "museum"
+    ],
+    "size": "S",
+    "url": "https://museumofboulder.org/events/valmont-hidden-in-plain-sight-panel-discussion/",
+    "description": "Join us for an expert panel discussion on the story of Valmont at the Museum of Boulder! REGISTER HERE Coal ash. Radioactive waste. Threatened historic resources. Vandalism. A sacred place for Native Americans. A confluence of two creeks. All these things and more are part of the story of Valmont...",
+    "sources": [
+      {
+        "name": "museum-of-boulder",
+        "url": "https://museumofboulder.org/events/valmont-hidden-in-plain-sight-panel-discussion/",
+        "fetchedAt": "2026-11-24T16:09:23Z"
+      }
+    ]
+  },
+  {
     "id": "77b4f23ea96e",
     "title": "Boulder Ensemble Theatre Company (BETC): The Fair Maid of the West | Dec. 3-27",
     "start": "2026-12-10T19:00:00-07:00",
@@ -6266,12 +6291,12 @@
     "category": "arts-culture",
     "tags": [],
     "size": "S",
-    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/kghdbvyjcqbsb/",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317566586/",
     "description": "Come write and work together! We're a small group (usually two to four), but always looking for more writers of all stripes. Time is focused on writing/working on our own projects, and a bit of conversation peppered throughout. We meet each week at La Belle Coffee and Bakery in Broomfield, off Hi...",
     "sources": [
       {
         "name": "meetup-boulder-writers-alliance-meetup",
-        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/kghdbvyjcqbsb/",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317566586/",
         "fetchedAt": "2026-11-20T07:13:46Z"
       }
     ]
