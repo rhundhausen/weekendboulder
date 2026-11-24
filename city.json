@@ -31,6 +31,18 @@
     "buffs": ["buffaloes"]
   },
   "coordinates": { "lat": 40.015, "lon": -105.271 },
+  "cityCenters": {
+    "Boulder": { "lat": 40.015, "lon": -105.271 },
+    "Longmont": { "lat": 40.167, "lon": -105.102 },
+    "Louisville": { "lat": 39.978, "lon": -105.132 },
+    "Lafayette": { "lat": 39.994, "lon": -105.090 },
+    "Superior": { "lat": 39.953, "lon": -105.169 },
+    "Erie": { "lat": 40.050, "lon": -105.050 },
+    "Broomfield": { "lat": 39.921, "lon": -105.087 },
+    "Niwot": { "lat": 40.104, "lon": -105.171 },
+    "Lyons": { "lat": 40.225, "lon": -105.271 },
+    "Nederland": { "lat": 39.961, "lon": -105.511 }
+  },
   "description": "Upcoming events in Boulder, Longmont, Louisville, Lafayette, and the rest of Boulder County.",
   "logDatabase": "weekendboulder-log",
   "about": {
