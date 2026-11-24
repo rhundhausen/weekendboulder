@@ -54,6 +54,12 @@
       "checkedAt": "2026-11-18T07:18:13Z",
       "failures": 0
     },
+    "https://bouldercounty.gov/event/boulder-county-commissioners-monthly-public-comment-hybrid-4-2/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://bouldercounty.gov/event/boulder-county-farmers-market-winter-market-3/": {
       "verdict": "ok",
       "status": 200,
@@ -1248,6 +1254,12 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/FIbookgroup2027": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec": {
       "verdict": "ok",
       "status": 200,
@@ -1635,7 +1647,7 @@
     "https://lafayettepubliclibrary.libcal.com/event/17304170": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/event/18043291": {
@@ -1878,6 +1890,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/discovery-days-music-movement-4/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/drop-in-writers-group-3/2026-11-16/": {
       "verdict": "ok",
       "status": 200,
@@ -1888,6 +1906,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/drop-in-writers-group-3/2026-11-30/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/dungeons-dragons/2026-11-17/": {
@@ -1942,6 +1966,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/high-school-group-3/2026-11-30/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/holiday-guest-pass-on-sale-now/": {
@@ -2070,6 +2100,12 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/navigators-4/2026-11-30/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/north-pole-small-business-saturday/": {
       "verdict": "ok",
       "status": 200,
@@ -2148,6 +2184,12 @@
       "checkedAt": "2026-11-18T07:18:13Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/steam-labs-science-program-glow-paint/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/sunrise-on-the-reaping-hunger-games-party-2/": {
       "verdict": "ok",
       "status": 200,
@@ -2164,6 +2206,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/teen-craft-create-club-5/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/teen-hats-gloves/": {
@@ -2208,6 +2256,12 @@
       "checkedAt": "2026-11-20T07:18:11Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/toddler-stay-play-22/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/toddler-storytime/2026-11-17/": {
       "verdict": "ok",
       "status": 200,
@@ -2218,6 +2272,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/toddler-storytime/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/tween-club-12/2026-11-19/": {
@@ -2259,7 +2319,7 @@
     "https://longmontpublicmedia.org/events/goddess-gala/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontpublicmedia.org/events/intro-to-davinci-resolve-editing-class/": {
@@ -2284,6 +2344,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-15T03:59:25Z",
+      "failures": 0
+    },
+    "https://longmontpublicmedia.org/events/talktunes-featuring-wellington-bullings/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://longmontpublicmedia.org/events/the-outlaw-folk-album-release-party-and-community-potluck/": {
@@ -2350,6 +2416,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-19T07:17:46Z",
+      "failures": 0
+    },
+    "https://member.superiorchamber.com/events/details/money-education-craft-chocolate-tasting-12-02-2026-16850": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://member.superiorchamber.com/events/details/small-business-ai-academy-16829": {
@@ -2451,7 +2523,7 @@
     "https://museumofboulder.org/events/natural-highs-winter-craft-market-3/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/15782162": {
@@ -2967,7 +3039,7 @@
     "https://nederland.libcal.com/event/18000816": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/18000817": {
@@ -3016,6 +3088,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://nederland.libcal.com/event/18080086": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://thedairy.org/event/3rd-law-dance-theater-the-home-between-nov-20-22-2/": {
@@ -3159,7 +3237,7 @@
     "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-14/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-15/1/": {
@@ -3460,6 +3538,18 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/classics-with-jeffrey-kash-an-american-in-paris/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
+    "https://thedairy.org/event/classics-with-jeffrey-kash-the-umbrellas-of-cherbourg/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://thedairy.org/event/compass-resonance-journey-of-a-thousand-pipes-featuring-christopher-holman/": {
@@ -4440,6 +4530,12 @@
       "checkedAt": "2026-11-23T07:19:32Z",
       "failures": 0
     },
+    "https://www.chautauqua.com/event/rising-appalachia-4/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://www.chautauqua.com/event/sheela-bringi-elden-kelly/": {
       "verdict": "ok",
       "status": 200,
@@ -4587,7 +4683,7 @@
     "https://www.meetup.com/boulder-bookaholics/events/317402205/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-bookaholics/events/317511095/": {
@@ -4758,6 +4854,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-wilderness-hiking/events/317037441/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-wilderness-hiking/events/317123486/": {
       "verdict": "ok",
       "status": 200,
@@ -4809,13 +4911,19 @@
     "https://www.meetup.com/boulder-wilderness-hiking/events/317432615/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-16T07:24:49Z",
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/314783851/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/315043048/": {
@@ -5154,6 +5262,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://www.meetup.com/longmont-walks/events/317554059/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
     "https://www.meetup.com/nocomustachians/events/317314920/": {
       "verdict": "ok",
       "status": 200,
@@ -5284,6 +5398,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-22T07:16:28Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/solidstatedepot/events/klpdmtykccbsb/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-24T07:17:39Z",
       "failures": 0
     },
     "https://www.meetup.com/solidstatedepot/events/lcsxvtykccbjb/": {
