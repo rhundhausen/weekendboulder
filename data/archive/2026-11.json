@@ -8361,5 +8361,187 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "c60125ad7d65",
+    "title": "Open LEGO Build!",
+    "start": "2026-11-24T14:00:00-07:00",
+    "end": "2026-11-24T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/open-lego-build-2/2026-11-24/",
+    "description": "Library Meeting Rooms Registration is not required K-5th graders Let’s get the LEGOs out! The building space (also known as the Library Meeting Rooms) will be open for builders in kindergarten through 5th grade. Drop in anytime during the program. This program is generously supported by the Frien...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/open-lego-build-2/2026-11-24/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "eb9df5eb07e7",
+    "title": "Makerspace - Drop In",
+    "start": "2026-11-24T15:30:00-07:00",
+    "end": "2026-11-24T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "21baea449249",
+    "title": "Snacks & Antojitos",
+    "start": "2026-11-24T16:00:00-07:00",
+    "end": "2026-11-24T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-24/",
+    "description": "Snack & Cooking is a culinary adventure. All participants can learn to make different snacks/dishes and then bond as they enjoy their creations as a group! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring your own w...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-11-24/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "a7eaa319114d",
+    "title": "Full Moon McIntosh Walk",
+    "start": "2026-11-24T17:00:00-07:00",
+    "end": "2026-11-24T18:30:00-07:00",
+    "allDay": false,
+    "venue": "McIntosh Lake",
+    "venueKey": "mcintosh-lake",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/317554059/",
+    "description": "TYPE: Monthly walk | PACE: Moderate | TERRAIN: paved and gravel trail | DISTANCE: 3.4 miles Join us for a moon-lit walk on the lake under the bright rays of the Full Beaver Super Moon. Bask in the night sky reflecting on the water and the quiet of a mid-autumn evening. Come walk with inner sereni...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/317554059/",
+        "fetchedAt": "2026-11-24T07:14:12Z"
+      }
+    ]
+  },
+  {
+    "id": "5923173dd8db",
+    "title": "Open Chess Night @ the Library",
+    "start": "2026-11-24T17:30:00-07:00",
+    "end": "2026-11-24T19:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-24/",
+    "description": "Unquiet Study Area (Library, second floor) Open to all ages Open to all levels and abilities No registration required This program is in English Tuesdays are Open Chess Night at the Longmont Public Library! We will have tables set up for playing and chess sets available. You may bring your own se...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-24/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "d3066525a889",
+    "title": "High School Equivalency Test Prep for Adults - Register",
+    "start": "2026-11-24T18:00:00-07:00",
+    "end": "2026-11-24T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+    "description": "Adults - need help preparing for the GED or High School Equivalency (HiSET) test? The Coal Creek Adult Education Center (CCAEC) and The Lafayette Public Library have partnered to bring High School Equivalency preparation classes to Lafayette. Earning your High School Equivalency Diploma will impr...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/GED2026_AprilDec",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ee0abcaf4cb8",
+    "title": "Community Food Workshop for Teens",
+    "start": "2026-11-24T18:00:00-07:00",
+    "end": "2026-11-24T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "workshop"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/community-food-workshop-for-teens-6/",
+    "description": "For 6th-12th graders Teen Room Registration is required This program is in English Calling all foodies! If you like eating food, like making food, dream about one day being a chef, or any combination of these things, please join us for our teen food workshop series. In this three-part series, we...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/community-food-workshop-for-teens-6/",
+        "fetchedAt": "2026-11-20T07:13:46Z"
+      }
+    ]
+  },
+  {
+    "id": "482d749417cc",
+    "title": "Night of the Condors!",
+    "start": "2026-11-24T19:00:00-07:00",
+    "end": "2026-11-24T21:00:00-07:00",
+    "allDay": false,
+    "venue": "5001 Pennsylvania Avenue",
+    "venueKey": "5001-pennsylvania-avenue",
+    "city": "Boulder",
+    "category": "outdoors-recreation",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377512/",
+    "description": "BCAS is thrilled to welcome Erro Lehnert, founder of the California Condor Recovery Program, who will present “Heartbreak and Hope: A Biologist’s Life with Condors”. Join us for a glimpse into Erro’s life as a condor biologist, including an overview of condor biology, the captive breeding and rei...",
+    "sources": [
+      {
+        "name": "meetup-boulder-birds-and-brew",
+        "url": "https://www.meetup.com/boulder-birds-and-brew/events/317377512/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]

@@ -57,7 +57,7 @@
     "https://bouldercounty.gov/event/astronomy-dec-11/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/astronomy-inside-the-asteroid-belt/": {
@@ -69,7 +69,7 @@
     "https://bouldercounty.gov/event/birds-of-prey-driving-tour-dec-5/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/birds-of-prey-driving-tour-nov-21/": {
@@ -81,7 +81,7 @@
     "https://bouldercounty.gov/event/birds-of-prey-slideshow-program-5/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/body-mind-spirit-celebration-holistic-living-expo-2/": {
@@ -297,13 +297,13 @@
     "https://bouldercounty.gov/event/hammering-on-the-farm-dec-5/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/hammering-on-the-farm-jan-2/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/handcrafted-holiday-market-5/": {
@@ -627,19 +627,19 @@
     "https://bouldercounty.gov/event/winter-solstice-night-walden-ponds/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/winter-solstice-night-walk-at-pella-crossing/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://boulderuwc.org/event/2027-april-scholarship-luncheon/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://boulderuwc.org/event/lecture-luncheon-3-february-15-2027/": {
@@ -1539,7 +1539,7 @@
     "https://lafayettepubliclibrary.libcal.com/calendar/main/MMDec2026": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/PawsJan-Dec2027": {
@@ -1845,7 +1845,7 @@
     "https://lafayettepubliclibrary.libcal.com/event/18043291": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/3d-printing-group-orientation-9/": {
@@ -2304,6 +2304,12 @@
       "checkedAt": "2026-11-22T07:16:28Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/online-english-conversation-group-2/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/online-english-conversation-group-4/": {
       "verdict": "ok",
       "status": 200,
@@ -2320,6 +2326,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/open-chess-night/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/open-lego-build-2/2026-11-24/": {
@@ -2362,6 +2374,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-20T07:18:11Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/snacks-antojitos/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/spanish-english-conversation-group-2/2026-11-19/": {
@@ -2562,6 +2580,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://member.superiorchamber.com/events/details/arts-night-superior-16851": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
+      "failures": 0
+    },
     "https://member.superiorchamber.com/events/details/big-events-local-opportunity-10-ways-to-bring-customers-through-your-door-16842": {
       "verdict": "ok",
       "status": 200,
@@ -2601,7 +2625,7 @@
     "https://member.superiorchamber.com/events/details/green-business-breakfast-16847": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://member.superiorchamber.com/events/details/holiday-party-with-leela-inspired-16849": {
@@ -3915,7 +3939,7 @@
     "https://thedairy.org/event/boulder-ballet-presents-vital-may-14-16-2027/2027-05-16/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-new-years-eve-spectacular/": {
@@ -5709,7 +5733,7 @@
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/317452294/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/317514070/": {
@@ -5859,7 +5883,7 @@
     "https://www.meetup.com/colorado-femme-musicians/events/317478378/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-18T07:18:13Z",
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://www.meetup.com/improvbouldermeetup/events/317222353/": {
@@ -5964,6 +5988,12 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://www.meetup.com/longmont-walks/events/316623518/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
+      "failures": 0
+    },
     "https://www.meetup.com/longmont-walks/events/317181854/": {
       "verdict": "ok",
       "status": 200,
@@ -5986,6 +6016,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/nocomustachians/events/317571958/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-25T07:18:38Z",
       "failures": 0
     },
     "https://www.meetup.com/northern-burbs-active-adults/events/316800439/": {

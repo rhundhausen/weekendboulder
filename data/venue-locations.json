@@ -499,6 +499,10 @@
     "from": "lookup",
     "checked": "2026-11-24"
   },
+  "virtual-meeting": {
+    "from": "none",
+    "checked": "2026-11-25"
+  },
   "virtual-via-zoom": {
     "from": "none",
     "checked": "2026-11-24"
