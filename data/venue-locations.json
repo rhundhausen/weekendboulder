@@ -186,6 +186,13 @@
     "from": "none",
     "checked": "2026-11-24"
   },
+  "eagle-trailhead": {
+    "lat": 40.2106967,
+    "lon": -105.2345432,
+    "address": "51st St, Boulder, CO, Boulder, CO",
+    "from": "lookup",
+    "checked": "2026-11-26"
+  },
   "east-and-co": {
     "lat": 40.0215637,
     "lon": -105.2176249,
@@ -368,6 +375,10 @@
     "from": "lookup",
     "checked": "2026-11-24"
   },
+  "our-center-outreach-united-resource-center": {
+    "from": "none",
+    "checked": "2026-11-26"
+  },
   "parkway-food-hall": {
     "lat": 40.1533589,
     "lon": -105.1048937,
@@ -482,6 +493,10 @@
   "the-louisville-underground": {
     "from": "none",
     "checked": "2026-11-24"
+  },
+  "trael-fine-jewelry": {
+    "from": "none",
+    "checked": "2026-11-26"
   },
   "umc-235": {
     "lat": 40.0067303,

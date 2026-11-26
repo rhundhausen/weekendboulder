@@ -159,7 +159,7 @@
     "https://bouldercounty.gov/event/colorado-dairy-goat-association-dairy-goat-show-3/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/colorado-pony-of-the-americas-open-horse-show-2/": {
@@ -339,7 +339,7 @@
     "https://bouldercounty.gov/event/hikes-for-seniors-winter-at-the-preserve/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/holiday-bazar-craft-fair-and-bake-sale/": {
@@ -381,19 +381,19 @@
     "https://bouldercounty.gov/event/mile-hi-golden-retriever-club-agility-trials-2/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/mile-hi-golden-retriever-club-agility-trials-3/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/mile-hi-golden-retriever-club-agility-trials/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://bouldercounty.gov/event/mile-high-agility-club-of-boulder-dog-agility-trial-2/": {
@@ -1053,7 +1053,7 @@
     "https://calendar.colorado.edu/event/opera-arias-and-ensembles-fall-2026-annual-opera-class-performance": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://calendar.colorado.edu/event/opera-arias-and-ensembles-fall-2026-concert": {
@@ -1480,6 +1480,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://lafayettepubliclibrary.libcal.com/calendar/main/LYABFall2026": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInsepDec2026": {
@@ -1956,6 +1962,12 @@
       "checkedAt": "2026-11-21T07:16:35Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/baby-stay-play-38/2026-12-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/baby-storytime/2026-11-18/": {
       "verdict": "ok",
       "status": 200,
@@ -1966,6 +1978,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/baby-storytime/2026-12-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/be-ready-longmont-disaster-preparedness-workshop/": {
@@ -2076,6 +2094,12 @@
       "checkedAt": "2026-11-19T07:17:46Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/discovery-days-art-8/2026-12-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/discovery-days-music-movement-4/2026-11-17/": {
       "verdict": "ok",
       "status": 200,
@@ -2110,6 +2134,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-14T07:16:16Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/dungeons-dragons/2026-12-01/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/english-conversation-group/2026-11-14/": {
@@ -2169,7 +2199,7 @@
     "https://longmontcolorado.gov/event/holiday-guest-pass-on-sale-now/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/itty-bitty-city-preschool-playtime-4/2026-11-20/": {
@@ -2182,6 +2212,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-16T07:24:49Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/kids-club-9/2026-12-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/kids-creative-movement-class-9/2026-11-22/": {
@@ -2442,6 +2478,12 @@
       "checkedAt": "2026-11-17T07:18:18Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/the-library-o-u-r-center/2026-12-02/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/the-library-the-longmont-senior-center-2/": {
       "verdict": "ok",
       "status": 200,
@@ -2592,6 +2634,12 @@
       "checkedAt": "2026-11-13T18:09:26Z",
       "failures": 0
     },
+    "https://member.superiorchamber.com/events/details/black-friday-designer-showcase-16852": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
+      "failures": 0
+    },
     "https://member.superiorchamber.com/events/details/chat-with-the-chief-11-21-2026-16126": {
       "verdict": "ok",
       "status": 200,
@@ -2631,7 +2679,7 @@
     "https://member.superiorchamber.com/events/details/holiday-party-with-leela-inspired-16849": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://member.superiorchamber.com/events/details/money-education-craft-chocolate-tasting-12-02-2026-16850": {
@@ -3141,7 +3189,7 @@
     "https://nederland.libcal.com/event/17983335": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://nederland.libcal.com/event/17983336": {
@@ -5478,6 +5526,12 @@
       "checkedAt": "2026-11-22T07:16:28Z",
       "failures": 0
     },
+    "https://www.meetup.com/boulder-dance/events/317316767/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
+      "failures": 0
+    },
     "https://www.meetup.com/boulder-dance/events/317317431/": {
       "verdict": "ok",
       "status": 200,
@@ -5637,13 +5691,19 @@
     "https://www.meetup.com/boulder-wilderness-hiking/events/317425103/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-wilderness-hiking/events/317432615/": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-24T07:17:39Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-wilderness-hiking/events/317502320/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/314635506/": {
@@ -6057,7 +6117,7 @@
     "https://www.meetup.com/northern-burbs-active-adults/events/317493795/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     },
     "https://www.meetup.com/rmaiig/events/316986284/": {
@@ -6183,7 +6243,7 @@
     "https://www.meetup.com/women-in-ai-colorado/events/317491705/": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-19T07:17:46Z",
+      "checkedAt": "2026-11-26T07:18:24Z",
       "failures": 0
     }
   }

@@ -8543,5 +8543,295 @@
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
+  },
+  {
+    "id": "2955a0008fb2",
+    "title": "Library and book drops close at 5pm",
+    "start": "2026-11-25T10:00:00-07:00",
+    "end": "2026-11-25T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/15032467",
+    "description": "The Library is closing early in recognition of Thanksgiving. The book drops will be locked from 5pm on Wednesday until 9am on Saturday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/15032467",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3e73e987aa26",
+    "title": "Baby Storytime",
+    "start": "2026-11-25T10:00:00-07:00",
+    "end": "2026-11-25T10:20:00-07:00",
+    "allDay": false,
+    "venue": "City of Longmont",
+    "venueKey": "city-of-longmont",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-25/",
+    "description": "For ages birth-2 Library Meeting Rooms No registration required This program is in English Get ready for an interactive storytime designed for infants to age 2 and their grownup! Enjoy 20 minutes of short stories, songs, rhymes, bouncing, and fun for child and grownup. Baby Storytime is a great w...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-25/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "2dbcbbd76cd2",
+    "title": "Baby Stay & Play",
+    "start": "2026-11-25T10:30:00-07:00",
+    "end": "2026-11-25T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-25/",
+    "description": "Library Meeting Rooms No registration required This program is in English This event happens weekly on Wednesdays Join us for open play time for birth through 2-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. M...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-25/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "1b5dd6f17d76",
+    "title": "Makerspace - Drop In",
+    "start": "2026-11-25T13:00:00-07:00",
+    "end": "2026-11-25T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedNov252026",
+    "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedNov252026",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "1cca80167974",
+    "title": "Sunrise on the Reaping Hunger Games Party!",
+    "start": "2026-11-25T14:00:00-07:00",
+    "end": "2026-11-25T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/sunrise-on-the-reaping-hunger-games-party-2/",
+    "description": "For 6th-12th graders Teen Room No registration required This program is in English Hunger Games fans unite! Join us in celebrating the release of the movie adaptation of Suzanne Collins’ book, Sunrise on the Reaping, with snacks and friends and fun! Image courtesy https://booktrib.com/",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/sunrise-on-the-reaping-hunger-games-party-2/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "61a7f904501f",
+    "title": "Once Upon a Time in Harlem | Nov. 25-29",
+    "start": "2026-11-25T16:30:00-07:00",
+    "end": "2026-11-25T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-25/",
+    "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-25/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "c5451fde3412",
+    "title": "Library Closes at 5PM",
+    "start": "2026-11-25T17:00:00-07:00",
+    "end": "2026-11-25T17:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/library-closes-at-5pm-2/",
+    "description": "The Library will close early today in observance of Thanksgiving.",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/library-closes-at-5pm-2/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "afd93afadd32",
+    "title": "6:00 PM PrePay ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
+    "start": "2026-11-25T18:00:00-07:00",
+    "end": "2026-11-25T23:55:00-07:00",
+    "allDay": false,
+    "venue": "628 N Beshear Ct",
+    "venueKey": "628-n-beshear-ct",
+    "city": "Erie",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "M",
+    "costTier": "$",
+    "url": "https://www.meetup.com/boulderwine/events/317316462/",
+    "description": "PLEASE READ BEFORE SIGNING UP: This is for the 6:00 PM PrePay Start Time. I have gotten many complaints from hosts that people RSVP and don't show, so we are going to test out PrePaying at this event. Venmo and Cash app are below, if you need something other than that contact me. This is non refu...",
+    "sources": [
+      {
+        "name": "meetup-boulderwine",
+        "url": "https://www.meetup.com/boulderwine/events/317316462/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "002c27d6736f",
+    "title": "The Only Living Pickpocket in New York | Nov. 25-29",
+    "start": "2026-11-25T19:00:00-07:00",
+    "end": "2026-11-25T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-25/",
+    "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-25/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "69f6023d20e9",
+    "title": "7:00 PM ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
+    "start": "2026-11-25T19:00:00-07:00",
+    "end": "2026-11-25T23:55:00-07:00",
+    "allDay": false,
+    "venue": "628 N Beshear Ct",
+    "venueKey": "628-n-beshear-ct",
+    "city": "Erie",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "M",
+    "costTier": "$",
+    "url": "https://www.meetup.com/boulderwine/events/317316605/",
+    "description": "PLEASE READ BEFORE SIGNING UP: This is for the 7:00 PM Start Time. We have 5 different start times, to make the check in process easier and smoother. If you RSVP, please attend. If the time you want it is full, please sign up for a later time. You can wait-list for your desired time slot, if you...",
+    "sources": [
+      {
+        "name": "meetup-boulderwine",
+        "url": "https://www.meetup.com/boulderwine/events/317316605/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "53ea279d4f98",
+    "title": "Wednesday Waltz Etc.",
+    "start": "2026-11-25T19:30:00-07:00",
+    "end": "2026-11-25T21:30:00-07:00",
+    "allDay": false,
+    "venue": "The Avalon Ballroom",
+    "venueKey": "the-avalon-ballroom",
+    "city": "Boulder",
+    "category": "nightlife-social",
+    "tags": [],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://www.meetup.com/boulder-dance/events/315956654/",
+    "description": "Join us for a lovely evening of dancing to great tunes old and new. DJs play favorites and introduce you to some new tunes as well. Come enjoy a wide variety of dance music including waltzes, one-steps, swings, foxtrots, Latin and more. Everyone is welcome! No experience or partner necessary. Two...",
+    "sources": [
+      {
+        "name": "meetup-boulder-dance",
+        "url": "https://www.meetup.com/boulder-dance/events/315956654/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3ba93bbd2b95",
+    "title": "8:00 PM ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
+    "start": "2026-11-25T20:00:00-07:00",
+    "end": "2026-11-25T23:55:00-07:00",
+    "allDay": false,
+    "venue": "628 N Beshear Ct",
+    "venueKey": "628-n-beshear-ct",
+    "city": "Erie",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "M",
+    "costTier": "$",
+    "url": "https://www.meetup.com/boulderwine/events/317316620/",
+    "description": "PLEASE READ BEFORE SIGNING UP: This is for the 8:00 PM Start Time. We have 5 different start times, to make the check in process easier and smoother. If you RSVP, please attend. If the time you want it is full, please sign up for a later time. You can wait-list for your desired time slot, if you...",
+    "sources": [
+      {
+        "name": "meetup-boulderwine",
+        "url": "https://www.meetup.com/boulderwine/events/317316620/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
   }
 ]
