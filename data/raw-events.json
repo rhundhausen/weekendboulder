@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-25T07:00:00Z",
+  "asOf": "2026-11-26T07:00:00Z",
   "sources": {
     "boulder-county": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "459bb1dd3027",
@@ -2313,7 +2313,7 @@
       ]
     },
     "carousel-of-happiness": {
-      "fetchedAt": "2026-11-24T07:14:12Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "12e21efc7f1b",
@@ -2340,7 +2340,7 @@
       ]
     },
     "city-of-longmont": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "731f9bf4c73b",
@@ -2362,148 +2362,6 @@
               "name": "city-of-longmont",
               "url": "https://longmontcolorado.gov/event/holiday-guest-pass-on-sale-now/",
               "fetchedAt": "2026-11-19T07:13:26Z"
-            }
-          ]
-        },
-        {
-          "id": "5923173dd8db",
-          "title": "Open Chess Night @ the Library",
-          "start": "2026-11-24T17:30:00-07:00",
-          "end": "2026-11-24T19:30:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "learning-business",
-          "tags": [
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-24/",
-          "description": "Unquiet Study Area (Library, second floor) Open to all ages Open to all levels and abilities No registration required This program is in English Tuesdays are Open Chess Night at the Longmont Public Library! We will have tables set up for playing and chess sets available. You may bring your own se...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/open-chess-night/2026-11-24/",
-              "fetchedAt": "2026-11-20T07:13:46Z"
-            }
-          ]
-        },
-        {
-          "id": "ee0abcaf4cb8",
-          "title": "Community Food Workshop for Teens",
-          "start": "2026-11-24T18:00:00-07:00",
-          "end": "2026-11-24T19:00:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "learning-business",
-          "tags": [
-            "workshop"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/community-food-workshop-for-teens-6/",
-          "description": "For 6th-12th graders Teen Room Registration is required This program is in English Calling all foodies! If you like eating food, like making food, dream about one day being a chef, or any combination of these things, please join us for our teen food workshop series. In this three-part series, we...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/community-food-workshop-for-teens-6/",
-              "fetchedAt": "2026-11-20T07:13:46Z"
-            }
-          ]
-        },
-        {
-          "id": "3e73e987aa26",
-          "title": "Baby Storytime",
-          "start": "2026-11-25T10:00:00-07:00",
-          "end": "2026-11-25T10:20:00-07:00",
-          "allDay": false,
-          "venue": "City of Longmont",
-          "venueKey": "city-of-longmont",
-          "city": "Longmont",
-          "category": "learning-business",
-          "tags": [
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-25/",
-          "description": "For ages birth-2 Library Meeting Rooms No registration required This program is in English Get ready for an interactive storytime designed for infants to age 2 and their grownup! Enjoy 20 minutes of short stories, songs, rhymes, bouncing, and fun for child and grownup. Baby Storytime is a great w...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/baby-storytime/2026-11-25/",
-              "fetchedAt": "2026-11-21T07:12:31Z"
-            }
-          ]
-        },
-        {
-          "id": "2dbcbbd76cd2",
-          "title": "Baby Stay & Play",
-          "start": "2026-11-25T10:30:00-07:00",
-          "end": "2026-11-25T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-25/",
-          "description": "Library Meeting Rooms No registration required This program is in English This event happens weekly on Wednesdays Join us for open play time for birth through 2-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. M...",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-11-25/",
-              "fetchedAt": "2026-11-21T07:12:31Z"
-            }
-          ]
-        },
-        {
-          "id": "1cca80167974",
-          "title": "Sunrise on the Reaping Hunger Games Party!",
-          "start": "2026-11-25T14:00:00-07:00",
-          "end": "2026-11-25T15:00:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "community-civic",
-          "tags": [],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/sunrise-on-the-reaping-hunger-games-party-2/",
-          "description": "For 6th-12th graders Teen Room No registration required This program is in English Hunger Games fans unite! Join us in celebrating the release of the movie adaptation of Suzanne Collins’ book, Sunrise on the Reaping, with snacks and friends and fun! Image courtesy https://booktrib.com/",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/sunrise-on-the-reaping-hunger-games-party-2/",
-              "fetchedAt": "2026-11-21T07:12:31Z"
-            }
-          ]
-        },
-        {
-          "id": "c5451fde3412",
-          "title": "Library Closes at 5PM",
-          "start": "2026-11-25T17:00:00-07:00",
-          "end": "2026-11-25T17:00:00-07:00",
-          "allDay": false,
-          "venue": "Longmont Public Library",
-          "venueKey": "longmont-public-library",
-          "city": "Longmont",
-          "category": "learning-business",
-          "tags": [
-            "library-program"
-          ],
-          "size": "S",
-          "url": "https://longmontcolorado.gov/event/library-closes-at-5pm-2/",
-          "description": "The Library will close early today in observance of Thanksgiving.",
-          "sources": [
-            {
-              "name": "city-of-longmont",
-              "url": "https://longmontcolorado.gov/event/library-closes-at-5pm-2/",
-              "fetchedAt": "2026-11-21T07:12:31Z"
             }
           ]
         },
@@ -2993,11 +2851,156 @@
               "fetchedAt": "2026-11-25T07:14:39Z"
             }
           ]
+        },
+        {
+          "id": "e1e023a9bd0b",
+          "title": "Teen Dungeons & Dragons",
+          "start": "2026-12-01T18:00:00-07:00",
+          "end": "2026-12-01T19:30:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Public Library",
+          "venueKey": "longmont-public-library",
+          "city": "Longmont",
+          "category": "nightlife-social",
+          "tags": [
+            "board-games"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-12-01/",
+          "description": "For 6th-12th graders Teen Room Registration is not required This program is in English Calling all D&D lovers! 6th-12th graders who have some experience playing Dungeons & Dragons are invited to come and play friendly campaigns. The most experienced players will Dungeon Master and more experience...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/dungeons-dragons/2026-12-01/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "d5d604425b98",
+          "title": "The Library @ O.U.R. Center",
+          "start": "2026-12-02T08:30:00-07:00",
+          "end": "2026-12-02T12:00:00-07:00",
+          "allDay": false,
+          "venue": "OUR Center (Outreach United Resource Center",
+          "venueKey": "our-center-outreach-united-resource-center",
+          "city": "Longmont",
+          "category": "learning-business",
+          "tags": [
+            "library-program"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/the-library-o-u-r-center/2026-12-02/",
+          "description": "Stop by the Longmont Library’s table every 1st Wednesday to learn about all the FREE resources, services, programs and more the Library offers and sign up for your FREE Library card while you’re there!",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/the-library-o-u-r-center/2026-12-02/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "cdb956bf392d",
+          "title": "Discovery Days Art",
+          "start": "2026-12-02T09:15:00-07:00",
+          "end": "2026-12-02T14:15:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Museum",
+          "venueKey": "longmont-museum",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "costTier": "$",
+          "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-12-02/",
+          "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-12-02/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "98aea013b1e4",
+          "title": "Baby Storytime",
+          "start": "2026-12-02T10:00:00-07:00",
+          "end": "2026-12-02T10:20:00-07:00",
+          "allDay": false,
+          "venue": "City of Longmont",
+          "venueKey": "city-of-longmont",
+          "city": "Longmont",
+          "category": "learning-business",
+          "tags": [
+            "library-program"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/baby-storytime/2026-12-02/",
+          "description": "For ages birth-2 Library Meeting Rooms No registration required This program is in English Get ready for an interactive storytime designed for infants to age 2 and their grownup! Enjoy 20 minutes of short stories, songs, rhymes, bouncing, and fun for child and grownup. Baby Storytime is a great w...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/baby-storytime/2026-12-02/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "52132f98f1d5",
+          "title": "Baby Stay & Play",
+          "start": "2026-12-02T10:30:00-07:00",
+          "end": "2026-12-02T11:00:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Public Library",
+          "venueKey": "longmont-public-library",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-12-02/",
+          "description": "Library Meeting Rooms No registration required This program is in English This event happens weekly on Wednesdays Join us for open play time for birth through 2-year-olds and their caregivers. We will provide the toys, sensory experiences, music, and all the room you need to learn through play. M...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/baby-stay-play-38/2026-12-02/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "d2dd2a5a860b",
+          "title": "Kids Club",
+          "start": "2026-12-02T16:00:00-07:00",
+          "end": "2026-12-02T16:45:00-07:00",
+          "allDay": false,
+          "venue": "Longmont Public Library",
+          "venueKey": "longmont-public-library",
+          "city": "Longmont",
+          "category": "community-civic",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://longmontcolorado.gov/event/kids-club-9/2026-12-02/",
+          "description": "For 1st-2nd graders No registration required This program is presented in English Join us in Kids Club on 1st and 3rd Wednesdays of each month to make crafts, play games, and enjoy other fun activities. Participants will practice working with peers, explore their creativity, and exercise critical...",
+          "sources": [
+            {
+              "name": "city-of-longmont",
+              "url": "https://longmontcolorado.gov/event/kids-club-9/2026-12-02/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
         }
       ]
     },
     "colorado-chautauqua": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "2629c66ac5b3",
@@ -3487,56 +3490,12 @@
       ]
     },
     "colorado-music-festival": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "cu-presents": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
-        {
-          "id": "2adb76515d23",
-          "title": "A.R.T. Through the Wake: Episode 1 of 4",
-          "start": "2026-10-25T14:00:00-06:00",
-          "end": "2026-10-25T15:00:00-06:00",
-          "allDay": false,
-          "venue": "University Theatre",
-          "venueKey": "university-theatre",
-          "city": "Boulder",
-          "category": "performing-arts",
-          "tags": [],
-          "size": "M",
-          "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
-          "description": "Choreography by Angel Anderson, Rhianna Cranston and Tanniqua-Kay Buchanan Experience a mesmerizing and thought-provoking evening of dance as we present A.R.T. Through the Wake, featuring works choreographed by MFA in Dance candidates Angel Anderson, Rhianna Cranston, and Tanniqua-Kay Buchanan. A...",
-          "sources": [
-            {
-              "name": "cu-presents",
-              "url": "https://calendar.colorado.edu/event/art-through-the-wake-episode-1-of-4",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "bf0c571f77e4",
-          "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-          "start": "2026-10-25T14:00:00-06:00",
-          "end": "2026-10-25T15:00:00-06:00",
-          "allDay": false,
-          "venue": "Macky Auditorium",
-          "venueKey": "macky-auditorium",
-          "city": "Boulder",
-          "category": "performing-arts",
-          "tags": [],
-          "size": "L",
-          "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
-          "description": "An iconic musical thriller set in 19th-century London, Sweeney Todd follows a barber who returns from wrongful exile seeking revenge on the corrupt judge who destroyed his life. With the help of the resourceful Mrs. Lovett and her struggling pie shop, he resumes his trade upstairs, and his quest...",
-          "sources": [
-            {
-              "name": "cu-presents",
-              "url": "https://calendar.colorado.edu/event/sweeney-todd-the-demon-barber-of-fleet-street",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "cb831ee418cb",
           "title": "Guest Artist Recital: John Sipher, Trombone",
@@ -8617,68 +8576,8 @@
       ]
     },
     "dairy-arts-center": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
-        {
-          "id": "61a7f904501f",
-          "title": "Once Upon a Time in Harlem | Nov. 25-29",
-          "start": "2026-11-25T16:30:00-07:00",
-          "end": "2026-11-25T18:00:00-07:00",
-          "allDay": false,
-          "venue": "Boedecker Theater",
-          "venueKey": "boedecker-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "film"
-          ],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-25/",
-          "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
-          "location": {
-            "lat": 40.0193115,
-            "lon": -105.261067,
-            "address": "Walnut Street, Boulder, CO 80302"
-          },
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-25/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "002c27d6736f",
-          "title": "The Only Living Pickpocket in New York | Nov. 25-29",
-          "start": "2026-11-25T19:00:00-07:00",
-          "end": "2026-11-25T20:30:00-07:00",
-          "allDay": false,
-          "venue": "Boedecker Theater",
-          "venueKey": "boedecker-theater",
-          "city": "Boulder",
-          "category": "arts-culture",
-          "tags": [
-            "film"
-          ],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-25/",
-          "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
-          "location": {
-            "lat": 40.0193115,
-            "lon": -105.261067,
-            "address": "Walnut Street, Boulder, CO 80302"
-          },
-          "sources": [
-            {
-              "name": "dairy-arts-center",
-              "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-25/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "44e036430760",
           "title": "The Only Living Pickpocket in New York | Nov. 25-29",
@@ -14963,7 +14862,7 @@
       ]
     },
     "erie-community-library": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "2b7b8e50d6cc",
@@ -16093,7 +15992,7 @@
       ]
     },
     "historic-boulder": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "2b2bcaec3aa9",
@@ -16147,7 +16046,7 @@
       ]
     },
     "kbco-calendar": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "8f256506da43",
@@ -16312,32 +16211,8 @@
       ]
     },
     "lafayette-public-library": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
-        {
-          "id": "ed354dac70f2",
-          "title": "Paws to Read - Drop In",
-          "start": "2026-10-25T13:30:00-06:00",
-          "end": "2026-10-25T14:30:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [
-            "kids"
-          ],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/event/15600042",
-          "description": "Kids ages 5-10 - Spend 15 minutes reading to a special therapy dog! They are cuddly, good listeners who would love to hear your stories. Learn more about The Alliance of Therapy Dogs at www.therapydogs.com.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/event/15600042",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "de4a7d73b010",
           "title": "Teen Maker Hangout - Drop In",
@@ -18597,6 +18472,28 @@
           ]
         },
         {
+          "id": "23a8b0a8f27e",
+          "title": "LYAB Meeting",
+          "start": "2026-12-02T18:30:00-07:00",
+          "end": "2026-12-02T20:00:00-07:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LYABFall2026",
+          "description": "Monthly meetings of the Lafayette Youth Advisory Board (LYAB) are open to the public and typically happen on the first Wednesday. For more information on LYAB, or how to become a member, visit the LYAB home page.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/LYABFall2026",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
           "id": "24bbba38e664",
           "title": "Makerspace - Drop In",
           "start": "2026-12-03T15:30:00-07:00",
@@ -19885,28 +19782,6 @@
           ]
         },
         {
-          "id": "53411efb723b",
-          "title": "Coffee and Conversation",
-          "start": "2027-01-02T10:00:00-07:00",
-          "end": "2027-01-02T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
           "id": "4f271d8cf492",
           "title": "Sensory Storytime",
           "start": "2027-01-02T10:30:00-07:00",
@@ -20628,28 +20503,6 @@
             {
               "name": "lafayette-public-library",
               "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/familystorytimeFriJan-Apr2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "abb464086243",
-          "title": "Coffee and Conversation",
-          "start": "2027-01-16T10:00:00-07:00",
-          "end": "2027-01-16T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
               "fetchedAt": "2026-11-13T18:03:35Z"
             }
           ]
@@ -21805,28 +21658,6 @@
           ]
         },
         {
-          "id": "65242a4d5091",
-          "title": "Coffee and Conversation - Active Minds: Harriet Tubman",
-          "start": "2027-02-06T10:00:00-07:00",
-          "end": "2027-02-06T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics. This month, Active Minds wi...",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
           "id": "794ad7253b35",
           "title": "Sensory Storytime",
           "start": "2027-02-06T10:30:00-07:00",
@@ -22603,28 +22434,6 @@
             {
               "name": "lafayette-public-library",
               "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/familystorytimeFriJan-Apr2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "db59a65d338d",
-          "title": "Coffee and Conversation",
-          "start": "2027-02-20T10:00:00-07:00",
-          "end": "2027-02-20T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
               "fetchedAt": "2026-11-13T18:03:35Z"
             }
           ]
@@ -23569,28 +23378,6 @@
           ]
         },
         {
-          "id": "c13a7a6b1a10",
-          "title": "Coffee and Conversation",
-          "start": "2027-03-06T10:00:00-07:00",
-          "end": "2027-03-06T11:00:00-07:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
           "id": "d1d9ba0a70e0",
           "title": "Sensory Storytime",
           "start": "2027-03-06T10:30:00-07:00",
@@ -24267,28 +24054,6 @@
               "name": "lafayette-public-library",
               "url": "https://lafayettepubliclibrary.libcal.com/event/18043291",
               "fetchedAt": "2026-11-18T07:13:48Z"
-            }
-          ]
-        },
-        {
-          "id": "32697f5f73b8",
-          "title": "Coffee and Conversation",
-          "start": "2027-03-20T10:00:00-06:00",
-          "end": "2027-03-20T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
             }
           ]
         },
@@ -24993,28 +24758,6 @@
             {
               "name": "lafayette-public-library",
               "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/familystorytimeFriJan-Apr2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "45c7fd028c77",
-          "title": "Coffee and Conversation",
-          "start": "2027-04-03T10:00:00-06:00",
-          "end": "2027-04-03T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
               "fetchedAt": "2026-11-13T18:03:35Z"
             }
           ]
@@ -25995,28 +25738,6 @@
           ]
         },
         {
-          "id": "bbcc338bd2b7",
-          "title": "Coffee and Conversation",
-          "start": "2027-04-17T10:00:00-06:00",
-          "end": "2027-04-17T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
           "id": "8e05a730bf59",
           "title": "Saturday Storytime",
           "start": "2027-04-17T10:30:00-06:00",
@@ -26698,28 +26419,6 @@
           ]
         },
         {
-          "id": "e92fdf6c5eff",
-          "title": "Coffee and Conversation",
-          "start": "2027-05-01T10:00:00-06:00",
-          "end": "2027-05-01T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-14T07:11:53Z"
-            }
-          ]
-        },
-        {
           "id": "1cf6587959b9",
           "title": "Sensory Storytime",
           "start": "2027-05-01T10:30:00-06:00",
@@ -27224,28 +26923,6 @@
           ]
         },
         {
-          "id": "87aa1bdbd9e9",
-          "title": "Coffee and Conversation",
-          "start": "2027-05-15T10:00:00-06:00",
-          "end": "2027-05-15T11:00:00-06:00",
-          "allDay": false,
-          "venue": "Lafayette Public Library",
-          "venueKey": "lafayette-public-library",
-          "city": "Lafayette",
-          "category": "learning-business",
-          "tags": [],
-          "size": "S",
-          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-          "description": "Older adults - drop in upstairs in the Upper North Seating Area every first and third Saturday of the month for an hour of conversation! Join fellow Lafayette residents to enjoy free coffee, tea, and conversation. Quarterly speakers will present on a variety of topics.",
-          "sources": [
-            {
-              "name": "lafayette-public-library",
-              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/CoffeeConversationsJan-May2027",
-              "fetchedAt": "2026-11-18T07:13:48Z"
-            }
-          ]
-        },
-        {
           "id": "281cc2b3cc31",
           "title": "Saturday Storytime",
           "start": "2027-05-15T10:30:00-06:00",
@@ -27429,11 +27106,242 @@
               "fetchedAt": "2026-11-25T07:14:39Z"
             }
           ]
+        },
+        {
+          "id": "f5f9d39f6a23",
+          "title": "Saturday Storytime",
+          "start": "2027-05-22T10:30:00-06:00",
+          "end": "2027-05-22T11:00:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids",
+            "library-program"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/saturdaystorytimeJan-May2027",
+          "description": "Kids and caregivers - join us for stories, songs, and interactive fun perfect for all ages! Please check the Storytime sign in the Lobby for the most updated location information, and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/saturdaystorytimeJan-May2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "5be9502b84b2",
+          "title": "Conversations in English - Drop In",
+          "start": "2027-05-22T11:00:00-06:00",
+          "end": "2027-05-22T12:15:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/conversationsinenglishJan-May2027",
+          "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/conversationsinenglishJan-May2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "e7ebc813a6bf",
+          "title": "Paws to Read - Drop In",
+          "start": "2027-05-23T13:30:00-06:00",
+          "end": "2027-05-23T14:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PawsJan-Dec2027",
+          "description": "Kids ages 5-10 - Spend 15 minutes reading to a special therapy dog! They are cuddly, good listeners who would love to hear your stories. Learn more about The Alliance of Therapy Dogs at www.therapydogs.com.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/PawsJan-Dec2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "d2319642c440",
+          "title": "Teen Maker Hangout - Drop In",
+          "start": "2027-05-24T16:30:00-06:00",
+          "end": "2027-05-24T19:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutMonJanMay2027",
+          "description": "Teens in grades 6-12 - Drop in to use and explore the Library's Makerspace! Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or special programs. We encourage you to check the calendar or call 303-661-1...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/TeenMakerHangoutMonJanMay2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "3fe3d12517a4",
+          "title": "Writers Group - Drop In",
+          "start": "2027-05-24T18:00:00-06:00",
+          "end": "2027-05-24T19:00:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/writersgroup2027",
+          "description": "Adults - drop by the Library to chat with fellow writers of all levels about your projects, share experiences with writing and getting published, get ideas for development of a piece, and learn from each other in a casual atmosphere. Questions? Contact the Programs Staff. Location: upstairs at th...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/writersgroup2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "b9b84f8265e9",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-25T14:30:00-06:00",
+          "end": "2027-05-25T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInTuesJanMay2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInTuesJanMay2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "fcf736290e45",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-26T14:30:00-06:00",
+          "end": "2027-05-26T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInWedJan-May2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "a59815b544b4",
+          "title": "Conversations in Spanish - Drop In",
+          "start": "2027-05-26T18:00:00-06:00",
+          "end": "2027-05-26T19:15:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+          "description": "Adults - join us for Conversaciones en español! Come practice and improve your Spanish skills with a native Spanish speaker as your facilitator. Questions? Contact the Programs Staff. Location: upstairs at the North End seating area.",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/ConvosinSpanishJan-May2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "c45b7c917a02",
+          "title": "Arabic Book Club",
+          "start": "2027-05-26T18:00:00-06:00",
+          "end": "2027-05-26T19:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Arabicbookclub2027",
+          "description": "The Arabic Book Club is an independent book group, open to the public, that typically meets on the fourth Wednesday of each month (subject to change when there are holiday conflicts) from 6-8pm. We choose Arabic books with English translations, making it easy for everyone to participate in enrich...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/Arabicbookclub2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
+        {
+          "id": "419670492c49",
+          "title": "Makerspace - Drop In",
+          "start": "2027-05-27T14:30:00-06:00",
+          "end": "2027-05-27T18:30:00-06:00",
+          "allDay": false,
+          "venue": "Lafayette Public Library",
+          "venueKey": "lafayette-public-library",
+          "city": "Lafayette",
+          "category": "learning-business",
+          "tags": [
+            "kids"
+          ],
+          "size": "S",
+          "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+          "description": "Makerspace drop in is open to all ages; children in grades 5 and below must be under the direct supervision of a person over the age of 17 years old. Learn about the equipment we have, programs we offer, and tools available for making designs. Please note that hours can change due to staffing or...",
+          "sources": [
+            {
+              "name": "lafayette-public-library",
+              "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
         }
       ]
     },
     "longmont-public-media": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "e0413e36f67e",
@@ -27643,7 +27551,7 @@
       ]
     },
     "meetup-40ish-childfree-meet-up": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "e7d43f54c385",
@@ -27670,15 +27578,15 @@
       ]
     },
     "meetup-ai-for-small-business-boulder-denver": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-analyze-boulder": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-bdnewtech": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "568c26793787",
@@ -27705,7 +27613,7 @@
       ]
     },
     "meetup-beerandcameras": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -27733,11 +27641,11 @@
       ]
     },
     "meetup-bniintegrity": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-20s-30s-hiking-travel-local-activities": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "7175fa6d54eb",
@@ -27786,19 +27694,19 @@
       ]
     },
     "meetup-boulder-birds-and-brew": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-board-games": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-board-games-galore": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-bookaholics": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "e9d772c47656",
@@ -27959,35 +27867,12 @@
       ]
     },
     "meetup-boulder-county-fun-with-french": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-dance": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
-        {
-          "id": "53ea279d4f98",
-          "title": "Wednesday Waltz Etc.",
-          "start": "2026-11-25T19:30:00-07:00",
-          "end": "2026-11-25T21:30:00-07:00",
-          "allDay": false,
-          "venue": "The Avalon Ballroom",
-          "venueKey": "the-avalon-ballroom",
-          "city": "Boulder",
-          "category": "nightlife-social",
-          "tags": [],
-          "size": "S",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulder-dance/events/315956654/",
-          "description": "Join us for a lovely evening of dancing to great tunes old and new. DJs play favorites and introduce you to some new tunes as well. Come enjoy a wide variety of dance music including waltzes, one-steps, swings, foxtrots, Latin and more. Everyone is welcome! No experience or partner necessary. Two...",
-          "sources": [
-            {
-              "name": "meetup-boulder-dance",
-              "url": "https://www.meetup.com/boulder-dance/events/315956654/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "d98e7bea31fa",
           "title": "Scottish Ceilidh",
@@ -28191,27 +28076,53 @@
               "fetchedAt": "2026-11-22T07:12:14Z"
             }
           ]
+        },
+        {
+          "id": "d4c485d62ce9",
+          "title": "Scottish ceilidh",
+          "start": "2027-04-24T16:00:00-06:00",
+          "end": "2027-04-24T18:15:00-06:00",
+          "allDay": false,
+          "venue": "The Avalon",
+          "venueKey": "the-avalon",
+          "city": "Boulder",
+          "category": "nightlife-social",
+          "tags": [],
+          "size": "S",
+          "costTier": "$",
+          "url": "https://www.meetup.com/boulder-dance/events/317316767/",
+          "description": "Live music and all dances will be called. Tango studio at the Avalon. (Pay in [advance](https://www.zeffy.com/en-US/ticketing/ceilidh-april-co-hosted-by-scdc) or at the door) No partner or experience needed. Wear comfy scuff free shoes and bring a water bottle. [St Andrew Society Colorado ceilidh...",
+          "location": {
+            "address": "6185 Arapahoe Rd, Boulder, CO 80303, USA, Boulder, CO, Boulder, CO"
+          },
+          "sources": [
+            {
+              "name": "meetup-boulder-dance",
+              "url": "https://www.meetup.com/boulder-dance/events/317316767/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
         }
       ]
     },
     "meetup-boulder-experiments-in-art-and-technology": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-hiking-and-yoga-networking-group": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-independent-film-club": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-mountain-bikers": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-photo-center": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "075332c34cc7",
@@ -28240,11 +28151,11 @@
       ]
     },
     "meetup-boulder-rock-climbing-meetup-group": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulder-shambhala-center": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "67e6f4195dd6",
@@ -28341,7 +28252,7 @@
       ]
     },
     "meetup-boulder-tech-connect": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "66d2392144bf",
@@ -28368,7 +28279,7 @@
       ]
     },
     "meetup-boulder-wilderness-hiking": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "b3a99695d5f9",
@@ -28481,11 +28392,36 @@
               "fetchedAt": "2026-11-24T07:14:12Z"
             }
           ]
+        },
+        {
+          "id": "5fd77c1694af",
+          "title": "Weekly In-town:Sage and Eagle Trail Lollipop",
+          "start": "2026-12-15T13:00:00-07:00",
+          "end": "2026-12-15T14:30:00-07:00",
+          "allDay": false,
+          "venue": "Eagle Trailhead",
+          "venueKey": "eagle-trailhead",
+          "city": "Boulder",
+          "category": "outdoors-recreation",
+          "tags": [],
+          "size": "S",
+          "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317502320/",
+          "description": "Let's keep our weekly trend going! 3.6 (a quick climb up .4, for heart rate) easy country miles, rolling fields, ponds, views, horses. This time we won't add the 3 extra miles! check day of in case of cold weather. Parking is just past Boulder Reservoir. Bathroom halfway. No dogs please. Lastly,...",
+          "location": {
+            "address": "51st St, Boulder, CO, Boulder, CO"
+          },
+          "sources": [
+            {
+              "name": "meetup-boulder-wilderness-hiking",
+              "url": "https://www.meetup.com/boulder-wilderness-hiking/events/317502320/",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
         }
       ]
     },
     "meetup-boulder-writers-alliance-meetup": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "e3aa3b771ba2",
@@ -28713,15 +28649,15 @@
       ]
     },
     "meetup-boulder-writers-directors-filmmaking-photographers-show": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulderpython": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulderramblers": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "4f99317755f8",
@@ -28836,7 +28772,7 @@
       ]
     },
     "meetup-boulderstartups": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "75236a92ce8b",
@@ -29008,15 +28944,15 @@
       ]
     },
     "meetup-bouldertoddlerparents": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulderveganfamilies": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-boulderwalks": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "4f99317755f8",
@@ -29131,133 +29067,8 @@
       ]
     },
     "meetup-boulderwine": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
-        {
-          "id": "afd93afadd32",
-          "title": "6:00 PM PrePay ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
-          "start": "2026-11-25T18:00:00-07:00",
-          "end": "2026-11-25T23:55:00-07:00",
-          "allDay": false,
-          "venue": "628 N Beshear Ct",
-          "venueKey": "628-n-beshear-ct",
-          "city": "Erie",
-          "category": "holiday-seasonal",
-          "tags": [
-            "holiday-event"
-          ],
-          "size": "M",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulderwine/events/317316462/",
-          "description": "PLEASE READ BEFORE SIGNING UP: This is for the 6:00 PM PrePay Start Time. I have gotten many complaints from hosts that people RSVP and don't show, so we are going to test out PrePaying at this event. Venmo and Cash app are below, if you need something other than that contact me. This is non refu...",
-          "sources": [
-            {
-              "name": "meetup-boulderwine",
-              "url": "https://www.meetup.com/boulderwine/events/317316462/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "f49fc06d7404",
-          "title": "6:30 PM PrePay ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
-          "start": "2026-11-25T18:30:00-07:00",
-          "end": "2026-11-25T23:55:00-07:00",
-          "allDay": false,
-          "venue": "628 N Beshear Ct",
-          "venueKey": "628-n-beshear-ct",
-          "city": "Erie",
-          "category": "holiday-seasonal",
-          "tags": [
-            "holiday-event"
-          ],
-          "size": "M",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulderwine/events/317316584/",
-          "description": "PLEASE READ BEFORE SIGNING UP: This is for the 6:30 PM PrePay Start Time. I have gotten many complaints from hosts that people RSVP and don't show, so we are going to test out PrePaying at this event. Venmo and Cash app are below, if you need something other than that contact me. This is non refu...",
-          "sources": [
-            {
-              "name": "meetup-boulderwine",
-              "url": "https://www.meetup.com/boulderwine/events/317316584/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "69f6023d20e9",
-          "title": "7:00 PM ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
-          "start": "2026-11-25T19:00:00-07:00",
-          "end": "2026-11-25T23:55:00-07:00",
-          "allDay": false,
-          "venue": "628 N Beshear Ct",
-          "venueKey": "628-n-beshear-ct",
-          "city": "Erie",
-          "category": "holiday-seasonal",
-          "tags": [
-            "holiday-event"
-          ],
-          "size": "M",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulderwine/events/317316605/",
-          "description": "PLEASE READ BEFORE SIGNING UP: This is for the 7:00 PM Start Time. We have 5 different start times, to make the check in process easier and smoother. If you RSVP, please attend. If the time you want it is full, please sign up for a later time. You can wait-list for your desired time slot, if you...",
-          "sources": [
-            {
-              "name": "meetup-boulderwine",
-              "url": "https://www.meetup.com/boulderwine/events/317316605/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "d2926bf0b347",
-          "title": "7:30 PM ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
-          "start": "2026-11-25T19:30:00-07:00",
-          "end": "2026-11-25T23:55:00-07:00",
-          "allDay": false,
-          "venue": "628 N Beshear Ct",
-          "venueKey": "628-n-beshear-ct",
-          "city": "Erie",
-          "category": "holiday-seasonal",
-          "tags": [
-            "holiday-event"
-          ],
-          "size": "M",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulderwine/events/317316613/",
-          "description": "PLEASE READ BEFORE SIGNING UP: This is for the 7:30 PM Start Time. We have 5 different start times, to make the check in process easier and smoother. If you RSVP, please attend. If the time you want it is full, please sign up for a later time. You can wait-list for your desired time slot, if you...",
-          "sources": [
-            {
-              "name": "meetup-boulderwine",
-              "url": "https://www.meetup.com/boulderwine/events/317316613/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
-        {
-          "id": "3ba93bbd2b95",
-          "title": "8:00 PM ** 2026 Dionysus Day Pre-Thanksgiving Semi-Formal Wine Event",
-          "start": "2026-11-25T20:00:00-07:00",
-          "end": "2026-11-25T23:55:00-07:00",
-          "allDay": false,
-          "venue": "628 N Beshear Ct",
-          "venueKey": "628-n-beshear-ct",
-          "city": "Erie",
-          "category": "holiday-seasonal",
-          "tags": [
-            "holiday-event"
-          ],
-          "size": "M",
-          "costTier": "$",
-          "url": "https://www.meetup.com/boulderwine/events/317316620/",
-          "description": "PLEASE READ BEFORE SIGNING UP: This is for the 8:00 PM Start Time. We have 5 different start times, to make the check in process easier and smoother. If you RSVP, please attend. If the time you want it is full, please sign up for a later time. You can wait-list for your desired time slot, if you...",
-          "sources": [
-            {
-              "name": "meetup-boulderwine",
-              "url": "https://www.meetup.com/boulderwine/events/317316620/",
-              "fetchedAt": "2026-11-13T18:03:35Z"
-            }
-          ]
-        },
         {
           "id": "ca52cbfbd656",
           "title": "End of the Year, Host Appreciation Dinner (MUST HOST IN 2026 AND INVITED)",
@@ -29283,11 +29094,11 @@
       ]
     },
     "meetup-bvgt-family-activities": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-camerasandbeersboulder-thephotoshow": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "fecce727b57f",
@@ -29315,7 +29126,7 @@
       ]
     },
     "meetup-improvbouldermeetup": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "39189ac63c0d",
@@ -29418,11 +29229,11 @@
       ]
     },
     "meetup-longmont-game-night-society": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-longmont-walks": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "f0447b414040",
@@ -29647,11 +29458,11 @@
       ]
     },
     "meetup-meetup-group-rebelbookclub": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-nocomustachians": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "50530b88e9de",
@@ -29703,7 +29514,7 @@
       ]
     },
     "meetup-northern-burbs-active-adults": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "587cf84d41b1",
@@ -29776,15 +29587,15 @@
       ]
     },
     "meetup-pugs-of-colorado": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-rmaiig": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-silent-book-club-lafayette": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "6009f9b8a8e8",
@@ -29811,7 +29622,7 @@
       ]
     },
     "meetup-solidstatedepot": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "e8add145d69b",
@@ -30052,15 +29863,15 @@
       ]
     },
     "meetup-st-vrain-chain-gang": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-startup-longmont": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "meetup-women-in-ai-colorado": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "93f5c91e000f",
@@ -30087,7 +29898,7 @@
       ]
     },
     "meetup-womens-open-jam-at-dog-house-music-studios": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "2bbaf8cc70b9",
@@ -30164,7 +29975,7 @@
       ]
     },
     "museum-of-boulder": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "5c75422719c4",
@@ -30367,7 +30178,7 @@
       ]
     },
     "nederland-community-library": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
         {
           "id": "d69c6ff0e090",
@@ -34881,8 +34692,30 @@
       ]
     },
     "superior-chamber": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": [
+        {
+          "id": "919bd7ed76f4",
+          "title": "Black Friday & Designer Showcase",
+          "start": "2026-11-27T10:00:00-07:00",
+          "end": "2026-11-28T17:00:00-07:00",
+          "allDay": false,
+          "venue": "Trael Fine Jewelry",
+          "venueKey": "trael-fine-jewelry",
+          "city": "Superior",
+          "category": "community-civic",
+          "tags": [],
+          "size": "S",
+          "url": "https://member.superiorchamber.com/events/details/black-friday-designer-showcase-16852",
+          "description": "Visit Trael Fine Jewelry for our Black Friday and Small Business Saturday event!! Amazing colored gemstone pieces to choose from and our curated holiday inventory for wonderful gift ideas. Shop 10am-5pm both days with light snacks and drinks to get in the holiday spirit.",
+          "sources": [
+            {
+              "name": "superior-chamber",
+              "url": "https://member.superiorchamber.com/events/details/black-friday-designer-showcase-16852",
+              "fetchedAt": "2026-11-26T07:14:23Z"
+            }
+          ]
+        },
         {
           "id": "f52223de8b36",
           "title": "Small Business AI Academy",
@@ -35160,15 +34993,15 @@
       ]
     },
     "town-of-erie": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "town-of-lyons": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     },
     "upslope-brewing": {
-      "fetchedAt": "2026-11-25T07:14:39Z",
+      "fetchedAt": "2026-11-26T07:14:23Z",
       "events": []
     }
   }
