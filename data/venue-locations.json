@@ -8,8 +8,11 @@
     "checked": "2026-11-24"
   },
   "5765-arapahoe-ave-unit-b": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.014760903541,
+    "lon": -105.21855815635,
+    "address": "5765 Arapahoe Ave unit b, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "628-n-beshear-ct": {
     "from": "placeholder",
@@ -20,7 +23,7 @@
     "lon": -105.2782692,
     "address": "298 Morning Glory Rd., Boulder, CO 80302",
     "from": "zip",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "agricultural-heritage-center": {
     "lat": 40.20296469,
@@ -30,10 +33,11 @@
     "checked": "2026-11-24"
   },
   "backcountry-pizza-and-tap-house": {
-    "lat": 40.0149726,
-    "lon": -105.2641372,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.014583446035,
+    "lon": -105.263928253208,
+    "address": "2319 Arapahoe Ave, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "barn-a": {
     "lat": 40.155727,
@@ -43,8 +47,11 @@
     "checked": "2026-11-24"
   },
   "blue-sport-stable": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.951520342668,
+    "lon": -105.159383523876,
+    "address": "1 Superior Drive, Superior, CO 80027",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "boedecker-theater": {
     "lat": 40.0193115,
@@ -55,72 +62,78 @@
   },
   "boulder-bookaholics": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-country-club": {
-    "lat": 40.0632017,
-    "lon": -105.1851016,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.065384808949,
+    "lon": -105.18190523463,
+    "address": "7350 Clubhouse Road, Boulder, CO 80301",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "boulder-county": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-county-courthouse": {
-    "lat": 40.0180211,
-    "lon": -105.2784572,
+    "lat": 40.01813179574,
+    "lon": -105.278596125783,
     "address": "1300 Pearl St, Boulder, CO 80302",
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "boulder-location-to-be-determined": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-photo-center-darkroom": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-public-library": {
-    "lat": 40.0199242,
-    "lon": -105.2818965,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.013715379739,
+    "lon": -105.280917650079,
+    "address": "1001 Arapahoe Ave, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "boulder-shambhala-center": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.019353530887,
+    "lon": -105.278433065584,
+    "address": "1345 Spruce St, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "boulder-startups": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-theater": {
     "lat": 40.0191944,
     "lon": -105.2772358,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-university-womens-club": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "boulder-wilderness-hiking": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "cafe-luna": {
-    "lat": 40.1725018,
-    "lon": -105.103565,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.172380305404,
+    "lon": -105.103745984028,
+    "address": "800 Coffman St, Longmont, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "carousel-of-happiness": {
     "lat": 39.9601158,
     "lon": -105.5100033,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "carsen-theater": {
     "lat": 40.0193115,
@@ -130,31 +143,31 @@
     "checked": "2026-11-24"
   },
   "chautauqua": {
-    "lat": 39.9999701,
-    "lon": -105.283278,
+    "lat": 40.000010724647,
+    "lon": -105.281862182258,
     "address": "900 Baseline Rd., Boulder, CO 80302",
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "chautauqua-auditorium": {
     "lat": 39.9977164,
     "lon": -105.2801719,
     "address": "100 Morning Glory Dr., Boulder, CO 80302",
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "chautauqua-community-house": {
-    "lat": 39.997788,
-    "lon": -105.282106,
+    "lat": 39.997761550485,
+    "lon": -105.282190944895,
     "address": "301 Morning Glory Drive, Boulder, CO 80302",
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "city-of-longmont": {
     "lat": 40.1644594,
     "lon": -105.1005744,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "commissioners-hearing-room": {
     "lat": 40.018877,
@@ -164,8 +177,11 @@
     "checked": "2026-11-24"
   },
   "confluence-collective": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.989368228437,
+    "lon": -105.091660123749,
+    "address": "75 Waneka Pkwy, Lafayette, CO 80026",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "dairy-arts-center": {
     "lat": 40.0193115,
@@ -176,11 +192,14 @@
   },
   "davidson-mesa-trailhead": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "dog-house-music-studios": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.98413027446,
+    "lon": -105.095334778249,
+    "address": "525 Courtney Way, Lafayette, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "downtown-erie": {
     "from": "none",
@@ -188,30 +207,35 @@
   },
   "downtown-superior-on-main-street-and-superior-drive": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "eagle-trailhead": {
     "lat": 40.2106967,
     "lon": -105.2345432,
-    "address": "51st St, Boulder, CO, Boulder, CO",
-    "from": "lookup",
-    "checked": "2026-11-26"
+    "address": "51st St, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "east-and-co": {
-    "lat": 40.0215637,
-    "lon": -105.2176249,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.021071738188,
+    "lon": -105.218247854099,
+    "address": "2100 Central Ave, Boulder, CO 80301",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "east-simpson-coffee-company": {
-    "lat": 39.9984719,
-    "lon": -105.089026,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 39.998277302639,
+    "lon": -105.089274173311,
+    "address": "201 E Simpson St, Lafayette, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "eldora-ski-resort": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.9359855,
+    "lon": -105.581391,
+    "address": "2861 Eldora Ski Road #140, Nederland, co",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "erie-community-center": {
     "lat": 40.0375995,
@@ -227,20 +251,24 @@
     "checked": "2026-11-24"
   },
   "foothills-community-park": {
-    "lat": 40.0570046,
-    "lon": -105.2895316,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.0573451,
+    "lon": -105.2882896,
+    "address": "800 Cherry Avenue, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "founder-central-by-sweater": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.020161997568,
+    "lon": -105.218883206118,
+    "address": "2000 Central Ave #100, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "fox-theatre": {
     "lat": 40.0080338,
     "lon": -105.2765914,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "gordon-gamm-theater": {
     "lat": 40.0193115,
@@ -265,13 +293,14 @@
   },
   "hall-ranch": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "imig-music": {
     "lat": 40.0061261,
     "lon": -105.2689505,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "address": "1020 18th Street, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "indoor-arena": {
     "lat": 40.155026,
@@ -281,71 +310,87 @@
     "checked": "2026-11-24"
   },
   "josephine-commons": {
-    "lat": 40.0015948,
-    "lon": -105.0808123,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.001678376523,
+    "lon": -105.078946744956,
+    "address": "455 N Burlington Ave, Lafayette, CO 80026",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "la-belle-french-bakery": {
-    "address": "1170 Hwy 287 N, Broomfield, CO, Broomfield, CO",
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.933006901639,
+    "lon": -105.090569532794,
+    "address": "1170 Hwy 287 N, Broomfield, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "lafayette-public-library": {
     "lat": 40.0009041,
     "lon": -105.099486,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "leela-inspired": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.023567621124,
+    "lon": -105.247372136131,
+    "address": "2530 Frontier Ave, Boulder, CO 80301",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "liquid-mechanics-brewing-company": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.998549098736,
+    "lon": -105.103095843821,
+    "address": "297 US-287 #100, Lafayette, CO 80026, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "longmont-museum": {
     "lat": 40.1455972,
     "lon": -105.0994234,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "address": "400 Quail Rd., Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "longmont-public-library": {
-    "lat": 40.1652294,
-    "lon": -105.100525,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.164918956794,
+    "lon": -105.099926322924,
+    "address": "355 Emery St., Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "longmont-public-media": {
     "from": "none",
     "checked": "2026-11-24"
   },
   "longmont-youth-center": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.177108440617,
+    "lon": -105.08820455541,
+    "address": "1050 Lashley St., Longmont, CO 80504",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "louisville": {
     "lat": 39.9911945,
     "lon": -105.1565218,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "macky-auditorium": {
     "lat": 40.0099895,
     "lon": -105.2727641,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "address": "1595 Pleasant Street, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "marshall-mesa-trailhead": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "mary-rippon-theatre": {
-    "lat": 40.0071797,
-    "lon": -105.272765,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.0073338,
+    "lon": -105.2724139,
+    "address": "1550 Central Campus Mall, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "mcintosh-lake": {
     "lat": 40.1943166,
@@ -354,46 +399,55 @@
     "checked": "2026-11-24"
   },
   "museum-of-boulder": {
-    "lat": 40.015157,
-    "lon": -105.2772986,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.019990349996,
+    "lon": -105.280773024702,
+    "address": "2205 Broadway, Boulder, CO 80302",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "nederland-community-library": {
     "lat": 39.963114,
     "lon": -105.512298,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "neptune-cafe-and-bar": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.978011860049,
+    "lon": -105.243337063229,
+    "address": "633 S Broadway, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "north-boulder": {
     "lat": 40.007666,
     "lon": -105.247925,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "nuvania": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "odd13-brewing": {
-    "lat": 39.998385,
-    "lon": -105.0878622,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 39.99827741988,
+    "lon": -105.087985358012,
+    "address": "301 E Simpson St, Lafayette, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "our-center-outreach-united-resource-center": {
-    "from": "none",
-    "checked": "2026-11-26"
+    "lat": 40.16235756228,
+    "lon": -105.098098501841,
+    "address": "220 Collyer Street, Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "parkway-food-hall": {
-    "lat": 40.1533589,
-    "lon": -105.1048937,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.15259994952,
+    "lon": -105.102915715428,
+    "address": "700 Ken Pratt Blvd #200, Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "pella-crossing": {
     "lat": 40.18364391,
@@ -410,24 +464,29 @@
     "checked": "2026-11-24"
   },
   "rasoi-indian-restaurant": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.905850157026,
+    "lon": -105.088183307367,
+    "address": "8181 Arista Place, Suite 150, Broomfield, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "rayback-collective": {
-    "lat": 40.0299838,
-    "lon": -105.259219,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.029209899254,
+    "lon": -105.259653164893,
+    "address": "2775 Valmont Drive, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "recreation-center": {
     "lat": 40.1461655,
     "lon": -105.0971871,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "address": "310 Quail Rd., Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "register-for-location": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "ron-stewart-preserve-at-rabbit-mountain": {
     "lat": 40.24638048,
@@ -437,100 +496,132 @@
     "checked": "2026-11-24"
   },
   "roosevelt-park": {
-    "lat": 40.1717751,
-    "lon": -105.1061827,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.17072457392,
+    "lon": -105.103901615535,
+    "address": "700 Longs Peak Ave., Longmont, CO 80501",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "roots-music-project": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.025259400218,
+    "lon": -105.242962546458,
+    "address": "4747 Pearl St Suite V3A, Boulder, CO 80301",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "roser-atlas-center": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.0075543,
+    "lon": -105.2699184,
+    "address": "1125 18th Street, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "sky-lounge": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.905793258424,
+    "lon": -105.094024063704,
+    "address": "8740 Arista Place, Broomfield, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "solid-state-depot": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.014760903541,
+    "lon": -105.21855815635,
+    "address": "5765 Arapahoe Ave, Unit B, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "st-vrain-greenway-trailhead": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.14874999646,
+    "lon": -105.055360002825,
+    "address": "County Line Road 1 and Quicksilver Road,, Longmont, CO, Longmont, CO",
+    "from": "address",
+    "checked": "2026-11-27"
   },
   "superior-chamber": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "superior-community-center": {
-    "lat": 39.9282286,
-    "lon": -105.1484778,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 39.928882302624,
+    "lon": -105.147433530142,
+    "address": "1500 Coalton Rd, Superior, CO 80027",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "the-avalon": {
-    "lat": 39.9873428,
-    "lon": -105.0873217,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.014786305307,
+    "lon": -105.209098949492,
+    "address": "6185 Arapahoe Rd, Boulder, CO 80303",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "the-avalon-ballroom": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.014786305307,
+    "lon": -105.209098949492,
+    "address": "6185 Arapahoe Rd, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "the-colorado-chautauqua": {
     "lat": 39.9978333,
     "lon": -105.2798263,
     "from": "lookup",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "the-district": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.986838921052,
+    "lon": -105.094393050716,
+    "address": "400 W South Boulder Rd, Lafayette, CO 80026",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "the-end-at-doghouse-studios": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.98413027446,
+    "lon": -105.095334778249,
+    "address": "525 Courtney Way, Lafayette, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "the-event-is-at-west-main-homes": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "the-louisville-underground": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.97629744432,
+    "lon": -105.132059435958,
+    "address": "640 Main St, Louisville, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "trael-fine-jewelry": {
     "from": "none",
-    "checked": "2026-11-26"
+    "checked": "2026-11-27"
   },
   "umc-235": {
-    "lat": 40.0067303,
-    "lon": -105.2715544,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.00603611622,
+    "lon": -105.271318845388,
+    "address": "1669 Euclid Avenue, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "umc-glenn-miller-ballroom": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "university-theatre": {
     "lat": 40.0080797,
     "lon": -105.2736136,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "address": "1515 Central Campus Mall, Boulder, CO 80309",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "virtual-meeting": {
     "from": "none",
-    "checked": "2026-11-25"
+    "checked": "2026-11-27"
   },
   "virtual-via-zoom": {
     "from": "none",
-    "checked": "2026-11-24"
+    "checked": "2026-11-27"
   },
   "walden-ponds-wildlife-habitat": {
     "lat": 40.044004,
@@ -540,17 +631,24 @@
     "checked": "2026-11-24"
   },
   "walker-ranch-loop-trailhead-parking-lot": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 39.959602169341,
+    "lon": -105.338046496424,
+    "address": "7701 Flagstaff Rd, Boulder, CO 80302",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "wild-provisions-by-4-noses-brewing-company": {
-    "lat": 40.0217857,
-    "lon": -105.2193959,
-    "from": "lookup",
-    "checked": "2026-11-24"
+    "lat": 40.024634369525,
+    "lon": -105.218513300829,
+    "address": "2209 Central Ave, Boulder, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   },
   "winot-coffee-co": {
-    "from": "none",
-    "checked": "2026-11-24"
+    "lat": 40.101571346498,
+    "lon": -105.167631638451,
+    "address": "7960 Niwot Rd D13, Niwot, CO",
+    "from": "page",
+    "checked": "2026-11-27"
   }
 }
