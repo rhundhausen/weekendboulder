@@ -2268,6 +2268,12 @@
       "checkedAt": "2026-11-17T07:18:18Z",
       "failures": 0
     },
+    "https://longmontcolorado.gov/event/make-and-take-station-pinecone-gnomes/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-27T07:18:08Z",
+      "failures": 0
+    },
     "https://longmontcolorado.gov/event/make-it-better/2026-11-19/": {
       "verdict": "ok",
       "status": 200,
@@ -2446,6 +2452,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-19T07:17:46Z",
+      "failures": 0
+    },
+    "https://longmontcolorado.gov/event/teen-anime-club-15/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-27T07:18:08Z",
       "failures": 0
     },
     "https://longmontcolorado.gov/event/teen-craft-create-club-5/2026-11-17/": {
@@ -5385,13 +5397,19 @@
     "https://www.erieco.gov/Calendar.aspx?EID=5489": {
       "verdict": "ok",
       "status": 200,
-      "checkedAt": "2026-11-13T18:09:26Z",
+      "checkedAt": "2026-11-27T07:18:08Z",
       "failures": 0
     },
     "https://www.erieco.gov/Calendar.aspx?EID=5537": {
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-17T18:20:58Z",
+      "failures": 0
+    },
+    "https://www.erieco.gov/Calendar.aspx?EID=5551": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-27T07:18:08Z",
       "failures": 0
     },
     "https://www.meetup.com/40ish-childfree-meet-up/events/317256748/": {
@@ -5740,6 +5758,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-13T18:09:26Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630274/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-27T07:18:08Z",
       "failures": 0
     },
     "https://www.meetup.com/boulder-writers-alliance-meetup/events/316644554/": {
@@ -6202,6 +6226,12 @@
       "verdict": "ok",
       "status": 200,
       "checkedAt": "2026-11-21T07:16:35Z",
+      "failures": 0
+    },
+    "https://www.meetup.com/solidstatedepot/events/klpdmtykccbcc/": {
+      "verdict": "ok",
+      "status": 200,
+      "checkedAt": "2026-11-27T07:18:08Z",
       "failures": 0
     },
     "https://www.meetup.com/solidstatedepot/events/klpdmtykccbkb/": {

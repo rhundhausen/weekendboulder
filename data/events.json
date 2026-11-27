@@ -23,216 +23,6 @@
     ]
   },
   {
-    "id": "9e52cc5cdedb",
-    "title": "Library and book drops closed",
-    "start": "2026-11-26",
-    "allDay": true,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/event/15032471",
-    "description": "The Library is closed in recognition of Thanksgiving. The book drops will be locked from 5pm on Wednesday until 9am on Saturday.",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/event/15032471",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "2629c66ac5b3",
-    "title": "Thanksgiving Morning Community Practice",
-    "start": "2026-11-26T08:00:00-07:00",
-    "allDay": false,
-    "venue": "Chautauqua Community House",
-    "venueKey": "chautauqua-community-house",
-    "city": "Boulder",
-    "category": "holiday-seasonal",
-    "tags": [
-      "holiday-event"
-    ],
-    "size": "M",
-    "costTier": "$$",
-    "url": "https://www.chautauqua.com/event/thanksgiving-yoga-for-all/2026-11-26/",
-    "description": "Enjoy a special morning of movement, community and music at Chautauqua on Thanksgiving morning at 8 AM with Shanti and Scott Medina. Experience a live music gentle yoga and qigong to root into gratitude and celebrate the season. All are warmly welcome. No experience necessary. Advance registratio...",
-    "sources": [
-      {
-        "name": "colorado-chautauqua",
-        "url": "https://www.chautauqua.com/event/thanksgiving-yoga-for-all/2026-11-26/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "e3aa3b771ba2",
-    "title": "BWA Write (Work) Together",
-    "start": "2026-11-26T12:00:00-07:00",
-    "end": "2026-11-26T16:00:00-07:00",
-    "allDay": false,
-    "venue": "Neptune Café & Bar",
-    "venueKey": "neptune-cafe-and-bar",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [],
-    "size": "S",
-    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314107/",
-    "description": "Hello writing lovers! Though writing tends to be a solitary activity, sometimes having a partner or three nearby with their heads down, writing away, can help our own concentration and process. It's also nice to know that we're not alone in this love of storytelling or trying to turn our thoughts...",
-    "sources": [
-      {
-        "name": "meetup-boulder-writers-alliance-meetup",
-        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314107/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "d17acc6ac8ea",
-    "title": "Make it Better",
-    "start": "2026-11-26T15:00:00-07:00",
-    "end": "2026-11-26T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Youth Center",
-    "venueKey": "longmont-youth-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-26/",
-    "description": "The world can be a cruel place, right? So what are you willing to do to Make It Better? In this weekly club, we cheer up the depressed and lonely, improve our natural environment, run kindness campaigns, and spread happiness to those around us! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-26/",
-        "fetchedAt": "2026-11-21T07:12:31Z"
-      }
-    ]
-  },
-  {
-    "id": "dfd2b3a9465a",
-    "title": "Navigators",
-    "start": "2026-11-26T16:00:00-07:00",
-    "end": "2026-11-26T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Youth Center",
-    "venueKey": "longmont-youth-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-26/",
-    "description": "combines young adults’ life-skills education with an outdoor adventure component. Young people get to know themselves and the kinds of futures they want while exploring the City if Longmont on bikes, kayaks, and their own two feet. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in tim...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-26/",
-        "fetchedAt": "2026-11-21T07:12:31Z"
-      }
-    ]
-  },
-  {
-    "id": "44e036430760",
-    "title": "The Only Living Pickpocket in New York | Nov. 25-29",
-    "start": "2026-11-26T16:30:00-07:00",
-    "end": "2026-11-26T18:00:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-26/",
-    "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-26/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "e8add145d69b",
-    "title": "Makerspace Open House and Tours",
-    "start": "2026-11-26T17:00:00-07:00",
-    "end": "2026-11-26T18:00:00-07:00",
-    "allDay": false,
-    "venue": "5765 Arapahoe Ave unit b",
-    "venueKey": "5765-arapahoe-ave-unit-b",
-    "city": "Boulder",
-    "category": "community-civic",
-    "tags": [
-      "public-meeting"
-    ],
-    "size": "S",
-    "url": "https://www.meetup.com/solidstatedepot/events/317320562/",
-    "description": "Solid State Depot is a 100% volunteer run makerspace. The best way to find out about our makerspace, get questions answers, or sign-up to become a member is to swing by one of our Open Houses. Every Thursday evening from 5pm - 6pm (officially ends at 6pm, but feel free to swing by later and almos...",
-    "sources": [
-      {
-        "name": "meetup-solidstatedepot",
-        "url": "https://www.meetup.com/solidstatedepot/events/317320562/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "337c89e67cba",
-    "title": "Once Upon a Time in Harlem | Nov. 25-29",
-    "start": "2026-11-26T19:00:00-07:00",
-    "end": "2026-11-26T20:30:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-26/",
-    "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-26/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "67e6f4195dd6",
-    "title": "Thursday Night Open Class",
-    "start": "2026-11-26T19:00:00-07:00",
-    "end": "2026-11-26T20:45:00-07:00",
-    "allDay": false,
-    "venue": "Boulder Shambhala Center",
-    "venueKey": "boulder-shambhala-center",
-    "city": "Boulder",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "costTier": "free",
-    "url": "https://www.meetup.com/boulder-shambhala-center/events/317322106/",
-    "description": "All are invited to the Boulder Shambhala Center, where a senior teacher will lead a period of sitting meditation practice (with meditation instruction offered) followed by a presentation with questions and discussion. Each week’s presentation is on a topic inspired by the Buddhist, Shambhala, or...",
-    "sources": [
-      {
-        "name": "meetup-boulder-shambhala-center",
-        "url": "https://www.meetup.com/boulder-shambhala-center/events/317322106/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
     "id": "4f72495001e5",
     "title": "Library and book drops closed",
     "start": "2026-11-27",
@@ -588,6 +378,28 @@
     ]
   },
   {
+    "id": "fea12ae38b87",
+    "title": "Shop Small Saturday",
+    "start": "2026-11-28T11:00:00-07:00",
+    "end": "2026-11-28T14:00:00-07:00",
+    "allDay": false,
+    "venue": "Downtown Erie",
+    "venueKey": "downtown-erie",
+    "city": "Erie",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.erieco.gov/Calendar.aspx?EID=5551",
+    "description": "Join We Love Erie for an incredible day of local shopping! Enjoy exclusive discounts at participating shops and discover unique treasures in the community.",
+    "sources": [
+      {
+        "name": "town-of-erie",
+        "url": "https://www.erieco.gov/Calendar.aspx?EID=5551",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "0edab7116a1d",
     "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
     "start": "2026-11-28T14:00:00-07:00",
@@ -849,28 +661,6 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-30/",
         "fetchedAt": "2026-11-22T07:12:14Z"
-      }
-    ]
-  },
-  {
-    "id": "e0413e36f67e",
-    "title": "Tour Longmont Public Media",
-    "start": "2026-11-30T12:00:00-07:00",
-    "end": "2026-11-30T13:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-    "description": "Interested in learning more about Longmont Public Media and what you can do at our facility? Join us for an tour and info session where you’ll get an inside look at the media makerspace, our studios, equipment, and how you can use it for your media needs. Please register below to attend. Can’t ma...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-        "fetchedAt": "2026-11-15T03:54:54Z"
       }
     ]
   },
@@ -1352,6 +1142,30 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/snacks-antojitos/2026-12-01/",
         "fetchedAt": "2026-11-25T07:14:39Z"
+      }
+    ]
+  },
+  {
+    "id": "b0a416783aa7",
+    "title": "Erie ACCESS Open House",
+    "start": "2026-12-01T17:00:00-07:00",
+    "end": "2026-12-01T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Center",
+    "venueKey": "erie-community-center",
+    "city": "Erie",
+    "category": "community-civic",
+    "tags": [
+      "public-meeting"
+    ],
+    "size": "S",
+    "url": "https://www.erieco.gov/Calendar.aspx?EID=5489",
+    "description": "Learn more about the upcoming programs, give input on the direction of each program, and test out our new fleet of adaptive bikes to see which one fits your or your child’s needs!",
+    "sources": [
+      {
+        "name": "town-of-erie",
+        "url": "https://www.erieco.gov/Calendar.aspx?EID=5489",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -1848,6 +1662,30 @@
     ]
   },
   {
+    "id": "3c5ebcfbc914",
+    "title": "Make and Take Station: Pinecone Gnomes",
+    "start": "2026-12-02T17:00:00-07:00",
+    "end": "2026-12-02T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/make-and-take-station-pinecone-gnomes/",
+    "description": "Best for kids of all ages with caregivers In the Children’s Area of the Library No registration required This program is presented in English and Spanish Come to the Children’s Area of the library on the 1st and 3rd Wednesday of every month from 5-7 pm to try a new make and take activity! We’ll h...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/make-and-take-station-pinecone-gnomes/",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "508f3b50caa2",
     "title": "The Human Animal Artist Talk",
     "start": "2026-12-02T17:00:00-07:00",
@@ -1869,6 +1707,28 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/the-human-animal-artist-talk/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8a2883200741",
+    "title": "Teen Anime Club",
+    "start": "2026-12-02T17:00:00-07:00",
+    "end": "2026-12-02T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/teen-anime-club-15/",
+    "description": "Teen Room 6th-12th graders No registration necessary This program is in English We’re watching: Toradora! (TV-14) Hang out and connect with friends while eating Japanese snacks and watching anime! We will sample the first couple episodes of different anime each time. All shows are rated TV-14 and...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/teen-anime-club-15/",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -2173,29 +2033,6 @@
         "name": "meetup-boulder-writers-alliance-meetup",
         "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314630/",
         "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "64bf7f10e931",
-    "title": "Orientation: Intro to Podcasting at Longmont Public Media",
-    "start": "2026-12-03T12:30:00-07:00",
-    "end": "2026-12-03T14:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$$",
-    "url": "https://longmontpublicmedia.org/events/orientation-podcasting/",
-    "description": "New to podcasting? This hands-on orientation is your starting point for making great audio and video content at Longmont Public Media. In just 90 minutes, you'll get comfortable in the studio and walk away ready to book your first session. What we'll cover: Studio Setup — Learn how the studio is...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/orientation-podcasting/",
-        "fetchedAt": "2026-11-15T03:54:54Z"
       }
     ]
   },
@@ -2754,29 +2591,6 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/naza-a-window-into-systems-of-mass-killing-dec-2-6/2026-12-04/",
         "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "1672c060898f",
-    "title": "Talk&Tunes featuring Wellington Bullings",
-    "start": "2026-12-04T19:00:00-07:00",
-    "end": "2026-12-04T21:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$",
-    "url": "https://longmontpublicmedia.org/events/talktunes-featuring-wellington-bullings/",
-    "description": "About Talk&Tunes Talk&Tunes is a talk show produced and hosted by Blessing Chimanga, where he sits down with both popular and upcoming Colorado-based artists to dive into their lives, creative processes, aspirations, upbringings, and songwriting techniques. Each episode blends meaningful conversa...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/talktunes-featuring-wellington-bullings/",
-        "fetchedAt": "2026-11-24T07:14:12Z"
       }
     ]
   },
@@ -3368,30 +3182,6 @@
     ]
   },
   {
-    "id": "867a1723f6e7",
-    "title": "Goddess Gala",
-    "start": "2026-12-05T17:00:00-07:00",
-    "end": "2026-12-05T20:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [
-      "fundraiser"
-    ],
-    "size": "S",
-    "url": "https://longmontpublicmedia.org/events/goddess-gala/",
-    "description": "The Goddess Gala will highlight goddesses big and small (musicians, comics, poets/writers, and dancers). Each performer (and attendees who wish to dress up as well) will come dressed as their true goddess selves. There will be a potluck at 5:00 and the show 6:00-8:00ish. There will be a woman-own...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/goddess-gala/",
-        "fetchedAt": "2026-11-16T07:20:28Z"
-      }
-    ]
-  },
-  {
     "id": "376ac059bbb8",
     "title": "NAZA: A Window Into Systems of Mass Killing | Dec. 2 – 6",
     "start": "2026-12-05T17:30:00-07:00",
@@ -3838,28 +3628,6 @@
     ]
   },
   {
-    "id": "836d7b0daca6",
-    "title": "Tour Longmont Public Media",
-    "start": "2026-12-07T12:00:00-07:00",
-    "end": "2026-12-07T13:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-    "description": "Interested in learning more about Longmont Public Media and what you can do at our facility? Join us for an tour and info session where you’ll get an inside look at the media makerspace, our studios, equipment, and how you can use it for your media needs. Please register below to attend. Can’t ma...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
-      }
-    ]
-  },
-  {
     "id": "8b119a9723dc",
     "title": "Career Exploration",
     "start": "2026-12-07T13:00:00-07:00",
@@ -3901,29 +3669,6 @@
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/15820332",
         "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "4eb6e460743d",
-    "title": "Canva 101",
-    "start": "2026-12-07T14:30:00-07:00",
-    "end": "2026-12-07T15:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$$",
-    "url": "https://longmontpublicmedia.org/events/canva-101/",
-    "description": "About the Class: Want to create eye-catching graphics but don’t know where to start? In Canva for Beginners, you’ll learn the basics of this powerful, free design tool to create professional-looking visuals—no graphic design experience required! In this hands-on class, we’ll cover: ✅ Navigating C...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/canva-101/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
       }
     ]
   },
@@ -3992,29 +3737,6 @@
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/18059557",
         "fetchedAt": "2026-11-20T07:13:46Z"
-      }
-    ]
-  },
-  {
-    "id": "26387ec02dd5",
-    "title": "Audio Studio Orientation",
-    "start": "2026-12-07T18:00:00-07:00",
-    "end": "2026-12-07T19:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$",
-    "url": "https://longmontpublicmedia.org/events/audio-studio-orientation/",
-    "description": "New to Longmont Public Media’s Audio Studio? This required orientation is a high-level introduction to the space so you can book and use it confidently. Greg Stone, LPM's audio studio co-captain, will cover what the studio is for, what’s available to members, basic workflow expectations, and the...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/audio-studio-orientation/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
       }
     ]
   },
@@ -4175,29 +3897,6 @@
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/15917172",
         "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "40ecb0555cac",
-    "title": "Intro to Davinci Resolve Editing Class",
-    "start": "2026-12-08T12:00:00-07:00",
-    "end": "2026-12-08T13:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "costTier": "$$$",
-    "url": "https://longmontpublicmedia.org/events/intro-to-davinci-resolve-editing-class/",
-    "description": "Learn how to bring your videos to life with DaVinci Resolve! This beginner-friendly class will introduce you to the essential tools and techniques needed to edit your videos using this powerful, free software. Whether you’re a content creator, aspiring filmmaker, or just looking to polish your ho...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/intro-to-davinci-resolve-editing-class/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
       }
     ]
   },
@@ -6059,28 +5758,6 @@
     ]
   },
   {
-    "id": "7875c30dde41",
-    "title": "Tour Longmont Public Media",
-    "start": "2026-12-14T12:00:00-07:00",
-    "end": "2026-12-14T13:00:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Public Media",
-    "venueKey": "longmont-public-media",
-    "city": "Longmont",
-    "category": "learning-business",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-    "description": "Interested in learning more about Longmont Public Media and what you can do at our facility? Join us for an tour and info session where you’ll get an inside look at the media makerspace, our studios, equipment, and how you can use it for your media needs. Please register below to attend. Can’t ma...",
-    "sources": [
-      {
-        "name": "longmont-public-media",
-        "url": "https://longmontpublicmedia.org/events/tour-longmont-public-media/",
-        "fetchedAt": "2026-11-17T07:13:48Z"
-      }
-    ]
-  },
-  {
     "id": "dda74fb338de",
     "title": "Monday Nederland Writers",
     "start": "2026-12-14T13:00:00-07:00",
@@ -6423,6 +6100,28 @@
         "name": "meetup-boulder-writers-alliance-meetup",
         "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/314783851/",
         "fetchedAt": "2026-11-24T07:14:12Z"
+      }
+    ]
+  },
+  {
+    "id": "87c8ddc872b3",
+    "title": "Creative Writer's Critique Group",
+    "start": "2026-12-16T10:00:00-07:00",
+    "end": "2026-12-16T12:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Public Library",
+    "venueKey": "boulder-public-library",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630274/",
+    "description": "Calling all creative writers! The BWA Writing Critique Group is here to for you! Everyone has a story inside them; we’ll help you find your voice and help you keep going. Our participants range from novices to published authors. Participation is open to anyone working on a creative piece -- wheth...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/316630274/",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -11365,6 +11064,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/MakerDropInThursJan-May2027",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9017905eaea2",
+    "title": "Makerspace Open House and Tours",
+    "start": "2027-01-21T17:00:00-07:00",
+    "end": "2027-01-21T18:00:00-07:00",
+    "allDay": false,
+    "venue": "5765 Arapahoe Ave unit b",
+    "venueKey": "5765-arapahoe-ave-unit-b",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [
+      "public-meeting"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/solidstatedepot/events/klpdmtykccbcc/",
+    "description": "Solid State Depot is a 100% volunteer run makerspace. The best way to find out about our makerspace, get questions answers, or sign-up to become a member is to swing by one of our Open Houses. Every Thursday evening from 5pm - 6pm (officially ends at 6pm, but feel free to swing by later and almos...",
+    "sources": [
+      {
+        "name": "meetup-solidstatedepot",
+        "url": "https://www.meetup.com/solidstatedepot/events/klpdmtykccbcc/",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -23694,6 +23417,28 @@
     ]
   },
   {
+    "id": "a0d58a69c046",
+    "title": "FI Book Club",
+    "start": "2027-05-27T18:00:00-06:00",
+    "end": "2027-05-27T20:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIbookgroup2027",
+    "description": "The FI Book Club is an independent book group, open to the public, that meets to discuss books about finance and business on the fourth Thursday of each month (except for holidays or other closures). Interested in joining or have questions about the book selection? Contact Evan or visit lafayette...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/FIbookgroup2027",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "58a4bfff4865",
     "title": "STORYTIME!",
     "start": "2027-05-28T10:15:00-06:00",
@@ -23740,6 +23485,28 @@
         "name": "dairy-arts-center",
         "url": "https://thedairy.org/event/compass-resonance-sands-of-time-with-mina-gajic-and-core/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "12e449f28621",
+    "title": "Conversations in English - Drop In",
+    "start": "2027-05-29T11:00:00-06:00",
+    "end": "2027-05-29T12:15:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/conversationsinenglishJan-May2027",
+    "description": "Adults - join other English language learners in a weekly conversation group designed to improve speaking and listening skills in a friendly, informal, and non-judgmental environment. These weekly drop-in conversations are facilitated by a native English speaker.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/conversationsinenglishJan-May2027",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },

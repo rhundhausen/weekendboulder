@@ -3329,6 +3329,31 @@
     ]
   },
   {
+    "id": "ac0940b32455",
+    "title": "Centennial State Ballet Presents \"The Nutcracker\"",
+    "start": "2026-11-14T10:30:00-07:00",
+    "end": "2026-11-14T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "holiday-seasonal",
+    "tags": [
+      "dance",
+      "nutcracker"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17606458",
+    "description": "The Centennial State Ballet will perform excerpts from their ballet The Nutcracker A simple reading of the story will be read in between the dancers performing. Seating may be limited so plan to arrive early. This event is open to all ages.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17606458",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "55ecbb615480",
     "title": "All Ages Storytime: Saturday",
     "start": "2026-11-14T11:00:00-07:00",
@@ -3372,6 +3397,28 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/EnglishChatsSepDec2026",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "14ea628e6d20",
+    "title": "Views of Nature The Galapagos Archipelago",
+    "start": "2026-11-14T13:00:00-07:00",
+    "end": "2026-11-14T14:30:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17448299",
+    "description": "These islands and the surrounding ocean are a stunning wildlife sanctuary. 97% of this vast area is a national park administered by the government of Ecuador as a permanent sanctuary for the many species of flora and fauna found here. Many of these are unique to the Galapagos while others visit t...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17448299",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -3885,6 +3932,30 @@
     ]
   },
   {
+    "id": "c90fd122283a",
+    "title": "Family LEGO Club",
+    "start": "2026-11-15T14:00:00-07:00",
+    "end": "2026-11-15T15:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/calendar/hpld/ecllc",
+    "description": "Join us to dream it, build it, and make friends. Families are invited to hang out and build with provided LEGO bricks. Bring your fun and creativity! An adult must stay in the room during lego club and supervise attending children. Please note: LEGO bricks may present a choking hazard to children...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/calendar/hpld/ecllc",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "d7a36567349c",
     "title": "The Outlaw Folk Album-Release Party and Community Potluck",
     "start": "2026-11-15T14:00:00-07:00",
@@ -4003,6 +4074,28 @@
     ]
   },
   {
+    "id": "8581b644a48d",
+    "title": "Erie Twinkle Babies",
+    "start": "2026-11-16T09:30:00-07:00",
+    "end": "2026-11-16T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605789",
+    "description": "Twinkle Babies is a lap-sit storytime designed for adult caregivers and babies up to 18 months old. Age-appropriate actions, songs, and books are presented to promote early literacy skills. Registration is required. Please note, you are registering for the entire 8 week session, not individual st...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605789",
+        "fetchedAt": "2026-11-27T07:14:11Z"
+      }
+    ]
+  },
+  {
     "id": "27c6c7733e3b",
     "title": "Colorado Chautauqua History Tour",
     "start": "2026-11-16T10:00:00-07:00",
@@ -4072,6 +4165,31 @@
         "name": "city-of-longmont",
         "url": "https://longmontcolorado.gov/event/all-ages-stay-play-30/2026-11-16/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "760811aead5f",
+    "title": "Erie Family Storytime",
+    "start": "2026-11-16T10:30:00-07:00",
+    "end": "2026-11-16T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605823",
+    "description": "Family storytime is designed for toddlers and preschoolers, though all are welcome to join the fun! Features books, songs, and activities that support early literacy and a love for reading. Space will be first come, first seated, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605823",
+        "fetchedAt": "2026-11-27T07:14:11Z"
       }
     ]
   },
@@ -8830,6 +8948,216 @@
       {
         "name": "meetup-boulderwine",
         "url": "https://www.meetup.com/boulderwine/events/317316620/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "9e52cc5cdedb",
+    "title": "Library and book drops closed",
+    "start": "2026-11-26",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/15032471",
+    "description": "The Library is closed in recognition of Thanksgiving. The book drops will be locked from 5pm on Wednesday until 9am on Saturday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/15032471",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "2629c66ac5b3",
+    "title": "Thanksgiving Morning Community Practice",
+    "start": "2026-11-26T08:00:00-07:00",
+    "allDay": false,
+    "venue": "Chautauqua Community House",
+    "venueKey": "chautauqua-community-house",
+    "city": "Boulder",
+    "category": "holiday-seasonal",
+    "tags": [
+      "holiday-event"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://www.chautauqua.com/event/thanksgiving-yoga-for-all/2026-11-26/",
+    "description": "Enjoy a special morning of movement, community and music at Chautauqua on Thanksgiving morning at 8 AM with Shanti and Scott Medina. Experience a live music gentle yoga and qigong to root into gratitude and celebrate the season. All are warmly welcome. No experience necessary. Advance registratio...",
+    "sources": [
+      {
+        "name": "colorado-chautauqua",
+        "url": "https://www.chautauqua.com/event/thanksgiving-yoga-for-all/2026-11-26/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e3aa3b771ba2",
+    "title": "BWA Write (Work) Together",
+    "start": "2026-11-26T12:00:00-07:00",
+    "end": "2026-11-26T16:00:00-07:00",
+    "allDay": false,
+    "venue": "Neptune Café & Bar",
+    "venueKey": "neptune-cafe-and-bar",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314107/",
+    "description": "Hello writing lovers! Though writing tends to be a solitary activity, sometimes having a partner or three nearby with their heads down, writing away, can help our own concentration and process. It's also nice to know that we're not alone in this love of storytelling or trying to turn our thoughts...",
+    "sources": [
+      {
+        "name": "meetup-boulder-writers-alliance-meetup",
+        "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314107/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d17acc6ac8ea",
+    "title": "Make it Better",
+    "start": "2026-11-26T15:00:00-07:00",
+    "end": "2026-11-26T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-26/",
+    "description": "The world can be a cruel place, right? So what are you willing to do to Make It Better? In this weekly club, we cheer up the depressed and lonely, improve our natural environment, run kindness campaigns, and spread happiness to those around us! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/make-it-better/2026-11-26/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "dfd2b3a9465a",
+    "title": "Navigators",
+    "start": "2026-11-26T16:00:00-07:00",
+    "end": "2026-11-26T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-26/",
+    "description": "combines young adults’ life-skills education with an outdoor adventure component. Young people get to know themselves and the kinds of futures they want while exploring the City if Longmont on bikes, kayaks, and their own two feet. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in tim...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/navigators-4/2026-11-26/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "44e036430760",
+    "title": "The Only Living Pickpocket in New York | Nov. 25-29",
+    "start": "2026-11-26T16:30:00-07:00",
+    "end": "2026-11-26T18:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-26/",
+    "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-26/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e8add145d69b",
+    "title": "Makerspace Open House and Tours",
+    "start": "2026-11-26T17:00:00-07:00",
+    "end": "2026-11-26T18:00:00-07:00",
+    "allDay": false,
+    "venue": "5765 Arapahoe Ave unit b",
+    "venueKey": "5765-arapahoe-ave-unit-b",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [
+      "public-meeting"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/solidstatedepot/events/317320562/",
+    "description": "Solid State Depot is a 100% volunteer run makerspace. The best way to find out about our makerspace, get questions answers, or sign-up to become a member is to swing by one of our Open Houses. Every Thursday evening from 5pm - 6pm (officially ends at 6pm, but feel free to swing by later and almos...",
+    "sources": [
+      {
+        "name": "meetup-solidstatedepot",
+        "url": "https://www.meetup.com/solidstatedepot/events/317320562/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "337c89e67cba",
+    "title": "Once Upon a Time in Harlem | Nov. 25-29",
+    "start": "2026-11-26T19:00:00-07:00",
+    "end": "2026-11-26T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-26/",
+    "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-26/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "67e6f4195dd6",
+    "title": "Thursday Night Open Class",
+    "start": "2026-11-26T19:00:00-07:00",
+    "end": "2026-11-26T20:45:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Shambhala Center",
+    "venueKey": "boulder-shambhala-center",
+    "city": "Boulder",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://www.meetup.com/boulder-shambhala-center/events/317322106/",
+    "description": "All are invited to the Boulder Shambhala Center, where a senior teacher will lead a period of sitting meditation practice (with meditation instruction offered) followed by a presentation with questions and discussion. Each week’s presentation is on a topic inspired by the Buddhist, Shambhala, or...",
+    "sources": [
+      {
+        "name": "meetup-boulder-shambhala-center",
+        "url": "https://www.meetup.com/boulder-shambhala-center/events/317322106/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]

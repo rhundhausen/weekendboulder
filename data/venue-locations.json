@@ -182,6 +182,10 @@
     "from": "none",
     "checked": "2026-11-24"
   },
+  "downtown-erie": {
+    "from": "none",
+    "checked": "2026-11-27"
+  },
   "downtown-superior-on-main-street-and-superior-drive": {
     "from": "none",
     "checked": "2026-11-24"
@@ -208,6 +212,12 @@
   "eldora-ski-resort": {
     "from": "none",
     "checked": "2026-11-24"
+  },
+  "erie-community-center": {
+    "lat": 40.0375995,
+    "lon": -105.052333,
+    "from": "lookup",
+    "checked": "2026-11-27"
   },
   "exhibit-building": {
     "lat": 40.155579,
