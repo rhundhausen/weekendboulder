@@ -23,51 +23,6 @@
     ]
   },
   {
-    "id": "4f72495001e5",
-    "title": "Library and book drops closed",
-    "start": "2026-11-27",
-    "allDay": true,
-    "venue": "Lafayette Public Library",
-    "venueKey": "lafayette-public-library",
-    "city": "Lafayette",
-    "category": "learning-business",
-    "tags": [
-      "library-program"
-    ],
-    "size": "S",
-    "url": "https://lafayettepubliclibrary.libcal.com/event/15032486",
-    "description": "The Library is closed in recognition of Thanksgiving. The book drops will be locked from 5pm on Wednesday until 9am on Saturday.",
-    "sources": [
-      {
-        "name": "lafayette-public-library",
-        "url": "https://lafayettepubliclibrary.libcal.com/event/15032486",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "3d7127c4c2df",
-    "title": "All Out League",
-    "start": "2026-11-27T04:00:00-07:00",
-    "end": "2026-11-27T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Youth Center",
-    "venueKey": "longmont-youth-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-27/",
-    "description": "(AOL) is a pro-diversity, anti-gang sports league for middle and high school students. AOL emphasizes sportsmanship, selflessness and new friendships. Sports include basketball, soccer, flag football, volleyball, ultimate Frisbee and many more. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-27/",
-        "fetchedAt": "2026-11-21T07:12:31Z"
-      }
-    ]
-  },
-  {
     "id": "919bd7ed76f4",
     "title": "Black Friday & Designer Showcase",
     "start": "2026-11-27T10:00:00-07:00",
@@ -86,198 +41,6 @@
         "name": "superior-chamber",
         "url": "https://member.superiorchamber.com/events/details/black-friday-designer-showcase-16852",
         "fetchedAt": "2026-11-26T07:14:23Z"
-      }
-    ]
-  },
-  {
-    "id": "f0447b414040",
-    "title": "Pella Crossing Noon Hour Nature Walk",
-    "start": "2026-11-27T12:00:00-07:00",
-    "end": "2026-11-27T13:00:00-07:00",
-    "allDay": false,
-    "venue": "Pella Crossing",
-    "venueKey": "pella-crossing",
-    "city": "Longmont",
-    "category": "outdoors-recreation",
-    "tags": [
-      "hike"
-    ],
-    "size": "S",
-    "url": "https://www.meetup.com/longmont-walks/events/316623506/",
-    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: crushed gravel trail | DISTANCE 1.8 miles | Fridays at Noon at the Pella Crossing Open Space. With grasses, wildflowers and trees surrounding the wetlands, Pella Crossing areas are biologically diverse both in and out of the water. Need a walking brea...",
-    "sources": [
-      {
-        "name": "meetup-longmont-walks",
-        "url": "https://www.meetup.com/longmont-walks/events/316623506/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "d68866eebd3f",
-    "title": "Art",
-    "start": "2026-11-27T15:00:00-07:00",
-    "end": "2026-11-27T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Longmont Youth Center",
-    "venueKey": "longmont-youth-center",
-    "city": "Longmont",
-    "category": "community-civic",
-    "tags": [],
-    "size": "S",
-    "url": "https://longmontcolorado.gov/event/art-2/2026-11-27/",
-    "description": "Come try a new art project on Monday afternoons with Lydia, a local art teacher and student therapist. Join us at the art table to relax, hang out, and get creative! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring...",
-    "sources": [
-      {
-        "name": "city-of-longmont",
-        "url": "https://longmontcolorado.gov/event/art-2/2026-11-27/",
-        "fetchedAt": "2026-11-22T07:12:14Z"
-      }
-    ]
-  },
-  {
-    "id": "5b65acd2e429",
-    "title": "Once Upon a Time in Harlem | Nov. 25-29",
-    "start": "2026-11-27T16:00:00-07:00",
-    "end": "2026-11-27T17:30:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-27/",
-    "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-27/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "3a5787899098",
-    "title": "The Only Living Pickpocket in New York | Nov. 25-29",
-    "start": "2026-11-27T18:30:00-07:00",
-    "end": "2026-11-27T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-27/",
-    "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-27/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "e8d4971c5877",
-    "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
-    "start": "2026-11-27T19:00:00-07:00",
-    "end": "2026-11-27T20:30:00-07:00",
-    "allDay": false,
-    "venue": "Carsen Theater",
-    "venueKey": "carsen-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [],
-    "size": "S",
-    "costTier": "free",
-    "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-27/",
-    "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-27/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "ea891535d181",
-    "title": "Blue Violin’s Retro Rock & Roll Christmas",
-    "start": "2026-11-27T19:00:00-07:00",
-    "end": "2026-11-27T21:00:00-07:00",
-    "allDay": false,
-    "venue": "Gordon Gamm Theater",
-    "venueKey": "gordon-gamm-theater",
-    "city": "Boulder",
-    "category": "music",
-    "tags": [
-      "concert"
-    ],
-    "size": "M",
-    "costTier": "$$",
-    "url": "https://thedairy.org/event/blue-violins-retro-rock-roll-christmas/",
-    "description": "TICKETS America’s Christmas Soundtrack Returns! After sold-out performances from the Sydney Opera House to Prague, Carnegie Hall to Iceland, internationally touring violin sensation Blue Violin returns with the 4th Annual Retro Rock & Roll Christmas Tour — an electrifying holiday spectacular blen...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/blue-violins-retro-rock-roll-christmas/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
-      }
-    ]
-  },
-  {
-    "id": "8f256506da43",
-    "title": "Leftover Salmon",
-    "start": "2026-11-27T20:00:00-07:00",
-    "allDay": false,
-    "venue": "Boulder Theater",
-    "venueKey": "boulder-theater",
-    "city": "Boulder",
-    "category": "music",
-    "tags": [
-      "concert"
-    ],
-    "size": "M",
-    "url": "https://kbco.iheart.com/calendar/content/2026-11-27-leftover-salmon",
-    "description": "Leftover Salmon Feat. Sam Bush. with special guests Deer Creek Sharpshooters and Tonewood. Friday, November 27, 2026 - with Deer Creek Sharpshooters. Saturday, November 28, 2026 - with Tonewood. All Ages. Doors: 6PM | Show: 8PM. Public On-Sale: Wednesday, August 12 at 11AM.",
-    "sources": [
-      {
-        "name": "kbco-calendar",
-        "url": "https://kbco.iheart.com/calendar/content/2026-11-27-leftover-salmon",
-        "fetchedAt": "2026-11-15T03:54:54Z"
-      }
-    ]
-  },
-  {
-    "id": "9f89a37fbc29",
-    "title": "Friday Night Weird: Ghost in The Cell",
-    "start": "2026-11-27T20:30:00-07:00",
-    "end": "2026-11-27T22:00:00-07:00",
-    "allDay": false,
-    "venue": "Boedecker Theater",
-    "venueKey": "boedecker-theater",
-    "city": "Boulder",
-    "category": "arts-culture",
-    "tags": [
-      "film"
-    ],
-    "size": "S",
-    "costTier": "$",
-    "url": "https://thedairy.org/event/friday-night-weird-ghost-in-the-cell/",
-    "description": "TICKETS Director Joko Anwar plunges viewers into a high-security prison ruled by feuding gangs and a tyrannical warden. The arrival of a new inmate kicks off a series of mysterious gruesome murders that leave its victims on morbid display. The hapless inmates trapped in the prison must overcome t...",
-    "sources": [
-      {
-        "name": "dairy-arts-center",
-        "url": "https://thedairy.org/event/friday-night-weird-ghost-in-the-cell/",
-        "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
   },
@@ -1805,6 +1568,30 @@
     ]
   },
   {
+    "id": "9404f94885d6",
+    "title": "Tween Gaming Club",
+    "start": "2026-12-02T18:00:00-07:00",
+    "end": "2026-12-02T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Public Library",
+    "venueKey": "longmont-public-library",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/tween-gaming-club-21/2026-12-02/",
+    "description": "For kids in 3rd-5th grades Library Meeting Rooms No registration required This program is in English Join our gaming club for 3rd-5th graders! We’ll play on the Library’s Nintendo Switch on our big projector screen in the Meeting Rooms. Feel free to bring your own Switch too if you’d like. All le...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/tween-gaming-club-21/2026-12-02/",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
     "id": "a5dc101ce502",
     "title": "Song Writers Concert at Roots Music Project: Fall 2026",
     "start": "2026-12-02T18:00:00-07:00",
@@ -2033,6 +1820,31 @@
         "name": "meetup-boulder-writers-alliance-meetup",
         "url": "https://www.meetup.com/boulder-writers-alliance-meetup/events/317314630/",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e03f83f039f2",
+    "title": "Discovery Days Art",
+    "start": "2026-12-03T09:15:00-07:00",
+    "end": "2026-12-03T14:15:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Museum",
+    "venueKey": "longmont-museum",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-12-03/",
+    "description": "75 per person non-members Fees are collected for all people ages 2 and up Discovery Days is an early childhood program for children ages 2 to 6 and their caregivers to have fun together with educational, hands-on art, music, and movement activities. When you attend Discovery Days with your child,...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/discovery-days-art-8/2026-12-03/",
+        "fetchedAt": "2026-11-28T07:12:29Z"
       }
     ]
   },
@@ -6493,12 +6305,12 @@
       "public-meeting"
     ],
     "size": "S",
-    "url": "https://www.meetup.com/solidstatedepot/events/klpdmtyjcqbwb/",
+    "url": "https://www.meetup.com/solidstatedepot/events/317612234/",
     "description": "Solid State Depot is a 100% volunteer run makerspace. The best way to find out about our makerspace, get questions answers, or sign-up to become a member is to swing by one of our Open Houses. Every Thursday evening from 5pm - 6pm (officially ends at 6pm, but feel free to swing by later and almos...",
     "sources": [
       {
         "name": "meetup-solidstatedepot",
-        "url": "https://www.meetup.com/solidstatedepot/events/klpdmtyjcqbwb/",
+        "url": "https://www.meetup.com/solidstatedepot/events/317612234/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -6640,12 +6452,12 @@
     "tags": [],
     "size": "S",
     "costTier": "free",
-    "url": "https://www.meetup.com/boulder-shambhala-center/events/snlqvtyjcqbwb/",
+    "url": "https://www.meetup.com/boulder-shambhala-center/events/317613685/",
     "description": "All are invited to the Boulder Shambhala Center, where a senior teacher will lead a period of sitting meditation practice (with meditation instruction offered) followed by a presentation with questions and discussion. Each week’s presentation is on a topic inspired by the Buddhist, Shambhala, or...",
     "sources": [
       {
         "name": "meetup-boulder-shambhala-center",
-        "url": "https://www.meetup.com/boulder-shambhala-center/events/snlqvtyjcqbwb/",
+        "url": "https://www.meetup.com/boulder-shambhala-center/events/317613685/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
@@ -8143,6 +7955,30 @@
         "name": "lafayette-public-library",
         "url": "https://lafayettepubliclibrary.libcal.com/event/15032489",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4ff00a81fbf1",
+    "title": "Pella Crossing Noon Hour Nature Walk",
+    "start": "2026-12-25T12:00:00-07:00",
+    "end": "2026-12-25T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Pella Crossing",
+    "venueKey": "pella-crossing",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316623519/",
+    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: crushed gravel trail | DISTANCE 1.8 miles | Fridays at Noon at the Pella Crossing Open Space. With grasses, wildflowers and trees surrounding the wetlands, Pella Crossing areas are biologically diverse both in and out of the water. Need a walking brea...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316623519/",
+        "fetchedAt": "2026-11-28T07:12:29Z"
       }
     ]
   },
@@ -23533,6 +23369,29 @@
     ]
   },
   {
+    "id": "6d80b525a714",
+    "title": "Library closed: book drops locked",
+    "start": "2027-05-30",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17223768",
+    "description": "The Library is closed in recognition of Memorial Day. The book drops will be locked from 5pm on Saturday until 9am on Tuesday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17223768",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
     "id": "ac7be31c4c38",
     "title": "A Midsummer Night's Dream: By William Shakespeare",
     "start": "2027-05-30T19:30:00-06:00",
@@ -23551,6 +23410,100 @@
         "name": "cu-presents",
         "url": "https://calendar.colorado.edu/event/a_midsummer_nights_dream_by_william_shakespeare_5182",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "91895cf95b44",
+    "title": "Library closed: book drops locked",
+    "start": "2027-05-31",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/17223769",
+    "description": "The Library is closed in recognition of Memorial Day. The book drops will be locked from 5pm on Saturday until 9am on Tuesday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/17223769",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
+    "id": "173b8a28e797",
+    "title": "Community Collections - Register",
+    "start": "2027-06-01",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/collectionsdisplay2027",
+    "description": "All ages - have a cool collection you would like to show off? Sign up using the Begin Registration button to display it for a month in one of our two display cases upstairs! We encourage kids and teens to sign up, but all are welcome! We have a horizontal and a vertical display case. Please state...",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/collectionsdisplay2027",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
+    "id": "c6625d922b43",
+    "title": "Baby Storytime",
+    "start": "2027-06-01T10:30:00-06:00",
+    "end": "2027-06-01T11:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesJunJuly2027",
+    "description": "Babies birth-24 months and caregivers - share songs, rhymes, books and bounces. Please check the Storytime sign in the Lobby for the most updated location information and visit the Storytimes web page: https://lafayetteco.gov/Storytimes.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BookBabiesJunJuly2027",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
+    "id": "8373cf98a98f",
+    "title": "Blood Drive - Drop In or Register",
+    "start": "2027-06-01T11:00:00-06:00",
+    "end": "2027-06-01T14:00:00-06:00",
+    "allDay": false,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "community-civic",
+    "tags": [
+      "blood-drive"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BloodDrives2027",
+    "description": "Join us for the City of Lafayette mobile blood drive by Vitalant. Walk-ins are always welcome, but we encourage appointments. Call 303-363-2300 or make one online.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/calendar/main/BloodDrives2027",
+        "fetchedAt": "2026-11-28T07:12:29Z"
       }
     ]
   },

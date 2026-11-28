@@ -4417,6 +4417,28 @@
     ]
   },
   {
+    "id": "abb060d9d21f",
+    "title": "Explore our National Parks: Sand Creek Massacre",
+    "start": "2026-11-16T18:00:00-07:00",
+    "end": "2026-11-16T19:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/16376026",
+    "description": "Did you know there are 13 national parks in Colorado and another 70 in the 7 states that we border. I am sure most people know the famous ones like Rocky Mountain and Mesa Verde. Now we invite you to explore our lesser known parks with us. In November we will continue with exploring Sand Creek Ma...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/16376026",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
     "id": "8066bc04aeaa",
     "title": "CU Boulder Philharmonia Orchestra: Second Fall 2026 Concert",
     "start": "2026-11-16T19:30:00-07:00",
@@ -4513,6 +4535,31 @@
     ]
   },
   {
+    "id": "afa43bdb9139",
+    "title": "Erie Tales for Tots Storytime",
+    "start": "2026-11-17T09:30:00-07:00",
+    "end": "2026-11-17T10:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids",
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605862",
+    "description": "Tales for Tots is a storytime for children ages 18 months to 3 years and their caregivers. It features books, songs, and actions designed to develop early literacy skills and a love for reading. Children will develop listening skills allowing them to participate with the storytellers and the othe...",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605862",
+        "fetchedAt": "2026-11-28T07:12:29Z"
+      }
+    ]
+  },
+  {
     "id": "e21e6030258a",
     "title": "The Studio Series: Holiday Gift Making",
     "start": "2026-11-17T09:30:00-07:00",
@@ -4603,6 +4650,30 @@
         "name": "nederland-community-library",
         "url": "https://nederland.libcal.com/event/15917169",
         "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "91c84e8175d9",
+    "title": "Erie Music & Movement",
+    "start": "2026-11-17T10:30:00-07:00",
+    "end": "2026-11-17T11:00:00-07:00",
+    "allDay": false,
+    "venue": "Erie Community Library",
+    "venueKey": "erie-community-library",
+    "city": "Erie",
+    "category": "learning-business",
+    "tags": [
+      "kids"
+    ],
+    "size": "S",
+    "url": "https://highplains.libcal.com/event/17605873",
+    "description": "Music and Movement is designed for children and caregivers to get up and move together while enhancing motor skills and reinforcing early literacy skills. Instruments and activities are geared toward children ages 3 - 5. This event is drop in and has limited capacity, so please plan to arrive early.",
+    "sources": [
+      {
+        "name": "erie-community-library",
+        "url": "https://highplains.libcal.com/event/17605873",
+        "fetchedAt": "2026-11-28T07:12:29Z"
       }
     ]
   },
@@ -9158,6 +9229,243 @@
       {
         "name": "meetup-boulder-shambhala-center",
         "url": "https://www.meetup.com/boulder-shambhala-center/events/317322106/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "4f72495001e5",
+    "title": "Library and book drops closed",
+    "start": "2026-11-27",
+    "allDay": true,
+    "venue": "Lafayette Public Library",
+    "venueKey": "lafayette-public-library",
+    "city": "Lafayette",
+    "category": "learning-business",
+    "tags": [
+      "library-program"
+    ],
+    "size": "S",
+    "url": "https://lafayettepubliclibrary.libcal.com/event/15032486",
+    "description": "The Library is closed in recognition of Thanksgiving. The book drops will be locked from 5pm on Wednesday until 9am on Saturday.",
+    "sources": [
+      {
+        "name": "lafayette-public-library",
+        "url": "https://lafayettepubliclibrary.libcal.com/event/15032486",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3d7127c4c2df",
+    "title": "All Out League",
+    "start": "2026-11-27T04:00:00-07:00",
+    "end": "2026-11-27T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-27/",
+    "description": "(AOL) is a pro-diversity, anti-gang sports league for middle and high school students. AOL emphasizes sportsmanship, selflessness and new friendships. Sports include basketball, soccer, flag football, volleyball, ultimate Frisbee and many more. The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 p...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/all-out-league-2/2026-11-27/",
+        "fetchedAt": "2026-11-21T07:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "f0447b414040",
+    "title": "Pella Crossing Noon Hour Nature Walk",
+    "start": "2026-11-27T12:00:00-07:00",
+    "end": "2026-11-27T13:00:00-07:00",
+    "allDay": false,
+    "venue": "Pella Crossing",
+    "venueKey": "pella-crossing",
+    "city": "Longmont",
+    "category": "outdoors-recreation",
+    "tags": [
+      "hike"
+    ],
+    "size": "S",
+    "url": "https://www.meetup.com/longmont-walks/events/316623506/",
+    "description": "TYPE: Weekly walk | PACE: Moderate | TERRAIN: crushed gravel trail | DISTANCE 1.8 miles | Fridays at Noon at the Pella Crossing Open Space. With grasses, wildflowers and trees surrounding the wetlands, Pella Crossing areas are biologically diverse both in and out of the water. Need a walking brea...",
+    "sources": [
+      {
+        "name": "meetup-longmont-walks",
+        "url": "https://www.meetup.com/longmont-walks/events/316623506/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "d68866eebd3f",
+    "title": "Art",
+    "start": "2026-11-27T15:00:00-07:00",
+    "end": "2026-11-27T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Longmont Youth Center",
+    "venueKey": "longmont-youth-center",
+    "city": "Longmont",
+    "category": "community-civic",
+    "tags": [],
+    "size": "S",
+    "url": "https://longmontcolorado.gov/event/art-2/2026-11-27/",
+    "description": "Come try a new art project on Monday afternoons with Lydia, a local art teacher and student therapist. Join us at the art table to relax, hang out, and get creative! The Zone opens: 3 pm Snack: 3-4 pm Activities: 4-5 pm Drop-in time: 5-5:30 pm We offer a small lunch/snack every day. Please bring...",
+    "sources": [
+      {
+        "name": "city-of-longmont",
+        "url": "https://longmontcolorado.gov/event/art-2/2026-11-27/",
+        "fetchedAt": "2026-11-22T07:12:14Z"
+      }
+    ]
+  },
+  {
+    "id": "5b65acd2e429",
+    "title": "Once Upon a Time in Harlem | Nov. 25-29",
+    "start": "2026-11-27T16:00:00-07:00",
+    "end": "2026-11-27T17:30:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-27/",
+    "description": "TICKETS Nov 25-29 A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraord...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/once-upon-a-time-in-harlem-nov-25-29/2026-11-27/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "3a5787899098",
+    "title": "The Only Living Pickpocket in New York | Nov. 25-29",
+    "start": "2026-11-27T18:30:00-07:00",
+    "end": "2026-11-27T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-27/",
+    "description": "TICKETS Nov 25-29 Harry Lehman (John Turturro) is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily canceled credit cards, and Harry struggles to make ends meet as he cares for his disabl...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/the-only-living-pickpocket-in-new-york-nov-25-29/2026-11-27/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "e8d4971c5877",
+    "title": "Boulder Ensemble Theatre Company (BETC): The Sound Inside | NOV. 19-29",
+    "start": "2026-11-27T19:00:00-07:00",
+    "end": "2026-11-27T20:30:00-07:00",
+    "allDay": false,
+    "venue": "Carsen Theater",
+    "venueKey": "carsen-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [],
+    "size": "S",
+    "costTier": "free",
+    "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-27/",
+    "description": "TICKETS A brilliant Ivy League writing professor. A talented yet mysterious student. An unthinkable favor. Everyone has a story – the question is how it ends.",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/boulder-ensemble-theatre-company-betc-the-sound-inside/2026-11-27/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "ea891535d181",
+    "title": "Blue Violin’s Retro Rock & Roll Christmas",
+    "start": "2026-11-27T19:00:00-07:00",
+    "end": "2026-11-27T21:00:00-07:00",
+    "allDay": false,
+    "venue": "Gordon Gamm Theater",
+    "venueKey": "gordon-gamm-theater",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "costTier": "$$",
+    "url": "https://thedairy.org/event/blue-violins-retro-rock-roll-christmas/",
+    "description": "TICKETS America’s Christmas Soundtrack Returns! After sold-out performances from the Sydney Opera House to Prague, Carnegie Hall to Iceland, internationally touring violin sensation Blue Violin returns with the 4th Annual Retro Rock & Roll Christmas Tour — an electrifying holiday spectacular blen...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/blue-violins-retro-rock-roll-christmas/",
+        "fetchedAt": "2026-11-13T18:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "8f256506da43",
+    "title": "Leftover Salmon",
+    "start": "2026-11-27T20:00:00-07:00",
+    "allDay": false,
+    "venue": "Boulder Theater",
+    "venueKey": "boulder-theater",
+    "city": "Boulder",
+    "category": "music",
+    "tags": [
+      "concert"
+    ],
+    "size": "M",
+    "url": "https://kbco.iheart.com/calendar/content/2026-11-27-leftover-salmon",
+    "description": "Leftover Salmon Feat. Sam Bush. with special guests Deer Creek Sharpshooters and Tonewood. Friday, November 27, 2026 - with Deer Creek Sharpshooters. Saturday, November 28, 2026 - with Tonewood. All Ages. Doors: 6PM | Show: 8PM. Public On-Sale: Wednesday, August 12 at 11AM.",
+    "sources": [
+      {
+        "name": "kbco-calendar",
+        "url": "https://kbco.iheart.com/calendar/content/2026-11-27-leftover-salmon",
+        "fetchedAt": "2026-11-15T03:54:54Z"
+      }
+    ]
+  },
+  {
+    "id": "9f89a37fbc29",
+    "title": "Friday Night Weird: Ghost in The Cell",
+    "start": "2026-11-27T20:30:00-07:00",
+    "end": "2026-11-27T22:00:00-07:00",
+    "allDay": false,
+    "venue": "Boedecker Theater",
+    "venueKey": "boedecker-theater",
+    "city": "Boulder",
+    "category": "arts-culture",
+    "tags": [
+      "film"
+    ],
+    "size": "S",
+    "costTier": "$",
+    "url": "https://thedairy.org/event/friday-night-weird-ghost-in-the-cell/",
+    "description": "TICKETS Director Joko Anwar plunges viewers into a high-security prison ruled by feuding gangs and a tyrannical warden. The arrival of a new inmate kicks off a series of mysterious gruesome murders that leave its victims on morbid display. The hapless inmates trapped in the prison must overcome t...",
+    "sources": [
+      {
+        "name": "dairy-arts-center",
+        "url": "https://thedairy.org/event/friday-night-weird-ghost-in-the-cell/",
         "fetchedAt": "2026-11-13T18:03:35Z"
       }
     ]
